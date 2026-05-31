@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Анализ смет — Книга проекта</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
+    background: #F0F2F5;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+  }
+  .card {
+    background: #fff;
+    border-radius: 16px;
+    box-shadow: 0 4px 24px rgba(0,0,0,0.08);
+    padding: 2.5rem;
+    width: 100%;
+    max-width: 560px;
+  }
+  .logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 1.5rem;
+  }
+  .logo-icon {
+    width: 40px; height: 40px;
+    background: #1F4E79;
+    border-radius: 10px;
+    display: flex; align-items: center; justify-content: center;
+    color: #fff; font-size: 20px;
+  }
+  .logo h1 { font-size: 18px; font-weight: 600; color: #1a1a1a; }
+  .logo p  { font-size: 13px; color: #888; }
+  .drop {
+    border: 2px dashed #CBD5E1;
+    border-radius: 12px;
+    padding: 2.5rem 1.5rem;
+    text-align: center;
+    cursor: pointer;
+    transition: all .15s;
+    background: #FAFBFC;
+    position: relative;
+    margin-bottom: 1.25rem;
+  }
+  .drop:hover, .drop.over { border-color: #1F4E79; background: #EEF4FA; }
+  .drop.ok { border-color: #2D7D32; border-style: solid; background: #F1F8F1; }
+  .drop input { position: absolute; inset: 0; opacity: 0; cursor: pointer; width: 100%; height: 100%; }
+  .drop-ico { font-size: 40px; margin-bottom: .5rem; }
+  .drop-ico.ok { filter: hue-rotate(100deg); }
+  .drop-title { font-size: 15px; font-weight: 500; color: #333; margin-bottom: 4px; }
+  .drop-sub   { font-size: 13px; color: #888; }
+  .file-chip {
+    display: inline-flex; align-items: center; gap: 6px;
+    background: #E8F5E9; color: #2D7D32;
+    border-radius: 6px; padding: 4px 10px;
+    font-size: 13px; font-weight: 500; margin-top: 10px;
+  }
+  .btn {
+    width: 100%; padding: 13px;
+    background: #1F4E79; color: #fff;
+    border: none; border-radius: 10px;
+    font-size: 15px; font-weight: 600;
+    cursor: pointer; transition: background .15s;
+    display: flex; align-items: center; justify-content: center; gap: 8px;
+  }
+  .btn:hover:not(:disabled) { background: #185FA5; }
+  .btn:disabled { opacity: .45; cursor: not-allowed; }
+  .progress { display: none; margin-top: 1.5rem; }
+  .step {
+    display: flex; align-items: center; gap: 10px;
+    padding: 10px 14px;
+    border-radius: 8px;
+    margin-bottom: 6px;
+    border: 1px solid #E5E7EB;
+    font-size: 13px; color: #555;
+    transition: all .2s;
+  }
+  .step.ac { border-color: #1F4E79; background: #EEF4FA; color: #1F4E79; }
+  .step.dn { border-color: #2D7D32; background: #E8F5E9; color: #2D7D32; }
+  .step.er { border-color: #C62828; background: #FFEBEE; color: #C62828; }
+  .step-ic { width: 22px; text-align: center; font-size: 16px; flex-shrink: 0; }
+  .spin { display: inline-block; animation: spin .7s linear infinite; }
+  @keyframes spin { to { transform: rotate(360deg); } }
+  .bar-wrap { height: 4px; background: #E5E7EB; border-radius: 2px; margin-top: 10px; overflow: hidden; }
+  .bar-fill  { height: 100%; background: #1F4E79; border-radius: 2px; transition: width .4s; }
+  .log {
+    font-family: 'Courier New', monospace; font-size: 11px;
+    color: #888; background: #F8F9FA; border-radius: 6px;
+    padding: 8px 10px; max-height: 72px; overflow-y: auto; margin-top: 8px;
+  }
+  .err { background: #FFEBEE; border: 1px solid #FFCDD2; border-radius: 8px; padding: 12px 14px; margin-top: 1rem; font-size: 13px; color: #C62828; }
+  .success { background: #E8F5E9; border: 1px solid #A5D6A7; border-radius: 8px; padding: 12px 14px; margin-top: 1rem; font-size: 13px; color: #2D7D32; display: none; }
+  .footer { text-align: center; font-size: 12px; color: #aaa; margin-top: 1.5rem; }
+</style>
+</head>
+<body>
+<div class="card">
+  <div class="logo">
+    <div class="logo-icon">🏗</div>
+    <div>
+      <h1>Анализ смет</h1>
+      <p>Загрузите смету — получите Excel-книгу проекта</p>
+    </div>
+  </div>
+
+  <div class="drop" id="drop">
+    <input type="file" id="fileInput" accept=".docx,.xlsx,.xls">
+    <div class="drop-ico" id="dropIco">📄</div>
+    <div class="drop-title" id="dropTitle">Перетащите файл сметы сюда</div>
+    <div class="drop-sub" id="dropSub">или нажмите для выбора — .docx или .xlsx</div>
+    <div id="fileChip" style="display:none">
+      <span class="file-chip">✅ <span id="fileName"></span></span>
+    </div>
+  </div>
+
+  <button class="btn" id="runBtn" disabled onclick="run()">
+    ✨ Создать книгу проекта
+  </button>
+
+  <div class="progress" id="progressArea">
+    <div id="stepsList"></div>
+    <div class="bar-wrap"><div class="bar-fill" id="barFill" style="width:0"></div></div>
+    <div class="log" id="logEl"></div>
+  </div>
+
+  <div class="success" id="successArea">
+    ✅ Книга проекта готова! Файл скачивается автоматически.
+    <br><br>
+    <button class="btn" onclick="reset()" style="margin-top:8px">Обработать новую смету</button>
+  </div>
+
+  <div id="errArea"></div>
+
+  <div class="footer">Powered by Claude API · petrovich.ru · lemanapro.ru · otdelka-spb.ru</div>
+</div>
+
+<script>
+const STEPS = [
+  { id: 'rd', label: 'Чтение и сжатие файла' },
+  { id: 's1', label: 'Claude AI: анализ структуры сметы' },
+  { id: 's2', label: 'Claude AI: рыночные цены и расценки' },
+  { id: 'xl', label: 'Генерация Excel-книги (10 листов)' },
+];
+
+let currentFile = null;
+
+// Drag & Drop
+const drop = document.getElementById('drop');
+const fi   = document.getElementById('fileInput');
+
+fi.addEventListener('change', () => { if (fi.files[0]) accept(fi.files[0]); });
+drop.addEventListener('dragenter', e => { e.preventDefault(); drop.classList.add('over'); });
+drop.addEventListener('dragover',  e => { e.preventDefault(); drop.classList.add('over'); });
+drop.addEventListener('dragleave', e => { e.preventDefault(); drop.classList.remove('over'); });
+drop.addEventListener('drop', e => {
+  e.preventDefault(); drop.classList.remove('over');
+  if (e.dataTransfer.files[0]) accept(e.dataTransfer.files[0]);
+});
+
+function accept(f) {
+  if (!/\.(docx|xlsx|xls)$/i.test(f.name)) { showErr('Поддерживаются .docx и .xlsx'); return; }
+  currentFile = f;
+  document.getElementById('fileName').textContent = f.name + ' (' + Math.round(f.size/1024) + ' КБ)';
+  document.getElementById('dropIco').textContent = '✅';
+  document.getElementById('dropTitle').textContent = 'Файл выбран';
+  document.getElementById('dropSub').textContent = 'Нажмите «Создать книгу проекта»';
+  document.getElementById('fileChip').style.display = '';
+  drop.classList.add('ok');
+  document.getElementById('runBtn').disabled = false;
+  document.getElementById('errArea').innerHTML = '';
+}
+
+function buildSteps() {
+  document.getElementById('stepsList').innerHTML = STEPS.map(s => `
+    <div class="step" id="s_${s.id}">
+      <div class="step-ic" id="si_${s.id}">○</div>
+      <div>${s.label}</div>
+    </div>`).join('');
+}
+
+function setSt(id, st) {
+  const el = document.getElementById('s_' + id);
+  const ic = document.getElementById('si_' + id);
+  el.className = 'step ' + st;
+  ic.innerHTML = st === 'ac' ? '<span class="spin">⟳</span>' : st === 'dn' ? '✓' : st === 'er' ? '✗' : '○';
+}
+
+function setBar(p) { document.getElementById('barFill').style.width = p + '%'; }
+function lg(m)     { const e = document.getElementById('logEl'); e.textContent += m + '\n'; e.scrollTop = e.scrollHeight; }
+function showErr(m){ document.getElementById('errArea').innerHTML = `<div class="err">⚠ ${m}</div>`; }
+
+function reset() {
+  currentFile = null; fi.value = '';
+  drop.className = 'drop';
+  document.getElementById('dropIco').textContent = '📄';
+  document.getElementById('dropTitle').textContent = 'Перетащите файл сметы сюда';
+  document.getElementById('dropSub').textContent = 'или нажмите для выбора — .docx или .xlsx';
+  document.getElementById('fileChip').style.display = 'none';
+  document.getElementById('runBtn').disabled = true;
+  document.getElementById('progressArea').style.display = 'none';
+  document.getElementById('successArea').style.display = 'none';
+  document.getElementById('errArea').innerHTML = '';
+}
+
+async function run() {
+  if (!currentFile) return;
+  document.getElementById('runBtn').disabled = true;
+  document.getElementById('progressArea').style.display = '';
+  document.getElementById('successArea').style.display = 'none';
+  document.getElementById('errArea').innerHTML = '';
+  document.getElementById('logEl').textContent = '';
+  buildSteps(); setBar(0);
+
+  try {
+    setSt('rd', 'ac'); setBar(5);
+    lg('Отправляем файл на сервер...');
+
+    const formData = new FormData();
+    formData.append('file', currentFile);
+
+    setSt('rd', 'dn'); setBar(20);
+    setSt('s1', 'ac'); setBar(25);
+    lg('Claude анализирует смету...');
+
+    const resp = await fetch('/process', { method: 'POST', body: formData });
+
+    if (!resp.ok) {
+      const err = await resp.json().catch(() => ({ error: resp.statusText }));
+      throw new Error(err.error || `Ошибка ${resp.status}`);
+    }
+
+    setSt('s1', 'dn'); setBar(55);
+    setSt('s2', 'dn'); setBar(75);
+    setSt('xl', 'ac'); setBar(80);
+    lg('Генерируем Excel-книгу...');
+
+    // Скачиваем файл
+    const blob = await resp.blob();
+    const cd = resp.headers.get('Content-Disposition') || '';
+    const fn = cd.match(/filename\*?=(?:UTF-8'')?(.+)/)?.[1]?.replace(/['"]/g,'') || 'Книга_проекта.xlsx';
+
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url; a.download = decodeURIComponent(fn); a.click();
+    URL.revokeObjectURL(url);
+
+    setSt('xl', 'dn'); setBar(100);
+    lg('Готово! Файл скачивается.');
+    document.getElementById('successArea').style.display = '';
+
+  } catch (e) {
+    STEPS.forEach(s => { if (document.getElementById('s_'+s.id)?.className.includes('ac')) setSt(s.id,'er'); });
+    showErr(e.message);
+    document.getElementById('runBtn').disabled = false;
+  }
+}
+</script>
+</body>
+</html>
