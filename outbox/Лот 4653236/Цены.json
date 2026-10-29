@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Фильтр карманный ФВК-592-592-300-6-F7",
+    "unit": "шт",
+    "shop": "АИР Компани",
+    "url": "https://airnn.ru/product/fvk-592-592-300-6-f7/",
+    "price_vat": 923,
+    "date": "2026-10-29",
+    "note": "ячейка 592×592, F7, 6 карманов, 300 мм, 3400 м3/ч. НДС на сайте не выделен",
+    "vat_included": true
+  },
+  {
+    "name": "Фильтр карманный ФВК-592-592-360-6-F7",
+    "unit": "шт",
+    "shop": "GreenCond",
+    "url": "https://greencond.ru/catalog/filtra_dlya_ventilyatsii_/karmannye_filtra/filtr_vozdushnyy_karmannyy_iz_poliestera/1290427/",
+    "price_vat": 1628,
+    "date": "2026-10-29",
+    "note": "второй источник, глубина кармана 360 мм",
+    "vat_included": true
+  },
+  {
+    "name": "Хладагент R410A",
+    "unit": "кг",
+    "shop": "Фреон оптом",
+    "url": "https://freonoptom.ru/",
+    "price_vat": 1166.37,
+    "date": "2026-10-29",
+    "note": "баллон 11,3 кг за 13 180 руб. с НДС 22 %, от 1 шт.",
+    "vat_included": true
+  },
+  {
+    "name": "Хладагент R410A",
+    "unit": "кг",
+    "shop": "Империя",
+    "url": "https://www.imperia-rus.ru/hladony/freon-hladon-r410a-marki-refrigerant-ballon-11-3-kg",
+    "price_vat": 1224.78,
+    "date": "2026-10-29",
+    "note": "баллон 11,3 кг за 13 840 руб., НДС в карточке не выделен",
+    "vat_included": true
+  },
+  {
+    "name": "Аренда автовышки 22 м, смена",
+    "unit": "смена",
+    "shop": "Спецтех-С",
+    "url": "https://specteh-s.ru/katalog/pod-emnaya-tekhnika/avtovyshki/22-m-1",
+    "price_vat": 9000,
+    "date": "2026-10-29",
+    "note": "смена 8 ч в Москве, без пробега за МКАД. В расчёте лота к смене добавлен пробег до Коломны",
+    "vat_included": true
+  }
+]
