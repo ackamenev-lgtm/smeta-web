@@ -1,0 +1,652 @@
+[
+  {
+    "name": "Лента армирующая для швов ГКЛ",
+    "unit": "м",
+    "shop": "оценка",
+    "url": "",
+    "price_vat": 8,
+    "date": "2026-10-29",
+    "note": "оценка",
+    "vat_included": true
+  },
+  {
+    "name": "Гидроизоляция цементная (типа Ceresit CR 65)",
+    "unit": "кг",
+    "shop": "оценка",
+    "url": "",
+    "price_vat": 110,
+    "date": "2026-10-29",
+    "note": "оценка. Марка в ВОР не задана. Расход 4 кг/м² на 2 слоя",
+    "vat_included": true
+  },
+  {
+    "name": "Труба гофрированная ПВХ d25",
+    "unit": "м",
+    "shop": "оценка",
+    "url": "",
+    "price_vat": 28,
+    "date": "2026-10-29",
+    "note": "оценка. В ВОР d 25, открытый прайс d25 не фиксировался отдельно",
+    "vat_included": true
+  },
+  {
+    "name": "Фасонные части канализации d110",
+    "unit": "м",
+    "shop": "оценка",
+    "url": "",
+    "price_vat": 114,
+    "date": "2026-10-29",
+    "note": "оценка 30% к цене трубы",
+    "vat_included": true
+  },
+  {
+    "name": "Профиль направляющий Knauf ПН 75×40",
+    "unit": "м",
+    "shop": "оценка",
+    "url": "",
+    "price_vat": 150,
+    "date": "2026-10-29",
+    "note": "оценка: отдельный прайс ПН 75 не открыт, ориентир 150 руб/м с НДС",
+    "vat_included": true
+  },
+  {
+    "name": "Доводчик дверной",
+    "unit": "шт",
+    "shop": "оценка",
+    "url": "",
+    "price_vat": 2200,
+    "date": "2026-10-29",
+    "note": "оценка, только двери 2000×800",
+    "vat_included": true
+  },
+  {
+    "name": "Подстолье металлическое под раковину 40 см",
+    "unit": "шт",
+    "shop": "оценка",
+    "url": "",
+    "price_vat": 3500,
+    "date": "2026-10-29",
+    "note": "оценка, марка подстолья в ВОР не задана",
+    "vat_included": true
+  },
+  {
+    "name": "Коробка уравнивания потенциалов 150×110×70 с шиной",
+    "unit": "шт",
+    "shop": "оценка",
+    "url": "",
+    "price_vat": 950,
+    "date": "2026-10-29",
+    "note": "оценка",
+    "vat_included": true
+  },
+  {
+    "name": "Раковина Cersanit Moduo 40 Ring",
+    "unit": "шт",
+    "shop": "Cersanit / Русалия",
+    "url": "https://cersanit.ru/catalog/3d-be/rakoviny-i-pedestaly/rakoviny/rakovina-na-stoleshnicu-moduo-40-ring/",
+    "price_vat": 4120,
+    "date": "2026-10-29",
+    "note": "РРЦ 4 120. Блюмарт 8 610. Подстолье в цену чаши не входит",
+    "vat_included": true
+  },
+  {
+    "name": "Люк под плитку 300×300",
+    "unit": "шт",
+    "shop": "оценка",
+    "url": "",
+    "price_vat": 2200,
+    "date": "2026-10-29",
+    "note": "оценка",
+    "vat_included": true
+  },
+  {
+    "name": "Грунт глубокого проникновения",
+    "unit": "л",
+    "shop": "оценка",
+    "url": "",
+    "price_vat": 160,
+    "date": "2026-10-29",
+    "note": "оценка, Ceresit CT 17 / аналог",
+    "vat_included": true
+  },
+  {
+    "name": "Пескобетон М300, мешок 40 кг",
+    "unit": "кг",
+    "shop": "Петрович-Строй",
+    "url": "https://petrovich-stroy.ru/catalog/p/tcement144/peskobeton_rusean_m-300_40_kg_ostrm4593_228210/",
+    "price_vat": 8.75,
+    "date": "2026-10-29",
+    "note": "Русеан М300 350 руб/40 кг с НДС. Второй источник не открыт — оценка розницы 420 руб. Расход 20 кг/м² на 10 мм × 20 = 400 кг/м²",
+    "vat_included": true
+  },
+  {
+    "name": "Обратный клапан 1/2\"",
+    "unit": "шт",
+    "shop": "оценка",
+    "url": "",
+    "price_vat": 380,
+    "date": "2026-10-29",
+    "note": "оценка, марка не задана",
+    "vat_included": true
+  },
+  {
+    "name": "Раствор для заделки штроб",
+    "unit": "кг",
+    "shop": "оценка",
+    "url": "",
+    "price_vat": 25,
+    "date": "2026-10-29",
+    "note": "оценка, 0,8 кг/м",
+    "vat_included": true
+  },
+  {
+    "name": "Кабель ВВГнг(А)-LS 3×1,5",
+    "unit": "м",
+    "shop": "ЭТМ",
+    "url": "https://www.etm.ru/cat/nn/1648100",
+    "price_vat": 64.42,
+    "date": "2026-10-29",
+    "note": "АЛЮР 64,42 руб/м; розница Кордлайн 105,62 на ЭТМ",
+    "vat_included": true
+  },
+  {
+    "name": "Дюбель 6×40",
+    "unit": "шт",
+    "shop": "оценка",
+    "url": "",
+    "price_vat": 3,
+    "date": "2026-10-29",
+    "note": "оценка",
+    "vat_included": true
+  },
+  {
+    "name": "Затирка цементная",
+    "unit": "кг",
+    "shop": "оценка",
+    "url": "",
+    "price_vat": 220,
+    "date": "2026-10-29",
+    "note": "оценка",
+    "vat_included": true
+  },
+  {
+    "name": "Теплоизоляция вспененный полиэтилен 18/6",
+    "unit": "м",
+    "shop": "оценка",
+    "url": "",
+    "price_vat": 45,
+    "date": "2026-10-29",
+    "note": "оценка",
+    "vat_included": true
+  },
+  {
+    "name": "Люк ревизионный под плитку 1000×1000",
+    "unit": "шт",
+    "shop": "оценка",
+    "url": "",
+    "price_vat": 12000,
+    "date": "2026-10-29",
+    "note": "оценка. Запросить КП",
+    "vat_included": true
+  },
+  {
+    "name": "Столешница LG Hi-Macs G503 Night Stella 20 мм с каркасом из трубы 40 мм",
+    "unit": "шт",
+    "shop": "оценка",
+    "url": "",
+    "price_vat": 35000,
+    "date": "2026-10-29",
+    "note": "оценка. Длина и глубина в ВОР не заданы, принято 1200×500 мм. Запросить КП",
+    "vat_included": true
+  },
+  {
+    "name": "Трап HL 510N-3000",
+    "unit": "шт",
+    "shop": "Феникс",
+    "url": "https://feniks-trade.ru/trapy-hl/hl-hl510n",
+    "price_vat": 6955,
+    "date": "2026-10-29",
+    "note": "исполнение под плитку 6 955 руб. с НДС. Обычный HL510N дешевле (3 440–4 817) — это другая комплектация. Запросить КП",
+    "vat_included": true
+  },
+  {
+    "name": "Плёнка ПЭ под стяжку",
+    "unit": "м2",
+    "shop": "оценка",
+    "url": "",
+    "price_vat": 28,
+    "date": "2026-10-29",
+    "note": "оценка",
+    "vat_included": true
+  },
+  {
+    "name": "Керамогранит Laparet/Ceradim Evolution Smoke 59,5×119,5 матовый карвинг",
+    "unit": "м2",
+    "shop": "Партнерторг",
+    "url": "https://partnertorg.com/katalog-magazina/product/evolution-smoke-matovyj-keramogranit-59-5h119-1sm-laparet-sg50001120r",
+    "price_vat": 1971,
+    "date": "2026-10-29",
+    "note": "акция 1 971 руб/м², розница BestCeramic 2 190. Запросить КП на объём",
+    "vat_included": true
+  },
+  {
+    "name": "Диффузор вентиляционный",
+    "unit": "шт",
+    "shop": "оценка",
+    "url": "",
+    "price_vat": 1200,
+    "date": "2026-10-29",
+    "note": "оценка, типоразмер в ВОР не задан",
+    "vat_included": true
+  },
+  {
+    "name": "Унитаз-компакт AM.PM Crave Flash Clean с микролифтом",
+    "unit": "шт",
+    "shop": "Лемана ПРО (Створка Маркет)",
+    "url": "https://market.stworka.com/product/1426508/?offerId=1448555",
+    "price_vat": 19800,
+    "date": "2026-10-29",
+    "note": "19 800 руб. Второй источник СтройПортал 26 990. Запросить КП",
+    "vat_included": true
+  },
+  {
+    "name": "Шпаклёвка для швов Knauf Фуген",
+    "unit": "кг",
+    "shop": "оценка",
+    "url": "",
+    "price_vat": 85,
+    "date": "2026-10-29",
+    "note": "оценка",
+    "vat_included": true
+  },
+  {
+    "name": "ГКЛВ Knauf 12,5 мм 2500×1200",
+    "unit": "м2",
+    "shop": "Петрович Москва",
+    "url": "https://moscow.petrovich.ru/product/101932/",
+    "price_vat": 194.0,
+    "date": "2026-10-29",
+    "note": "лист 3 м² = 582 руб. с НДС; второй источник strd.ru 641 руб/лист",
+    "vat_included": true
+  },
+  {
+    "name": "Профиль стоечный Knauf ПС 75×50, 0,6 мм",
+    "unit": "м",
+    "shop": "Петрович Москва",
+    "url": "https://moscow.petrovich.ru/product/135237/",
+    "price_vat": 211.5,
+    "date": "2026-10-29",
+    "note": "4 м = 846 руб. с НДС; розница Петрович СПб 918 руб/4 м",
+    "vat_included": true
+  },
+  {
+    "name": "Смеситель AM.PM Flash для раковины, хром",
+    "unit": "шт",
+    "shop": "Сантрейд",
+    "url": "https://santreyd.ru/brands/am-pm/smesiteli-dlya-rakoviny/",
+    "price_vat": 7014,
+    "date": "2026-10-29",
+    "note": "7 014 и 11 712 — две карточки Flash хром. Взята меньшая. Запросить КП",
+    "vat_included": true
+  },
+  {
+    "name": "Выключатель двухклавишный",
+    "unit": "шт",
+    "shop": "оценка",
+    "url": "",
+    "price_vat": 350,
+    "date": "2026-10-29",
+    "note": "оценка, марка не задана",
+    "vat_included": true
+  },
+  {
+    "name": "Фасонные части канализации d50",
+    "unit": "м",
+    "shop": "оценка",
+    "url": "",
+    "price_vat": 48,
+    "date": "2026-10-29",
+    "note": "оценка 30% к цене трубы, на 1 м трассы",
+    "vat_included": true
+  },
+  {
+    "name": "Полка Tezza Primo Disco чёрный 20 см",
+    "unit": "шт",
+    "shop": "оценка",
+    "url": "",
+    "price_vat": 1500,
+    "date": "2026-10-29",
+    "note": "оценка, в примечании ВОР эта полка стоит напротив держателя освежителя",
+    "vat_included": true
+  },
+  {
+    "name": "Светильник Arlight SP-POLO-R85-2-15W Black/Black Ring",
+    "unit": "шт",
+    "shop": "arlight.moscow",
+    "url": "https://arlight.moscow/catalog/svetilnik-podvesnoy-sp-polo-r85-2-15w-day-white-40deg-black-white-ring-022961.html",
+    "price_vat": 9654.95,
+    "date": "2026-10-29",
+    "note": "9 654,95 руб. с НДС, чёрный корпус. Белый корпус дешевле (5 125). В строке одновременно Day White и 3000К — взята карточка Black. Один источник на чёрный. Запросить КП",
+    "vat_included": true
+  },
+  {
+    "name": "Потолок Грильято 100×100 чёрный, комплект",
+    "unit": "м2",
+    "shop": "Бюро потолков",
+    "url": "https://buro-potolkov.ru/catalog/potolki-grilyato/potolok-grilyato-100kh100-chernyy-h-30-b-10-tsss/",
+    "price_vat": 1183,
+    "date": "2026-10-29",
+    "note": "1183 руб/м² без НДС (h=30). Второй источник potolki.site 1460 руб/м². Запросить КП",
+    "vat_included": false
+  },
+  {
+    "name": "Демпферная лента",
+    "unit": "м",
+    "shop": "оценка",
+    "url": "",
+    "price_vat": 25,
+    "date": "2026-10-29",
+    "note": "оценка",
+    "vat_included": true
+  },
+  {
+    "name": "СВП клипсы",
+    "unit": "шт",
+    "shop": "оценка",
+    "url": "",
+    "price_vat": 3.5,
+    "date": "2026-10-29",
+    "note": "оценка",
+    "vat_included": true
+  },
+  {
+    "name": "Кран шаровой 1/2\"",
+    "unit": "шт",
+    "shop": "оценка",
+    "url": "",
+    "price_vat": 450,
+    "date": "2026-10-29",
+    "note": "оценка",
+    "vat_included": true
+  },
+  {
+    "name": "Дозатор AM.PM X-Joy A85A36922",
+    "unit": "шт",
+    "shop": "оценка",
+    "url": "",
+    "price_vat": 2200,
+    "date": "2026-10-29",
+    "note": "оценка",
+    "vat_included": true
+  },
+  {
+    "name": "Светильник Arlight SP-JEDI-HANG-R18-6W Warm3000 BK",
+    "unit": "шт",
+    "shop": "Планета Света",
+    "url": "https://planetasveta.pro/product/svetilnik_svetodiodnyy_sp_jedi_hang_r18_6w_warm3000_bk_360_deg_ip20_230v_plastik_arlight_039534_product/",
+    "price_vat": 7848.5,
+    "date": "2026-10-29",
+    "note": "7 848,50; розница arlight.ru 9 534,11. В строке также имя OKKO — считаем указанный артикул Arlight. Запросить КП",
+    "vat_included": true
+  },
+  {
+    "name": "Сетка кладочная 100×100 d4",
+    "unit": "м2",
+    "shop": "оценка",
+    "url": "",
+    "price_vat": 140,
+    "date": "2026-10-29",
+    "note": "оценка, армирование стяжки 200 мм не прописано в ВОР, принято как необходимое",
+    "vat_included": true
+  },
+  {
+    "name": "Труба ППР PN20 d25",
+    "unit": "м",
+    "shop": "оценка",
+    "url": "",
+    "price_vat": 90,
+    "date": "2026-10-29",
+    "note": "оценка. В ВОР «1/2'», марка не задана, принят ППР 25 мм",
+    "vat_included": true
+  },
+  {
+    "name": "Фитинги ППР d25",
+    "unit": "м",
+    "shop": "оценка",
+    "url": "",
+    "price_vat": 35,
+    "date": "2026-10-29",
+    "note": "оценка 40% к трубе на фитинги и крепёж",
+    "vat_included": true
+  },
+  {
+    "name": "Саморез TN 35",
+    "unit": "шт",
+    "shop": "оценка",
+    "url": "",
+    "price_vat": 0.65,
+    "date": "2026-10-29",
+    "note": "оценка, мелкая доля",
+    "vat_included": true
+  },
+  {
+    "name": "Зеркало Evoform Colora BY 0466 60×120, чёрная окантовка",
+    "unit": "шт",
+    "shop": "Сантехник-Шоп",
+    "url": "https://santehnik-shop.ru/product/zerkalo-evoform-colora-120kh60-by-0466-s-okantovkoy-chernyy-tsvet-steklo/",
+    "price_vat": 6159,
+    "date": "2026-10-29",
+    "note": "6 159 руб. BasicDecor та же цена. В названии строки «с подсветкой», артикул BY 0466 без подсветки — считаем артикул",
+    "vat_included": true
+  },
+  {
+    "name": "Диспенсер Tork Elevation 344088 покрытий на унитаз",
+    "unit": "шт",
+    "shop": "оценка",
+    "url": "",
+    "price_vat": 2500,
+    "date": "2026-10-29",
+    "note": "оценка",
+    "vat_included": true
+  },
+  {
+    "name": "Клей плиточный Ceresit CM 11",
+    "unit": "кг",
+    "shop": "оценка",
+    "url": "",
+    "price_vat": 32,
+    "date": "2026-10-29",
+    "note": "оценка, 5,5 кг/м² пол",
+    "vat_included": true
+  },
+  {
+    "name": "Смеситель Cersanit Brasko высокий, хром",
+    "unit": "шт",
+    "shop": "Cersanit",
+    "url": "https://cersanit.ru/catalog/3d-be/rakoviny-i-pedestaly/rakoviny/rakovina-na-stoleshnicu-moduo-40-ring/",
+    "price_vat": 9140,
+    "date": "2026-10-29",
+    "note": "на сайте Cersanit Brasko высокий 10 157 / 9 140 руб.",
+    "vat_included": true
+  },
+  {
+    "name": "Коробка распаечная",
+    "unit": "шт",
+    "shop": "оценка",
+    "url": "",
+    "price_vat": 55,
+    "date": "2026-10-29",
+    "note": "оценка",
+    "vat_included": true
+  },
+  {
+    "name": "Керамогранит 60×60 матовый карвинг светло-серый (линейка Evolution / аналог 59,5×59,5)",
+    "unit": "м2",
+    "shop": "BestCeramic / Laparet",
+    "url": "https://www.bestceramic.ru/goods/sg50001520r_evolution_smoke_svetlo_seryy_60x119_5",
+    "price_vat": 2190,
+    "date": "2026-10-29",
+    "note": "Пол в ВОР без бренда, размер 59,5×59,5 «матовый карвинг». Принята та же линейка, что стены: Laparet/Ceradim Evolution 60×60 от 2 190 руб/м². Запросить КП",
+    "vat_included": true
+  },
+  {
+    "name": "Писсуар подвесной ARROW AN660",
+    "unit": "шт",
+    "shop": "Aqua-Stroi",
+    "url": "https://www.aqua-stroi.ru/products/sanfayans/pissuary/podvesnye-pissuary/pissuar-arrow-an660-podvesnoj/",
+    "price_vat": 14190,
+    "date": "2026-10-29",
+    "note": "14 190; Сантехника.ру 17 590. Запросить КП. Смывное устройство в комплекте не подтверждено",
+    "vat_included": true
+  },
+  {
+    "name": "Труба канализационная ПП d50",
+    "unit": "м",
+    "shop": "оценка",
+    "url": "",
+    "price_vat": 160,
+    "date": "2026-10-29",
+    "note": "оценка + фасонные отдельной строкой 30%",
+    "vat_included": true
+  },
+  {
+    "name": "Гигиенический душ Olive's Balear 13141BLB со смесителем",
+    "unit": "шт",
+    "shop": "оценка",
+    "url": "",
+    "price_vat": 5490,
+    "date": "2026-10-29",
+    "note": "оценка, прайс артикула 13141BLB не открыт. Запросить КП",
+    "vat_included": true
+  },
+  {
+    "name": "Лента уплотнительная",
+    "unit": "м",
+    "shop": "оценка",
+    "url": "",
+    "price_vat": 18,
+    "date": "2026-10-29",
+    "note": "оценка",
+    "vat_included": true
+  },
+  {
+    "name": "Полка настенная Plane One 30×10 чёрная",
+    "unit": "шт",
+    "shop": "оценка",
+    "url": "",
+    "price_vat": 900,
+    "date": "2026-10-29",
+    "note": "оценка",
+    "vat_included": true
+  },
+  {
+    "name": "Дверь ЛДСП в телескопической алюминиевой коробке, замок WC, RAL",
+    "unit": "шт",
+    "shop": "оценка",
+    "url": "",
+    "price_vat": 15000,
+    "date": "2026-10-29",
+    "note": "оценка изделия под заказ. Размер 2000×700/800, RAL 9005 или 7021. Запросить КП производителя",
+    "vat_included": true
+  },
+  {
+    "name": "Труба канализационная ПП d110",
+    "unit": "м",
+    "shop": "оценка",
+    "url": "",
+    "price_vat": 380,
+    "date": "2026-10-29",
+    "note": "оценка",
+    "vat_included": true
+  },
+  {
+    "name": "Провод ПуГПнг(А)-HF 1×6",
+    "unit": "м",
+    "shop": "оценка",
+    "url": "",
+    "price_vat": 85,
+    "date": "2026-10-29",
+    "note": "оценка",
+    "vat_included": true
+  },
+  {
+    "name": "Клей плиточный Ceresit CM 17",
+    "unit": "кг",
+    "shop": "оценка",
+    "url": "",
+    "price_vat": 48,
+    "date": "2026-10-29",
+    "note": "оценка, 6 кг/м² стена 60×120",
+    "vat_included": true
+  },
+  {
+    "name": "Саморез TN 25",
+    "unit": "шт",
+    "shop": "оценка",
+    "url": "",
+    "price_vat": 0.45,
+    "date": "2026-10-29",
+    "note": "оценка, мелкая доля",
+    "vat_included": true
+  },
+  {
+    "name": "Бумагодержатель Tezza Rollo Up чёрный",
+    "unit": "шт",
+    "shop": "оценка",
+    "url": "",
+    "price_vat": 1800,
+    "date": "2026-10-29",
+    "note": "оценка",
+    "vat_included": true
+  },
+  {
+    "name": "Диспенсер Tork Elevation H2 552008",
+    "unit": "шт",
+    "shop": "оценка",
+    "url": "",
+    "price_vat": 3500,
+    "date": "2026-10-29",
+    "note": "оценка",
+    "vat_included": true
+  },
+  {
+    "name": "Краска ВД акриловая, колеровка RAL 7026",
+    "unit": "л",
+    "shop": "оценка",
+    "url": "",
+    "price_vat": 480,
+    "date": "2026-10-29",
+    "note": "оценка колерованной краски, марка не задана",
+    "vat_included": true
+  },
+  {
+    "name": "Раскладка ПВХ для плитки",
+    "unit": "м",
+    "shop": "оценка",
+    "url": "",
+    "price_vat": 80,
+    "date": "2026-10-29",
+    "note": "оценка",
+    "vat_included": true
+  },
+  {
+    "name": "Раковина напольная CeruttiSpa Dorris CT7830",
+    "unit": "шт",
+    "shop": "оценка",
+    "url": "",
+    "price_vat": 18900,
+    "date": "2026-10-29",
+    "note": "оценка: открытый прайс CT7830 на дату расчёта не найден. Запросить КП",
+    "vat_included": true
+  },
+  {
+    "name": "Керамогранит Nord Gris 59,5×119 матовый карвинг",
+    "unit": "м2",
+    "shop": "оценка по линейке Evolution Smoke",
+    "url": "https://partnertorg.com/katalog-magazina/product/evolution-smoke-matovyj-keramogranit-59-5h119-1sm-laparet-sg50001120r",
+    "price_vat": 1971,
+    "date": "2026-10-29",
+    "note": "оценка: отдельный прайс Nord Gris не найден, взята цена той же линейки 60×120",
+    "vat_included": true
+  }
+]
