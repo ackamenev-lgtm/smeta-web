@@ -2,9 +2,10 @@
 
     python tools/budget.py outbox/<лот>/Расчёт.json
 
-Агент заполняет только объёмы, артикулы и цены закупки. Ставки, отходы, наценки,
-расходники и формулы подставляются из справочников. Заказчику уходит только КП:
-себестоимости и оплаты бригад в нём нет.
+Агент заполняет только объёмы, артикулы и цены закупки. Ставки, отходы, наценки
+и расходники подставляются из справочников. В книге бюджета итоги и связи между
+листами — формулы Excel: правка объёма или расценки пересчитывает файл.
+Заказчику уходит только КП: себестоимости и оплаты бригад в нём нет.
 
 Схема Расчёт.json — в tools/README.md.
 """
@@ -14,6 +15,7 @@ import warnings
 from pathlib import Path
 
 import openpyxl
+from openpyxl.formatting.rule import CellIsRule, FormulaRule
 from openpyxl.styles import Alignment, Border, Font, PatternFill, Side
 from openpyxl.utils import get_column_letter
 from docx import Document
@@ -249,52 +251,213 @@ def title(ws, text):
 
 def write_budget(path, data, works, mats, indirect, reg_name, delivery, growth, finance,
                  turnkey, tender, mat_ss, mat_kp, brig, rash_sum, indirect_sum, cost, kp, markup, hours):
+    """Все производные ячейки — формулы. Числа только во вводе, правка пересчитывает файл."""
+    del growth, finance, mat_ss, mat_kp, brig, rash_sum, indirect_sum, cost, kp, markup, hours
     wb = openpyxl.Workbook()
-    ws = wb.active
-    ws.title = "Свод"
-    title(ws, f"Бюджет себестоимости — {data.get('project', '')}")
-    rows = [
-        ("Материалы, с/с", mat_ss),
-        ("Оплата бригадам", brig),
-        ("Расходники", rash_sum),
-        ("Косвенные", indirect_sum),
-        ("Полная себестоимость", cost),
-        ("КП работ (с косвенными)", sum(w["kp_sum"] for w in works)),
-        ("КП материалов", mat_kp),
-        ("КП без НДС", kp),
-        ("НДС 22 %", kp * 0.22),
-        ("КП с НДС", kp * VAT),
-        ("Наценка на с/с", markup),
-        ("Маржа", 1 - cost / kp if kp else 0),
-        ("Диапазон типа тендера", f"{tender.get('mk_from', 0):.0%} – {tender.get('mk_to', 0):.0%}"),
-        ("Переторжка −5 % (КП б/НДС)", kp * 0.95),
-        ("Маржа при −5 %", 1 - cost / (kp * 0.95) if kp else 0),
-        ("Переторжка −10 % (КП б/НДС)", kp * 0.90),
-        ("Маржа при −10 %", 1 - cost / (kp * 0.90) if kp else 0),
-        ("Минимальная цена, наценка 15 %", cost * 1.15),
-        ("Трудоёмкость, чел.-ч", hours),
+    wb.calculation.calcMode = "auto"
+
+    par = wb.active
+    par.title = "Параметры"
+    title(par, "Параметры расчёта — правка этих ячеек пересчитывает весь файл")
+    head(par, 3, ["Параметр", "Значение"])
+    months = float(data.get("months_to_purchase") or 0)
+    fin_months = float(data.get("finance_months") or 0)
+    advance = 1 if data.get("advance_covers_materials", True) else 0
+    inputs = [
+        (4, "Доставка", delivery, "0%"),
+        (5, "Месяцев до закупки", months, "0.00"),
+        (7, "Месяцев финансирования", fin_months, "0.00"),
+        (8, "Материалы из аванса (1 — да)", advance, "0"),
+        (10, "Ставка НДС", 0.22, "0%"),
     ]
-    if data.get("nmck"):
-        rows.append(("КП к НМЦК", kp / float(data["nmck"]) - 1))
-    ws["A3"] = "Статья"
-    ws["B3"] = "Значение"
+    for row, name, val, fmt in inputs:
+        par.cell(row, 1, name).border = THIN
+        c = par.cell(row, 2, val)
+        money(c)
+        c.number_format = fmt
+    derived = [
+        (6, "Резерв роста", "=0.0125*MAX(0,B5-2)", "0.00%"),
+        (9, "Стоимость денег", "=IF(B8=1,0,0.02*B7)", "0.00%"),
+        (11, "Делитель НДС", "=1+B10", "0.00"),
+        (12, "Коэффициент закупки", "=(1+B4)*(1+B6+B9)", "0.0000"),
+    ]
+    for row, name, formula, fmt in derived:
+        par.cell(row, 1, name).border = THIN
+        c = par.cell(row, 2, formula)
+        money(c)
+        c.number_format = fmt
+    nmck = data.get("nmck")
+    par.cell(13, 1, "НМЦК б/НДС").border = THIN
+    c = par.cell(13, 2, float(nmck) if nmck else None)
+    money(c)
+    par["A15"] = (f"Регион цен {reg_name}. Форма КП: {'под ключ' if turnkey else 'раздельная'}. "
+                  "Жёлтым ничего не помечено: менять можно белые ячейки ввода.")
+    widths(par, [42, 18])
+
+    mm = wb.create_sheet("Материалы", 0)
+    title(mm, "Материалы")
+    head(mm, 3, ["К работе", "Материал", "Категория", "Ед.", "Кол-во", "Закупка с НДС", "НДС в цене",
+                 "Закупка б/НДС", "Отходы", "С/с ед.", "Наценка", "Цена до потолка", "Розница б/НДС",
+                 "Цена КП ед.", "С/с итого", "КП итого", "Выше розницы", "Магазин", "Ссылка", "Дата", "Примечание"])
+    mend = 3 + max(len(mats), 1)
+    for i, m in enumerate(mats):
+        r = 4 + i
+        retail = m.get("retail_net")
+        vals = [m.get("work"), m.get("name"), m.get("cat"), m.get("unit"), m["qty"],
+                m.get("price_vat") or 0, 1 if m.get("vat_included", True) else 0,
+                m["waste"], m["markup"], retail if retail else None,
+                m.get("shop"), m.get("url"), m.get("date"), m.get("note")]
+        # E qty, F price, G vat flag, I waste, K markup, M retail — ввод. Остальное формулы.
+        mm.cell(r, 1, vals[0])
+        mm.cell(r, 2, vals[1])
+        mm.cell(r, 3, vals[2])
+        mm.cell(r, 4, vals[3])
+        mm.cell(r, 5, vals[4])
+        mm.cell(r, 6, vals[5])
+        mm.cell(r, 7, vals[6])
+        mm.cell(r, 8, f"=IF(G{r}=1,F{r}/Параметры!$B$11,F{r})")
+        mm.cell(r, 9, vals[7])
+        mm.cell(r, 10, f"=H{r}*(1+I{r})*Параметры!$B$12")
+        mm.cell(r, 11, vals[8])
+        mm.cell(r, 12, f"=J{r}*(1+K{r})")
+        mm.cell(r, 13, vals[9])
+        mm.cell(r, 14, f'=IF(OR(M{r}="",M{r}=0),L{r},MIN(L{r},M{r}))')
+        mm.cell(r, 15, f"=J{r}*E{r}")
+        mm.cell(r, 16, f"=N{r}*E{r}")
+        mm.cell(r, 17, f'=IF(AND(M{r}<>"",M{r}<>0,L{r}>M{r}+0.01),"ДА — снижено до розницы","")')
+        mm.cell(r, 18, vals[10])
+        mm.cell(r, 19, vals[11])
+        mm.cell(r, 20, vals[12])
+        mm.cell(r, 21, vals[13])
+        for c in range(1, 22):
+            cell = mm.cell(r, c)
+            cell.border = THIN
+            if c in (5, 6, 8, 10, 12, 13, 14, 15, 16):
+                cell.number_format = '#,##0.00'
+            if c in (9, 11):
+                cell.number_format = "0%"
+            if c == 7:
+                cell.number_format = "0"
+        mm.row_dimensions[r].height = 28
+    mm.conditional_formatting.add(
+        f"Q4:Q{mend}",
+        FormulaRule(formula=['$Q4<>""'], fill=PatternFill("solid", fgColor=ORANGE)),
+    )
+    widths(mm, [14, 36, 24, 8, 10, 14, 12, 14, 10, 12, 10, 14, 14, 12, 14, 14, 16, 16, 28, 12, 24])
+
+    ww = wb.create_sheet("Работы", 0)
+    title(ww, "Работы")
+    head(ww, 3, ["Артикул", "Позиция ВОР", "Ед.", "Объём", "Метка", "Код", "КП тарифа", "Бригада",
+                 "Норма, чел.-ч", "% расходников", "Подтянута", "Оплата бригаде", "Расходники",
+                 "С/с материалов", "Прямая с/с", "Косвенные", "КП работ", "КП за ед."])
+    wend = 3 + max(len(works), 1)
+    for i, w in enumerate(works):
+        r = 4 + i
+        ww.cell(r, 1, w.get("art"))
+        ww.cell(r, 2, w.get("name"))
+        ww.cell(r, 3, w.get("unit"))
+        ww.cell(r, 4, w["qty"])
+        ww.cell(r, 5, w.get("match", ""))
+        ww.cell(r, 6, w.get("spec"))
+        ww.cell(r, 7, w.get("kp") or 0)
+        ww.cell(r, 8, w.get("brig") or 0)
+        ww.cell(r, 9, w.get("norm") or 0)
+        ww.cell(r, 10, w.get("rash_pct") or 0)
+        ww.cell(r, 11, "да" if w["over"] > 0.005 else "")
+        ww.cell(r, 12, f"=H{r}*D{r}")
+        ww.cell(r, 13, f"=L{r}*J{r}")
+        ww.cell(r, 14, (
+            f'=IF(A{r}="",0,SUMIF(Материалы!$A$4:$A${mend},A{r},Материалы!$O$4:$O${mend}))'
+            f'+IF(OR(B{r}="",B{r}=A{r}),0,SUMIF(Материалы!$A$4:$A${mend},B{r},Материалы!$O$4:$O${mend}))'
+        ))
+        ww.cell(r, 15, f"=L{r}+M{r}+N{r}")
+        ww.cell(r, 16, f'=IF(SUM($O$4:$O${wend})=0,0,Косвенные!$C$4*O{r}/SUM($O$4:$O${wend}))')
+        ww.cell(r, 17, f"=G{r}*D{r}+P{r}")
+        ww.cell(r, 18, f"=IF(D{r}=0,0,Q{r}/D{r})")
+        for c in range(1, 19):
+            cell = ww.cell(r, c)
+            cell.border = THIN
+            cell.alignment = Alignment(wrap_text=True, vertical="center")
+            if c in (4, 7, 8, 9, 12, 13, 14, 15, 16, 17, 18):
+                cell.number_format = "#,##0.00"
+            if c == 10:
+                cell.number_format = "0%"
+        if w["over"] > 0.005:
+            ww.cell(r, 11).fill = PatternFill("solid", fgColor=YELLOW)
+        ww.row_dimensions[r].height = 30
+    widths(ww, [12, 42, 8, 12, 14, 8, 12, 12, 12, 12, 12, 16, 14, 16, 14, 14, 14, 12])
+
+    ind = wb.create_sheet("Косвенные", 0)
+    title(ind, "Косвенные")
+    head(ind, 3, ["Статья", "Расчёт", "Сумма"])
+    if indirect:
+        for i, item in enumerate(indirect):
+            ind.cell(4 + i, 1, item.get("name")).border = THIN
+            ind.cell(4 + i, 2, item.get("calc")).border = THIN
+            c = ind.cell(4 + i, 3, float(item.get("sum") or 0))
+            money(c)
+        total_row = 4 + len(indirect)
+        ind.cell(total_row, 1, "Итого").font = Font(bold=True)
+        c = ind.cell(total_row, 3, f"=SUM(C4:C{total_row - 1})")
+    else:
+        total_row = 4
+        ind.cell(4, 1, "Итого").font = Font(bold=True)
+        c = ind.cell(4, 3, 0)
+    money(c)
+    c.font = Font(bold=True)
+    # Работы ссылаются на C4 как на итог. Перенесём итог в C4, если статьи есть:
+    # выше P ссылается на Косвенные!$C$4. Поправим на total_row.
+    widths(ind, [36, 50, 16])
+
+    # Ссылка на итог косвенных — фактическая строка, не всегда C4.
+    if total_row != 4:
+        for i in range(len(works)):
+            r = 4 + i
+            ww.cell(r, 16, f'=IF(SUM($O$4:$O${wend})=0,0,Косвенные!$C${total_row}*O{r}/SUM($O$4:$O${wend}))')
+            ww.cell(r, 16).number_format = "#,##0.00"
+            ww.cell(r, 16).border = THIN
+
+    ws = wb.create_sheet("Свод", 0)
+    title(ws, f"Бюджет себестоимости — {data.get('project', '')}")
     head(ws, 3, ["Статья", "Значение"])
-    for i, (name, val) in enumerate(rows):
-        ws.cell(4 + i, 1, name).border = THIN
-        c = ws.cell(4 + i, 2, val)
+    rows = [
+        (4, "Материалы, с/с", f"=SUM(Материалы!O4:O{mend})", "#,##0.00"),
+        (5, "Оплата бригадам", f"=SUM(Работы!L4:L{wend})", "#,##0.00"),
+        (6, "Расходники", f"=SUM(Работы!M4:M{wend})", "#,##0.00"),
+        (7, "Косвенные", f"=Косвенные!C{total_row}", "#,##0.00"),
+        (8, "Полная себестоимость", "=B4+B5+B6+B7", "#,##0.00"),
+        (9, "КП работ (с косвенными)", f"=SUM(Работы!Q4:Q{wend})", "#,##0.00"),
+        (10, "КП материалов", f"=SUM(Материалы!P4:P{mend})", "#,##0.00"),
+        (11, "КП без НДС", "=B9+B10", "#,##0.00"),
+        (12, "НДС", "=B11*Параметры!B10", "#,##0.00"),
+        (13, "КП с НДС", "=B11+B12", "#,##0.00"),
+        (14, "Наценка на с/с", '=IF(B8=0,0,B11/B8-1)', "0.0%"),
+        (15, "Маржа", '=IF(B11=0,0,1-B8/B11)', "0.0%"),
+        (16, "Диапазон типа тендера", f"{tender.get('mk_from', 0):.0%} – {tender.get('mk_to', 0):.0%}", None),
+        (17, "Переторжка −5 % (КП б/НДС)", "=B11*0.95", "#,##0.00"),
+        (18, "Маржа при −5 %", '=IF(B17=0,0,1-B8/B17)', "0.0%"),
+        (19, "Переторжка −10 % (КП б/НДС)", "=B11*0.9", "#,##0.00"),
+        (20, "Маржа при −10 %", '=IF(B19=0,0,1-B8/B19)', "0.0%"),
+        (21, "Минимальная цена, наценка 15 %", "=B8*1.15", "#,##0.00"),
+        (22, "Трудоёмкость, чел.-ч", f"=SUMPRODUCT(Работы!I4:I{wend},Работы!D4:D{wend})", "#,##0.00"),
+    ]
+    if nmck:
+        rows.append((23, "КП к НМЦК", '=IF(Параметры!B13=0,0,B11/Параметры!B13-1)', "0.0%"))
+    for row, name, val, fmt in rows:
+        ws.cell(row, 1, name).border = THIN
+        c = ws.cell(row, 2, val)
         c.border = THIN
-        if name in ("Наценка на с/с", "Маржа", "Маржа при −5 %", "Маржа при −10 %", "КП к НМЦК"):
-            c.number_format = '0.0%'
-        elif isinstance(val, (int, float)):
-            c.number_format = '#,##0.00'
+        if fmt:
+            c.number_format = fmt
         if name in ("Полная себестоимость", "КП без НДС", "КП с НДС"):
-            for col in (1, 2):
-                ws.cell(4 + i, col).font = Font(bold=True)
-        if name.startswith("Наценка") and isinstance(val, float) and val < 0.15:
-            c.fill = PatternFill("solid", fgColor=ORANGE)
-    ws["A24"] = (f"Регион цен {reg_name}. Доставка {delivery:.0%}, резерв роста {growth:.2%}, "
-                 f"стоимость денег {finance:.2%}. Форма КП: {'под ключ' if turnkey else 'раздельная'}.")
-    ws["A25"] = "Заказчику этот файл не передавать."
+            ws.cell(row, 1).font = Font(bold=True)
+            c.font = Font(bold=True)
+    ws.conditional_formatting.add(
+        "B14",
+        CellIsRule(operator="lessThan", formula=["0.15"],
+                   fill=PatternFill("solid", fgColor=ORANGE)),
+    )
+    ws["A25"] = "Заказчику этот файл не передавать. Итоги — формулы, их не заменять числами."
     widths(ws, [42, 22])
 
     pas = wb.create_sheet("Паспорт тендера")
@@ -302,89 +465,37 @@ def write_budget(path, data, works, mats, indirect, reg_name, delivery, growth, 
     head(pas, 3, ["Поле", "Значение"])
     fields = [("Заказчик", data.get("customer")), ("Объект", data.get("project")),
               ("Регион", data.get("region")), ("Тип тендера", data.get("tender_type")),
-              ("НМЦК б/НДС", data.get("nmck")), ("Форма КП", "под ключ" if turnkey else "раздельная")]
+              ("НМЦК б/НДС", "=Параметры!B13"),
+              ("Форма КП", "под ключ" if turnkey else "раздельная")]
     fields += [(k, v) for k, v in data.get("passport", [])]
     for i, (k, v) in enumerate(fields):
         pas.cell(4 + i, 1, k).border = THIN
         cell = pas.cell(4 + i, 2, v)
         cell.border = THIN
         cell.alignment = Alignment(wrap_text=True)
+        if k == "НМЦК б/НДС":
+            cell.number_format = "#,##0.00"
     widths(pas, [28, 80])
-
-    ww = wb.create_sheet("Работы")
-    title(ww, "Работы")
-    cols = ["Артикул", "Позиция ВОР", "Ед.", "Объём", "Метка", "Код", "КП тарифа", "Бригада",
-            "Норма, чел.-ч", "Подтянута", "Оплата бригаде", "Расходники", "С/с материалов",
-            "Прямая с/с", "Косвенные", "КП работ", "КП за ед."]
-    head(ww, 3, cols)
-    for i, w in enumerate(works):
-        r = 4 + i
-        vals = [w.get("art"), w.get("name"), w.get("unit"), w["qty"], w.get("match", ""),
-                w.get("spec"), w.get("kp"), w.get("brig"), w.get("norm"),
-                "да" if w["over"] > 0.005 else "", w["brig_sum"], w["rash_sum"], w["mat_ss"],
-                w["direct"], w["alloc"], w["kp_sum"], w["kp_unit_full"]]
-        for c, v in enumerate(vals, 1):
-            cell = ww.cell(r, c, v)
-            cell.border = THIN
-            cell.alignment = Alignment(wrap_text=True, vertical="center")
-            if c >= 4 and isinstance(v, (int, float)):
-                cell.number_format = '#,##0.00'
-        if w["over"] > 0.005:
-            ww.cell(r, 10).fill = PatternFill("solid", fgColor=YELLOW)
-        ww.row_dimensions[r].height = 30
-    widths(ww, [12, 42, 8, 12, 14, 8, 12, 12, 12, 12, 16, 14, 16, 14, 14, 14, 12])
-
-    mm = wb.create_sheet("Материалы")
-    title(mm, "Материалы")
-    head(mm, 3, ["К работе", "Материал", "Категория", "Ед.", "Кол-во", "Закупка с НДС",
-                 "Закупка б/НДС", "Отходы", "С/с ед.", "Наценка", "Цена КП ед.", "С/с итого",
-                 "КП итого", "Розница б/НДС", "Выше розницы", "Магазин", "Ссылка", "Дата", "Примечание"])
-    for i, m in enumerate(mats):
-        r = 4 + i
-        vals = [m.get("work"), m.get("name"), m.get("cat"), m.get("unit"), m["qty"],
-                m.get("price_vat"), m["buy_net"], m["waste"], m["ss_unit"], m["markup"],
-                m["kp_unit"], m["ss_unit"] * m["qty"], m["kp_unit"] * m["qty"], m["retail_net"],
-                "ДА — снижено до розницы" if m["capped"] else "", m.get("shop"), m.get("url"),
-                m.get("date"), m.get("note")]
-        for c, v in enumerate(vals, 1):
-            cell = mm.cell(r, c, v)
-            cell.border = THIN
-            if c in (5, 6, 7, 9, 11, 12, 13, 14) and isinstance(v, (int, float)):
-                cell.number_format = '#,##0.00'
-            if c in (8, 10) and isinstance(v, float):
-                cell.number_format = '0%'
-        if m["capped"]:
-            mm.cell(r, 15).fill = PatternFill("solid", fgColor=ORANGE)
-        mm.row_dimensions[r].height = 28
-    widths(mm, [14, 36, 24, 8, 10, 14, 14, 10, 12, 10, 12, 14, 14, 14, 16, 16, 28, 12, 24])
 
     src = wb.create_sheet("Цены материалов (источники)")
     title(src, "Источники цен")
     head(src, 3, ["Материал", "Ед.", "Магазин", "Ссылка", "Цена с НДС", "Цена б/НДС", "Дата", "Примечание"])
-    for i, m in enumerate(mats):
+    for i in range(len(mats)):
         r = 4 + i
-        for c, v in enumerate([m.get("name"), m.get("unit"), m.get("shop"), m.get("url"),
-                               m.get("price_vat"), m["buy_net"], m.get("date"), m.get("note")], 1):
-            cell = src.cell(r, c, v)
+        src.cell(r, 1, f"=Материалы!B{r}")
+        src.cell(r, 2, f"=Материалы!D{r}")
+        src.cell(r, 3, f"=Материалы!R{r}")
+        src.cell(r, 4, f"=Материалы!S{r}")
+        src.cell(r, 5, f"=Материалы!F{r}")
+        src.cell(r, 6, f"=Материалы!H{r}")
+        src.cell(r, 7, f"=Материалы!T{r}")
+        src.cell(r, 8, f"=Материалы!U{r}")
+        for c in range(1, 9):
+            cell = src.cell(r, c)
             cell.border = THIN
-            if c in (5, 6) and isinstance(v, (int, float)):
-                cell.number_format = '#,##0.00'
+            if c in (5, 6):
+                cell.number_format = "#,##0.00"
     widths(src, [36, 8, 18, 40, 14, 14, 12, 28])
-
-    ind = wb.create_sheet("Косвенные")
-    title(ind, "Косвенные")
-    head(ind, 3, ["Статья", "Расчёт", "Сумма"])
-    for i, item in enumerate(indirect):
-        ind.cell(4 + i, 1, item.get("name")).border = THIN
-        ind.cell(4 + i, 2, item.get("calc")).border = THIN
-        c = ind.cell(4 + i, 3, float(item.get("sum") or 0))
-        money(c)
-    last = 4 + len(indirect)
-    ind.cell(last, 1, "Итого").font = Font(bold=True)
-    c = ind.cell(last, 3, indirect_sum)
-    money(c)
-    c.font = Font(bold=True)
-    widths(ind, [36, 50, 16])
 
     rk = wb.create_sheet("Риски и вопросы")
     title(rk, "Риски и вопросы")
@@ -401,16 +512,103 @@ def write_budget(path, data, works, mats, indirect, reg_name, delivery, growth, 
     ad = wb.create_sheet("Добавить в тарификатор")
     title(ad, "Добавить в тарификатор")
     head(ad, 3, ["Работа", "Ед.", "Цена КП", "Оплата бригаде", "Норма, чел.-ч", "Основание"])
-    extra = [w for w in works if not spr_has(w)]
-    extra += data.get("add_tarif", [])
-    for i, w in enumerate(extra):
-        for c, v in enumerate([w.get("name"), w.get("unit"), w.get("kp"), w.get("brig"),
-                               w.get("norm"), w.get("src") or w.get("norm_src")], 1):
-            ad.cell(4 + i, c, v).border = THIN
+    extra = [(4 + i, w) for i, w in enumerate(works) if not spr_has(w)]
+    for n, (src_row, w) in enumerate(extra):
+        r = 4 + n
+        ad.cell(r, 1, f"=Работы!B{src_row}")
+        ad.cell(r, 2, f"=Работы!C{src_row}")
+        ad.cell(r, 3, f"=Работы!G{src_row}")
+        ad.cell(r, 4, f"=Работы!H{src_row}")
+        ad.cell(r, 5, f"=Работы!I{src_row}")
+        ad.cell(r, 6, w.get("src") or w.get("norm_src"))
+        for c in range(1, 7):
+            ad.cell(r, c).border = THIN
+            if c in (3, 4, 5):
+                ad.cell(r, c).number_format = "#,##0.00"
     widths(ad, [46, 10, 14, 18, 16, 36])
 
-    for name in ("Свод", "Работы", "Материалы"):
+    kpws = wb.create_sheet("КП")
+    kpws["A1"] = f"Коммерческое предложение — {data.get('project', '')}"
+    kpws["A1"].font = Font(bold=True, size=14, color=NAVY)
+    kpws["A2"] = "Цены без НДС. Суммы — формулы листа «Работы» и «Материалы»."
+    turn_headers = ["№", "Позиция", "Ед.", "Кол-во", "Цена за ед.", "Сумма"]
+    sep_headers = ["№", "Позиция", "Ед.", "Кол-во", "Материалы за ед.", "Работа за ед.", "Сумма"]
+    headers = turn_headers if turnkey else sep_headers
+    head(kpws, 4, headers)
+    matched = []
+    for i, w in enumerate(works):
+        matched.append(4 + i)
+    loose = []
+    for i, m in enumerate(mats):
+        key = str(m.get("work") or "")
+        if not key or not any(key in (str(w.get("art") or ""), str(w.get("name") or "")) for w in works):
+            loose.append(4 + i)
+    kp_rows = []
+    for n, src_row in enumerate(matched):
+        r = 5 + n
+        kp_rows.append(r)
+        kpws.cell(r, 1, n + 1)
+        kpws.cell(r, 2, f"=Работы!B{src_row}")
+        kpws.cell(r, 3, f"=Работы!C{src_row}")
+        kpws.cell(r, 4, f"=Работы!D{src_row}")
+        mat = (
+            f'IF(Работы!A{src_row}="",0,SUMIF(Материалы!$A$4:$A${mend},Работы!A{src_row},Материалы!$P$4:$P${mend}))'
+            f'+IF(OR(Работы!B{src_row}="",Работы!B{src_row}=Работы!A{src_row}),0,'
+            f'SUMIF(Материалы!$A$4:$A${mend},Работы!B{src_row},Материалы!$P$4:$P${mend}))'
+        )
+        if turnkey:
+            kpws.cell(r, 5, f"=IF(D{r}=0,0,({mat})/D{r}+Работы!R{src_row})")
+            kpws.cell(r, 6, f"=D{r}*E{r}")
+        else:
+            kpws.cell(r, 5, f"=IF(D{r}=0,0,({mat})/D{r})")
+            kpws.cell(r, 6, f"=Работы!R{src_row}")
+            kpws.cell(r, 7, f"=D{r}*E{r}+D{r}*F{r}")
+    base = 5 + len(matched)
+    for n, src_row in enumerate(loose):
+        r = base + n
+        kp_rows.append(r)
+        kpws.cell(r, 1, len(matched) + n + 1)
+        kpws.cell(r, 2, f"=Материалы!B{src_row}")
+        kpws.cell(r, 3, f"=Материалы!D{src_row}")
+        kpws.cell(r, 4, f"=Материалы!E{src_row}")
+        if turnkey:
+            kpws.cell(r, 5, f"=Материалы!N{src_row}")
+            kpws.cell(r, 6, f"=D{r}*E{r}")
+        else:
+            kpws.cell(r, 5, f"=Материалы!N{src_row}")
+            kpws.cell(r, 6, 0)
+            kpws.cell(r, 7, f"=D{r}*E{r}+D{r}*F{r}")
+    last = (kp_rows[-1] + 1) if kp_rows else 5
+    sum_col = 6 if turnkey else 7
+    if kp_rows:
+        total_formula = f"=SUM({get_column_letter(sum_col)}{kp_rows[0]}:{get_column_letter(sum_col)}{kp_rows[-1]})"
+    else:
+        total_formula = "=0"
+    labels = [("Итого без НДС", total_formula),
+              ("НДС", f"={get_column_letter(sum_col)}{last}*Параметры!B10"),
+              ("Итого с НДС", f"={get_column_letter(sum_col)}{last}+{get_column_letter(sum_col)}{last + 1}")]
+    for i, (label, formula) in enumerate(labels):
+        kpws.cell(last + i, 2, label).font = Font(bold=True)
+        c = kpws.cell(last + i, sum_col, formula)
+        c.font = Font(bold=True)
+        c.number_format = "#,##0.00"
+    for r in kp_rows:
+        for c in range(1, sum_col + 1):
+            cell = kpws.cell(r, c)
+            cell.border = THIN
+            if c >= 4:
+                cell.number_format = "#,##0.00"
+        kpws.row_dimensions[r].height = 28
+    widths(kpws, [6, 55, 8, 12, 18, 16, 16])
+
+    for name in ("Свод", "Работы", "Материалы", "КП"):
         wb[name].sheet_properties.tabColor = NAVY
+    order = ["Свод", "Параметры", "Работы", "Материалы", "Косвенные", "КП",
+             "Паспорт тендера", "Цены материалов (источники)", "Риски и вопросы",
+             "Добавить в тарификатор"]
+    for i, name in enumerate(order):
+        current = wb.sheetnames.index(name)
+        wb.move_sheet(name, offset=i - current)
     wb.save(path)
 
 
@@ -437,23 +635,39 @@ def write_kp(path, data, works, mats, kp, turnkey):
     loose = [m for m in mats if not any(str(m.get("work")) in (str(w.get("art")), w.get("name")) for w in works)]
     for m in loose:
         rows.append((m.get("name"), m.get("unit"), m["qty"], m["kp_unit"], 0, m["kp_unit"] * m["qty"]))
+    ws["I1"] = 0.22
+    ws["I1"].number_format = "0%"
+    ws["H1"] = "НДС"
+    sum_col = 6 if turnkey else 7
     for i, (name, unit, qty, mat_u, work_u, total) in enumerate(rows):
+        del total
         r = 5 + i
-        if turnkey:
-            vals = [i + 1, name, unit, qty, (mat_u + work_u), total]
-        else:
-            vals = [i + 1, name, unit, qty, mat_u, work_u, total]
+        price = (mat_u + work_u) if turnkey else None
+        vals = [i + 1, name, unit, qty, price if turnkey else mat_u, None if turnkey else work_u]
         for c, v in enumerate(vals, 1):
-            cell = ws.cell(r, c, round(v, 2) if isinstance(v, float) else v)
+            if v is None:
+                continue
+            cell = ws.cell(r, c, v)
             cell.border = THIN
             if isinstance(v, float):
                 cell.number_format = '#,##0.00'
+        formula = f"=D{r}*E{r}" if turnkey else f"=D{r}*E{r}+D{r}*F{r}"
+        cell = ws.cell(r, sum_col, formula)
+        cell.border = THIN
+        cell.number_format = '#,##0.00'
         ws.row_dimensions[r].height = 28
     last = 5 + len(rows)
-    labels = [("Итого без НДС", kp), ("НДС 22 %", round(kp * 0.22, 2)), ("Итого с НДС", round(kp * VAT, 2))]
+    letter = get_column_letter(sum_col)
+    if rows:
+        total_formula = f"=SUM({letter}5:{letter}{last - 1})"
+    else:
+        total_formula = "=0"
+    labels = [("Итого без НДС", total_formula),
+              ("НДС 22 %", f"={letter}{last}*I1"),
+              ("Итого с НДС", f"={letter}{last}+{letter}{last + 1}")]
     for i, (label, val) in enumerate(labels):
         ws.cell(last + i, 2, label).font = Font(bold=True)
-        c = ws.cell(last + i, len(headers), val)
+        c = ws.cell(last + i, sum_col, val)
         c.font = Font(bold=True)
         c.number_format = '#,##0.00'
     ws.auto_filter.ref = f"A4:{get_column_letter(len(headers))}{last - 1}"
@@ -482,12 +696,20 @@ def write_map(path, data, works, hours, kp):
         by.setdefault(w.get("spec") or "—", 0)
         by[w["spec"] or "—"] += (w.get("norm") or 0) * w["qty"]
     for i, (spec, h) in enumerate(by.items()):
-        ws.cell(4 + i, 1, spec).border = THIN
-        c = ws.cell(4 + i, 2, round(h, 1))
+        r = 4 + i
+        ws.cell(r, 1, spec).border = THIN
+        c = ws.cell(r, 2, h)
         money(c)
-        ws.cell(4 + i, 3, round(h / 40, 2) if h else 0).border = THIN
-        ws.cell(4 + i, 4, "по тарификатору, лист «Нормы»").border = THIN
-    ws.cell(4 + len(by), 1, f"Всего чел.-ч: {hours:,.0f}. Сумма графика по деньгам = КП {kp:,.0f} б/НДС.")
+        cell = ws.cell(r, 3, f"=IF(B{r}=0,0,B{r}/40)")
+        cell.border = THIN
+        cell.number_format = "0.00"
+        ws.cell(r, 4, "по тарификатору, лист «Нормы»").border = THIN
+    end = 4 + len(by)
+    ws.cell(end, 1, "Всего чел.-ч").font = Font(bold=True)
+    total_h = ws.cell(end, 2, f"=SUM(B4:B{end - 1})" if by else 0)
+    money(total_h)
+    ws.cell(end + 1, 1, f"Сумма графика по деньгам равна КП {kp:,.0f} б/НДС. "
+            "После правки бюджета карту собирают заново: это отдельный файл.")
     widths(ws, [14, 14, 28, 36])
     g = wb.create_sheet("График")
     title(g, "График")
