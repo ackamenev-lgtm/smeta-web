@@ -1,0 +1,4502 @@
+[
+ {
+  "name": "Оси, втулки, шплинты доклевеллера, комплект",
+  "unit": "компл",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 1800,
+  "date": "2026-10-29",
+  "note": "оценка комплекта шарнира, запросить DoorHan",
+  "vat_included": true
+ },
+ {
+  "name": "Лист рифлёный на аппарель, до 0,5 м2",
+  "unit": "кг",
+  "shop": "Металлобаза (Подольск)",
+  "url": "https://msk.metallobazav.ru/catalog/chyernyy-metalloprokat/truby-profilnye/truba-profilnaya-40kh40kh2-mm/",
+  "price_vat": 60.52,
+  "date": "2026-10-29",
+  "note": "якорь 40х40х2 = 141 руб/м без НДС на 29.10.2026; второй источник Стройсталь 176,82 руб/м с НДС",
+  "vat_included": false
+ },
+ {
+  "name": "Пружина доклевеллера",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 4500,
+  "date": "2026-10-29",
+  "note": "оценка, запросить DoorHan",
+  "vat_included": true
+ },
+ {
+  "name": "Арматура бачка компакт",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 650,
+  "date": "2026-10-29",
+  "note": "оценка полки Петрович/Лемана",
+  "vat_included": true
+ },
+ {
+  "name": "Бачок компакт с арматурой",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 1800,
+  "date": "2026-10-29",
+  "note": "оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Унитаз-компакт",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 5800,
+  "date": "2026-10-29",
+  "note": "оценка аналога компакта",
+  "vat_included": true
+ },
+ {
+  "name": "Подводка гибкая 60 см",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 250,
+  "date": "2026-10-29",
+  "note": "оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Смеситель для раковины",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 2400,
+  "date": "2026-10-29",
+  "note": "оценка средний сегмент",
+  "vat_included": true
+ },
+ {
+  "name": "Замена раковины керамической с пьедесталом (включая материалы и з/части)",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 4500,
+  "date": "2026-10-29",
+  "note": "оценка керамики среднего сегмента",
+  "vat_included": true
+ },
+ {
+  "name": "Замена раковины металлической (включая материалы и з/части)",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 2800,
+  "date": "2026-10-29",
+  "note": "оценка керамики среднего сегмента",
+  "vat_included": true
+ },
+ {
+  "name": "Смеситель для ванны с лейкой",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 3200,
+  "date": "2026-10-29",
+  "note": "оценка средний сегмент",
+  "vat_included": true
+ },
+ {
+  "name": "Замена сифона раковины (включая материалы и з/части)",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 2800,
+  "date": "2026-10-29",
+  "note": "оценка керамики среднего сегмента",
+  "vat_included": true
+ },
+ {
+  "name": "Кран писсуара",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 1400,
+  "date": "2026-10-29",
+  "note": "оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Труба ПП d32",
+  "unit": "м",
+  "shop": "Сантехснабопт",
+  "url": "https://santehsnabopt.ru/price-list/",
+  "price_vat": 127.16,
+  "date": "2026-10-29",
+  "note": "оценка от якоря d25 = 90 руб/м, прайс 23.04.2026 старше 45 дней",
+  "vat_included": true
+ },
+ {
+  "name": "Труба канализация d40",
+  "unit": "м",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 85,
+  "date": "2026-10-29",
+  "note": "оценка ПВХ/ПП внутренней канализации",
+  "vat_included": true
+ },
+ {
+  "name": "Труба канализация d50",
+  "unit": "м",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 110,
+  "date": "2026-10-29",
+  "note": "оценка ПВХ/ПП внутренней канализации",
+  "vat_included": true
+ },
+ {
+  "name": "Труба канализация d32",
+  "unit": "м",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 70,
+  "date": "2026-10-29",
+  "note": "оценка ПВХ/ПП внутренней канализации",
+  "vat_included": true
+ },
+ {
+  "name": "Лён, паста, прокладки",
+  "unit": "компл",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 180,
+  "date": "2026-10-29",
+  "note": "оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Кран шаровой латунь Ду15–25",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 420,
+  "date": "2026-10-29",
+  "note": "оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Кран и подводка для прибора",
+  "unit": "компл",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 650,
+  "date": "2026-10-29",
+  "note": "оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Планка 150х250, ~1,6 кг/м",
+  "unit": "кг",
+  "shop": "Металлобаза (Подольск)",
+  "url": "https://msk.metallobazav.ru/catalog/chyernyy-metalloprokat/truby-profilnye/truba-profilnaya-40kh40kh2-mm/",
+  "price_vat": 81.7,
+  "date": "2026-10-29",
+  "note": "якорь 40х40х2 = 141 руб/м без НДС на 29.10.2026; второй источник Стройсталь 176,82 руб/м с НДС; коэффициент 1.35 к чёрному — оценка, запросить КП металлобазы",
+  "vat_included": false
+ },
+ {
+  "name": "Монтаж профлиста С8-115 - 0,50 окрашенный",
+  "unit": "м2",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 560,
+  "date": "2026-10-29",
+  "note": "оценка профлиста С8 0,45–0,5, запросить металлобазу",
+  "vat_included": true
+ },
+ {
+  "name": "Монтаж профлиста  С8, 0,45мм",
+  "unit": "м2",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 560,
+  "date": "2026-10-29",
+  "note": "оценка профлиста С8 0,45–0,5, запросить металлобазу",
+  "vat_included": true
+ },
+ {
+  "name": "Монтаж профлиста  С20, 0,45мм",
+  "unit": "м2",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 560,
+  "date": "2026-10-29",
+  "note": "оценка профлиста С8 0,45–0,5, запросить металлобазу",
+  "vat_included": true
+ },
+ {
+  "name": "Поручни из нержавеющей стали ( с 3 ригелями )",
+  "unit": "м",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 4500,
+  "date": "2026-10-29",
+  "note": "оценка нержавеющего ограждения, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Поручни из нержавеющей стали ( с 2 ригелями, с двойным )",
+  "unit": "м",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 4500,
+  "date": "2026-10-29",
+  "note": "оценка нержавеющего ограждения, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Керамогранит 300х300х8 мм типа \"Эстима\" (цвет белый )RW-01 (вкл. За основу клей,",
+  "unit": "м2",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/product/1233614/",
+  "price_vat": 895.31,
+  "date": "2026-10-29",
+  "note": "якорь Lavelly 600х600 = 1 146 руб/упак 1,44 м2; белый/Эстима +25% оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Клей плиточный",
+  "unit": "кг",
+  "shop": "Арткерамика",
+  "url": "https://artkeramika-opt.ru/catalog/plitochnyy-kley/",
+  "price_vat": 23.6,
+  "date": "2026-10-29",
+  "note": "комплект тарифа 7.2.25",
+  "vat_included": true
+ },
+ {
+  "name": "Затирка",
+  "unit": "кг",
+  "shop": "Арткерамика",
+  "url": "https://artkeramika-opt.ru/catalog/plitochnyy-kley/",
+  "price_vat": 197.5,
+  "date": "2026-10-29",
+  "note": "комплект тарифа 7.2.25",
+  "vat_included": true
+ },
+ {
+  "name": "Грунт",
+  "unit": "л",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 180,
+  "date": "2026-10-29",
+  "note": "оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Керамогранит 400х400х9 мм типа \"Эстима\" (цвет белый))RW-01 (вкл. За основу клей,",
+  "unit": "м2",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/product/1233614/",
+  "price_vat": 994.79,
+  "date": "2026-10-29",
+  "note": "якорь Lavelly 600х600 = 1 146 руб/упак 1,44 м2; белый/Эстима +25% оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Керамогранит 600х600х10 мм типа \"Эстима\" (цвет белый))RW-01 (вкл. За основу клей",
+  "unit": "м2",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/product/1233614/",
+  "price_vat": 1144.01,
+  "date": "2026-10-29",
+  "note": "якорь Lavelly 600х600 = 1 146 руб/упак 1,44 м2; белый/Эстима +25% оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Плитка керамогранита 200*200*12 мм типа \"Эстима\" (цвет-серый ) ST-101 (вкл. За о",
+  "unit": "м2",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/product/1233614/",
+  "price_vat": 895.31,
+  "date": "2026-10-29",
+  "note": "якорь Lavelly 600х600 = 1 146 руб/упак 1,44 м2; белый/Эстима +25% оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Плитка керамогранита 300*300*12 мм типа \"Эстима\" (цвет-серый ) ST-101 (вкл. За о",
+  "unit": "м2",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/product/1233614/",
+  "price_vat": 895.31,
+  "date": "2026-10-29",
+  "note": "якорь Lavelly 600х600 = 1 146 руб/упак 1,44 м2; белый/Эстима +25% оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Плитка керамогранита 300*300*8 мм типа \"Эстима\"(цвет-серый ) ST-03 (вкл. За осно",
+  "unit": "м2",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/product/1233614/",
+  "price_vat": 895.31,
+  "date": "2026-10-29",
+  "note": "якорь Lavelly 600х600 = 1 146 руб/упак 1,44 м2; белый/Эстима +25% оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Плитка Керамогранит 400х400х9 мм типа \"Эстима\"(цвет-серый ) ST-03 (вкл. За основ",
+  "unit": "м2",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/product/1233614/",
+  "price_vat": 994.79,
+  "date": "2026-10-29",
+  "note": "якорь Lavelly 600х600 = 1 146 руб/упак 1,44 м2; белый/Эстима +25% оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Плитка керамогранита 600*600*10 мм типа \"Эстима\"(цвет-серый ) ST-03 (вкл. За осн",
+  "unit": "м2",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/product/1233614/",
+  "price_vat": 1144.01,
+  "date": "2026-10-29",
+  "note": "якорь Lavelly 600х600 = 1 146 руб/упак 1,44 м2; белый/Эстима +25% оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Керамогранит для пола 200х200х12 мм (полосы, PEI 4) глазурованный (полосатая) (в",
+  "unit": "м2",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/product/1233614/",
+  "price_vat": 716.25,
+  "date": "2026-10-29",
+  "note": "якорь Lavelly 600х600 = 1 146 руб/упак 1,44 м2; белый/Эстима +25% оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Керамогранит Техногрес 300х300х12мм соль-перец",
+  "unit": "м2",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/product/1233614/",
+  "price_vat": 716.25,
+  "date": "2026-10-29",
+  "note": "якорь Lavelly 600х600 = 1 146 руб/упак 1,44 м2; белый/Эстима +25% оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Плинтус ПВХ с кабель-каналом",
+  "unit": "м",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 90,
+  "date": "2026-10-29",
+  "note": "оценка Идеал 55 мм",
+  "vat_included": true
+ },
+ {
+  "name": "Линолеум коммерческий 2 мм",
+  "unit": "м2",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 650,
+  "date": "2026-10-29",
+  "note": "оценка Tarkett Optima, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Клей",
+  "unit": "кг",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 180,
+  "date": "2026-10-29",
+  "note": "оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Краска для пола по бетону",
+  "unit": "кг",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 220,
+  "date": "2026-10-29",
+  "note": "оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Лента противоскользящая",
+  "unit": "м",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 120,
+  "date": "2026-10-29",
+  "note": "оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Профиль ПН/ПС и крепёж на м2 каркаса",
+  "unit": "м2",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 180,
+  "date": "2026-10-29",
+  "note": "оценка каркаса под панель",
+  "vat_included": true
+ },
+ {
+  "name": "Панель ЛГКЛ (цвет RAL 6019, фактура «шагрень» или аналог) типа GYPROC (толщина 1",
+  "unit": "м2",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 900,
+  "date": "2026-10-29",
+  "note": "оценка ламинированной панели, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Кафельная настенная плитка Kerama Marazzi 200x200 ( цвет-белый) (вкл. За основу ",
+  "unit": "м2",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/product/1233614/",
+  "price_vat": 895.31,
+  "date": "2026-10-29",
+  "note": "якорь Lavelly 600х600 = 1 146 руб/упак 1,44 м2; белый/Эстима +25% оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Кафельная настенная плитка Kerama Marazzi 200x300 ( цвет-белый) (вкл. За основу ",
+  "unit": "м2",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/product/1233614/",
+  "price_vat": 895.31,
+  "date": "2026-10-29",
+  "note": "якорь Lavelly 600х600 = 1 146 руб/упак 1,44 м2; белый/Эстима +25% оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Кафельная настенная плитка Kerama Marazzi 200x200 (оранжевый) (вкл. За основу кл",
+  "unit": "м2",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/product/1233614/",
+  "price_vat": 716.25,
+  "date": "2026-10-29",
+  "note": "якорь Lavelly 600х600 = 1 146 руб/упак 1,44 м2; белый/Эстима +25% оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Кафельная настенная плитка 200x200 (цвет серый, RAL ) (вкл. За основу клей, грун",
+  "unit": "м2",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/product/1233614/",
+  "price_vat": 716.25,
+  "date": "2026-10-29",
+  "note": "якорь Lavelly 600х600 = 1 146 руб/упак 1,44 м2; белый/Эстима +25% оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Сэндвич панель толщина 120 мм (ППУ) или аналог",
+  "unit": "м2",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 3720.0,
+  "date": "2026-10-29",
+  "note": "оценка сэндвич-панели, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Сендвич-панель стеновая ППУ (ПИР) 100мм или аналог",
+  "unit": "м2",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 3360.0,
+  "date": "2026-10-29",
+  "note": "оценка сэндвич-панели, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Сэндвич панели стеновые | толщина 80 мм | базальтовые, трехслойные металлические",
+  "unit": "м2",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 2600.0,
+  "date": "2026-10-29",
+  "note": "оценка сэндвич-панели, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Гипсокартон ГКЛВ (влагостойкий гипсокартон) типа Knauf (толщина 10мм)",
+  "unit": "м2",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/product/101931/",
+  "price_vat": 218.33,
+  "date": "2026-10-29",
+  "note": "Knauf 12,5 мм 530 руб/лист 3 м2; в форме толщина 10 мм — взят лист 12,5 как аналог",
+  "vat_included": true
+ },
+ {
+  "name": "Гипсокартон ГКЛ (обычный гипсокартон) типа Knauf (толщина 10мм)",
+  "unit": "м2",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/product/101931/",
+  "price_vat": 176.67,
+  "date": "2026-10-29",
+  "note": "Knauf 12,5 мм 530 руб/лист 3 м2; в форме толщина 10 мм — взят лист 12,5 как аналог",
+  "vat_included": true
+ },
+ {
+  "name": "профиль для монтажа гипсокартона ПН 50х40 (вкл. крепежные элементы)",
+  "unit": "м",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 95,
+  "date": "2026-10-29",
+  "note": "оценка профиля Кнауф",
+  "vat_included": true
+ },
+ {
+  "name": "профиль для монтажа гипсокартона ПС 50х50 (вкл. крепежные элементы)",
+  "unit": "м",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 95,
+  "date": "2026-10-29",
+  "note": "оценка профиля Кнауф",
+  "vat_included": true
+ },
+ {
+  "name": "Краска",
+  "unit": "кг",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 700,
+  "date": "2026-10-29",
+  "note": "Hammerite оценка 700 руб/кг",
+  "vat_included": true
+ },
+ {
+  "name": "Краска",
+  "unit": "кг",
+  "shop": "Петрович",
+  "url": "https://moscow.petrovich.ru/product/103990/",
+  "price_vat": 128.57,
+  "date": "2026-10-29",
+  "note": "Петрович Москва, Текс влагостойкая 1 800 руб/14 кг",
+  "vat_included": true
+ },
+ {
+  "name": "Штукатурка наружная типа \"KNAUF sockelputz\"",
+  "unit": "кг",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 22,
+  "date": "2026-10-29",
+  "note": "оценка гипсовой/цементной штукатурки",
+  "vat_included": true
+ },
+ {
+  "name": "Шпаклевка типа UNIS фасадная",
+  "unit": "кг",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 45,
+  "date": "2026-10-29",
+  "note": "оценка шпаклёвки ~45 руб/кг",
+  "vat_included": true
+ },
+ {
+  "name": "Штукатурка внутренняя типа \"KNAUF MP 75\"",
+  "unit": "кг",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 22,
+  "date": "2026-10-29",
+  "note": "оценка гипсовой/цементной штукатурки",
+  "vat_included": true
+ },
+ {
+  "name": "Шпаклевка гипсовая типа \"Unis БЛИК\"",
+  "unit": "кг",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 45,
+  "date": "2026-10-29",
+  "note": "оценка шпаклёвки ~45 руб/кг",
+  "vat_included": true
+ },
+ {
+  "name": "Панель Випрок ламинированная 3000х1200х12,5",
+  "unit": "м2",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 900,
+  "date": "2026-10-29",
+  "note": "оценка ламинированной панели, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Лента уплотнительная 50 мм",
+  "unit": "м",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 15,
+  "date": "2026-10-29",
+  "note": "оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Уголок пластиковый 25х25 мм",
+  "unit": "м",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 40,
+  "date": "2026-10-29",
+  "note": "оценка ПВХ уголка",
+  "vat_included": true
+ },
+ {
+  "name": "Полимерная шпатлевка LR для внутренних работ. Рекомендуется ",
+  "unit": "кг",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 45,
+  "date": "2026-10-29",
+  "note": "оценка шпаклёвки ~45 руб/кг",
+  "vat_included": true
+ },
+ {
+  "name": "Полимерная шпатлевка KR для внутренних работ. Применяется дл",
+  "unit": "кг",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 45,
+  "date": "2026-10-29",
+  "note": "оценка шпаклёвки ~45 руб/кг",
+  "vat_included": true
+ },
+ {
+  "name": "Фасадная финишная шпаклевка, серая. Рекомендуется для выравнивания поверхностей ",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 2800,
+  "date": "2026-10-29",
+  "note": "оценка керамики среднего сегмента",
+  "vat_included": true
+ },
+ {
+  "name": "Универсальная самовыравнивающаяся смесь . Финишный ровнитель",
+  "unit": "кг",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 22,
+  "date": "2026-10-29",
+  "note": "оценка гипсовой/цементной штукатурки",
+  "vat_included": true
+ },
+ {
+  "name": "Уголок пластиковый 40х40 мм",
+  "unit": "м",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 40,
+  "date": "2026-10-29",
+  "note": "оценка ПВХ уголка",
+  "vat_included": true
+ },
+ {
+  "name": "Уголок пластиковый 60х60 мм",
+  "unit": "м",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 40,
+  "date": "2026-10-29",
+  "note": "оценка ПВХ уголка",
+  "vat_included": true
+ },
+ {
+  "name": "Стопор дверной типа Amig 103",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 250,
+  "date": "2026-10-29",
+  "note": "оценка фурнитуры",
+  "vat_included": true
+ },
+ {
+  "name": "Шпингалет APEX 100 мм.",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 250,
+  "date": "2026-10-29",
+  "note": "оценка фурнитуры",
+  "vat_included": true
+ },
+ {
+  "name": "Наличники дверные пвх",
+  "unit": "м",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 180,
+  "date": "2026-10-29",
+  "note": "оценка фурнитуры",
+  "vat_included": true
+ },
+ {
+  "name": "Засов дверной (Москва-№6)",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 250,
+  "date": "2026-10-29",
+  "note": "оценка фурнитуры",
+  "vat_included": true
+ },
+ {
+  "name": "Упор дверной напольный \"Крит\" УД-П60/50-Цн",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 250,
+  "date": "2026-10-29",
+  "note": "оценка фурнитуры",
+  "vat_included": true
+ },
+ {
+  "name": "Фиксатор (стопор) открытого положения двери типа Palladium \"КН\" (любой",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 250,
+  "date": "2026-10-29",
+  "note": "оценка фурнитуры",
+  "vat_included": true
+ },
+ {
+  "name": "Концевой выключатель кнопочного типа \"Elfin limit switch 050f02\"",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 160,
+  "date": "2026-10-29",
+  "note": "оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Петля СТН (белая) \"Сатурн\"",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 180,
+  "date": "2026-10-29",
+  "note": "оценка петли",
+  "vat_included": true
+ },
+ {
+  "name": "Петля дверная трёхсекционная с крепежом",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 180,
+  "date": "2026-10-29",
+  "note": "оценка петли",
+  "vat_included": true
+ },
+ {
+  "name": "Петля типа FT 65",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 180,
+  "date": "2026-10-29",
+  "note": "оценка петли",
+  "vat_included": true
+ },
+ {
+  "name": "Петля карточная типа Amig-1007-100*70 (латунь) универс.",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 180,
+  "date": "2026-10-29",
+  "note": "оценка петли",
+  "vat_included": true
+ },
+ {
+  "name": "Петля карточная типа Apecs 120*80-F-B4-Steel-CR(хром)",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 180,
+  "date": "2026-10-29",
+  "note": "оценка петли",
+  "vat_included": true
+ },
+ {
+  "name": "Петля под навесной замок",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 180,
+  "date": "2026-10-29",
+  "note": "оценка петли",
+  "vat_included": true
+ },
+ {
+  "name": "Металлическая петля под металоконструкцию d16",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 350,
+  "date": "2026-10-29",
+  "note": "оценка петли",
+  "vat_included": true
+ },
+ {
+  "name": "Дверь глухая пластиковая \"Капелли\", 900х2000, белая, комплект наличников и добор",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 15000,
+  "date": "2026-10-29",
+  "note": "оценка двери ПВХ с наличниками, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Дверей металлопластиковая одностворчатая глухая 900х2000, комплект наличников и доборов на",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 150,
+  "date": "2026-10-29",
+  "note": "оценка пресс-фитинга МП, запросить Valtec",
+  "vat_included": true
+ },
+ {
+  "name": "Двери однопольные деревянные гладкие (типа Alavus, mod 200) размер полотна:  725",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 8500,
+  "date": "2026-10-29",
+  "note": "оценка деревянной двери",
+  "vat_included": true
+ },
+ {
+  "name": "Двери однопольные деревянные гладкие (типа Alavus, mod 200) размер полотна:  825",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 8500,
+  "date": "2026-10-29",
+  "note": "оценка деревянной двери",
+  "vat_included": true
+ },
+ {
+  "name": "Двери однопольные деревянные гладкие (типа Alavus, mod 200) размер полотна:  925",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 8500,
+  "date": "2026-10-29",
+  "note": "оценка деревянной двери",
+  "vat_included": true
+ },
+ {
+  "name": "Двери однопольные деревянные гладкие (типа Alavus, mod 200) размер полотна:  102",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 8500,
+  "date": "2026-10-29",
+  "note": "оценка деревянной двери",
+  "vat_included": true
+ },
+ {
+  "name": "Дверь металлическая  противопожарная, изолированная минераловатой (типа Гефест 0",
+  "unit": "шт",
+  "shop": "Стройдвери / Гефест",
+  "url": "https://tula.stroydveri.ru/catalog/protivopozharnye-dveri/900h2100/",
+  "price_vat": 14300,
+  "date": "2026-10-29",
+  "note": "однопольная: Стройдвери от 14 300 и dverivrostove 14 500; розница Москва 01-magazin 19 500. Двупольная: Гефест 21 480, дальше по ширине. Запросить КП на размер",
+  "vat_included": true
+ },
+ {
+  "name": "Двери металлические противопожарные, изолированные минераловатой (типа Гефест 01",
+  "unit": "шт",
+  "shop": "Стройдвери / Гефест",
+  "url": "https://tula.stroydveri.ru/catalog/protivopozharnye-dveri/900h2100/",
+  "price_vat": 19690.0,
+  "date": "2026-10-29",
+  "note": "однопольная: Стройдвери от 14 300 и dverivrostove 14 500; розница Москва 01-magazin 19 500. Двупольная: Гефест 21 480, дальше по ширине. Запросить КП на размер",
+  "vat_included": true
+ },
+ {
+  "name": "Двери металлические противопожарные, изолированные минераловатой (типа Гефест 01",
+  "unit": "шт",
+  "shop": "Стройдвери / Гефест",
+  "url": "https://tula.stroydveri.ru/catalog/protivopozharnye-dveri/900h2100/",
+  "price_vat": 21480.0,
+  "date": "2026-10-29",
+  "note": "однопольная: Стройдвери от 14 300 и dverivrostove 14 500; розница Москва 01-magazin 19 500. Двупольная: Гефест 21 480, дальше по ширине. Запросить КП на размер",
+  "vat_included": true
+ },
+ {
+  "name": "Двери металлические противопожарные, изолированные минераловатой (типа Гефест 01",
+  "unit": "шт",
+  "shop": "Стройдвери / Гефест",
+  "url": "https://tula.stroydveri.ru/catalog/protivopozharnye-dveri/900h2100/",
+  "price_vat": 23270.0,
+  "date": "2026-10-29",
+  "note": "однопольная: Стройдвери от 14 300 и dverivrostove 14 500; розница Москва 01-magazin 19 500. Двупольная: Гефест 21 480, дальше по ширине. Запросить КП на размер",
+  "vat_included": true
+ },
+ {
+  "name": "Двери металлические противопожарные, изолированные минераловатой (типа Гефест 01",
+  "unit": "шт",
+  "shop": "Стройдвери / Гефест",
+  "url": "https://tula.stroydveri.ru/catalog/protivopozharnye-dveri/900h2100/",
+  "price_vat": 25060.0,
+  "date": "2026-10-29",
+  "note": "однопольная: Стройдвери от 14 300 и dverivrostove 14 500; розница Москва 01-magazin 19 500. Двупольная: Гефест 21 480, дальше по ширине. Запросить КП на размер",
+  "vat_included": true
+ },
+ {
+  "name": "Двери металлические противопожарные, изолированные минераловатой (типа Гефест 01",
+  "unit": "шт",
+  "shop": "Стройдвери / Гефест",
+  "url": "https://tula.stroydveri.ru/catalog/protivopozharnye-dveri/900h2100/",
+  "price_vat": 26850.0,
+  "date": "2026-10-29",
+  "note": "однопольная: Стройдвери от 14 300 и dverivrostove 14 500; розница Москва 01-magazin 19 500. Двупольная: Гефест 21 480, дальше по ширине. Запросить КП на размер",
+  "vat_included": true
+ },
+ {
+  "name": "Двери металлические противопожарные, изолированные минераловатой (типа Гефест 01",
+  "unit": "шт",
+  "shop": "Стройдвери / Гефест",
+  "url": "https://tula.stroydveri.ru/catalog/protivopozharnye-dveri/900h2100/",
+  "price_vat": 28640.0,
+  "date": "2026-10-29",
+  "note": "однопольная: Стройдвери от 14 300 и dverivrostove 14 500; розница Москва 01-magazin 19 500. Двупольная: Гефест 21 480, дальше по ширине. Запросить КП на размер",
+  "vat_included": true
+ },
+ {
+  "name": "Дверь металлическая одностворчатая техническая, изолированная минеральной плитой",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 18500,
+  "date": "2026-10-29",
+  "note": "оценка технической двери, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Дверной  блок:  900х2000 мм. Лист стали: 2  мм. Цвет –  серый, RAL–7038. Дверные",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 18500,
+  "date": "2026-10-29",
+  "note": "оценка технической двери, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Труба круглая, 4.88 кг/м",
+  "unit": "кг",
+  "shop": "Металлобаза (Подольск)",
+  "url": "https://msk.metallobazav.ru/catalog/chyernyy-metalloprokat/truby-profilnye/truba-profilnaya-40kh40kh2-mm/",
+  "price_vat": 60.52,
+  "date": "2026-10-29",
+  "note": "якорь 40х40х2 = 141 руб/м без НДС на 29.10.2026; второй источник Стройсталь 176,82 руб/м с НДС",
+  "vat_included": false
+ },
+ {
+  "name": "Труба круглая, 7.05 кг/м",
+  "unit": "кг",
+  "shop": "Металлобаза (Подольск)",
+  "url": "https://msk.metallobazav.ru/catalog/chyernyy-metalloprokat/truby-profilnye/truba-profilnaya-40kh40kh2-mm/",
+  "price_vat": 60.52,
+  "date": "2026-10-29",
+  "note": "якорь 40х40х2 = 141 руб/м без НДС на 29.10.2026; второй источник Стройсталь 176,82 руб/м с НДС",
+  "vat_included": false
+ },
+ {
+  "name": "Труба круглая, 8.34 кг/м",
+  "unit": "кг",
+  "shop": "Металлобаза (Подольск)",
+  "url": "https://msk.metallobazav.ru/catalog/chyernyy-metalloprokat/truby-profilnye/truba-profilnaya-40kh40kh2-mm/",
+  "price_vat": 60.52,
+  "date": "2026-10-29",
+  "note": "якорь 40х40х2 = 141 руб/м без НДС на 29.10.2026; второй источник Стройсталь 176,82 руб/м с НДС",
+  "vat_included": false
+ },
+ {
+  "name": "Труба круглая, 10.74 кг/м",
+  "unit": "кг",
+  "shop": "Металлобаза (Подольск)",
+  "url": "https://msk.metallobazav.ru/catalog/chyernyy-metalloprokat/truby-profilnye/truba-profilnaya-40kh40kh2-mm/",
+  "price_vat": 60.52,
+  "date": "2026-10-29",
+  "note": "якорь 40х40х2 = 141 руб/м без НДС на 29.10.2026; второй источник Стройсталь 176,82 руб/м с НДС",
+  "vat_included": false
+ },
+ {
+  "name": "Труба круглая, 12.15 кг/м",
+  "unit": "кг",
+  "shop": "Металлобаза (Подольск)",
+  "url": "https://msk.metallobazav.ru/catalog/chyernyy-metalloprokat/truby-profilnye/truba-profilnaya-40kh40kh2-mm/",
+  "price_vat": 60.52,
+  "date": "2026-10-29",
+  "note": "якорь 40х40х2 = 141 руб/м без НДС на 29.10.2026; второй источник Стройсталь 176,82 руб/м с НДС",
+  "vat_included": false
+ },
+ {
+  "name": "Труба профильная, 1.44 кг/м",
+  "unit": "кг",
+  "shop": "Металлобаза (Подольск)",
+  "url": "https://msk.metallobazav.ru/catalog/chyernyy-metalloprokat/truby-profilnye/truba-profilnaya-40kh40kh2-mm/",
+  "price_vat": 60.52,
+  "date": "2026-10-29",
+  "note": "якорь 40х40х2 = 141 руб/м без НДС на 29.10.2026; второй источник Стройсталь 176,82 руб/м с НДС",
+  "vat_included": false
+ },
+ {
+  "name": "Труба профильная, 1.76 кг/м",
+  "unit": "кг",
+  "shop": "Металлобаза (Подольск)",
+  "url": "https://msk.metallobazav.ru/catalog/chyernyy-metalloprokat/truby-profilnye/truba-profilnaya-40kh40kh2-mm/",
+  "price_vat": 60.52,
+  "date": "2026-10-29",
+  "note": "якорь 40х40х2 = 141 руб/м без НДС на 29.10.2026; второй источник Стройсталь 176,82 руб/м с НДС",
+  "vat_included": false
+ },
+ {
+  "name": "Труба профильная, 1.92 кг/м",
+  "unit": "кг",
+  "shop": "Металлобаза (Подольск)",
+  "url": "https://msk.metallobazav.ru/catalog/chyernyy-metalloprokat/truby-profilnye/truba-profilnaya-40kh40kh2-mm/",
+  "price_vat": 60.52,
+  "date": "2026-10-29",
+  "note": "якорь 40х40х2 = 141 руб/м без НДС на 29.10.2026; второй источник Стройсталь 176,82 руб/м с НДС",
+  "vat_included": false
+ },
+ {
+  "name": "Труба профильная, 2.39 кг/м",
+  "unit": "кг",
+  "shop": "Металлобаза (Подольск)",
+  "url": "https://msk.metallobazav.ru/catalog/chyernyy-metalloprokat/truby-profilnye/truba-profilnaya-40kh40kh2-mm/",
+  "price_vat": 60.52,
+  "date": "2026-10-29",
+  "note": "якорь 40х40х2 = 141 руб/м без НДС на 29.10.2026; второй источник Стройсталь 176,82 руб/м с НДС",
+  "vat_included": false
+ },
+ {
+  "name": "Труба профильная, 2.23 кг/м",
+  "unit": "кг",
+  "shop": "Металлобаза (Подольск)",
+  "url": "https://msk.metallobazav.ru/catalog/chyernyy-metalloprokat/truby-profilnye/truba-profilnaya-40kh40kh2-mm/",
+  "price_vat": 60.52,
+  "date": "2026-10-29",
+  "note": "якорь 40х40х2 = 141 руб/м без НДС на 29.10.2026; второй источник Стройсталь 176,82 руб/м с НДС",
+  "vat_included": false
+ },
+ {
+  "name": "Труба профильная, 3.01 кг/м",
+  "unit": "кг",
+  "shop": "Металлобаза (Подольск)",
+  "url": "https://msk.metallobazav.ru/catalog/chyernyy-metalloprokat/truby-profilnye/truba-profilnaya-40kh40kh2-mm/",
+  "price_vat": 60.52,
+  "date": "2026-10-29",
+  "note": "якорь 40х40х2 = 141 руб/м без НДС на 29.10.2026; второй источник Стройсталь 176,82 руб/м с НДС",
+  "vat_included": false
+ },
+ {
+  "name": "Труба профильная, 3.64 кг/м",
+  "unit": "кг",
+  "shop": "Металлобаза (Подольск)",
+  "url": "https://msk.metallobazav.ru/catalog/chyernyy-metalloprokat/truby-profilnye/truba-profilnaya-40kh40kh2-mm/",
+  "price_vat": 60.52,
+  "date": "2026-10-29",
+  "note": "якорь 40х40х2 = 141 руб/м без НДС на 29.10.2026; второй источник Стройсталь 176,82 руб/м с НДС",
+  "vat_included": false
+ },
+ {
+  "name": "Труба профильная, 4.27 кг/м",
+  "unit": "кг",
+  "shop": "Металлобаза (Подольск)",
+  "url": "https://msk.metallobazav.ru/catalog/chyernyy-metalloprokat/truby-profilnye/truba-profilnaya-40kh40kh2-mm/",
+  "price_vat": 60.52,
+  "date": "2026-10-29",
+  "note": "якорь 40х40х2 = 141 руб/м без НДС на 29.10.2026; второй источник Стройсталь 176,82 руб/м с НДС",
+  "vat_included": false
+ },
+ {
+  "name": "Труба профильная, 9.55 кг/м",
+  "unit": "кг",
+  "shop": "Металлобаза (Подольск)",
+  "url": "https://msk.metallobazav.ru/catalog/chyernyy-metalloprokat/truby-profilnye/truba-profilnaya-40kh40kh2-mm/",
+  "price_vat": 60.52,
+  "date": "2026-10-29",
+  "note": "якорь 40х40х2 = 141 руб/м без НДС на 29.10.2026; второй источник Стройсталь 176,82 руб/м с НДС",
+  "vat_included": false
+ },
+ {
+  "name": "Труба профильная, 14.91 кг/м",
+  "unit": "кг",
+  "shop": "Металлобаза (Подольск)",
+  "url": "https://msk.metallobazav.ru/catalog/chyernyy-metalloprokat/truby-profilnye/truba-profilnaya-40kh40kh2-mm/",
+  "price_vat": 60.52,
+  "date": "2026-10-29",
+  "note": "якорь 40х40х2 = 141 руб/м без НДС на 29.10.2026; второй источник Стройсталь 176,82 руб/м с НДС",
+  "vat_included": false
+ },
+ {
+  "name": "Труба профильная, 7.03 кг/м",
+  "unit": "кг",
+  "shop": "Металлобаза (Подольск)",
+  "url": "https://msk.metallobazav.ru/catalog/chyernyy-metalloprokat/truby-profilnye/truba-profilnaya-40kh40kh2-mm/",
+  "price_vat": 60.52,
+  "date": "2026-10-29",
+  "note": "якорь 40х40х2 = 141 руб/м без НДС на 29.10.2026; второй источник Стройсталь 176,82 руб/м с НДС",
+  "vat_included": false
+ },
+ {
+  "name": "Уголок, 1.44 кг/м",
+  "unit": "кг",
+  "shop": "Металлобаза (Подольск)",
+  "url": "https://msk.metallobazav.ru/catalog/chyernyy-metalloprokat/truby-profilnye/truba-profilnaya-40kh40kh2-mm/",
+  "price_vat": 60.52,
+  "date": "2026-10-29",
+  "note": "якорь 40х40х2 = 141 руб/м без НДС на 29.10.2026; второй источник Стройсталь 176,82 руб/м с НДС",
+  "vat_included": false
+ },
+ {
+  "name": "Уголок, 2.07 кг/м",
+  "unit": "кг",
+  "shop": "Металлобаза (Подольск)",
+  "url": "https://msk.metallobazav.ru/catalog/chyernyy-metalloprokat/truby-profilnye/truba-profilnaya-40kh40kh2-mm/",
+  "price_vat": 60.52,
+  "date": "2026-10-29",
+  "note": "якорь 40х40х2 = 141 руб/м без НДС на 29.10.2026; второй источник Стройсталь 176,82 руб/м с НДС",
+  "vat_included": false
+ },
+ {
+  "name": "Уголок, 2.70 кг/м",
+  "unit": "кг",
+  "shop": "Металлобаза (Подольск)",
+  "url": "https://msk.metallobazav.ru/catalog/chyernyy-metalloprokat/truby-profilnye/truba-profilnaya-40kh40kh2-mm/",
+  "price_vat": 60.52,
+  "date": "2026-10-29",
+  "note": "якорь 40х40х2 = 141 руб/м без НДС на 29.10.2026; второй источник Стройсталь 176,82 руб/м с НДС",
+  "vat_included": false
+ },
+ {
+  "name": "Уголок, 3.73 кг/м",
+  "unit": "кг",
+  "shop": "Металлобаза (Подольск)",
+  "url": "https://msk.metallobazav.ru/catalog/chyernyy-metalloprokat/truby-profilnye/truba-profilnaya-40kh40kh2-mm/",
+  "price_vat": 60.52,
+  "date": "2026-10-29",
+  "note": "якорь 40х40х2 = 141 руб/м без НДС на 29.10.2026; второй источник Стройсталь 176,82 руб/м с НДС",
+  "vat_included": false
+ },
+ {
+  "name": "Уголок, 5.65 кг/м",
+  "unit": "кг",
+  "shop": "Металлобаза (Подольск)",
+  "url": "https://msk.metallobazav.ru/catalog/chyernyy-metalloprokat/truby-profilnye/truba-profilnaya-40kh40kh2-mm/",
+  "price_vat": 60.52,
+  "date": "2026-10-29",
+  "note": "якорь 40х40х2 = 141 руб/м без НДС на 29.10.2026; второй источник Стройсталь 176,82 руб/м с НДС",
+  "vat_included": false
+ },
+ {
+  "name": "Уголок, 6.78 кг/м",
+  "unit": "кг",
+  "shop": "Металлобаза (Подольск)",
+  "url": "https://msk.metallobazav.ru/catalog/chyernyy-metalloprokat/truby-profilnye/truba-profilnaya-40kh40kh2-mm/",
+  "price_vat": 60.52,
+  "date": "2026-10-29",
+  "note": "якорь 40х40х2 = 141 руб/м без НДС на 29.10.2026; второй источник Стройсталь 176,82 руб/м с НДС",
+  "vat_included": false
+ },
+ {
+  "name": "Уголок, 10.61 кг/м",
+  "unit": "кг",
+  "shop": "Металлобаза (Подольск)",
+  "url": "https://msk.metallobazav.ru/catalog/chyernyy-metalloprokat/truby-profilnye/truba-profilnaya-40kh40kh2-mm/",
+  "price_vat": 60.52,
+  "date": "2026-10-29",
+  "note": "якорь 40х40х2 = 141 руб/м без НДС на 29.10.2026; второй источник Стройсталь 176,82 руб/м с НДС",
+  "vat_included": false
+ },
+ {
+  "name": "Отбойник угловой усиленный ОУУ-76 высота 350 мм.",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 4500,
+  "date": "2026-10-29",
+  "note": "оценка отбойника, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Прямой колесоотбойник КО-159.1.000 СБ",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 4500,
+  "date": "2026-10-29",
+  "note": "оценка отбойника, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Защита пожарных шкафов ЗПШ-06",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 4500,
+  "date": "2026-10-29",
+  "note": "оценка отбойника, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Защита пожарных шкафов ЗПШ-04",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 4500,
+  "date": "2026-10-29",
+  "note": "оценка отбойника, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Отбойник П-образный ОПП-1",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 4500,
+  "date": "2026-10-29",
+  "note": "оценка отбойника, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Колесоотбойник Ø159, направляющий (КМН-2ОТВ1П-159.2200-4,0)",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 4500,
+  "date": "2026-10-29",
+  "note": "оценка отбойника, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Отбойник металлический для защиты пожарных шкафов ОЗ-4.76/ ST-97",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 4500,
+  "date": "2026-10-29",
+  "note": "оценка отбойника, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Химический анкер Sormat ITH40 (или аналог)",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 4500,
+  "date": "2026-10-29",
+  "note": "оценка отбойника, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Полоса, 0.78 кг/м",
+  "unit": "кг",
+  "shop": "Металлобаза (Подольск)",
+  "url": "https://msk.metallobazav.ru/catalog/chyernyy-metalloprokat/truby-profilnye/truba-profilnaya-40kh40kh2-mm/",
+  "price_vat": 60.52,
+  "date": "2026-10-29",
+  "note": "якорь 40х40х2 = 141 руб/м без НДС на 29.10.2026; второй источник Стройсталь 176,82 руб/м с НДС",
+  "vat_included": false
+ },
+ {
+  "name": "Полоса, 1.26 кг/м",
+  "unit": "кг",
+  "shop": "Металлобаза (Подольск)",
+  "url": "https://msk.metallobazav.ru/catalog/chyernyy-metalloprokat/truby-profilnye/truba-profilnaya-40kh40kh2-mm/",
+  "price_vat": 60.52,
+  "date": "2026-10-29",
+  "note": "якорь 40х40х2 = 141 руб/м без НДС на 29.10.2026; второй источник Стройсталь 176,82 руб/м с НДС",
+  "vat_included": false
+ },
+ {
+  "name": "Полоса, 1.96 кг/м",
+  "unit": "кг",
+  "shop": "Металлобаза (Подольск)",
+  "url": "https://msk.metallobazav.ru/catalog/chyernyy-metalloprokat/truby-profilnye/truba-profilnaya-40kh40kh2-mm/",
+  "price_vat": 60.52,
+  "date": "2026-10-29",
+  "note": "якорь 40х40х2 = 141 руб/м без НДС на 29.10.2026; второй источник Стройсталь 176,82 руб/м с НДС",
+  "vat_included": false
+ },
+ {
+  "name": "Оцинкованная сетка “Рабица” 1 500 мм высота",
+  "unit": "м",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 280,
+  "date": "2026-10-29",
+  "note": "оценка сетки",
+  "vat_included": true
+ },
+ {
+  "name": "Оцинкованная сетка “Рабица” 1 800 мм высота",
+  "unit": "м",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 280,
+  "date": "2026-10-29",
+  "note": "оценка сетки",
+  "vat_included": true
+ },
+ {
+  "name": "Оцинкованная сетка “Рабица” 2 000 мм высота",
+  "unit": "м",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 280,
+  "date": "2026-10-29",
+  "note": "оценка сетки",
+  "vat_included": true
+ },
+ {
+  "name": "Лист 5.0 мм, 39.2 кг/м2",
+  "unit": "кг",
+  "shop": "Металлобаза (Подольск)",
+  "url": "https://msk.metallobazav.ru/catalog/chyernyy-metalloprokat/truby-profilnye/truba-profilnaya-40kh40kh2-mm/",
+  "price_vat": 60.52,
+  "date": "2026-10-29",
+  "note": "якорь 40х40х2 = 141 руб/м без НДС на 29.10.2026; второй источник Стройсталь 176,82 руб/м с НДС",
+  "vat_included": false
+ },
+ {
+  "name": "Лист 3.0 мм, 23.5 кг/м2",
+  "unit": "кг",
+  "shop": "Металлобаза (Подольск)",
+  "url": "https://msk.metallobazav.ru/catalog/chyernyy-metalloprokat/truby-profilnye/truba-profilnaya-40kh40kh2-mm/",
+  "price_vat": 60.52,
+  "date": "2026-10-29",
+  "note": "якорь 40х40х2 = 141 руб/м без НДС на 29.10.2026; второй источник Стройсталь 176,82 руб/м с НДС",
+  "vat_included": false
+ },
+ {
+  "name": "Лист 0.55 мм, 4.3 кг/м2",
+  "unit": "кг",
+  "shop": "Металлобаза (Подольск)",
+  "url": "https://msk.metallobazav.ru/catalog/chyernyy-metalloprokat/truby-profilnye/truba-profilnaya-40kh40kh2-mm/",
+  "price_vat": 81.7,
+  "date": "2026-10-29",
+  "note": "якорь 40х40х2 = 141 руб/м без НДС на 29.10.2026; второй источник Стройсталь 176,82 руб/м с НДС; коэффициент 1.35 к чёрному — оценка, запросить КП металлобазы",
+  "vat_included": false
+ },
+ {
+  "name": "Лист 1.5 мм, 11.8 кг/м2",
+  "unit": "кг",
+  "shop": "Металлобаза (Подольск)",
+  "url": "https://msk.metallobazav.ru/catalog/chyernyy-metalloprokat/truby-profilnye/truba-profilnaya-40kh40kh2-mm/",
+  "price_vat": 393.35,
+  "date": "2026-10-29",
+  "note": "якорь 40х40х2 = 141 руб/м без НДС на 29.10.2026; второй источник Стройсталь 176,82 руб/м с НДС; коэффициент 6.5 к чёрному — оценка, запросить КП металлобазы",
+  "vat_included": false
+ },
+ {
+  "name": "Лист 2.0 мм, 5.4 кг/м2",
+  "unit": "кг",
+  "shop": "Металлобаза (Подольск)",
+  "url": "https://msk.metallobazav.ru/catalog/chyernyy-metalloprokat/truby-profilnye/truba-profilnaya-40kh40kh2-mm/",
+  "price_vat": 423.61,
+  "date": "2026-10-29",
+  "note": "якорь 40х40х2 = 141 руб/м без НДС на 29.10.2026; второй источник Стройсталь 176,82 руб/м с НДС; коэффициент 7.0 к чёрному — оценка, запросить КП металлобазы",
+  "vat_included": false
+ },
+ {
+  "name": "Лист 10.0 мм, 78.5 кг/м2",
+  "unit": "кг",
+  "shop": "Металлобаза (Подольск)",
+  "url": "https://msk.metallobazav.ru/catalog/chyernyy-metalloprokat/truby-profilnye/truba-profilnaya-40kh40kh2-mm/",
+  "price_vat": 60.52,
+  "date": "2026-10-29",
+  "note": "якорь 40х40х2 = 141 руб/м без НДС на 29.10.2026; второй источник Стройсталь 176,82 руб/м с НДС",
+  "vat_included": false
+ },
+ {
+  "name": "Пластина, 11.3 кг",
+  "unit": "кг",
+  "shop": "Металлобаза (Подольск)",
+  "url": "https://msk.metallobazav.ru/catalog/chyernyy-metalloprokat/truby-profilnye/truba-profilnaya-40kh40kh2-mm/",
+  "price_vat": 60.52,
+  "date": "2026-10-29",
+  "note": "якорь 40х40х2 = 141 руб/м без НДС на 29.10.2026; второй источник Стройсталь 176,82 руб/м с НДС",
+  "vat_included": false
+ },
+ {
+  "name": "Лист 4.0 мм, 31.4 кг/м2",
+  "unit": "кг",
+  "shop": "Металлобаза (Подольск)",
+  "url": "https://msk.metallobazav.ru/catalog/chyernyy-metalloprokat/truby-profilnye/truba-profilnaya-40kh40kh2-mm/",
+  "price_vat": 60.52,
+  "date": "2026-10-29",
+  "note": "якорь 40х40х2 = 141 руб/м без НДС на 29.10.2026; второй источник Стройсталь 176,82 руб/м с НДС",
+  "vat_included": false
+ },
+ {
+  "name": "Металлическая сетка 100х100х4 мм",
+  "unit": "м",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 180,
+  "date": "2026-10-29",
+  "note": "оценка сетки",
+  "vat_included": true
+ },
+ {
+  "name": "Металлическая сетка 50х50х4 мм",
+  "unit": "м",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 180,
+  "date": "2026-10-29",
+  "note": "оценка сетки",
+  "vat_included": true
+ },
+ {
+  "name": "Арматура d6, 0.22 кг/м",
+  "unit": "кг",
+  "shop": "Металлобаза (Подольск)",
+  "url": "https://msk.metallobazav.ru/catalog/chyernyy-metalloprokat/truby-profilnye/truba-profilnaya-40kh40kh2-mm/",
+  "price_vat": 60.52,
+  "date": "2026-10-29",
+  "note": "якорь 40х40х2 = 141 руб/м без НДС на 29.10.2026; второй источник Стройсталь 176,82 руб/м с НДС",
+  "vat_included": false
+ },
+ {
+  "name": "Арматура d8, 0.39 кг/м",
+  "unit": "кг",
+  "shop": "Металлобаза (Подольск)",
+  "url": "https://msk.metallobazav.ru/catalog/chyernyy-metalloprokat/truby-profilnye/truba-profilnaya-40kh40kh2-mm/",
+  "price_vat": 60.52,
+  "date": "2026-10-29",
+  "note": "якорь 40х40х2 = 141 руб/м без НДС на 29.10.2026; второй источник Стройсталь 176,82 руб/м с НДС",
+  "vat_included": false
+ },
+ {
+  "name": "Арматура d10, 0.62 кг/м",
+  "unit": "кг",
+  "shop": "Металлобаза (Подольск)",
+  "url": "https://msk.metallobazav.ru/catalog/chyernyy-metalloprokat/truby-profilnye/truba-profilnaya-40kh40kh2-mm/",
+  "price_vat": 60.52,
+  "date": "2026-10-29",
+  "note": "якорь 40х40х2 = 141 руб/м без НДС на 29.10.2026; второй источник Стройсталь 176,82 руб/м с НДС",
+  "vat_included": false
+ },
+ {
+  "name": "Арматура d12, 0.89 кг/м",
+  "unit": "кг",
+  "shop": "Металлобаза (Подольск)",
+  "url": "https://msk.metallobazav.ru/catalog/chyernyy-metalloprokat/truby-profilnye/truba-profilnaya-40kh40kh2-mm/",
+  "price_vat": 60.52,
+  "date": "2026-10-29",
+  "note": "якорь 40х40х2 = 141 руб/м без НДС на 29.10.2026; второй источник Стройсталь 176,82 руб/м с НДС",
+  "vat_included": false
+ },
+ {
+  "name": "Арматура d14, 1.21 кг/м",
+  "unit": "кг",
+  "shop": "Металлобаза (Подольск)",
+  "url": "https://msk.metallobazav.ru/catalog/chyernyy-metalloprokat/truby-profilnye/truba-profilnaya-40kh40kh2-mm/",
+  "price_vat": 60.52,
+  "date": "2026-10-29",
+  "note": "якорь 40х40х2 = 141 руб/м без НДС на 29.10.2026; второй источник Стройсталь 176,82 руб/м с НДС",
+  "vat_included": false
+ },
+ {
+  "name": "Арматура d16, 1.58 кг/м",
+  "unit": "кг",
+  "shop": "Металлобаза (Подольск)",
+  "url": "https://msk.metallobazav.ru/catalog/chyernyy-metalloprokat/truby-profilnye/truba-profilnaya-40kh40kh2-mm/",
+  "price_vat": 60.52,
+  "date": "2026-10-29",
+  "note": "якорь 40х40х2 = 141 руб/м без НДС на 29.10.2026; второй источник Стройсталь 176,82 руб/м с НДС",
+  "vat_included": false
+ },
+ {
+  "name": "Контейнерная площадки для размещения двух контейнеров с равными створкамы (Габар",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 65000,
+  "date": "2026-10-29",
+  "note": "оценка металлоконструкции под заказ, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Контейнерная площадки для размещения трёх контейнеров с равными створкамы (Габар",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 90000,
+  "date": "2026-10-29",
+  "note": "оценка металлоконструкции под заказ, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Помещение для курения   (Габаритные размеры: Ш 2,0 х Д 8,0 х В 2,0 м) включая де",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 90000,
+  "date": "2026-10-29",
+  "note": "оценка металлоконструкции под заказ, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Столб ограждения металлический 60*60*2мм L=2.000мм с приварным опорным фланцем 6",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 2200,
+  "date": "2026-10-29",
+  "note": "оценка 3D-ограждения, запросить Grand Line",
+  "vat_included": true
+ },
+ {
+  "name": "Анкер 16х150",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 180,
+  "date": "2026-10-29",
+  "note": "оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Секция металлического сетчатого 3D ограждения 2.500*2.500мм (L*H), ячейка 55*200",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 2800,
+  "date": "2026-10-29",
+  "note": "оценка 3D-ограждения, запросить Grand Line",
+  "vat_included": true
+ },
+ {
+  "name": "Комплект хомутов",
+  "unit": "компл",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 90,
+  "date": "2026-10-29",
+  "note": "оценка",
+  "vat_included": true
+ },
+ {
+  "name": "3D сетка  Grand  Line Панель  Bastion  3x2,4, цветRal 6005 или аналогс 5 ребрами",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 2800,
+  "date": "2026-10-29",
+  "note": "оценка 3D-ограждения, запросить Grand Line",
+  "vat_included": true
+ },
+ {
+  "name": "Столб 60х40х1,4х2500 RAL 6005 5 отверстийМ6 (1,53/1,73/2,03) или аналог. ",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 2200,
+  "date": "2026-10-29",
+  "note": "оценка 3D-ограждения, запросить Grand Line",
+  "vat_included": true
+ },
+ {
+  "name": "Кабель ВВГ нг(А) LS 5x6 мм.кв.",
+  "unit": "м",
+  "shop": "KTZ",
+  "url": "https://ktz.ru/product/vvgng-ls-5x6/",
+  "price_vat": 422.0,
+  "date": "2026-10-29",
+  "note": "якорь ВВГнг-LS 5х6 = 422 руб/м с НДС (ktz.ru), ЭТМ 475,92; прочие сечения пропорционально меди + 90 руб оболочки, оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Кабель КВВГ нг(А) LS 5x2,5 мм.кв.",
+  "unit": "м",
+  "shop": "KTZ",
+  "url": "https://ktz.ru/product/vvgng-ls-5x6/",
+  "price_vat": 228.33,
+  "date": "2026-10-29",
+  "note": "якорь ВВГнг-LS 5х6 = 422 руб/м с НДС (ktz.ru), ЭТМ 475,92; прочие сечения пропорционально меди + 90 руб оболочки, оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Кабель саморегулирующийся 30 Вт/м",
+  "unit": "м",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 280,
+  "date": "2026-10-29",
+  "note": "оценка, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "СИП-2 -0,6/1 3х 16 + 1х25 кабель",
+  "unit": "м",
+  "shop": "Норма-кабель",
+  "url": "https://sip2a.ru/catalog/provod_sip/provod_sip_2/sip_2_3kh16_1kh25/",
+  "price_vat": 118.1,
+  "date": "2026-10-29",
+  "note": "якорь СИП-2 3х16+1х25 = 118,10 руб/м с НДС; прочие сечения пропорционально алюминию, оценка",
+  "vat_included": true
+ },
+ {
+  "name": "СИП-2 -0,6/1 3х 25 + 1х35 кабель",
+  "unit": "м",
+  "shop": "Норма-кабель",
+  "url": "https://sip2a.ru/catalog/provod_sip/provod_sip_2/sip_2_3kh16_1kh25/",
+  "price_vat": 177.96,
+  "date": "2026-10-29",
+  "note": "якорь СИП-2 3х16+1х25 = 118,10 руб/м с НДС; прочие сечения пропорционально алюминию, оценка",
+  "vat_included": true
+ },
+ {
+  "name": "СИП-2 -0,6/1 3х 35 + 1х54,6 кабель",
+  "unit": "м",
+  "shop": "Норма-кабель",
+  "url": "https://sip2a.ru/catalog/provod_sip/provod_sip_2/sip_2_3kh16_1kh25/",
+  "price_vat": 257.23,
+  "date": "2026-10-29",
+  "note": "якорь СИП-2 3х16+1х25 = 118,10 руб/м с НДС; прочие сечения пропорционально алюминию, оценка",
+  "vat_included": true
+ },
+ {
+  "name": "СИП-2 -0,6/1 3х 50 + 1х54,6 кабель",
+  "unit": "м",
+  "shop": "Норма-кабель",
+  "url": "https://sip2a.ru/catalog/provod_sip/provod_sip_2/sip_2_3kh16_1kh25/",
+  "price_vat": 330.03,
+  "date": "2026-10-29",
+  "note": "якорь СИП-2 3х16+1х25 = 118,10 руб/м с НДС; прочие сечения пропорционально алюминию, оценка",
+  "vat_included": true
+ },
+ {
+  "name": "СИП-2 -0,6/1 3х 70 + 1х54,6 кабель",
+  "unit": "м",
+  "shop": "Норма-кабель",
+  "url": "https://sip2a.ru/catalog/provod_sip/provod_sip_2/sip_2_3kh16_1kh25/",
+  "price_vat": 427.1,
+  "date": "2026-10-29",
+  "note": "якорь СИП-2 3х16+1х25 = 118,10 руб/м с НДС; прочие сечения пропорционально алюминию, оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Розетка одинарная наружная 220В 16А",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 180,
+  "date": "2026-10-29",
+  "note": "оценка; силовые ABB/CEWE — запросить КП ЭТМ",
+  "vat_included": true
+ },
+ {
+  "name": "Розетка одинарная внутренняя 220В 16А",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 180,
+  "date": "2026-10-29",
+  "note": "оценка; силовые ABB/CEWE — запросить КП ЭТМ",
+  "vat_included": true
+ },
+ {
+  "name": "Розетка двойная наружная 220В 16А",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 280,
+  "date": "2026-10-29",
+  "note": "оценка; силовые ABB/CEWE — запросить КП ЭТМ",
+  "vat_included": true
+ },
+ {
+  "name": "Розетка двойная внутренняя 220В 16А",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 280,
+  "date": "2026-10-29",
+  "note": "оценка; силовые ABB/CEWE — запросить КП ЭТМ",
+  "vat_included": true
+ },
+ {
+  "name": "Розетка тройная наружная 220В 16А",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 350,
+  "date": "2026-10-29",
+  "note": "оценка; силовые ABB/CEWE — запросить КП ЭТМ",
+  "vat_included": true
+ },
+ {
+  "name": "Розетка встраиваемая 380В 32А 3P+N+E ABB",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 2800,
+  "date": "2026-10-29",
+  "note": "оценка; силовые ABB/CEWE — запросить КП ЭТМ",
+  "vat_included": true
+ },
+ {
+  "name": "Розетка накладная 380В 32А 3P+N+E ABB",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 2800,
+  "date": "2026-10-29",
+  "note": "оценка; силовые ABB/CEWE — запросить КП ЭТМ",
+  "vat_included": true
+ },
+ {
+  "name": "Розетка встраиваемая 380В 16А 3P+N+E ABB",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 1600,
+  "date": "2026-10-29",
+  "note": "оценка; силовые ABB/CEWE — запросить КП ЭТМ",
+  "vat_included": true
+ },
+ {
+  "name": "Розетка накладная 380В 16А 3P+N+E ABB",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 1600,
+  "date": "2026-10-29",
+  "note": "оценка; силовые ABB/CEWE — запросить КП ЭТМ",
+  "vat_included": true
+ },
+ {
+  "name": "Розетка двойная наружная 220В 16А IP 54",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 448.0,
+  "date": "2026-10-29",
+  "note": "оценка; силовые ABB/CEWE — запросить КП ЭТМ",
+  "vat_included": true
+ },
+ {
+  "name": "Розетка одинарная наружная 220В 16А IP 54",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 288.0,
+  "date": "2026-10-29",
+  "note": "оценка; силовые ABB/CEWE — запросить КП ЭТМ",
+  "vat_included": true
+ },
+ {
+  "name": "Розетка с механическим таймером типа: REXANT RX-28 11-6005 или аналог",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 700,
+  "date": "2026-10-29",
+  "note": "оценка; силовые ABB/CEWE — запросить КП ЭТМ",
+  "vat_included": true
+ },
+ {
+  "name": "Розетка кабельная 125А 3Р+N+E IР67 на поверхность 415В CEWE (4125 RS6W)",
+  "unit": "м",
+  "shop": "KTZ",
+  "url": "https://ktz.ru/product/vvgng-ls-5x6/",
+  "price_vat": 134.27,
+  "date": "2026-10-29",
+  "note": "якорь ВВГнг-LS 5х6 = 422 руб/м с НДС (ktz.ru), ЭТМ 475,92; прочие сечения пропорционально меди + 90 руб оболочки, оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Вилка 380В 16А 3P+N+E АВВ",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 1600,
+  "date": "2026-10-29",
+  "note": "оценка; силовые ABB/CEWE — запросить КП ЭТМ",
+  "vat_included": true
+ },
+ {
+  "name": "Вилка 380В 32А 3P+N+E АВВ",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 2800,
+  "date": "2026-10-29",
+  "note": "оценка; силовые ABB/CEWE — запросить КП ЭТМ",
+  "vat_included": true
+ },
+ {
+  "name": "Вилка 220В 16А 2P+E АВВ",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 350,
+  "date": "2026-10-29",
+  "note": "оценка; силовые ABB/CEWE — запросить КП ЭТМ",
+  "vat_included": true
+ },
+ {
+  "name": "Вилка 220В 32А 2P+E АВВ",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 2800,
+  "date": "2026-10-29",
+  "note": "оценка; силовые ABB/CEWE — запросить КП ЭТМ",
+  "vat_included": true
+ },
+ {
+  "name": "Вилка 220В 16А евр. прямой ввод (КОРР Германия) или аналог",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 350,
+  "date": "2026-10-29",
+  "note": "оценка; силовые ABB/CEWE — запросить КП ЭТМ",
+  "vat_included": true
+ },
+ {
+  "name": "Вилка 220В 16А евр. боковой ввод (КОРР Германия) или аналог",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 350,
+  "date": "2026-10-29",
+  "note": "оценка; силовые ABB/CEWE — запросить КП ЭТМ",
+  "vat_included": true
+ },
+ {
+  "name": "Вилка кабельная 125А 3Р+N+E IР67 переносная 415В CEWE (4125 P6W)",
+  "unit": "м",
+  "shop": "KTZ",
+  "url": "https://ktz.ru/product/vvgng-ls-5x6/",
+  "price_vat": 134.27,
+  "date": "2026-10-29",
+  "note": "якорь ВВГнг-LS 5х6 = 422 руб/м с НДС (ktz.ru), ЭТМ 475,92; прочие сечения пропорционально меди + 90 руб оболочки, оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Выключатель одинарный наружный",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 160,
+  "date": "2026-10-29",
+  "note": "оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Выключатель одинарный внутренний",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 160,
+  "date": "2026-10-29",
+  "note": "оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Выключатель двойной наружный",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 160,
+  "date": "2026-10-29",
+  "note": "оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Выключатель двойной внутренний",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 160,
+  "date": "2026-10-29",
+  "note": "оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Выключатель кулачковый 25А/32А 3 пол.(Россия)",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 1400,
+  "date": "2026-10-29",
+  "note": "оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Переключатель ONU1PBR 3-х поз.(1-0-2) 25 А (АВВ) или аналог",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 1400,
+  "date": "2026-10-29",
+  "note": "оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Переключатель ONU1М 3-х поз.(1-0-2) 25 А (АВВ) или аналог",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 1400,
+  "date": "2026-10-29",
+  "note": "оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Кабель-канал 20х10 мм",
+  "unit": "м",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 51.0,
+  "date": "2026-10-29",
+  "note": "оценка короба",
+  "vat_included": true
+ },
+ {
+  "name": "Кабель-канал 32х16 мм",
+  "unit": "м",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 66.6,
+  "date": "2026-10-29",
+  "note": "оценка короба",
+  "vat_included": true
+ },
+ {
+  "name": "Кабель-канал 60х40 мм",
+  "unit": "м",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 103.0,
+  "date": "2026-10-29",
+  "note": "оценка короба",
+  "vat_included": true
+ },
+ {
+  "name": "Кабель-канал 80х40 мм",
+  "unit": "м",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 129.0,
+  "date": "2026-10-29",
+  "note": "оценка короба",
+  "vat_included": true
+ },
+ {
+  "name": "Кабель-канал 80х60 мм",
+  "unit": "м",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 129.0,
+  "date": "2026-10-29",
+  "note": "оценка короба",
+  "vat_included": true
+ },
+ {
+  "name": "Кабель-канал 100х60 мм",
+  "unit": "м",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 155.0,
+  "date": "2026-10-29",
+  "note": "оценка короба",
+  "vat_included": true
+ },
+ {
+  "name": "Кабель-канал перф. 15х17мм",
+  "unit": "м",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 44.5,
+  "date": "2026-10-29",
+  "note": "оценка короба",
+  "vat_included": true
+ },
+ {
+  "name": "Кабель-канал перф. 25х30мм",
+  "unit": "м",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 57.5,
+  "date": "2026-10-29",
+  "note": "оценка короба",
+  "vat_included": true
+ },
+ {
+  "name": "Кабель-канал перф. 40х30мм",
+  "unit": "м",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 77.0,
+  "date": "2026-10-29",
+  "note": "оценка короба",
+  "vat_included": true
+ },
+ {
+  "name": "Кабель-канал перф. 60х30мм",
+  "unit": "м",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 103.0,
+  "date": "2026-10-29",
+  "note": "оценка короба",
+  "vat_included": true
+ },
+ {
+  "name": "Кабель-канал гибкий 16x16мм ШхВ длина 500мм",
+  "unit": "м",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 45.8,
+  "date": "2026-10-29",
+  "note": "оценка короба",
+  "vat_included": true
+ },
+ {
+  "name": "Пакетные выключатели ПВ3160М3 IP00",
+  "unit": "м",
+  "shop": "KTZ",
+  "url": "https://ktz.ru/product/vvgng-ls-5x6/",
+  "price_vat": 134.27,
+  "date": "2026-10-29",
+  "note": "якорь ВВГнг-LS 5х6 = 422 руб/м с НДС (ktz.ru), ЭТМ 475,92; прочие сечения пропорционально меди + 90 руб оболочки, оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Светильник светодиодный промышленный профильный «FS-MAN-DMD-AC-LED-48-110W-65-50",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 4800,
+  "date": "2026-10-29",
+  "note": "оценка по мощности, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Светильник светодиодный промышленный профильный «FS-MAN-DMD-AC-LED-48-110W-65-50",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 6250.0,
+  "date": "2026-10-29",
+  "note": "оценка по мощности, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Светильник Arlight DL-TITAN-FRAMELESS-S600x600-40W Day4000, IP40, металл или ана",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 2200,
+  "date": "2026-10-29",
+  "note": "оценка по мощности, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Светильник аварийный ВЫХОД LED 1.5 часа",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 950,
+  "date": "2026-10-29",
+  "note": "оценка по мощности, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Светильник типа demos 2x1х58 ЕD",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 2200,
+  "date": "2026-10-29",
+  "note": "оценка по мощности, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Светильник типа demos 1х58 ЕD",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 2200,
+  "date": "2026-10-29",
+  "note": "оценка по мощности, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Светильник типа demos 1*58 EA",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 2200,
+  "date": "2026-10-29",
+  "note": "оценка по мощности, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Светодиодный прожектор WOLTA WFL-100W/06 100Вт 5700К IP65",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 4800,
+  "date": "2026-10-29",
+  "note": "оценка по мощности, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Прожектор LED IP65, 4000К, СДО-10",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 2200,
+  "date": "2026-10-29",
+  "note": "оценка по мощности, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Прожектор LED IP65, 4000К, СДО-20",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 2200,
+  "date": "2026-10-29",
+  "note": "оценка по мощности, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Прожектор LED IP65, 4000К, СДО-30",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 2200,
+  "date": "2026-10-29",
+  "note": "оценка по мощности, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Прожектор LED IP65, 4000К, СДО-50",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 2200,
+  "date": "2026-10-29",
+  "note": "оценка по мощности, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Прожектор LED IP65, 4000К, СДО-70",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 2200,
+  "date": "2026-10-29",
+  "note": "оценка по мощности, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Светильник УО PSL 36W 3865Lm Jazzway",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 2200,
+  "date": "2026-10-29",
+  "note": "оценка по мощности, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Поворотный - светильник точечный белый MR16 GU5,3",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 2200,
+  "date": "2026-10-29",
+  "note": "оценка по мощности, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Светильник для высоты подвеса 12-15м. (LED, ip65, 140Вт, 16100Лм, наружн)",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 7000,
+  "date": "2026-10-29",
+  "note": "оценка по мощности, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Светильник для высоты подвеса 6 -9 м.(LED, ip65, 70Вт, 8050Лм, наружн)",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 2200,
+  "date": "2026-10-29",
+  "note": "оценка по мощности, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Светильник для ДОКов (LED, ip65, 35Вт, 4025Лм, наружн)",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 1600.0,
+  "date": "2026-10-29",
+  "note": "оценка по мощности, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Комплект подсветки LED с креплением -  (длина профиля 1 м.п.)",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 2200,
+  "date": "2026-10-29",
+  "note": "оценка по мощности, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Лампа энергосберегающая osram 13 вт",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 80,
+  "date": "2026-10-29",
+  "note": "оценка лампы",
+  "vat_included": true
+ },
+ {
+  "name": "Лампа ДРЛ Osram 250 вт(Россия)",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 450,
+  "date": "2026-10-29",
+  "note": "оценка лампы",
+  "vat_included": true
+ },
+ {
+  "name": "Лампа ДРЛ Osram 400 вт(Россия)",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 700,
+  "date": "2026-10-29",
+  "note": "оценка лампы",
+  "vat_included": true
+ },
+ {
+  "name": "Лампа галогенная КГ-100вт 220в R7s 118мм",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 120,
+  "date": "2026-10-29",
+  "note": "оценка лампы",
+  "vat_included": true
+ },
+ {
+  "name": "Лампа галогенная КГ-150вт 220в R7S 117мм",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 120,
+  "date": "2026-10-29",
+  "note": "оценка лампы",
+  "vat_included": true
+ },
+ {
+  "name": "Лампа галогенная КГ-250вт 220в R7s 118мм",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 120,
+  "date": "2026-10-29",
+  "note": "оценка лампы",
+  "vat_included": true
+ },
+ {
+  "name": "Лампа гал.ECO 80WR7S 20X1 OSRAM Германия или аналог",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 80,
+  "date": "2026-10-29",
+  "note": "оценка лампы",
+  "vat_included": true
+ },
+ {
+  "name": "Лампа люминесцентная Osram 18вт(Россия)",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 80,
+  "date": "2026-10-29",
+  "note": "оценка лампы",
+  "vat_included": true
+ },
+ {
+  "name": "Лампа люм. 36 Вт L 36/640 RU Osram(Россия)",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 80,
+  "date": "2026-10-29",
+  "note": "оценка лампы",
+  "vat_included": true
+ },
+ {
+  "name": "Лампа люм. 58Вт L58W/640 G13 4000К Osram(Россия)",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 80,
+  "date": "2026-10-29",
+  "note": "оценка лампы",
+  "vat_included": true
+ },
+ {
+  "name": "Лампа LED 3960\\3560lm 1500мм",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 252,
+  "date": "2026-10-29",
+  "note": "оценка лампы",
+  "vat_included": true
+ },
+ {
+  "name": "Лампа люминисцентная 900мм 30W T8 G13 (765)",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 252,
+  "date": "2026-10-29",
+  "note": "оценка лампы",
+  "vat_included": true
+ },
+ {
+  "name": "Лампа люминисцентная 900мм 21W Т5 G5 (765) Navigator",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 80,
+  "date": "2026-10-29",
+  "note": "оценка лампы",
+  "vat_included": true
+ },
+ {
+  "name": "Лампа люминисцентная 600мм 18W Т8 G13 (лампа18/840)",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 80,
+  "date": "2026-10-29",
+  "note": "оценка лампы",
+  "vat_included": true
+ },
+ {
+  "name": "Светодиодная лампа Led Favourite t5 g5 18w 165-265v 1149mm glass (5800",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 252,
+  "date": "2026-10-29",
+  "note": "оценка лампы",
+  "vat_included": true
+ },
+ {
+  "name": "Лампа люминесцентная HO 54Вт/840 54Вт T5 4000К G5 OSRAM 4099854128677",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 80,
+  "date": "2026-10-29",
+  "note": "оценка лампы",
+  "vat_included": true
+ },
+ {
+  "name": "Аппарат пускорегулирующий электронный (ЭПРА) 258 для линейных ЛЛ T8",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 252,
+  "date": "2026-10-29",
+  "note": "оценка лампы",
+  "vat_included": true
+ },
+ {
+  "name": "Светильник светодиодный 93 563 NLP-MS4-25-4K 25Вт 4000К 3050лм 176–264В IP20 пан",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 1400.0,
+  "date": "2026-10-29",
+  "note": "оценка по мощности, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Лампа люминисцентная 450мм 15W T8 G13 (865)",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 252,
+  "date": "2026-10-29",
+  "note": "оценка лампы",
+  "vat_included": true
+ },
+ {
+  "name": "Лампа энергосберег. 15 Вт Е27",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 80,
+  "date": "2026-10-29",
+  "note": "оценка лампы",
+  "vat_included": true
+ },
+ {
+  "name": "Лампа накаливания 60 Вт",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 80,
+  "date": "2026-10-29",
+  "note": "оценка лампы",
+  "vat_included": true
+ },
+ {
+  "name": "Лампа светодиодная T8 G13 1200мм, 18 Вт",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 252.0,
+  "date": "2026-10-29",
+  "note": "оценка лампы",
+  "vat_included": true
+ },
+ {
+  "name": "Лампа светодиодная E27, 7-10 Вт",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 220.0,
+  "date": "2026-10-29",
+  "note": "оценка лампы",
+  "vat_included": true
+ },
+ {
+  "name": "Блок распределительный 4P 125A BRTC125A(АВВ) или аналог",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 3500,
+  "date": "2026-10-29",
+  "note": "оценка, ИБП и АКБ — запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Кросс-модуль на DIN-рейку 2х7 групп 100А ШН-103",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 600,
+  "date": "2026-10-29",
+  "note": "оценка, ИБП и АКБ — запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Кросс-модуль на DIN-рейку 4х7 групп 100А ШН-103",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 600,
+  "date": "2026-10-29",
+  "note": "оценка, ИБП и АКБ — запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Шина комплектная 1ф 12 модулей 63А (АВВ) или аналог",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 600,
+  "date": "2026-10-29",
+  "note": "оценка, ИБП и АКБ — запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Шина комплектная 2ф 12 модулей 63А (АВВ) или аналог",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 600,
+  "date": "2026-10-29",
+  "note": "оценка, ИБП и АКБ — запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Шина комплектная 3ф 12 модулей 63А (АВВ) или аналог",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 600,
+  "date": "2026-10-29",
+  "note": "оценка, ИБП и АКБ — запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Шина нулевая на DIN-изоляции Стойка ШНИ- 8х12-12",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 600,
+  "date": "2026-10-29",
+  "note": "оценка, ИБП и АКБ — запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Лоток проволочный F5 Combitech 50х50х3000(DKC)",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 1000.0,
+  "date": "2026-10-29",
+  "note": "оценка лотка DKC 3 м, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Лоток проволочный F5 Combitech 100х50х3000(DKC)",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 1300.0,
+  "date": "2026-10-29",
+  "note": "оценка лотка DKC 3 м, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Лоток проволочный F5 Combitech 200х50х3000(DKC)",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 1900.0,
+  "date": "2026-10-29",
+  "note": "оценка лотка DKC 3 м, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Лоток перфорированный S5 Combitech 50х50х3000(DKC)",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 1000.0,
+  "date": "2026-10-29",
+  "note": "оценка лотка DKC 3 м, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Лоток перфорированный S5 Combitech100х50х3000 (DKC)",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 1300.0,
+  "date": "2026-10-29",
+  "note": "оценка лотка DKC 3 м, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Лоток перфорированный S5 Combitech200х50х3000 (DKC)",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 1900.0,
+  "date": "2026-10-29",
+  "note": "оценка лотка DKC 3 м, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "крышка лотка перфорированная S5 Combitech50х15х3000 (DKC)",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 450.0,
+  "date": "2026-10-29",
+  "note": "оценка лотка DKC 3 м, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "крышка лотка перфорированная S5 Combitech100х15х3000 (DKC)",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 585.0,
+  "date": "2026-10-29",
+  "note": "оценка лотка DKC 3 м, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "крышка лотка перфорированная S5 Combitech200х15х3000 (DKC)",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 855.0,
+  "date": "2026-10-29",
+  "note": "оценка лотка DKC 3 м, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Труба ПНД Д-16",
+  "unit": "м",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 24.8,
+  "date": "2026-10-29",
+  "note": "оценка трубы ПНД/гофры",
+  "vat_included": true
+ },
+ {
+  "name": "Труба ПНД Д-20",
+  "unit": "м",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 28.0,
+  "date": "2026-10-29",
+  "note": "оценка трубы ПНД/гофры",
+  "vat_included": true
+ },
+ {
+  "name": "Труба ПНД Д-25",
+  "unit": "м",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 32.0,
+  "date": "2026-10-29",
+  "note": "оценка трубы ПНД/гофры",
+  "vat_included": true
+ },
+ {
+  "name": "Труба ПНД Д-32",
+  "unit": "м",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 37.6,
+  "date": "2026-10-29",
+  "note": "оценка трубы ПНД/гофры",
+  "vat_included": true
+ },
+ {
+  "name": "Нулевая шина медная/Шина Заземления",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 600,
+  "date": "2026-10-29",
+  "note": "оценка, ИБП и АКБ — запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Коробка распределительная 100х100х50 IP55 6 -вводов",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 180,
+  "date": "2026-10-29",
+  "note": "оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Ламподержатель для Светильника 4*18",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 2200,
+  "date": "2026-10-29",
+  "note": "оценка по мощности, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "TYCO/IEK Коробка распределительная 100х100х50мм откидная крышка 8 ввод",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 180,
+  "date": "2026-10-29",
+  "note": "оценка",
+  "vat_included": true
+ },
+ {
+  "name": "TYCO/IEK Коробка распределительная 85х85х50мм откидная крышка 8 вводов",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 180,
+  "date": "2026-10-29",
+  "note": "оценка",
+  "vat_included": true
+ },
+ {
+  "name": "TYCO|IEK Коробка распределительная 50х50х50мм откидная крышка IP54",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 180,
+  "date": "2026-10-29",
+  "note": "оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Патрон G13 для лампы освещения",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 40,
+  "date": "2026-10-29",
+  "note": "оценка лампы",
+  "vat_included": true
+ },
+ {
+  "name": "Патрон E27 для лампы освещения",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 40,
+  "date": "2026-10-29",
+  "note": "оценка лампы",
+  "vat_included": true
+ },
+ {
+  "name": "Муфта соединительная, тип Стп-10-150/240",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 4500,
+  "date": "2026-10-29",
+  "note": "оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Аккумулятор Энергия АКБ 12-55 (12В, 55 Ач, В235×Ш229×Г138)",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 8500,
+  "date": "2026-10-29",
+  "note": "оценка, ИБП и АКБ — запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "ИБП KEOR LP 3000ВА Legrand или аналог",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 45000,
+  "date": "2026-10-29",
+  "note": "оценка, ИБП и АКБ — запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Раковина подвесная 1-й величины ~45х36 см",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 2800,
+  "date": "2026-10-29",
+  "note": "оценка керамики среднего сегмента",
+  "vat_included": true
+ },
+ {
+  "name": "Раковина подвесная 2-й величины ~55х46 см",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 2800,
+  "date": "2026-10-29",
+  "note": "оценка керамики среднего сегмента",
+  "vat_included": true
+ },
+ {
+  "name": "Раковина на пъедестале 55х44 см",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 4500,
+  "date": "2026-10-29",
+  "note": "оценка керамики среднего сегмента",
+  "vat_included": true
+ },
+ {
+  "name": "Раковина угловая ~33х33 см",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 2800,
+  "date": "2026-10-29",
+  "note": "оценка керамики среднего сегмента",
+  "vat_included": true
+ },
+ {
+  "name": "Унитаз-компакт",
+  "unit": "шт",
+  "shop": "Профком",
+  "url": "https://www.profkom64.ru/product/santehnika/unitazy/unitaz_kompakt_etalon_standart_kos_nizhn_armuklad_sidpolipropilen_sanita.html",
+  "price_vat": 6526,
+  "date": "2026-10-29",
+  "note": "Sanita Эталон 6 526 руб.",
+  "vat_included": true
+ },
+ {
+  "name": "Умывальник на пьедестале С/О по центру, С/П 47 см ПОЛУКРУГЛЫЙ (390х470х840)",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 4500,
+  "date": "2026-10-29",
+  "note": "оценка керамики среднего сегмента",
+  "vat_included": true
+ },
+ {
+  "name": "Душевой поддон 90х90",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 4500,
+  "date": "2026-10-29",
+  "note": "оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Технологическая мойка из нержавеющей стали односекционная с размером чаши не мен",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 14000,
+  "date": "2026-10-29",
+  "note": "оценка нержавеющей мойки, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Котломойка из нержавеющей стали  двойная 1200х800х800 ",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 28000,
+  "date": "2026-10-29",
+  "note": "оценка нержавеющей мойки, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "пескоуловитель для поломоечн.машин ОВП120 КОВП120ПМ или аналог",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 28000.0,
+  "date": "2026-10-29",
+  "note": "оценка жироуловителя/пескоуловителя, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Пескоуловители 0,5-30 (Стандарт)",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 28000.0,
+  "date": "2026-10-29",
+  "note": "оценка жироуловителя/пескоуловителя, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Пескоуловители 0,5-50 (Стандарт)",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 28000.0,
+  "date": "2026-10-29",
+  "note": "оценка жироуловителя/пескоуловителя, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Пескоуловители 1,0-80 (Стандарт)",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 38000.0,
+  "date": "2026-10-29",
+  "note": "оценка жироуловителя/пескоуловителя, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Пескоуловители 1,5-100 (Стандарт)",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 48000.0,
+  "date": "2026-10-29",
+  "note": "оценка жироуловителя/пескоуловителя, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Заглушка ПВХ наружной канализации 110",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 90,
+  "date": "2026-10-29",
+  "note": "оценка фасонины",
+  "vat_included": true
+ },
+ {
+  "name": "Ревизия с прямоугольным люком ПВХ наружной канализации 110",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 450,
+  "date": "2026-10-29",
+  "note": "оценка фасонины",
+  "vat_included": true
+ },
+ {
+  "name": "Отвод ПП внутренней канализации 50/45",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 40,
+  "date": "2026-10-29",
+  "note": "оценка фасонины",
+  "vat_included": true
+ },
+ {
+  "name": "Отвод ПП внутренней канализации 50/67",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 40,
+  "date": "2026-10-29",
+  "note": "оценка фасонины",
+  "vat_included": true
+ },
+ {
+  "name": "Отвод ПП внутренней канализации 50/87",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 40,
+  "date": "2026-10-29",
+  "note": "оценка фасонины",
+  "vat_included": true
+ },
+ {
+  "name": "Отвод ПП внутренней канализации 110/30",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 90,
+  "date": "2026-10-29",
+  "note": "оценка фасонины",
+  "vat_included": true
+ },
+ {
+  "name": "Отвод ПП внутренней канализации 110/45",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 90,
+  "date": "2026-10-29",
+  "note": "оценка фасонины",
+  "vat_included": true
+ },
+ {
+  "name": "Переход ПП внутренней канализации 50х40",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 40,
+  "date": "2026-10-29",
+  "note": "оценка фасонины",
+  "vat_included": true
+ },
+ {
+  "name": "Переход ПП внутренней канализации 110х50",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 90,
+  "date": "2026-10-29",
+  "note": "оценка фасонины",
+  "vat_included": true
+ },
+ {
+  "name": "Крестовина ПП внутренней канализации 50х50/45",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 88.0,
+  "date": "2026-10-29",
+  "note": "оценка фасонины",
+  "vat_included": true
+ },
+ {
+  "name": "Крестовина ПП внутренней канализации 50х50/87",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 88.0,
+  "date": "2026-10-29",
+  "note": "оценка фасонины",
+  "vat_included": true
+ },
+ {
+  "name": "Крестовина ПП внутренней канализации 110х50/45",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 198.0,
+  "date": "2026-10-29",
+  "note": "оценка фасонины",
+  "vat_included": true
+ },
+ {
+  "name": "Крестовина ПП внутренней канализации 110х50/87",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 198.0,
+  "date": "2026-10-29",
+  "note": "оценка фасонины",
+  "vat_included": true
+ },
+ {
+  "name": "Крестовина ПП внутренней канализации 110х110/45",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 198.0,
+  "date": "2026-10-29",
+  "note": "оценка фасонины",
+  "vat_included": true
+ },
+ {
+  "name": "Ревизия ПП внутренней канализации 50",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 40,
+  "date": "2026-10-29",
+  "note": "оценка фасонины",
+  "vat_included": true
+ },
+ {
+  "name": "Ревизия ПП внутренней канализации 110",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 90,
+  "date": "2026-10-29",
+  "note": "оценка фасонины",
+  "vat_included": true
+ },
+ {
+  "name": "Заглушки ВПХ d 50",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 40,
+  "date": "2026-10-29",
+  "note": "оценка фасонины",
+  "vat_included": true
+ },
+ {
+  "name": "трап диаметром 100 мм",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 700,
+  "date": "2026-10-29",
+  "note": "оценка фасонины",
+  "vat_included": true
+ },
+ {
+  "name": "трап диаметром 50 мм",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 700,
+  "date": "2026-10-29",
+  "note": "оценка фасонины",
+  "vat_included": true
+ },
+ {
+  "name": "Резиновые манжеты переходные для канализационных систем 50х32",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 40,
+  "date": "2026-10-29",
+  "note": "оценка фасонины",
+  "vat_included": true
+ },
+ {
+  "name": "Резиновые манжеты переходные для канализационных систем 50х40",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 40,
+  "date": "2026-10-29",
+  "note": "оценка фасонины",
+  "vat_included": true
+ },
+ {
+  "name": "обратный клапан для канализации 110 мм",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 900,
+  "date": "2026-10-29",
+  "note": "оценка фасонины",
+  "vat_included": true
+ },
+ {
+  "name": "обратный клапан для канализации 50 мм",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 550,
+  "date": "2026-10-29",
+  "note": "оценка фасонины",
+  "vat_included": true
+ },
+ {
+  "name": "Трап HL (Hutterer Lechner) 71 с решеткой из ABS,песколовкой, гидрозатвором",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 2200,
+  "date": "2026-10-29",
+  "note": "оценка фасонины",
+  "vat_included": true
+ },
+ {
+  "name": "Труба ПП d20",
+  "unit": "м",
+  "shop": "Сантехснабопт",
+  "url": "https://santehsnabopt.ru/price-list/",
+  "price_vat": 65.85,
+  "date": "2026-10-29",
+  "note": "оценка от якоря d25 = 90 руб/м, прайс 23.04.2026 старше 45 дней",
+  "vat_included": true
+ },
+ {
+  "name": "Труба ПП d25",
+  "unit": "м",
+  "shop": "Сантехснабопт",
+  "url": "https://santehsnabopt.ru/price-list/",
+  "price_vat": 90.0,
+  "date": "2026-10-29",
+  "note": "оценка от якоря d25 = 90 руб/м, прайс 23.04.2026 старше 45 дней",
+  "vat_included": true
+ },
+ {
+  "name": "Труба ПП d40",
+  "unit": "м",
+  "shop": "Сантехснабопт",
+  "url": "https://santehsnabopt.ru/price-list/",
+  "price_vat": 173.78,
+  "date": "2026-10-29",
+  "note": "оценка от якоря d25 = 90 руб/м, прайс 23.04.2026 старше 45 дней",
+  "vat_included": true
+ },
+ {
+  "name": "Труба ПП d20",
+  "unit": "м",
+  "shop": "Сантехснабопт",
+  "url": "https://santehsnabopt.ru/price-list/",
+  "price_vat": 82.31,
+  "date": "2026-10-29",
+  "note": "оценка от якоря d25 = 90 руб/м, прайс 23.04.2026 старше 45 дней",
+  "vat_included": true
+ },
+ {
+  "name": "Труба ПП d25",
+  "unit": "м",
+  "shop": "Сантехснабопт",
+  "url": "https://santehsnabopt.ru/price-list/",
+  "price_vat": 112.5,
+  "date": "2026-10-29",
+  "note": "оценка от якоря d25 = 90 руб/м, прайс 23.04.2026 старше 45 дней",
+  "vat_included": true
+ },
+ {
+  "name": "Труба ПП d32",
+  "unit": "м",
+  "shop": "Сантехснабопт",
+  "url": "https://santehsnabopt.ru/price-list/",
+  "price_vat": 158.94,
+  "date": "2026-10-29",
+  "note": "оценка от якоря d25 = 90 руб/м, прайс 23.04.2026 старше 45 дней",
+  "vat_included": true
+ },
+ {
+  "name": "Труба ПП d40",
+  "unit": "м",
+  "shop": "Сантехснабопт",
+  "url": "https://santehsnabopt.ru/price-list/",
+  "price_vat": 217.23,
+  "date": "2026-10-29",
+  "note": "оценка от якоря d25 = 90 руб/м, прайс 23.04.2026 старше 45 дней",
+  "vat_included": true
+ },
+ {
+  "name": "Муфта переходник МП 32x26",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 260,
+  "date": "2026-10-29",
+  "note": "оценка пресс-фитинга МП, запросить Valtec",
+  "vat_included": true
+ },
+ {
+  "name": "Уголки МП d16",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 90,
+  "date": "2026-10-29",
+  "note": "оценка пресс-фитинга МП, запросить Valtec",
+  "vat_included": true
+ },
+ {
+  "name": "Уголки МП d20",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 120,
+  "date": "2026-10-29",
+  "note": "оценка пресс-фитинга МП, запросить Valtec",
+  "vat_included": true
+ },
+ {
+  "name": "Уголки МП d26",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 180,
+  "date": "2026-10-29",
+  "note": "оценка пресс-фитинга МП, запросить Valtec",
+  "vat_included": true
+ },
+ {
+  "name": "Уголки МП d32",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 260,
+  "date": "2026-10-29",
+  "note": "оценка пресс-фитинга МП, запросить Valtec",
+  "vat_included": true
+ },
+ {
+  "name": "Уголки МП с наружной резьбой d16",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 90,
+  "date": "2026-10-29",
+  "note": "оценка пресс-фитинга МП, запросить Valtec",
+  "vat_included": true
+ },
+ {
+  "name": "Уголки МП с наружной резьбой d20",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 120,
+  "date": "2026-10-29",
+  "note": "оценка пресс-фитинга МП, запросить Valtec",
+  "vat_included": true
+ },
+ {
+  "name": "Уголки МП с наружной резьбой d26",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 180,
+  "date": "2026-10-29",
+  "note": "оценка пресс-фитинга МП, запросить Valtec",
+  "vat_included": true
+ },
+ {
+  "name": "Уголки МП с наружной резьбой d32",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 260,
+  "date": "2026-10-29",
+  "note": "оценка пресс-фитинга МП, запросить Valtec",
+  "vat_included": true
+ },
+ {
+  "name": "Уголки МП с внутренней резьбой d16",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 90,
+  "date": "2026-10-29",
+  "note": "оценка пресс-фитинга МП, запросить Valtec",
+  "vat_included": true
+ },
+ {
+  "name": "Уголки МП с внутренней резьбой d20",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 120,
+  "date": "2026-10-29",
+  "note": "оценка пресс-фитинга МП, запросить Valtec",
+  "vat_included": true
+ },
+ {
+  "name": "Уголки МП с внутренней резьбой d26",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 180,
+  "date": "2026-10-29",
+  "note": "оценка пресс-фитинга МП, запросить Valtec",
+  "vat_included": true
+ },
+ {
+  "name": "Уголки МП с внутренней резьбой d32",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 260,
+  "date": "2026-10-29",
+  "note": "оценка пресс-фитинга МП, запросить Valtec",
+  "vat_included": true
+ },
+ {
+  "name": "Уголки МП с креплением d16",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 90,
+  "date": "2026-10-29",
+  "note": "оценка пресс-фитинга МП, запросить Valtec",
+  "vat_included": true
+ },
+ {
+  "name": "Уголки МП с креплением d20",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 120,
+  "date": "2026-10-29",
+  "note": "оценка пресс-фитинга МП, запросить Valtec",
+  "vat_included": true
+ },
+ {
+  "name": "Тройники соединительные МП d16",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 90,
+  "date": "2026-10-29",
+  "note": "оценка пресс-фитинга МП, запросить Valtec",
+  "vat_included": true
+ },
+ {
+  "name": "Тройники соединительные МП d20",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 120,
+  "date": "2026-10-29",
+  "note": "оценка пресс-фитинга МП, запросить Valtec",
+  "vat_included": true
+ },
+ {
+  "name": "Тройники соединительные МП d26",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 180,
+  "date": "2026-10-29",
+  "note": "оценка пресс-фитинга МП, запросить Valtec",
+  "vat_included": true
+ },
+ {
+  "name": "Тройники соединительные МП d32",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 260,
+  "date": "2026-10-29",
+  "note": "оценка пресс-фитинга МП, запросить Valtec",
+  "vat_included": true
+ },
+ {
+  "name": "Тройники переходники МП 16х20х16",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 90,
+  "date": "2026-10-29",
+  "note": "оценка пресс-фитинга МП, запросить Valtec",
+  "vat_included": true
+ },
+ {
+  "name": "Тройники переходники МП 20х16х16",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 120,
+  "date": "2026-10-29",
+  "note": "оценка пресс-фитинга МП, запросить Valtec",
+  "vat_included": true
+ },
+ {
+  "name": "Тройники переходники МП 20х16х20",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 120,
+  "date": "2026-10-29",
+  "note": "оценка пресс-фитинга МП, запросить Valtec",
+  "vat_included": true
+ },
+ {
+  "name": "Тройники переходники МП 20х20х16",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 120,
+  "date": "2026-10-29",
+  "note": "оценка пресс-фитинга МП, запросить Valtec",
+  "vat_included": true
+ },
+ {
+  "name": "Тройники переходники МП 20х26х20",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 120,
+  "date": "2026-10-29",
+  "note": "оценка пресс-фитинга МП, запросить Valtec",
+  "vat_included": true
+ },
+ {
+  "name": "Тройники переходники МП 26х16х26",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 180,
+  "date": "2026-10-29",
+  "note": "оценка пресс-фитинга МП, запросить Valtec",
+  "vat_included": true
+ },
+ {
+  "name": "Насос UPS 25-40",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 12000,
+  "date": "2026-10-29",
+  "note": "оценка, запросить КП Grundfos",
+  "vat_included": true
+ },
+ {
+  "name": "Водонагреватель 30 л",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 6400.0,
+  "date": "2026-10-29",
+  "note": "оценка Thermex, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Водонагреватель 50 л",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 8000.0,
+  "date": "2026-10-29",
+  "note": "оценка Thermex, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Водонагреватель 80 л",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 10400.0,
+  "date": "2026-10-29",
+  "note": "оценка Thermex, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Водонагреватель 100 л",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 12000.0,
+  "date": "2026-10-29",
+  "note": "оценка Thermex, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Кран шаровой латунь 11б27п1 Ду 15 G1/2\" Ру16 ВР",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 280,
+  "date": "2026-10-29",
+  "note": "оценка латунного крана 11б27п, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Кран шаровой латунь 11б27п1 Ду 20 G3/4\" Ру16 ВР",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 380,
+  "date": "2026-10-29",
+  "note": "оценка латунного крана 11б27п, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Кран шаровой латунь 11б27п1 Ду 25 G1\" Ру16 ВР",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 520,
+  "date": "2026-10-29",
+  "note": "оценка латунного крана 11б27п, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Кран шаровой латунь 11б27п1 Ду 32 G1 1/4\" Ру16 ВР",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 900,
+  "date": "2026-10-29",
+  "note": "оценка латунного крана 11б27п, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Кран шаровой латунь 11б27п1 Ду 40 G1 1/2\" Ру16 ВР",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 1400,
+  "date": "2026-10-29",
+  "note": "оценка латунного крана 11б27п, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Кран шаровой латунь 11б27п1 Ду 50 G2\" Ру16 ВР",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 2100,
+  "date": "2026-10-29",
+  "note": "оценка латунного крана 11б27п, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Кран шаровой латунь 11б27п1 Ду 15 G1/2\" Ру16 ВР/НР",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 280,
+  "date": "2026-10-29",
+  "note": "оценка латунного крана 11б27п, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Кран шаровой латунь 11б27п1 Ду 20 G3/4\" Ру16 ВР/НР",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 380,
+  "date": "2026-10-29",
+  "note": "оценка латунного крана 11б27п, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Кран шаровой латунь 11б27п1 Ду 25 G1\" Ру16 ВР/НР",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 520,
+  "date": "2026-10-29",
+  "note": "оценка латунного крана 11б27п, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Кран шаровой латунь 11б27п1 Ду 32 G1 1/4\" Ру16 ВР/НР",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 900,
+  "date": "2026-10-29",
+  "note": "оценка латунного крана 11б27п, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Кран шаровой латунь 11б27п1 Ду 40 G1 1/2\" Ру16 ВР/НР",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 1400,
+  "date": "2026-10-29",
+  "note": "оценка латунного крана 11б27п, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Кран шаровой латунь 11б27п1 Ду 50 G2\" Ру16 ВР/НР",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 2100,
+  "date": "2026-10-29",
+  "note": "оценка латунного крана 11б27п, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Кран шаровой латунь 11б27п9 Ду 15 G1/2\" Ру16 ВР/\"американка\" полнопроходной",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 420.0,
+  "date": "2026-10-29",
+  "note": "оценка латунного крана 11б27п, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Кран шаровой латунь 11б27п9 Ду 20 G3/4\" Ру16 ВР/\"американка\" полнопроходной",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 570.0,
+  "date": "2026-10-29",
+  "note": "оценка латунного крана 11б27п, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Кран шаровой латунь 11б27п9 Ду 25 G1\" Ру16 ВР/\"американка\" полнопроходной бабочка красный ",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 780.0,
+  "date": "2026-10-29",
+  "note": "оценка латунного крана 11б27п, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Кран шаровой латунь 11б27п9 Ду 32 G1 1/4\" Ру16 ВР/\"американка\" полнопроходной бабочка крас",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 1350.0,
+  "date": "2026-10-29",
+  "note": "оценка латунного крана 11б27п, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Снегодержатель трубчатый",
+  "unit": "м",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 280.0,
+  "date": "2026-10-29",
+  "note": "оценка водостока",
+  "vat_included": true
+ },
+ {
+  "name": "Конек оцинкованный профилированный",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 350,
+  "date": "2026-10-29",
+  "note": "оценка водостока, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Торцевая планка оцинкованная",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 350,
+  "date": "2026-10-29",
+  "note": "оценка водостока, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Колено большое оцинкованное",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 350,
+  "date": "2026-10-29",
+  "note": "оценка водостока, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Колено малое оцинкованное",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 350,
+  "date": "2026-10-29",
+  "note": "оценка водостока, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Канадка оцинкованная",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 350,
+  "date": "2026-10-29",
+  "note": "оценка водостока, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Желоб угловой оцинкованный",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 350,
+  "date": "2026-10-29",
+  "note": "оценка водостока, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Крепление трубы оцинкованное",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 180,
+  "date": "2026-10-29",
+  "note": "оценка водостока, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Воронка (стакан) оцинк.",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 350,
+  "date": "2026-10-29",
+  "note": "оценка водостока, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Желоб оцинкованный 1250мм",
+  "unit": "м",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 350.0,
+  "date": "2026-10-29",
+  "note": "оценка водостока",
+  "vat_included": true
+ },
+ {
+  "name": "Желоб оцинкованный 2000мм",
+  "unit": "м",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 280.0,
+  "date": "2026-10-29",
+  "note": "оценка водостока",
+  "vat_included": true
+ },
+ {
+  "name": "Крепление под желоб",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 180,
+  "date": "2026-10-29",
+  "note": "оценка водостока, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Саморез 4,8х100, 100 шт",
+  "unit": "уп",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 450,
+  "date": "2026-10-29",
+  "note": "оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Пароизоляция ТехноНИКОЛЬ",
+  "unit": "м2",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 45,
+  "date": "2026-10-29",
+  "note": "оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Желоб водосточный из оцинкованной стали 125",
+  "unit": "м",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 350.0,
+  "date": "2026-10-29",
+  "note": "оценка водостока",
+  "vat_included": true
+ },
+ {
+  "name": "Желоб водосточный из оцинкованной стали 100",
+  "unit": "м",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 280.0,
+  "date": "2026-10-29",
+  "note": "оценка водостока",
+  "vat_included": true
+ },
+ {
+  "name": "Желоб водосточный \"HUNTER\" 125 мм",
+  "unit": "м",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 525.0,
+  "date": "2026-10-29",
+  "note": "оценка водостока",
+  "vat_included": true
+ },
+ {
+  "name": "Герметик полиуретановый",
+  "unit": "кг",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 450,
+  "date": "2026-10-29",
+  "note": "оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Кабель прогрева воронки, комплект",
+  "unit": "компл",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 2500,
+  "date": "2026-10-29",
+  "note": "оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Болт анкерный М20х200мм с гайкой (применение при креплении отбойников и стеллажн",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 4500,
+  "date": "2026-10-29",
+  "note": "оценка отбойника, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Болт анкерный М16*120мм с гайкой (применение при креплении отбойников и стеллажн",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 4500,
+  "date": "2026-10-29",
+  "note": "оценка отбойника, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Пластина металлическая монтажная для упорного бампера 500*250*100мм",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 1800,
+  "date": "2026-10-29",
+  "note": "оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Резиновый упор бампер 500*250*100мм",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 3500,
+  "date": "2026-10-29",
+  "note": "оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Пленка ПВХ, морозостойкая, шир. 200х2мм (проезд на РЦ)",
+  "unit": "м",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 148.5,
+  "date": "2026-10-29",
+  "note": "оценка ленты ПВХ",
+  "vat_included": true
+ },
+ {
+  "name": "Пленка ПВХ, морозостойкая, шир. 300х3мм (проезд на РЦ)",
+  "unit": "м",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 195.75,
+  "date": "2026-10-29",
+  "note": "оценка ленты ПВХ",
+  "vat_included": true
+ },
+ {
+  "name": "Пленка ПВХ, морозостойкая, шир. 400х4мм (проезд на РЦ)",
+  "unit": "м",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 243.0,
+  "date": "2026-10-29",
+  "note": "оценка ленты ПВХ",
+  "vat_included": true
+ },
+ {
+  "name": "Пленка ПВХ, стандартная, шир. 200х2мм (проезд на РЦ)",
+  "unit": "м",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 110.0,
+  "date": "2026-10-29",
+  "note": "оценка ленты ПВХ",
+  "vat_included": true
+ },
+ {
+  "name": "Пленка ПВХ, стантартная, шир. 300х3мм (проезд на РЦ)",
+  "unit": "м",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 145.0,
+  "date": "2026-10-29",
+  "note": "оценка ленты ПВХ",
+  "vat_included": true
+ },
+ {
+  "name": "Пленка ПВХ, стандартная, шир. 400х4мм (проезд на РЦ)",
+  "unit": "м",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 180.0,
+  "date": "2026-10-29",
+  "note": "оценка ленты ПВХ",
+  "vat_included": true
+ },
+ {
+  "name": "Пожарный извещатель ручной электроконтактный Рубеж ИПР 513-10 или анал",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 450,
+  "date": "2026-10-29",
+  "note": "оценка ИПР",
+  "vat_included": true
+ },
+ {
+  "name": "Пожарный шкаф МИГ Метинтергрупп ШПК-320 НЗК 320-21 евро-ручка 1300х540х230 мм",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 11000,
+  "date": "2026-10-29",
+  "note": "оценка пожарного шкафа, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Пожарный шкаф ООО Метинтергрупп ШПКО-320 НЗК евро-ручка или аналог",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 11000,
+  "date": "2026-10-29",
+  "note": "оценка пожарного шкафа, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Пожарный шкаф ООО Метинтергрупп ШПК-310 НЗБ евро-ручка или аналог",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 11000,
+  "date": "2026-10-29",
+  "note": "оценка пожарного шкафа, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Шкаф пожарный Балтика-01 навесной ШП-К-320-21 НЗК (2ПК) ЗМ 1300x540x230 красный ",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 11000,
+  "date": "2026-10-29",
+  "note": "оценка пожарного шкафа, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Шкаф пожарный ШПК-320-12 НЗК или аналог",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 11000,
+  "date": "2026-10-29",
+  "note": "оценка пожарного шкафа, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Шкаф ШПК-315 НОК650х840х230 или аналог",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 11000,
+  "date": "2026-10-29",
+  "note": "оценка пожарного шкафа, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Пожарный шкаф ШПК-320Н (540х1300х230) закрытый ",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 11000,
+  "date": "2026-10-29",
+  "note": "оценка пожарного шкафа, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Шкаф пожарный Балтика-01 навесной ШП-К-320-21 НЗК (2ПК) ЗМ 1300x540x230 красный",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 11000,
+  "date": "2026-10-29",
+  "note": "оценка пожарного шкафа, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Ремкомплект гидроузла рохли",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 1500,
+  "date": "2026-10-29",
+  "note": "оценка ЗИП рохли",
+  "vat_included": true
+ },
+ {
+  "name": "Масло гидравлическое ",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 400,
+  "date": "2026-10-29",
+  "note": "оценка ЗИП рохли",
+  "vat_included": true
+ },
+ {
+  "name": "Смазка консистентная (400 мл)",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 250,
+  "date": "2026-10-29",
+  "note": "оценка ЗИП рохли",
+  "vat_included": true
+ },
+ {
+  "name": "Колесо (ведущее) опорное рохли (ступица - алюминий; контактный слой - ",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 2800,
+  "date": "2026-10-29",
+  "note": "оценка ЗИП рохли",
+  "vat_included": true
+ },
+ {
+  "name": "Пружина гидроузла рохли",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 1500,
+  "date": "2026-10-29",
+  "note": "оценка ЗИП рохли",
+  "vat_included": true
+ },
+ {
+  "name": "Клапан перепускной гидроузла Рохли",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 1500,
+  "date": "2026-10-29",
+  "note": "оценка ЗИП рохли",
+  "vat_included": true
+ },
+ {
+  "name": "ИПР-3СУ извещатель пожарный ручной или аналог",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 450,
+  "date": "2026-10-29",
+  "note": "оценка ИПР",
+  "vat_included": true
+ },
+ {
+  "name": "Болид ИПР 513-3М или аналог",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 450,
+  "date": "2026-10-29",
+  "note": "оценка ИПР",
+  "vat_included": true
+ },
+ {
+  "name": "Защитный кожух ЗК-5 для ИПР или аналог",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 200,
+  "date": "2026-10-29",
+  "note": "оценка ИПР",
+  "vat_included": true
+ },
+ {
+  "name": "Колесо промышленное поворотное с площадкой SC 55 (125 мм; 100 кг) вклю",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 1200.0,
+  "date": "2026-10-29",
+  "note": "оценка колеса",
+  "vat_included": true
+ },
+ {
+  "name": "Колесо промышленное поворотное с площадкой SC 80 (200 мм; 185 кг)включ",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 1500.0,
+  "date": "2026-10-29",
+  "note": "оценка колеса",
+  "vat_included": true
+ },
+ {
+  "name": "Колесо промышленное поворотное с подшипником 75мм резина/сталь Gigant ",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 1000.0,
+  "date": "2026-10-29",
+  "note": "оценка колеса",
+  "vat_included": true
+ },
+ {
+  "name": "Колесо промышленное поворотное с подшипником 200мм резина/сталь Gigant",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 1500.0,
+  "date": "2026-10-29",
+  "note": "оценка колеса",
+  "vat_included": true
+ },
+ {
+  "name": "Устройство выравнивающих слоев из фанеры, оргалита, ДСП, ГКЛ и т.п.",
+  "unit": "м2",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/product/101931/",
+  "price_vat": 176.67,
+  "date": "2026-10-29",
+  "note": "Knauf 12,5 мм 530 руб/лист 3 м2; в форме толщина 10 мм — взят лист 12,5 как аналог",
+  "vat_included": true
+ },
+ {
+  "name": "ЦПС",
+  "unit": "кг",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 12,
+  "date": "2026-10-29",
+  "note": "оценка слой 20 мм",
+  "vat_included": true
+ },
+ {
+  "name": "Ровнитель",
+  "unit": "кг",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 25,
+  "date": "2026-10-29",
+  "note": "оценка слой ~5 мм",
+  "vat_included": true
+ },
+ {
+  "name": "Клей C2",
+  "unit": "кг",
+  "shop": "Арткерамика",
+  "url": "https://artkeramika-opt.ru/catalog/plitochnyy-kley/",
+  "price_vat": 23.6,
+  "date": "2026-10-29",
+  "note": "Laparet Monolith 590 руб/25 кг",
+  "vat_included": true
+ },
+ {
+  "name": "Клей для линолеума",
+  "unit": "кг",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 180,
+  "date": "2026-10-29",
+  "note": "оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Обшивка существующих колонн, откосов и коробов ГКВЛ",
+  "unit": "м2",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/product/101931/",
+  "price_vat": 218.33,
+  "date": "2026-10-29",
+  "note": "Knauf 12,5 мм 530 руб/лист 3 м2; в форме толщина 10 мм — взят лист 12,5 как аналог",
+  "vat_included": true
+ },
+ {
+  "name": "Штукатурка стен/перегородок/откосов/колонн",
+  "unit": "кг",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 22,
+  "date": "2026-10-29",
+  "note": "оценка гипсовой/цементной штукатурки",
+  "vat_included": true
+ },
+ {
+  "name": "Шпаклевка стен/перегородок/откосов/колонн с оклейкой поверхн",
+  "unit": "кг",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 45,
+  "date": "2026-10-29",
+  "note": "оценка шпаклёвки ~45 руб/кг",
+  "vat_included": true
+ },
+ {
+  "name": "Доводчик",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 1800,
+  "date": "2026-10-29",
+  "note": "оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Пена противопожарная",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 450,
+  "date": "2026-10-29",
+  "note": "оценка баллона",
+  "vat_included": true
+ },
+ {
+  "name": "Прокладка/локальная замена многожильных/одножильных кабелей ",
+  "unit": "м",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 16.8,
+  "date": "2026-10-29",
+  "note": "оценка трубы ПНД/гофры",
+  "vat_included": true
+ },
+ {
+  "name": "Прокладка/локальная замена многожильных/одножильных кабелей ",
+  "unit": "м",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 40.0,
+  "date": "2026-10-29",
+  "note": "оценка трубы ПНД/гофры",
+  "vat_included": true
+ },
+ {
+  "name": "Клипсы и дюбели",
+  "unit": "компл",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 15,
+  "date": "2026-10-29",
+  "note": "комплект к 10.2.N3",
+  "vat_included": true
+ },
+ {
+  "name": "Подрозетник/клемма",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 25,
+  "date": "2026-10-29",
+  "note": "оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Монтаж/ремонт фитингов трубопроводов",
+  "unit": "м",
+  "shop": "KTZ",
+  "url": "https://ktz.ru/product/vvgng-ls-5x6/",
+  "price_vat": 134.27,
+  "date": "2026-10-29",
+  "note": "якорь ВВГнг-LS 5х6 = 422 руб/м с НДС (ktz.ru), ЭТМ 475,92; прочие сечения пропорционально меди + 90 руб оболочки, оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Ремонт фитингов трубопроводов",
+  "unit": "м",
+  "shop": "KTZ",
+  "url": "https://ktz.ru/product/vvgng-ls-5x6/",
+  "price_vat": 134.27,
+  "date": "2026-10-29",
+  "note": "якорь ВВГнг-LS 5х6 = 422 руб/м с НДС (ktz.ru), ЭТМ 475,92; прочие сечения пропорционально меди + 90 руб оболочки, оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Опора ОГК-7 с кронштейном",
+  "unit": "компл",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 42000,
+  "date": "2026-10-29",
+  "note": "оценка опоры, запросить КП Амира",
+  "vat_included": true
+ },
+ {
+  "name": "Фасонка окрашенная, ~1,3 кг/м",
+  "unit": "кг",
+  "shop": "Металлобаза (Подольск)",
+  "url": "https://msk.metallobazav.ru/catalog/chyernyy-metalloprokat/truby-profilnye/truba-profilnaya-40kh40kh2-mm/",
+  "price_vat": 81.7,
+  "date": "2026-10-29",
+  "note": "якорь 40х40х2 = 141 руб/м без НДС на 29.10.2026; второй источник Стройсталь 176,82 руб/м с НДС; коэффициент 1.35 к чёрному — оценка, запросить КП металлобазы",
+  "vat_included": false
+ },
+ {
+  "name": "Рулонный газон и грунт",
+  "unit": "м2",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 180,
+  "date": "2026-10-29",
+  "note": "оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Стенд пожарный",
+  "unit": "шт",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 4500,
+  "date": "2026-10-29",
+  "note": "оценка",
+  "vat_included": true
+ },
+ {
+  "name": "ФЭС-31 наличник обрамления ворот размеры по месту",
+  "unit": "м",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 180,
+  "date": "2026-10-29",
+  "note": "оценка фурнитуры",
+  "vat_included": true
+ },
+ {
+  "name": "Уплотнительная лента ППЭ 3/30 20м.п",
+  "unit": "м",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 15,
+  "date": "2026-10-29",
+  "note": "оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Шлагбаум Came Gard 6500",
+  "unit": "шт",
+  "shop": "Тинко",
+  "url": "https://www.tinko.ru/catalog/product/287288/",
+  "price_vat": 158900,
+  "date": "2026-10-29",
+  "note": "G6500 KIT 158 900 руб. Тинко и СЕК-ГРУПП; proshlagbaum 159 900. Монтаж в расценке отдельно",
+  "vat_included": true
+ },
+ {
+  "name": "Перила для лестницы нержавейка комплект АЛЮТРЕЙД или аналог  включая монтаж и ан",
+  "unit": "м",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 4500,
+  "date": "2026-10-29",
+  "note": "оценка нержавеющего ограждения, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Профнастил С-10 дляфасада RAL по месту",
+  "unit": "м2",
+  "shop": "оценка",
+  "url": "",
+  "price_vat": 560,
+  "date": "2026-10-29",
+  "note": "оценка профлиста С8 0,45–0,5, запросить металлобазу",
+  "vat_included": true
+ }
+]
