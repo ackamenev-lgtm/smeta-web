@@ -20,7 +20,7 @@ from docx import Document
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import tarif
-from paths import COMMON
+from paths import REQUISITES
 
 warnings.filterwarnings("ignore")
 
@@ -78,7 +78,7 @@ def tender_of(types, name):
 
 
 def requisites():
-    path = COMMON / "Реквизиты - НЕОСТРОЙ ООО.docx"
+    path = REQUISITES
     if not path.exists():
         return {}
     doc = Document(path)
