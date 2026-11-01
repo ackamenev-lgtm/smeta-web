@@ -1,0 +1,852 @@
+[
+  {
+    "name": "Амортизатор D40x25-M10x25",
+    "unit": "шт.",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 5126,
+    "date": "2026-11-01",
+    "note": "Как пружинный амортизатор DoorHan, половина комплекта 10 251",
+    "vat_included": true
+  },
+  {
+    "name": "Комплект ролика противовеса",
+    "unit": "шт.",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 516,
+    "date": "2026-11-01",
+    "note": "Ролик 120 мм, doorhan-moscow.com 516. Второй источник korn.ru 890 за 190 мм — другая деталь, в строку взят 120 мм",
+    "vat_included": true
+  },
+  {
+    "name": "Комплект ролика противовеса М2/М3",
+    "unit": "шт.",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 516,
+    "date": "2026-11-01",
+    "note": "Ролик 120 мм, doorhan-moscow.com 516. Второй источник korn.ru 890 за 190 мм — другая деталь, в строку взят 120 мм",
+    "vat_included": true
+  },
+  {
+    "name": "Ручка для управления воротами вручную",
+    "unit": "шт.",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 1271,
+    "date": "2026-11-01",
+    "note": "Ручка R020, doorhan-moscow.com 1 271",
+    "vat_included": true
+  },
+  {
+    "name": "ALUTECH Внутренняя петля",
+    "unit": "м",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 460,
+    "date": "2026-11-01",
+    "note": "Внутренняя петля, shop.korn.ru 460",
+    "vat_included": true
+  },
+  {
+    "name": "ALUTECH Накладка роликовая",
+    "unit": "шт.",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 516,
+    "date": "2026-11-01",
+    "note": "Ролик 120 мм, doorhan-moscow.com 516. Второй источник korn.ru 890 за 190 мм — другая деталь, в строку взят 120 мм",
+    "vat_included": true
+  },
+  {
+    "name": "Alutech Вставка уплотнительная (нижняя)",
+    "unit": "шт.",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 1473,
+    "date": "2026-11-01",
+    "note": "Нижний уплотнитель 80042, doorhan-moscow.com 1 473",
+    "vat_included": true
+  },
+  {
+    "name": "Задвижка ворота.",
+    "unit": "шт.",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 3031,
+    "date": "2026-11-01",
+    "note": "Задвижка в землю, doorhan-moscow.com 3 031. Compact 1 719 — если в названии Compact",
+    "vat_included": true
+  },
+  {
+    "name": "Ролик",
+    "unit": "Комплект",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 516,
+    "date": "2026-11-01",
+    "note": "Ролик 120 мм, doorhan-moscow.com 516. Второй источник korn.ru 890 за 190 мм — другая деталь, в строку взят 120 мм",
+    "vat_included": true
+  },
+  {
+    "name": "Роликодержатель",
+    "unit": "Комплект",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 516,
+    "date": "2026-11-01",
+    "note": "Ролик 120 мм, doorhan-moscow.com 516. Второй источник korn.ru 890 за 190 мм — другая деталь, в строку взят 120 мм",
+    "vat_included": true
+  },
+  {
+    "name": "Петля средняя",
+    "unit": "шт.",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 460,
+    "date": "2026-11-01",
+    "note": "Внутренняя петля, shop.korn.ru 460",
+    "vat_included": true
+  },
+  {
+    "name": "Ролик верхний прижимной для троса с креплением",
+    "unit": "шт.",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 516,
+    "date": "2026-11-01",
+    "note": "Ролик 120 мм, doorhan-moscow.com 516. Второй источник korn.ru 890 за 190 мм — другая деталь, в строку взят 120 мм",
+    "vat_included": true
+  },
+  {
+    "name": "Ручка, с внутренней стороны ворот",
+    "unit": "шт.",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 1271,
+    "date": "2026-11-01",
+    "note": "Ручка R020, doorhan-moscow.com 1 271",
+    "vat_included": true
+  },
+  {
+    "name": "Ручка пакетного выключателя.",
+    "unit": "шт.",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 1271,
+    "date": "2026-11-01",
+    "note": "Ручка R020, doorhan-moscow.com 1 271",
+    "vat_included": true
+  },
+  {
+    "name": "Большой бампер 500х250х100мм",
+    "unit": "шт.",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 23163,
+    "date": "2026-11-01",
+    "note": "DoorHan OE05 бампер 500×250×100 консольный, constructor-rf.ru 23 163",
+    "vat_included": true
+  },
+  {
+    "name": "Нижний профиль для уплотнителя",
+    "unit": "шт.",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 1473,
+    "date": "2026-11-01",
+    "note": "Нижний уплотнитель 80042, doorhan-moscow.com 1 473",
+    "vat_included": true
+  },
+  {
+    "name": "Боковая опора (петля без ролика)",
+    "unit": "шт.",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 460,
+    "date": "2026-11-01",
+    "note": "Внутренняя петля, shop.korn.ru 460",
+    "vat_included": true
+  },
+  {
+    "name": "Ролик тандем",
+    "unit": "шт.",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 516,
+    "date": "2026-11-01",
+    "note": "Ролик 120 мм, doorhan-moscow.com 516. Второй источник korn.ru 890 за 190 мм — другая деталь, в строку взят 120 мм",
+    "vat_included": true
+  },
+  {
+    "name": "Роликодержатель оцинкованный",
+    "unit": "шт.",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 516,
+    "date": "2026-11-01",
+    "note": "Ролик 120 мм, doorhan-moscow.com 516. Второй источник korn.ru 890 за 190 мм — другая деталь, в строку взят 120 мм",
+    "vat_included": true
+  },
+  {
+    "name": "Ходовой ролик тип К",
+    "unit": "шт.",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 516,
+    "date": "2026-11-01",
+    "note": "Ролик 120 мм, doorhan-moscow.com 516. Второй источник korn.ru 890 за 190 мм — другая деталь, в строку взят 120 мм",
+    "vat_included": true
+  },
+  {
+    "name": "Ручка наружная 3530",
+    "unit": "шт.",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 1271,
+    "date": "2026-11-01",
+    "note": "Ручка R020, doorhan-moscow.com 1 271",
+    "vat_included": true
+  },
+  {
+    "name": "Комплект аксессуаров для верхнего рельса Castel (состав: 2 ролика, 2 кронштейна, 2 упора)",
+    "unit": "шт.",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 516,
+    "date": "2026-11-01",
+    "note": "Ролик 120 мм, doorhan-moscow.com 516. Второй источник korn.ru 890 за 190 мм — другая деталь, в строку взят 120 мм",
+    "vat_included": true
+  },
+  {
+    "name": "Пружинный амортизатор, 25041",
+    "unit": "шт.",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 5126,
+    "date": "2026-11-01",
+    "note": "Комплект L/R 10 251 на doorhan-moscow.com, одна сторона 10 251 / 2",
+    "vat_included": true
+  },
+  {
+    "name": "Пружинный амортизатор укороченный, 25026",
+    "unit": "шт.",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 4344,
+    "date": "2026-11-01",
+    "note": "Комплект укороченного L/R 8 688 на doorhan-moscow.com, в строке одна сторона 8 688 / 2",
+    "vat_included": true
+  },
+  {
+    "name": "Барабан (OMI 18), 11002",
+    "unit": "шт.",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 8020,
+    "date": "2026-11-01",
+    "note": "OMI 18, doorhan-russia.com 8 020, СПб 8 421",
+    "vat_included": true
+  },
+  {
+    "name": "Барабан (OMI 32), 11003",
+    "unit": "шт.",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 60439,
+    "date": "2026-11-01",
+    "note": "OMI 32, doorhan-russia.com 60 439; на вал 1 1/4\" 64 245",
+    "vat_included": true
+  },
+  {
+    "name": "Барабан (OMI 32) на вал 1 1/4\", 23002",
+    "unit": "шт.",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 64245,
+    "date": "2026-11-01",
+    "note": "OMI 32 на вал 1 1/4\", doorhan-russia.com 64 245, СПб 67 458",
+    "vat_included": true
+  },
+  {
+    "name": "Барабан (OMI 54 HL), 11006",
+    "unit": "шт.",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 9951,
+    "date": "2026-11-01",
+    "note": "OMI 54 HL, doorhan-russia.com 9 951, СПб 10 449",
+    "vat_included": true
+  },
+  {
+    "name": "Барабан (OMI 120 HL), 11007",
+    "unit": "шт.",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 13568,
+    "date": "2026-11-01",
+    "note": "OMI 120 HL, doorhan-russia.com 13 568, СПб 14 247",
+    "vat_included": true
+  },
+  {
+    "name": "Барабан (OMI 164 HL), 11008",
+    "unit": "шт.",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 59397,
+    "date": "2026-11-01",
+    "note": "OMI 164 HL, doorhan-russia.com 59 397; на вал 1,25\" 62 500",
+    "vat_included": true
+  },
+  {
+    "name": "Барабан (OMI 164 HL) на вал ф1,25\", 28002",
+    "unit": "шт.",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 62500,
+    "date": "2026-11-01",
+    "note": "OMI 164 HL на вал 1,25\", doorhan-russia.com 62 500, СПб 65 625",
+    "vat_included": true
+  },
+  {
+    "name": "Барабан (OMI 11 VL), 11009",
+    "unit": "шт.",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 9696,
+    "date": "2026-11-01",
+    "note": "OMI 11 VL, doorhan-russia.com 9 696, СПб 10 181",
+    "vat_included": true
+  },
+  {
+    "name": "Барабан (OMI 18 VL), 11010",
+    "unit": "шт.",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 18857,
+    "date": "2026-11-01",
+    "note": "OMI 18 VL, doorhan-russia.com 18 857, СПб 19 801",
+    "vat_included": true
+  },
+  {
+    "name": "Барабан (OMI 28 VL), 11012",
+    "unit": "шт.",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 116206,
+    "date": "2026-11-01",
+    "note": "OMI 28 VL, doorhan-russia.com 116 206, СПб 122 017",
+    "vat_included": true
+  },
+  {
+    "name": "Задвижка, 25135",
+    "unit": "шт.",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 3031,
+    "date": "2026-11-01",
+    "note": "Задвижка в землю, doorhan-moscow.com 3 031. Compact 1 719 — если в названии Compact",
+    "vat_included": true
+  },
+  {
+    "name": "Внутренняя петля облегченная для панелей с новой формой профиля RAL9003, N25233-1/RAL9003",
+    "unit": "шт.",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 460,
+    "date": "2026-11-01",
+    "note": "Внутренняя петля, shop.korn.ru 460",
+    "vat_included": true
+  },
+  {
+    "name": "Петля внутренняя малая для панелей стандартного типа RAL9003, 25233-2/RAL9003",
+    "unit": "шт.",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 460,
+    "date": "2026-11-01",
+    "note": "Внутренняя петля, shop.korn.ru 460",
+    "vat_included": true
+  },
+  {
+    "name": "Ролик 120 мм black, 25010B",
+    "unit": "шт.",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 516,
+    "date": "2026-11-01",
+    "note": "Ролик 120 мм, doorhan-moscow.com 516. Второй источник korn.ru 890 за 190 мм — другая деталь, в строку взят 120 мм",
+    "vat_included": true
+  },
+  {
+    "name": "Ролик 190 мм black, 25011B",
+    "unit": "шт.",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 890,
+    "date": "2026-11-01",
+    "note": "Ролик 190 мм, shop.korn.ru 890",
+    "vat_included": true
+  },
+  {
+    "name": "Ручка-ступенька для промышленных секционных ворот с логотипом, DHF09LG",
+    "unit": "шт.",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 1271,
+    "date": "2026-11-01",
+    "note": "Ручка R020, doorhan-moscow.com 1 271",
+    "vat_included": true
+  },
+  {
+    "name": "Универсальная ручка и ступенька из ПВХ с логотипом, DH25132LG",
+    "unit": "шт.",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 1271,
+    "date": "2026-11-01",
+    "note": "Ручка R020, doorhan-moscow.com 1 271",
+    "vat_included": true
+  },
+  {
+    "name": "Ручка выступающая c логотипом, DH25131LG",
+    "unit": "шт.",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 1271,
+    "date": "2026-11-01",
+    "note": "Ручка R020, doorhan-moscow.com 1 271",
+    "vat_included": true
+  },
+  {
+    "name": "Изделие цеха секционных ворот, DUS-011-6, Уплотнитель нижний",
+    "unit": "шт.",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 1473,
+    "date": "2026-11-01",
+    "note": "Нижний уплотнитель 80042, doorhan-moscow.com 1 473",
+    "vat_included": true
+  },
+  {
+    "name": "Устройство защиты от разрыва левой пружины Big, SSD-310L",
+    "unit": "шт.",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 8915,
+    "date": "2026-11-01",
+    "note": "Устройство Big, doorhan-moscow.com 8 915 за сторону",
+    "vat_included": true
+  },
+  {
+    "name": "Устройство защиты от разрыва левой пружины Big с кронш. крепления к стене, SSD-312L",
+    "unit": "шт.",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 8915,
+    "date": "2026-11-01",
+    "note": "Устройство Big, doorhan-moscow.com 8 915 за сторону",
+    "vat_included": true
+  },
+  {
+    "name": "Устройство защиты от разрыва троса с регулировкой натяжения троса, 25450REG",
+    "unit": "шт.",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 11170,
+    "date": "2026-11-01",
+    "note": "Пара 22 340 на doorhan-moscow.com, в строке одна сторона",
+    "vat_included": true
+  },
+  {
+    "name": "Ролик из нержавеющей стали 120мм, 25012G",
+    "unit": "шт.",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 516,
+    "date": "2026-11-01",
+    "note": "Ролик 120 мм, doorhan-moscow.com 516. Второй источник korn.ru 890 за 190 мм — другая деталь, в строку взят 120 мм",
+    "vat_included": true
+  },
+  {
+    "name": "Ролик из нержавеющей стали 190мм, 25011N",
+    "unit": "шт.",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 890,
+    "date": "2026-11-01",
+    "note": "Ролик 190 мм, shop.korn.ru 890",
+    "vat_included": true
+  },
+  {
+    "name": "Внутренняя петля для панелей с новой формой профиля (нержавеющая сталь 2мм), N25233-1NR",
+    "unit": "шт.",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 460,
+    "date": "2026-11-01",
+    "note": "Внутренняя петля, shop.korn.ru 460",
+    "vat_included": true
+  },
+  {
+    "name": "Изделие цеха секционных ворот, DUS-011-6, Вставка под пружину 95 модифицированная L=3000, Пружина окрашенная 95- 8,5 правая, Окончание пружины",
+    "unit": "шт.",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 1819,
+    "date": "2026-11-01",
+    "note": "Окончание пружины нижнее, doorhan-moscow.com 1 819",
+    "vat_included": true
+  },
+  {
+    "name": "Изделие цеха секционных ворот, DUS-011-6, Сборка пружины, Вставка под пружину 95 на октогональный вал L=3000, Пружина окрашенная 95- 7,0 левая, окончание пружины",
+    "unit": "шт.",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 1819,
+    "date": "2026-11-01",
+    "note": "Окончание пружины нижнее, doorhan-moscow.com 1 819",
+    "vat_included": true
+  },
+  {
+    "name": "Изделие цеха секционных ворот, DUS-011-6, Пружина окрашенная 152-10,0 левая, Окончание пружины М152 L (OMI 6\" S), Сборка пружины",
+    "unit": "шт.",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 1819,
+    "date": "2026-11-01",
+    "note": "Окончание пружины нижнее, doorhan-moscow.com 1 819",
+    "vat_included": true
+  },
+  {
+    "name": "Изделие цеха складского оборудования, DUS-011-8, Шторка правая в сборе с роликом L=2500 мм",
+    "unit": "шт.",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 516,
+    "date": "2026-11-01",
+    "note": "Ролик 120 мм, doorhan-moscow.com 516. Второй источник korn.ru 890 за 190 мм — другая деталь, в строку взят 120 мм",
+    "vat_included": true
+  },
+  {
+    "name": "Бампер резиновый Doorhan 450х250х100",
+    "unit": "шт",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 8635,
+    "date": "2026-11-01",
+    "note": "Бампер 450×250×100 без анкеров, constructor-rf.ru 8 635",
+    "vat_included": true
+  },
+  {
+    "name": "Кронштейн с роликом левый. Комплект.",
+    "unit": "шт",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 516,
+    "date": "2026-11-01",
+    "note": "Ролик 120 мм, doorhan-moscow.com 516. Второй источник korn.ru 890 за 190 мм — другая деталь, в строку взят 120 мм",
+    "vat_included": true
+  },
+  {
+    "name": "Кронштейн с роликом правый. Комплект.",
+    "unit": "шт",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 516,
+    "date": "2026-11-01",
+    "note": "Ролик 120 мм, doorhan-moscow.com 516. Второй источник korn.ru 890 за 190 мм — другая деталь, в строку взят 120 мм",
+    "vat_included": true
+  },
+  {
+    "name": "Ручка внутренняя ОД FS-W.104. Комплект",
+    "unit": "шт",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 1271,
+    "date": "2026-11-01",
+    "note": "Ручка R020, doorhan-moscow.com 1 271",
+    "vat_included": true
+  },
+  {
+    "name": "Ручка внешняя ОД W.060-S100. Комплект",
+    "unit": "шт",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 1271,
+    "date": "2026-11-01",
+    "note": "Ручка R020, doorhan-moscow.com 1 271",
+    "vat_included": true
+  },
+  {
+    "name": "Роликодержатель нижний правый",
+    "unit": "шт",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 516,
+    "date": "2026-11-01",
+    "note": "Ролик 120 мм, doorhan-moscow.com 516. Второй источник korn.ru 890 за 190 мм — другая деталь, в строку взят 120 мм",
+    "vat_included": true
+  },
+  {
+    "name": "Роликодержатель нижний левый",
+    "unit": "шт",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 516,
+    "date": "2026-11-01",
+    "note": "Ролик 120 мм, doorhan-moscow.com 516. Второй источник korn.ru 890 за 190 мм — другая деталь, в строку взят 120 мм",
+    "vat_included": true
+  },
+  {
+    "name": "Нижний уплотнитель UP19",
+    "unit": "шт",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 1473,
+    "date": "2026-11-01",
+    "note": "Нижний уплотнитель 80042, doorhan-moscow.com 1 473",
+    "vat_included": true
+  },
+  {
+    "name": "Профиль алюминиевый нижний для панелей ворот L=2850",
+    "unit": "шт",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 13860,
+    "date": "2026-11-01",
+    "note": "Профиль 80041/M, doorhan-moscow.com 13 860",
+    "vat_included": true
+  },
+  {
+    "name": "Ролик в сборе левый, HDLHL-2.920,",
+    "unit": "шт",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 516,
+    "date": "2026-11-01",
+    "note": "Ролик 120 мм, doorhan-moscow.com 516. Второй источник korn.ru 890 за 190 мм — другая деталь, в строку взят 120 мм",
+    "vat_included": true
+  },
+  {
+    "name": "Ролик в сборе правый, HDLHL-2.820,",
+    "unit": "шт",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 516,
+    "date": "2026-11-01",
+    "note": "Ролик 120 мм, doorhan-moscow.com 516. Второй источник korn.ru 890 за 190 мм — другая деталь, в строку взят 120 мм",
+    "vat_included": true
+  },
+  {
+    "name": "Внешняя маятниковая ручка для откатных холодильных дверей 3530/Е-115 (***)",
+    "unit": "шт",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 1271,
+    "date": "2026-11-01",
+    "note": "Ручка R020, doorhan-moscow.com 1 271",
+    "vat_included": true
+  },
+  {
+    "name": "Ручка-рычаг ОД 80 F",
+    "unit": "шт",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 1271,
+    "date": "2026-11-01",
+    "note": "Ручка R020, doorhan-moscow.com 1 271",
+    "vat_included": true
+  },
+  {
+    "name": "СБ Ролик Т",
+    "unit": "шт",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 516,
+    "date": "2026-11-01",
+    "note": "Ролик 120 мм, doorhan-moscow.com 516. Второй источник korn.ru 890 за 190 мм — другая деталь, в строку взят 120 мм",
+    "vat_included": true
+  },
+  {
+    "name": "Ролик ходовой R-130-12-G",
+    "unit": "шт",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 516,
+    "date": "2026-11-01",
+    "note": "Ролик 120 мм, doorhan-moscow.com 516. Второй источник korn.ru 890 за 190 мм — другая деталь, в строку взят 120 мм",
+    "vat_included": true
+  },
+  {
+    "name": "Ролик ходовой R-130-11-SS",
+    "unit": "шт",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 516,
+    "date": "2026-11-01",
+    "note": "Ролик 120 мм, doorhan-moscow.com 516. Второй источник korn.ru 890 за 190 мм — другая деталь, в строку взят 120 мм",
+    "vat_included": true
+  },
+  {
+    "name": "Ролик ходовой R-130-12-G",
+    "unit": "шт",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 516,
+    "date": "2026-11-01",
+    "note": "Ролик 120 мм, doorhan-moscow.com 516. Второй источник korn.ru 890 за 190 мм — другая деталь, в строку взят 120 мм",
+    "vat_included": true
+  },
+  {
+    "name": "Ролик ходовой R-130-12-SS",
+    "unit": "шт",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 516,
+    "date": "2026-11-01",
+    "note": "Ролик 120 мм, doorhan-moscow.com 516. Второй источник korn.ru 890 за 190 мм — другая деталь, в строку взят 120 мм",
+    "vat_included": true
+  },
+  {
+    "name": "Петля промежуточная IH-114",
+    "unit": "шт",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 460,
+    "date": "2026-11-01",
+    "note": "Внутренняя петля, shop.korn.ru 460",
+    "vat_included": true
+  },
+  {
+    "name": "Петля промежуточная IH111",
+    "unit": "шт",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 460,
+    "date": "2026-11-01",
+    "note": "Внутренняя петля, shop.korn.ru 460",
+    "vat_included": true
+  },
+  {
+    "name": "Петля промежуточная IH112",
+    "unit": "шт",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 460,
+    "date": "2026-11-01",
+    "note": "Внутренняя петля, shop.korn.ru 460",
+    "vat_included": true
+  },
+  {
+    "name": "Петля промежуточная IH113",
+    "unit": "шт",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 460,
+    "date": "2026-11-01",
+    "note": "Внутренняя петля, shop.korn.ru 460",
+    "vat_included": true
+  },
+  {
+    "name": "Петля промежуточная WH011",
+    "unit": "шт",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 460,
+    "date": "2026-11-01",
+    "note": "Внутренняя петля, shop.korn.ru 460",
+    "vat_included": true
+  },
+  {
+    "name": "Петля промежуточная WH013",
+    "unit": "шт",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 460,
+    "date": "2026-11-01",
+    "note": "Внутренняя петля, shop.korn.ru 460",
+    "vat_included": true
+  },
+  {
+    "name": "CD010N барабан АЛЮТЕХ",
+    "unit": "шт",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 7280,
+    "date": "2026-11-01",
+    "note": "CD010N, alutech-russia.com 7 280",
+    "vat_included": true
+  },
+  {
+    "name": "CD011V барабан АЛЮТЕХ",
+    "unit": "шт",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 20290,
+    "date": "2026-11-01",
+    "note": "CD011V, alutech-russia.com 20 290",
+    "vat_included": true
+  },
+  {
+    "name": "CD012N барабан АЛЮТЕХ",
+    "unit": "шт",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 8850,
+    "date": "2026-11-01",
+    "note": "CD012N, alutech-russia.com 8 850",
+    "vat_included": true
+  },
+  {
+    "name": "CD018N барабан АЛЮТЕХ",
+    "unit": "шт",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 14940,
+    "date": "2026-11-01",
+    "note": "CD018N, alutech-russia.com 14 940",
+    "vat_included": true
+  },
+  {
+    "name": "CD018V барабан АЛЮТЕХ",
+    "unit": "шт",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 39830,
+    "date": "2026-11-01",
+    "note": "CD018V, alutech-russia.com 39 830",
+    "vat_included": true
+  },
+  {
+    "name": "CD018V-5/4 барабан АЛЮТЕХ",
+    "unit": "шт",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 39830,
+    "date": "2026-11-01",
+    "note": "CD018V-5/4, alutech-russia.com 39 830",
+    "vat_included": true
+  },
+  {
+    "name": "CD032N барабан АЛЮТЕХ",
+    "unit": "шт",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 52755,
+    "date": "2026-11-01",
+    "note": "CD032N, premiumvorota.ru 52 755; alutech-russia.com 73 980, взята меньшая",
+    "vat_included": true
+  },
+  {
+    "name": "CD032N-5/4 барабан АЛЮТЕХ",
+    "unit": "шт",
+    "shop": "дилер DoorHan/Alutech",
+    "url": "https://doorhan-russia.com/vorota/sektsionnye-garagnye-vorota/zapchasti-dlya-sektsionnyh-vorot/",
+    "price_vat": 52755,
+    "date": "2026-11-01",
+    "note": "CD032N-5/4, premiumvorota.ru 52 755; alutech-russia.com 73 980, взята меньшая",
+    "vat_included": true
+  }
+]
