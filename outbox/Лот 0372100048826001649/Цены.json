@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Асфальтобетон крупнозернистый плотный тип А марка I или II",
+    "unit": "т",
+    "shop": "АБЗ asphalt-spb",
+    "url": "https://asphalt-spb.ru/asphalt/asfaltobetonnoy-smesi.html",
+    "price_vat": 4850,
+    "date": "2026-11-02",
+    "note": "с НДС, марка I или II одной строкой",
+    "vat_included": true
+  },
+  {
+    "name": "Асфальтобетон мелкозернистый плотный тип А марка II",
+    "unit": "т",
+    "shop": "М-Бетон",
+    "url": "https://spb.ooombeton.ru/katalog/goryachij-asfalt/smes-asfaltobetonnaya-goryachaya-melkozernistaya-tip-a-marka-2/",
+    "price_vat": 4330,
+    "date": "2026-11-02",
+    "note": "с НДС",
+    "vat_included": true
+  },
+  {
+    "name": "Асфальтобетон мелкозернистый плотный тип А марка II",
+    "unit": "т",
+    "shop": "МосБетон СПб",
+    "url": "https://spb.moscow-beton.ru/price/asfalt/",
+    "price_vat": 4750,
+    "date": "2026-11-01",
+    "note": "с НДС, прайс обновлён 01.11.2026",
+    "vat_included": true
+  },
+  {
+    "name": "Щебень гравийный М1000 фракция 20-40",
+    "unit": "м3",
+    "shop": "ПБК Бетон",
+    "url": "https://pbkbeton.ru/gravijnyj-scheben-frakcii-20-40",
+    "price_vat": 650,
+    "date": "2026-11-02",
+    "note": "НДС на странице не выделен",
+    "vat_included": true
+  },
+  {
+    "name": "Щебень гравийный М1000 фракция 20-40",
+    "unit": "м3",
+    "shop": "Гравелит",
+    "url": "https://gravelit-spb.ru/sheben-v-spb/gravijnyj-sheben-spb/gravijnyj-sheben-20-40/",
+    "price_vat": 1250,
+    "date": "2026-11-02",
+    "note": "розница 1250, акция от 1150, НДС не выделен",
+    "vat_included": true
+  },
+  {
+    "name": "Песок мытый",
+    "unit": "м3",
+    "shop": "АТП Транс-Строй",
+    "url": "https://atpts.ru/ceny/",
+    "price_vat": 500,
+    "date": "2026-11-02",
+    "note": "работаем с НДС",
+    "vat_included": true
+  },
+  {
+    "name": "Песок среднезернистый",
+    "unit": "м3",
+    "shop": "Гравелит",
+    "url": "https://gravelit-spb.ru/pesok-stroitelnyj/",
+    "price_vat": 650,
+    "date": "2026-11-02",
+    "note": "от 650",
+    "vat_included": true
+  },
+  {
+    "name": "Люк чугунный тяжёлый Т(С250) ГОСТ 3634-2019 840х100",
+    "unit": "шт",
+    "shop": "Петрович",
+    "url": "https://petrovich.ru/product/104671/",
+    "price_vat": 11412,
+    "date": "2026-11-02",
+    "note": "с НДС",
+    "vat_included": true
+  },
+  {
+    "name": "Люк тяжёлый С250 лаз 600",
+    "unit": "шт",
+    "shop": "Молодой Ударник",
+    "url": "https://udarnik.spb.ru/ceny/ceny_na_lyuki/",
+    "price_vat": 4220,
+    "date": "2026-11-02",
+    "note": "с НДС, в расчёт не взят: люк есть в Петровиче",
+    "vat_included": true
+  },
+  {
+    "name": "Люк чугунный лёгкий дождеприёмный",
+    "unit": "шт",
+    "shop": "Петрович",
+    "url": "https://petrovich.ru/catalog/12103/",
+    "price_vat": 13793,
+    "date": "2026-11-02",
+    "note": "с НДС",
+    "vat_included": true
+  },
+  {
+    "name": "Кольцо КС10.9",
+    "unit": "шт",
+    "shop": "Петрович",
+    "url": "https://petrovich.ru/catalog/812/",
+    "price_vat": 5890,
+    "date": "2026-11-02",
+    "note": "без карты; с картой 5730",
+    "vat_included": true
+  },
+  {
+    "name": "Плита ПП10-2",
+    "unit": "шт",
+    "shop": "ВестГрупп",
+    "url": "https://westgr.ru/zjbi/Inzhenernoe-stroitelstvo/Kolca-i-kolodcy/plity-perekrytiya-kolodcev/zhbi-kolca-plita_perekrytiya_pp_10_2",
+    "price_vat": 2050,
+    "date": "2026-11-02",
+    "note": "НДС не выделен",
+    "vat_included": true
+  },
+  {
+    "name": "Плита ПП10-2",
+    "unit": "шт",
+    "shop": "Молодой Ударник",
+    "url": "https://udarnik.spb.ru/produkty_i_uslugi/zhbi/kolodeznye_kolca/plity_perekrytiya_kolodtsa/pp_10_2_paz_greben/",
+    "price_vat": 3080,
+    "date": "2026-11-02",
+    "note": "до 10 шт",
+    "vat_included": true
+  },
+  {
+    "name": "Кольцо опорное КО-6",
+    "unit": "шт",
+    "shop": "ЖБИ78",
+    "url": "https://gbi78.ru/kolczo-opornoe-ko-6.html",
+    "price_vat": 480,
+    "date": "2026-11-02",
+    "note": "объём 0,02 м3, НДС не выделен",
+    "vat_included": true
+  },
+  {
+    "name": "Кольцо опорное КО-6",
+    "unit": "шт",
+    "shop": "ВестГрупп",
+    "url": "https://westgr.ru/zjbi/Inzhenernoe-stroitelstvo/Kolca-i-kolodcy/Kolco-opornoe/ko-6",
+    "price_vat": 500,
+    "date": "2026-11-02",
+    "note": "НДС не выделен",
+    "vat_included": true
+  },
+  {
+    "name": "Раствор кладочный М100",
+    "unit": "м3",
+    "shop": "Бетон-Гуру",
+    "url": "https://spb.betongu.ru/tsementniy-rastvor/m100",
+    "price_vat": 3130,
+    "date": "2026-08-13",
+    "note": "с НДС, без доставки",
+    "vat_included": true
+  },
+  {
+    "name": "Раствор кладочный М100",
+    "unit": "м3",
+    "shop": "МосБетон СПб",
+    "url": "https://spb.moscow-beton.ru/catalog/tsementnye_smesi/kladochnaya_smes/kladochnaya_smes_kladochnyy_rastvor_m100/",
+    "price_vat": 3145,
+    "date": "2026-11-02",
+    "note": "с НДС",
+    "vat_included": true
+  },
+  {
+    "name": "Эмульсия ЭБДК Б-50",
+    "unit": "т",
+    "shop": "СК Ермак",
+    "url": "https://sk-ermak.ru/products/ebk-1/",
+    "price_vat": 26000,
+    "date": "2026-11-02",
+    "note": "с НДС, самовывоз",
+    "vat_included": true
+  }
+]
