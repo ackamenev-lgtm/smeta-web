@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Фанкойл MDV MDKH2-V500-R3, двухтрубный, холод 4,3 кВт",
+    "unit": "шт",
+    "shop": "Комфорт-климат",
+    "url": "https://komfort-climat.ru/product/mdv-mdkh2-v500-r3/",
+    "price_vat": 145000,
+    "date": "2026-11-02",
+    "note": "запросить КП поставщика. Второй источник cernis.ru 145000 руб. с НДС. В Петровиче, Лемана ПРО и Сатурне фанкойлов нет. Группа формы 4,20/1,91 кВт: взят ближайший не ниже полного холода. Явный холод в карточке не указан. Термостат в комплект не входит.",
+    "vat_included": true
+  },
+  {
+    "name": "Фанкойл MDV MDKH2-500-R4, двухтрубный, холод 5,35 кВт",
+    "unit": "шт",
+    "shop": "Mircli",
+    "url": "https://mircli.ru/gorizontalnye-fankojly/do-8-kvt/Mdv/bytovye/",
+    "price_vat": 113000,
+    "date": "2026-11-02",
+    "note": "оценка, один источник, запросить КП поставщика. В Петровиче, Лемана ПРО и Сатурне нет. Полный холод совпадает с формой 5,35 кВт. Явный холод 2,51 кВт карточка не подтверждает. Термостат отдельно.",
+    "vat_included": true
+  },
+  {
+    "name": "Фанкойл MDV MDKH2-700-R4, двухтрубный, холод 6,75 кВт",
+    "unit": "шт",
+    "shop": "iclim",
+    "url": "https://iclim.ru/catalog/promyshlennye_konditsionery/fankoyly/mdv_mdkh2_700_r4/",
+    "price_vat": 129000,
+    "date": "2026-11-02",
+    "note": "запросить КП поставщика. Цена с НДС 22%, для юрлиц без наценки. Второй источник Mircli 129000 руб. Группа формы 6,66 кВт, мощность L=1400 в форме помечена как уточняемая. Явный холод 3,40 кВт не подтверждён.",
+    "vat_included": true
+  },
+  {
+    "name": "Фанкойл MDV MDKH2-700-R4 для 4 точек без обмера",
+    "unit": "шт",
+    "shop": "iclim",
+    "url": "https://iclim.ru/catalog/promyshlennye_konditsionery/fankoyly/mdv_mdkh2_700_r4/",
+    "price_vat": 129000,
+    "date": "2026-11-02",
+    "note": "оценка. В форме предварительно Dantex DF-024UDB/M, холод 6,66 кВт, открытой цены нет. Принят MDV той же полной мощности. Точки этаж 1 № 1–4 не обмерены. Запросить КП поставщика.",
+    "vat_included": true
+  },
+  {
+    "name": "Фильтр косой Valtec VT.192.N.05 3/4",
+    "unit": "шт",
+    "shop": "Петрович Москва",
+    "url": "https://moscow.petrovich.ru/catalog/285396790/filtry-3-4/",
+    "price_vat": 710,
+    "date": "2026-11-02",
+    "note": "один источник, доля меньше 5% оборудования. DN проекта не задан, принято 3/4 по присоединению выбранных фанкойлов.",
+    "vat_included": true
+  },
+  {
+    "name": "Фанкойл MDV MDKH2-V500-R3, двухтрубный, холод 4,3 кВт",
+    "unit": "шт",
+    "shop": "Cernis",
+    "url": "https://www.cernis.ru/mdv-mdkh2-v500-r3",
+    "price_vat": 145000,
+    "date": "2026-11-02",
+    "note": "второй источник, запросить КП поставщика",
+    "vat_included": true
+  },
+  {
+    "name": "Фанкойл MDV MDKH2-700-R4, двухтрубный, холод 6,75 кВт",
+    "unit": "шт",
+    "shop": "Mircli",
+    "url": "https://mircli.ru/gorizontalnye-fankojly/do-8-kvt/Mdv/bytovye/",
+    "price_vat": 129000,
+    "date": "2026-11-02",
+    "note": "второй источник к iclim",
+    "vat_included": true
+  }
+]
