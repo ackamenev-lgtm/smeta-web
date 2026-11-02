@@ -1,0 +1,82 @@
+[
+  {
+    "name": "ТО АПС и СОУЭ, пакет на ~510 элементов",
+    "unit": "мес",
+    "shop": "ПТМ24 / ООО СБГ",
+    "url": "https://ptm24.ru/obsluzhivanie-sistem-aps-i-soue/",
+    "price_vat": 15455,
+    "date": "2026-11-02",
+    "note": "оценка, прайс «от»: 8490 за 101–200 элементов + 995 за каждые 50 сверх 200. Услуга, не товар.",
+    "vat_included": true
+  },
+  {
+    "name": "ТО АПС, ориентир 100–200 элементов и экстраполяция",
+    "unit": "мес",
+    "shop": "eng-net",
+    "url": "https://peresvet.eng-net.ru/uslugi/sistema-pozarnoi-signalizacii/technicheskoe-obsluzivanie/",
+    "price_vat": 14700,
+    "date": "2026-11-02",
+    "note": "оценка. Пакет 100–200 элементов 8500 руб/мес, дальше +20 руб/элемент. В расчёт не ставился, сверка к ПТМ24.",
+    "vat_included": true
+  },
+  {
+    "name": "ТО автоматического пожаротушения",
+    "unit": "мес",
+    "shop": "ПТМ24",
+    "url": "https://ptm24.ru/obsluzhivanie-sistem-aps-i-soue/",
+    "price_vat": 6900,
+    "date": "2026-11-02",
+    "note": "оценка, один источник, цена «от». Услуга.",
+    "vat_included": true
+  },
+  {
+    "name": "ТО газового пожаротушения, 1–10 модулей",
+    "unit": "мес",
+    "shop": "Контур безопасности",
+    "url": "https://scontur.ru/uslugi/tehnicheskoe-obsluzhivanie/sistemy-pozharotusheniya/texnicheskoe-obsluzhivanie-sistem-gazovogo-pozharotusheniya",
+    "price_vat": 5000,
+    "date": "2026-11-02",
+    "note": "оценка, цена «от». В расчёт взята медиана 7900.",
+    "vat_included": true
+  },
+  {
+    "name": "ТО газового пожаротушения, помещение до 70 м²",
+    "unit": "мес",
+    "shop": "ПТМ24",
+    "url": "https://ptm24.ru/obsluzhivanie-gazovogo-pozharotusheniya/",
+    "price_vat": 7900,
+    "date": "2026-11-02",
+    "note": "оценка, цена «от». Принято в расчёт как медиана трёх минимумов.",
+    "vat_included": true
+  },
+  {
+    "name": "ТО газового пожаротушения",
+    "unit": "мес",
+    "shop": "ГК Тринити",
+    "url": "https://gktriniti.ru/services/gazovoe/obsluzhivanie-gas/",
+    "price_vat": 12500,
+    "date": "2026-11-02",
+    "note": "оценка, цена «от». В медиану минимумов.",
+    "vat_included": true
+  },
+  {
+    "name": "ТО прецизионного кондиционера, один визит",
+    "unit": "усл",
+    "shop": "Энергостар",
+    "url": "https://climatstar.ru/articles/obsluzhivanie-fankoylov/",
+    "price_vat": 7100,
+    "date": "2026-11-02",
+    "note": "оценка, низ вилки 7100–14000. Второй источник не найден. 4 агрегата × 4 визита в год.",
+    "vat_included": true
+  },
+  {
+    "name": "Страхование ГО юрлица, лимит 10 млн",
+    "unit": "год",
+    "shop": "ВТБ",
+    "url": "https://www.vtb.ru/malyj-biznes/servisy-v-pomoshch-biznesu/strahovanie-otvetstvennosti/",
+    "price_vat": 77000,
+    "date": "2026-11-02",
+    "note": "тариф на 10 млн. Лимит ТЗ 30 млн в открытом прайсе нет: в смете оценка 77000×3, без НДС как страховая премия (vat_included false).",
+    "vat_included": false
+  }
+]
