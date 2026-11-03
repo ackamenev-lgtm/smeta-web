@@ -1,0 +1,42 @@
+[
+ {
+  "name": "Тест кислотности масла Errecom Acid-Test RK1349 (упаковка 4 теста)",
+  "unit": "упак",
+  "shop": "zip-sm.ru (Москва)",
+  "url": "https://zip-sm.ru/product/test-kislotnosti-errecom-rk1349/",
+  "price_vat": 1860,
+  "date": "2026-11-03",
+  "note": "в Петровиче/Лемана ПРО/Сатурне нет",
+  "vat_included": true
+ },
+ {
+  "name": "Тест кислотности масла Errecom Acid-Test RK1349 (упаковка 4 теста)",
+  "unit": "упак",
+  "shop": "klimat4you.ru «Ваш климат» (Москва)",
+  "url": "https://www.klimat4you.ru/catalog/khimicheskie_komponenty_i_masla/test_kistlotnosti/",
+  "price_vat": 2150,
+  "date": "2026-11-03",
+  "note": "второй источник",
+  "vat_included": true
+ },
+ {
+  "name": "Очиститель-концентрат конденсаторов щелочной Errecom Nano Alkaline Cleaner AB1106.P.01, 5 л",
+  "unit": "шт",
+  "shop": "Промхолод (holod.promholod.com, Москва)",
+  "url": "https://holod.promholod.com/katalog/chistyaschie_sredstva/chistyaschie_sredstva79",
+  "price_vat": 1900,
+  "date": "2026-11-03",
+  "note": "в Петровиче/Лемана ПРО/Сатурне нет",
+  "vat_included": true
+ },
+ {
+  "name": "Очиститель-концентрат конденсаторов щелочной Errecom Nano Alkaline Cleaner AB1106.P.01, 5 л",
+  "unit": "шт",
+  "shop": "Геофрост (geofrost.ru, Химки)",
+  "url": "https://geofrost.ru/tools/khimiya-erricom-italiya/ochistitel-kontsentrat-kondensatorov-shchelochnoy-5l-nano-alkaline-cleaner-av1106-r-01/",
+  "price_vat": 2172,
+  "date": "2026-11-03",
+  "note": "второй источник",
+  "vat_included": true
+ }
+]
