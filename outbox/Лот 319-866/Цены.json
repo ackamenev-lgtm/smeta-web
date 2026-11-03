@@ -1,0 +1,22 @@
+[
+ {
+  "name": "Очиститель-дезинфектант кондиционеров Clean Point CP-A16, спрей 600 мл",
+  "unit": "шт",
+  "shop": "Дайкин (russia-daikin.ru), СПб",
+  "url": "https://spb.russia-daikin.ru/clean-point-cp-a16-sredstvo-dlya-dezinfektsii-i-ochistki-konditsionerov/",
+  "price_vat": 400,
+  "date": "2026-11-03",
+  "note": "в Петровиче нет, в Лемана ПРО аналог 0,4 л без цены",
+  "vat_included": true
+ },
+ {
+  "name": "Очиститель кондиционеров 1NEW, 500 мл",
+  "unit": "шт",
+  "shop": "Вимос, СПб",
+  "url": "https://vimos.ru/product/ochistitel-kondicionerov-500ml-1new",
+  "price_vat": 499,
+  "date": "2026-11-03",
+  "note": "второй источник",
+  "vat_included": true
+ }
+]
