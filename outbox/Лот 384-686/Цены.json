@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Припой ПОС-61 с канифолью REXANT 09-3110, 1 мм, 1 м",
+    "unit": "шт",
+    "shop": "ЭТМ",
+    "url": "https://www.etm.ru/cat/nn/4072419",
+    "price_vat": 160.55,
+    "date": "2026-11-03",
+    "note": "Москва",
+    "vat_included": true
+  },
+  {
+    "name": "Флюс ЛТИ-120, 25 мл",
+    "unit": "шт",
+    "shop": "Чип и Дип",
+    "url": "https://www.chipdip.ru/catalog/popular/flyus-lti-120",
+    "price_vat": 180,
+    "date": "2026-11-03",
+    "note": "",
+    "vat_included": true
+  },
+  {
+    "name": "Набор термоусадочных трубок EKF PROxima ТУТк нг 3/1–12/4, 21 шт",
+    "unit": "шт",
+    "shop": "Лемана ПРО",
+    "url": "https://ufa.lemanapro.ru/catalogue/izolyaciya-kabelya/kleevye-termousadochnye-trubki/",
+    "price_vat": 188,
+    "date": "2026-11-03",
+    "note": "страница Уфы",
+    "vat_included": true
+  },
+  {
+    "name": "Припой Сварис ПОС-61 8022, D1 мм, катушка, с канифолью 50 г",
+    "unit": "шт",
+    "shop": "Лемана ПРО",
+    "url": "https://tver.stroyportal.ru/profile/lemana-pro-tver-194429/pricelist/section-payalnoe-oborudovanie-3025/",
+    "price_vat": 490,
+    "date": "2026-11-03",
+    "note": "прайс Твери через stroyportal",
+    "vat_included": true
+  }
+]
