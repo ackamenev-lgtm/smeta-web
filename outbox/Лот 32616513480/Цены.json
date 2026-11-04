@@ -1,0 +1,362 @@
+[
+ {
+  "name": "Краска ВД акриловая белая (Текс Профи 14 кг ≈ 10 л)",
+  "unit": "л",
+  "shop": "Петрович",
+  "url": "https://moscow.petrovich.ru/product/104034/",
+  "price_vat": 168.3,
+  "date": "2026-11-04",
+  "note": "2-й источник: Лемана ПРО Радуга ВД-АК 14 кг 2 362 ₽ (236 ₽/л)",
+  "vat_included": true
+ },
+ {
+  "name": "Краска ВД акриловая белая для потолков (Текс Профи 14 кг ≈ 10 л)",
+  "unit": "л",
+  "shop": "Петрович",
+  "url": "https://moscow.petrovich.ru/product/104034/",
+  "price_vat": 168.3,
+  "date": "2026-11-04",
+  "note": "расход 0,3 л/м2 по комплекту 8.2.34",
+  "vat_included": true
+ },
+ {
+  "name": "Грунт глубокого проникновения (Bitumast 10 л)",
+  "unit": "л",
+  "shop": "Петрович",
+  "url": "https://moscow.petrovich.ru/catalog/6615/gruntovki-glubokogo-proniknoveniya/",
+  "price_vat": 91.1,
+  "date": "2026-11-04",
+  "note": "2-й источник: Unis P-18 10 л 1 121 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Штукатурка цементная (Основит Техно РС21 М 25 кг)",
+  "unit": "кг",
+  "shop": "Петрович",
+  "url": "https://moscow.petrovich.ru/catalog/1447/shtukaturki-25-kg-tsementnye/",
+  "price_vat": 16.84,
+  "date": "2026-11-04",
+  "note": "2-й источник: Knauf Унтерпутц 25 кг 445 ₽; расход ≈16,4 кг/м2 (слой ~10 мм); вкл. фасад 11,8 м2",
+  "vat_included": true
+ },
+ {
+  "name": "Грунт глубокого проникновения под штукатурку",
+  "unit": "л",
+  "shop": "Петрович",
+  "url": "https://moscow.petrovich.ru/catalog/6615/gruntovki-glubokogo-proniknoveniya/",
+  "price_vat": 91.1,
+  "date": "2026-11-04",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Эмаль ПФ-115 (Простокраска 20 кг)",
+  "unit": "кг",
+  "shop": "Лемана ПРО",
+  "url": "https://lemanapro.ru/product/emal-prostokraska-pf-115-polumatovaya-cvet-seryy-20-kg-82125635/",
+  "price_vat": 221.35,
+  "date": "2026-11-04",
+  "note": "2-й источник: Петрович КМ ПФ-115 20 кг 7 600 ₽; расход 0,12 кг/м2 × 2 слоя",
+  "vat_included": true
+ },
+ {
+  "name": "Керамогранит неполированный 30×30 (Unitile Техногрес)",
+  "unit": "м2",
+  "shop": "Петрович",
+  "url": "https://moscow.petrovich.ru/catalog/1352/keramogranit-30h30/",
+  "price_vat": 621,
+  "date": "2026-11-04",
+  "note": "2-й источник: Estima ST02 940 ₽/м2 (БауПартнер)",
+  "vat_included": true
+ },
+ {
+  "name": "Грунт глубокого проникновения под плитку",
+  "unit": "л",
+  "shop": "Петрович",
+  "url": "https://moscow.petrovich.ru/catalog/6615/gruntovki-glubokogo-proniknoveniya/",
+  "price_vat": 91.1,
+  "date": "2026-11-04",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Пескобетон М300 (ЗОФ 40 кг)",
+  "unit": "кг",
+  "shop": "Петрович",
+  "url": "https://moscow.petrovich.ru/catalog/17286/",
+  "price_vat": 9.13,
+  "date": "2026-11-04",
+  "note": "2-й источник: Umix М300 40 кг 372 ₽; стяжки полов и кровли, ремонт мест",
+  "vat_included": true
+ },
+ {
+  "name": "Блок дверной стальной наружный двупольный (подъездный)",
+  "unit": "м2",
+  "shop": "Сектор-Дорс",
+  "url": "https://door-hunter.ru/dveri-podezdnye/",
+  "price_vat": 5839,
+  "date": "2026-11-04",
+  "note": "18 100 ₽ за ≈3,1 м2; 2-й источник: МеталлСервис ДС-391 21 210 ₽ (door-of-steel.ru); размеры проёмов уточнить",
+  "vat_included": true
+ },
+ {
+  "name": "Блок оконный ПВХ двустворчатый, 2-камерный стеклопакет",
+  "unit": "м2",
+  "shop": "okna-servise",
+  "url": "",
+  "price_vat": 6758,
+  "date": "2026-11-04",
+  "note": "12 300 ₽ за 1300×1400; 2-й источник: tepokna 1500×1500 9 653 ₽ (4 290 ₽/м2); замер обязателен",
+  "vat_included": true
+ },
+ {
+  "name": "Блок дверной деревянный внутренний глухой до 2 м2",
+  "unit": "м2",
+  "shop": "Петрович",
+  "url": "https://moscow.petrovich.ru/product/102106/",
+  "price_vat": 2950,
+  "date": "2026-11-04",
+  "note": "ДФГ 21-9 5 310 ₽ за 1,8 м2 без покрытия; 2-й источник: Ремостр ДГ 21-9 4 620 ₽; с покрытием (Лемана МДФ 10 600 ₽) — риск",
+  "vat_included": true
+ },
+ {
+  "name": "Ящик почтовый 5 секций",
+  "unit": "шт",
+  "shop": "FerrumFormat",
+  "url": "https://mailboxes.ferrumformat.com",
+  "price_vat": 2727,
+  "date": "2026-11-04",
+  "note": "2-й источник: Вивас Оптима 2 750 ₽ (zaovivas.ru)",
+  "vat_included": true
+ },
+ {
+  "name": "Ящик почтовый 6 секций",
+  "unit": "шт",
+  "shop": "safekupi.ru",
+  "url": "https://safekupi.ru/pochtovyy-yashchik-metakon-yapr-6/",
+  "price_vat": 2450,
+  "date": "2026-11-04",
+  "note": "ЯПР-6; 2-й источник: ПМ-6 3 250 ₽ (safekupi.ru), Лемана ПРО ПВА06 3 850 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Поручень ПВХ d50",
+  "unit": "м",
+  "shop": "nergperila.ru",
+  "url": "https://nergperila.ru/katalog/komplektuyushchie/poruchen-plastikovyj",
+  "price_vat": 600,
+  "date": "2026-11-04",
+  "note": "в тройке не нашли; 2-й источник: SHOPMETAL 795 ₽/м",
+  "vat_included": true
+ },
+ {
+  "name": "Светильник LED настенный 12 Вт 250×250 IP54",
+  "unit": "шт",
+  "shop": "Стандарт-ЖКХ",
+  "url": "",
+  "price_vat": 1090,
+  "date": "2026-11-04",
+  "note": "2-й источник: ЭРА SPB-1-12 533 ₽ (lt-electro.ru); Navigator NBL-S1-12 1 510 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Светильник LED пылевлагозащищённый, корпус алюминий, до 220×134×55",
+  "unit": "шт",
+  "shop": "metrs-light.ru",
+  "url": "https://metrs-light.ru/products/promyshlennoe-osveshchenie/osveshchenie-dlya-zhkkh-ip65/lunar.html",
+  "price_vat": 1359,
+  "date": "2026-11-04",
+  "note": "FALDI LUNAR-18 220×134×55 IP65; 2-й источник: Сити Эксперт 1 727 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Светильник LED пылевлагозащищённый, корпус пластик, до 670×165×110",
+  "unit": "шт",
+  "shop": "techno-eye.ru",
+  "url": "https://techno-eye.ru/ldsp0-1305-18-6500-k01",
+  "price_vat": 1325,
+  "date": "2026-11-04",
+  "note": "IEK ДСП 1305 18 Вт IP65 600 мм; 2-й источник: СветЭлектро 1 373,75 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Краска ВД-АК Радуга матовая белая 14 кг",
+  "unit": "шт",
+  "shop": "Лемана ПРО",
+  "url": "https://lemanapro.ru/product/kraska-dlya-sten-i-potolkov-raduga-matovaya-cvet-belyy-14-kg-14793312/",
+  "price_vat": 2362,
+  "date": "2026-11-04",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Эмаль ПФ-115 КМ серая 20 кг",
+  "unit": "шт",
+  "shop": "Петрович",
+  "url": "https://moscow.petrovich.ru/catalog/6656/km/",
+  "price_vat": 7600,
+  "date": "2026-11-04",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Грунт глубокого проникновения Unis P-18 10 л",
+  "unit": "шт",
+  "shop": "Петрович",
+  "url": "https://moscow.petrovich.ru/catalog/6615/gruntovki-glubokogo-proniknoveniya/",
+  "price_vat": 1121,
+  "date": "2026-11-04",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Штукатурка цементная Knauf Унтерпутц 25 кг",
+  "unit": "шт",
+  "shop": "Петрович",
+  "url": "https://moscow.petrovich.ru/catalog/1447/shtukaturki-25-kg-tsementnye/",
+  "price_vat": 445,
+  "date": "2026-11-04",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Штукатурка цементная Волма Аквапласт 25 кг",
+  "unit": "шт",
+  "shop": "Петрович",
+  "url": "https://moscow.petrovich.ru/catalog/1447/shtukaturki-25-kg-tsementnye/",
+  "price_vat": 446,
+  "date": "2026-11-04",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Пескобетон М300 Umix 40 кг",
+  "unit": "шт",
+  "shop": "Петрович",
+  "url": "https://moscow.petrovich.ru/catalog/17286/",
+  "price_vat": 372,
+  "date": "2026-11-04",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Светильник LED 12 Вт ЭРА SPB-1-12 IP54",
+  "unit": "шт",
+  "shop": "lt-electro.ru",
+  "url": "https://lt-electro.ru/catalog/led-svetilniki-dlya-zhkkh/2062/",
+  "price_vat": 533,
+  "date": "2026-11-04",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Светильник LED 12 Вт Navigator NBL-S1-12",
+  "unit": "шт",
+  "shop": "led-navigator.ru",
+  "url": "https://led-navigator.ru/navigator-71-582",
+  "price_vat": 1510,
+  "date": "2026-11-04",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Светильник IEK ДСП 2102",
+  "unit": "шт",
+  "shop": "mirsweta.ru",
+  "url": "",
+  "price_vat": 1104,
+  "date": "2026-11-04",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Дверь подъездная двупольная ДС-391",
+  "unit": "шт",
+  "shop": "МеталлСервис",
+  "url": "https://door-of-steel.ru/podyezdnye_dveri/",
+  "price_vat": 21210,
+  "date": "2026-11-04",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Ящик почтовый 5 секций Вивас Оптима",
+  "unit": "шт",
+  "shop": "Вивас",
+  "url": "https://zaovivas.ru",
+  "price_vat": 2750,
+  "date": "2026-11-04",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Окно ПВХ двустворчатое 1500×1500",
+  "unit": "шт",
+  "shop": "tepokna",
+  "url": "",
+  "price_vat": 9653,
+  "date": "2026-11-04",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Поручень ПВХ d50 SHOPMETAL",
+  "unit": "м",
+  "shop": "SHOPMETAL",
+  "url": "https://shopmetal.ru/catalog/cvetnoj_metalloprokat/poruchni_/",
+  "price_vat": 795,
+  "date": "2026-11-04",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Светильник FALDI LUNAR-18",
+  "unit": "шт",
+  "shop": "Сити Эксперт",
+  "url": "https://cityexpert-isk.ru/catalog/svetodiodnyy-svetilnik-lunar-18.html",
+  "price_vat": 1727,
+  "date": "2026-11-04",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Светильник IEK ДСП 1305 18 Вт",
+  "unit": "шт",
+  "shop": "СветЭлектро",
+  "url": "https://svetelektro.net/svet/ldsp0-1305-18-6500-k01-iek-iek.html",
+  "price_vat": 1373.75,
+  "date": "2026-11-04",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Ящик почтовый 6 секций ПМ-6",
+  "unit": "шт",
+  "shop": "safekupi.ru",
+  "url": "https://safekupi.ru/yashchik-pochtovyy-pm-6-metallicheskiy/",
+  "price_vat": 3250,
+  "date": "2026-11-04",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Дверной блок ДГ 21-9 с коробкой",
+  "unit": "шт",
+  "shop": "Ремостр",
+  "url": "https://remostr.ru/product/dvernoj-blok-dg-21-9-massiv-hvojnyh-porod-s-korobkoj-2070h870h80-mm/",
+  "price_vat": 4620,
+  "date": "2026-11-04",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Керамогранит 30×30 Estima ST02",
+  "unit": "м2",
+  "shop": "БауПартнер",
+  "url": "",
+  "price_vat": 940,
+  "date": "2026-11-04",
+  "note": "",
+  "vat_included": true
+ }
+]
