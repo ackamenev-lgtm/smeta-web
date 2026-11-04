@@ -1,0 +1,262 @@
+[
+ {
+  "name": "Краска ВД акриловая для стен и потолков Текс, 14 кг",
+  "unit": "кг",
+  "shop": "Петрович (Москва)",
+  "url": "https://moscow.petrovich.ru/catalog/6627/",
+  "price_vat": 132.93,
+  "date": "2026-11-04",
+  "note": "кит 8.2.34: 0,3 л/м2 × 1,5 кг/л; 2-й источник teks-pro.ru 1 494 ₽/14 кг (106,7 ₽/кг)",
+  "vat_included": true
+ },
+ {
+  "name": "Грунт акриловый Текс Универсал, 10 л",
+  "unit": "л",
+  "shop": "Петрович (Москва)",
+  "url": "https://moscow.petrovich.ru/",
+  "price_vat": 95.0,
+  "date": "2026-11-04",
+  "note": "950 ₽/10 л; 2-й источник Bitumast 911 ₽/10 л",
+  "vat_included": true
+ },
+ {
+  "name": "Эмаль ПФ-115, 20 кг",
+  "unit": "кг",
+  "shop": "Лемана ПРО (Москва)",
+  "url": "https://lemanapro.ru/ (ПФ-115 Эконом 20 кг, арт. 82174356)",
+  "price_vat": 193.85,
+  "date": "2026-11-04",
+  "note": "норма сметы заказчика 0.211 кг/м2 за 2 раза; 2-й источник Skladno ПФ-115 20 кг 4 568 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Грунт ГФ-021 серый, 20 кг",
+  "unit": "кг",
+  "shop": "stmlux.ru (Farbox ГФ-021 20 кг)",
+  "url": "https://stmlux.ru/catalog/grunt-gf-021-seryj/",
+  "price_vat": 124.4,
+  "date": "2026-11-04",
+  "note": "расход 0,08–0,12 кг/м2; 2-й источник megastroy-smu.ru 1 380 ₽/20 кг",
+  "vat_included": true
+ },
+ {
+  "name": "Краска фасадная акриловая Corsa Deco, 14 кг",
+  "unit": "кг",
+  "shop": "Петрович (Москва)",
+  "url": "https://moscow.petrovich.ru/product/134938/",
+  "price_vat": 272.07,
+  "date": "2026-11-04",
+  "note": "кит 8.2.34 0,3 л/м2; один источник (Петрович), позиция < 1 % суммы",
+  "vat_included": true
+ },
+ {
+  "name": "Штукатурка цементная КМ Фасадная, 25 кг",
+  "unit": "кг",
+  "shop": "Петрович (Москва)",
+  "url": "https://moscow.petrovich.ru/catalog/1447/shtukaturki-25-kg-tsementnye/",
+  "price_vat": 12.72,
+  "date": "2026-11-04",
+  "note": "оценка расхода: слой 10 мм × 1,2 кг/м2 на 1 мм; 2-й источник Knauf Унтерпутц 445 ₽/25 кг",
+  "vat_included": true
+ },
+ {
+  "name": "Пескобетон М300 Русеан, 40 кг",
+  "unit": "кг",
+  "shop": "Петрович (Москва)",
+  "url": "https://moscow.petrovich.ru/product/638140/",
+  "price_vat": 10.57,
+  "date": "2026-11-04",
+  "note": "60 мм × 2 кг/м2 на 1 мм (место ремонта = 0,25 м2 × 50 мм); 2-й источник Dauer М300 399 ₽/40 кг",
+  "vat_included": true
+ },
+ {
+  "name": "Пескобетон М300 (кладочный раствор), 40 кг",
+  "unit": "кг",
+  "shop": "Петрович (Москва)",
+  "url": "https://moscow.petrovich.ru/product/638140/",
+  "price_vat": 10.57,
+  "date": "2026-11-04",
+  "note": "раствор 0,25 м3 на 1 м3 кладки × 1,9 т/м3; кирпич в смете заказчика не учтён (повторное использование) — уточнить",
+  "vat_included": true
+ },
+ {
+  "name": "Ремсостав Indastro Профскрин RC45, 25 кг",
+  "unit": "кг",
+  "shop": "Петрович (Москва)",
+  "url": "https://moscow.petrovich.ru/",
+  "price_vat": 85.6,
+  "date": "2026-11-04",
+  "note": "оценка расхода 2 кг на ступень (заделка сколов); один источник",
+  "vat_included": true
+ },
+ {
+  "name": "Керамогранит Estima ST011 30×30",
+  "unit": "м2",
+  "shop": "Лемана ПРО (Москва)",
+  "url": "https://lemanapro.ru/ (Estima ST011 30×30, 1,53 м2 — 967 ₽)",
+  "price_vat": 632.0,
+  "date": "2026-11-04",
+  "note": "2-й источник Шахтинская плитка 860–925 ₽/м2 (baupartner.ru)",
+  "vat_included": true
+ },
+ {
+  "name": "Клей плиточный Церезит СМ 11 PRO, 25 кг",
+  "unit": "кг",
+  "shop": "Петрович (Москва)",
+  "url": "https://moscow.petrovich.ru/",
+  "price_vat": 24.76,
+  "date": "2026-11-04",
+  "note": "кит 7.2.25: 5,5 кг/м2",
+  "vat_included": true
+ },
+ {
+  "name": "Унифлекс ЭПП (нижний слой), рулон 10 м2",
+  "unit": "м2",
+  "shop": "Петрович (Москва)",
+  "url": "https://moscow.petrovich.ru/",
+  "price_vat": 321.0,
+  "date": "2026-11-04",
+  "note": "кит 6.1.16 1,05 м2/м2 + примыкания 0,6 м; 2-й источник penoplex-optom 258,8 ₽/м2",
+  "vat_included": true
+ },
+ {
+  "name": "Унифлекс ЭКП (верхний слой), рулон 10 м2",
+  "unit": "м2",
+  "shop": "Петрович (Москва)",
+  "url": "https://moscow.petrovich.ru/",
+  "price_vat": 370.0,
+  "date": "2026-11-04",
+  "note": "2-й источник penoplex-optom 296,1 ₽/м2",
+  "vat_included": true
+ },
+ {
+  "name": "Праймер битумный ТехноНИКОЛЬ №01, 20 л",
+  "unit": "л",
+  "shop": "Лемана ПРО (Москва)",
+  "url": "https://lemanapro.ru/product/praymer-bitumnyy-tehnonikol-01-16kg-20-l-11902317/",
+  "price_vat": 205.7,
+  "date": "2026-11-04",
+  "note": "кит 6.1.16 0,3 л/м2; 2-й источник Петрович 5 076 ₽/20 л",
+  "vat_included": true
+ },
+ {
+  "name": "Лист оцинкованный 0,5 мм 1,25×2,5 м",
+  "unit": "м2",
+  "shop": "Петрович (Москва)",
+  "url": "https://moscow.petrovich.ru/product/148543/",
+  "price_vat": 440.0,
+  "date": "2026-11-04",
+  "note": "1 375 ₽/3,125 м2; Мира 14А 13,2 мп × 0,4 м; +10 % на фальцы; 2-й источник Хопер Сталь 328 ₽/м2",
+  "vat_included": true
+ },
+ {
+  "name": "Профнастил Н75-750-0,9 с полимерным покрытием",
+  "unit": "м2",
+  "shop": "STEELBORG (metalloprokat.ru)",
+  "url": "https://msk.metalloprokat.ru/",
+  "price_vat": 1218.0,
+  "date": "2026-11-04",
+  "note": "смета ×1,1; 2-й источник metallurg-moskva.ru 1 572 ₽/м2",
+  "vat_included": true
+ },
+ {
+  "name": "Уголок стальной 32×32×4",
+  "unit": "м",
+  "shop": "stal-metpro.ru",
+  "url": "https://stal-metpro.ru/ugolok-stalnoj-kupit-dostavka/",
+  "price_vat": 116.0,
+  "date": "2026-11-04",
+  "note": "смета: 42,8 кг стали на козырёк × 9 шт ÷ 1,97 кг/м; 2-й источник masterkrowli.ru 110 ₽/м",
+  "vat_included": true
+ },
+ {
+  "name": "Блок дверной стальной наружный двупольный с замком",
+  "unit": "шт",
+  "shop": "mosdveri.ru / mir-door.ru",
+  "url": "https://mosdveri.ru/",
+  "price_vat": 30364.0,
+  "date": "2026-11-04",
+  "note": "среднее 29 450 (mosdveri.ru) и 31 277 (mir-door.ru); размеры проёмов — замер; stald.ru 27 734 с установкой",
+  "vat_included": true
+ },
+ {
+  "name": "Доводчик дверной Нора-М 530 до 90 кг",
+  "unit": "шт",
+  "shop": "Лемана ПРО (Москва)",
+  "url": "https://lemanapro.ru/",
+  "price_vat": 1821.0,
+  "date": "2026-11-04",
+  "note": "2-й источник DOORLOCK DL70 до 90 кг 1 248 ₽ (skobmir.ru)",
+  "vat_included": true
+ },
+ {
+  "name": "Окно ПВХ двустворчатое поворотно-откидное, 2-камерный стеклопакет 32 мм",
+  "unit": "м2",
+  "shop": "msk.zavod-okna-pvh.ru",
+  "url": "https://msk.zavod-okna-pvh.ru/",
+  "price_vat": 7060.0,
+  "date": "2026-11-04",
+  "note": "среднее 6 900 ₽/м2 (1200×1160 — 9 600 ₽) и 7 220 ₽/м2 (1160×1440 — 12 060 ₽), без монтажа; размеры — замер",
+  "vat_included": true
+ },
+ {
+  "name": "Антисептик Неомид BIO Ремонт концентрат 1:30, 0,5 л",
+  "unit": "л",
+  "shop": "Петрович (Москва)",
+  "url": "https://moscow.petrovich.ru/product/100763/",
+  "price_vat": 2372.0,
+  "date": "2026-11-04",
+  "note": "1 186 ₽/0,5 л; раствор 0,15 кг/м2 × 2 слоя, разведение 1:30; один источник, позиция < 0,1 %",
+  "vat_included": true
+ },
+ {
+  "name": "Поручень ПВХ 50×5 для перил",
+  "unit": "м",
+  "shop": "Первый Профильный Завод (oooppz.ru)",
+  "url": "https://oooppz.ru/poruchni/pl50x5",
+  "price_vat": 273.0,
+  "date": "2026-11-04",
+  "note": "2-й источник Стройпластик 50×4 211,67 ₽/м",
+  "vat_included": true
+ },
+ {
+  "name": "Ящик почтовый 5 секций 560×330×150 с замками",
+  "unit": "шт",
+  "shop": "zavod-metakon.ru / Кварц-5",
+  "url": "https://zavod-metakon.ru/",
+  "price_vat": 2057.0,
+  "date": "2026-11-04",
+  "note": "среднее ЯПВ-5 1 935 ₽ и Кварц-5 2 179 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Ящик почтовый 6 секций 655×330×150 с замками",
+  "unit": "шт",
+  "shop": "zavod-metakon.ru / russnabjenie.ru",
+  "url": "https://zavod-metakon.ru/",
+  "price_vat": 1970.5,
+  "date": "2026-11-04",
+  "note": "среднее ЯПВ-6 2 195 ₽ и Эконом-В 6 1 746 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Светильник светодиодный ЖКХ 12 Вт IP54 накладной",
+  "unit": "шт",
+  "shop": "77volt.ru / shop220.ru",
+  "url": "https://77volt.ru/",
+  "price_vat": 606.5,
+  "date": "2026-11-04",
+  "note": "среднее Gauss ЖКХ ECO 12W 569 ₽ и Feron AL3014 12W 644 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Кабель-канал ПВХ 60×40",
+  "unit": "м",
+  "shop": "Петрович (Москва)",
+  "url": "https://moscow.petrovich.ru/",
+  "price_vat": 174.0,
+  "date": "2026-11-04",
+  "note": "Agis 60×40 2 м — 348 ₽; один источник",
+  "vat_included": true
+ }
+]
