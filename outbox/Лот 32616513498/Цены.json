@@ -1,0 +1,192 @@
+[
+ {
+  "name": "Блок оконный ПВХ двустворчатый, 2-камерный с/п 32 мм",
+  "unit": "м2",
+  "shop": "среднее panokna.ru (Rehau 8 342 ₽/м2) и otexpertov (Novotex 5 328 ₽/м2)",
+  "url": "https://panokna.ru",
+  "price_vat": 6835,
+  "date": "2026-11-04",
+  "note": "под заказ — запросить КП производителя по размерам",
+  "vat_included": true
+ },
+ {
+  "name": "Блок оконный ПВХ, 2-камерный с/п 32 мм, более 2 м2",
+  "unit": "м2",
+  "shop": "среднее panokna.ru / otexpertov",
+  "url": "https://panokna.ru",
+  "price_vat": 6835,
+  "date": "2026-11-04",
+  "note": "под заказ — запросить КП производителя по размерам",
+  "vat_included": true
+ },
+ {
+  "name": "Светильник LED 12 Вт IP54 250×250×50 (Ардатов ДБО89-12-001)",
+  "unit": "шт",
+  "shop": "svetelektro.net",
+  "url": "https://svetelektro.net/svet/1169412001-ardatovskij-zavod.html",
+  "price_vat": 3906.01,
+  "date": "2026-11-04",
+  "note": "второй источник welteks.ru 4 958,40",
+  "vat_included": true
+ },
+ {
+  "name": "Смесь штукатурная цементная М200 (Старатели 25 кг)",
+  "unit": "кг",
+  "shop": "Петрович Москва",
+  "url": "https://moscow.petrovich.ru/product/1234747/",
+  "price_vat": 15.8,
+  "date": "2026-11-04",
+  "note": "395 ₽/25 кг; Кирпичный мир 284 ₽; на ремонт штукатурки стен, потолков, откосов",
+  "vat_included": true
+ },
+ {
+  "name": "Краска ВД-АК интерьерная (Лакра 14 кг)",
+  "unit": "кг",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru",
+  "price_vat": 113.93,
+  "date": "2026-11-04",
+  "note": "1 595 ₽/14 кг; Текс 2 099 ₽/14 кг; на стены и потолки",
+  "vat_included": true
+ },
+ {
+  "name": "Шпатлёвка (Vetonit LR+ 20 кг)",
+  "unit": "кг",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/product/662749/",
+  "price_vat": 52,
+  "date": "2026-11-04",
+  "note": "1 040 ₽/20 кг; КМ Полимер 599 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Эмаль ПФ-115 (20 кг)",
+  "unit": "кг",
+  "shop": "Петрович Москва",
+  "url": "https://moscow.petrovich.ru/product/671824/",
+  "price_vat": 190,
+  "date": "2026-11-04",
+  "note": "3 800 ₽/20 кг; Расцвет 7 551 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Краска фасадная акриловая (Лакра 14 кг)",
+  "unit": "кг",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru",
+  "price_vat": 174,
+  "date": "2026-11-04",
+  "note": "2 436 ₽/14 кг; ВД-АК-149 по смете",
+  "vat_included": true
+ },
+ {
+  "name": "Грунт глубокого проникновения (КМ-17 10 л)",
+  "unit": "л",
+  "shop": "Петрович Москва",
+  "url": "https://moscow.petrovich.ru/product/767965/",
+  "price_vat": 129.4,
+  "date": "2026-11-04",
+  "note": "1 294 ₽/10 л; Церезит СТ17 1 255–1 438",
+  "vat_included": true
+ },
+ {
+  "name": "Пескобетон М300 (40 кг)",
+  "unit": "т",
+  "shop": "Петрович Москва",
+  "url": "https://moscow.petrovich.ru/catalog/17286/",
+  "price_vat": 9125,
+  "date": "2026-11-04",
+  "note": "ЗОФ 365 ₽/40 кг, Umix 372 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Керамогранит 30×30 неполированный (Unitile Техногрес)",
+  "unit": "м2",
+  "shop": "Петрович Москва",
+  "url": "https://moscow.petrovich.ru/catalog/245628573/",
+  "price_vat": 493,
+  "date": "2026-11-04",
+  "note": "621 ₽/1,26 м2; Грескомм 642–693 ₽/м2",
+  "vat_included": true
+ },
+ {
+  "name": "Унифлекс ТКП (рулон 10 м2)",
+  "unit": "м2",
+  "shop": "Петрович Москва",
+  "url": "https://moscow.petrovich.ru",
+  "price_vat": 349.9,
+  "date": "2026-11-04",
+  "note": "3 499 ₽/рулон; ИСМ 3 111 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Унифлекс ТПП (рулон 10 м2)",
+  "unit": "м2",
+  "shop": "Петрович Москва",
+  "url": "https://moscow.petrovich.ru",
+  "price_vat": 305,
+  "date": "2026-11-04",
+  "note": "3 050 ₽/рулон; ИСМ 2 711 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Пескобетон М300 (козырьки, 50 мм)",
+  "unit": "т",
+  "shop": "Петрович Москва",
+  "url": "https://moscow.petrovich.ru/catalog/17286/",
+  "price_vat": 9125,
+  "date": "2026-11-04",
+  "note": "14,4 м2 × 50 мм × 1,85 т/м3",
+  "vat_included": true
+ },
+ {
+  "name": "Дверь стальная двупольная наружная 1250–1550×2050",
+  "unit": "шт",
+  "shop": "РосСтальСервис",
+  "url": "",
+  "price_vat": 22200,
+  "date": "2026-11-04",
+  "note": "Стройсталь от 14 400, tech-doors от 20 280, DoorHan 32 741 — запросить КП по размерам",
+  "vat_included": true
+ },
+ {
+  "name": "Доводчик Нора-М ISPARUS 420",
+  "unit": "шт",
+  "shop": "zamkitut",
+  "url": "",
+  "price_vat": 1201,
+  "date": "2026-11-04",
+  "note": "mktools 1 161,60; bigam 1 635",
+  "vat_included": true
+ },
+ {
+  "name": "Ящик почтовый 6 секций",
+  "unit": "шт",
+  "shop": "onix",
+  "url": "",
+  "price_vat": 2340,
+  "date": "2026-11-04",
+  "note": "ds11 1 690; 4stm 3 189,15",
+  "vat_included": true
+ },
+ {
+  "name": "Ящик почтовый 5 секций",
+  "unit": "шт",
+  "shop": "brozex.ru",
+  "url": "",
+  "price_vat": 2454.91,
+  "date": "2026-11-04",
+  "note": "sima-land 2 775; по смете 36 шт, по ведомостям всего 104 ящика",
+  "vat_included": true
+ },
+ {
+  "name": "Люк ревизионный Era 500×500 с замком",
+  "unit": "шт",
+  "shop": "Петрович Москва",
+  "url": "https://moscow.petrovich.ru/product/104667/",
+  "price_vat": 1941,
+  "date": "2026-11-04",
+  "note": "roommall 1 902; Сатурн 1 850",
+  "vat_included": true
+ }
+]
