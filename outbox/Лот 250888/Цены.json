@@ -1,0 +1,372 @@
+[
+ {
+  "name": "Гипсовинил 12,5 мм (ГКЛ с ПВХ покрытием) 1200×2500",
+  "unit": "м2",
+  "shop": "АРС СПб (regtorg)",
+  "url": "https://regtorg.ru",
+  "price_vat": 360,
+  "date": "2026-11-04",
+  "note": "второй источник: gipsovinyl.ru 390 ₽/м²; в Петровиче, Лемана ПРО, Сатурне не нашли",
+  "vat_included": true
+ },
+ {
+  "name": "ГКЛ Knauf 12,5 мм 1200×2500",
+  "unit": "м2",
+  "shop": "Петрович СПб",
+  "url": "https://petrovich.ru",
+  "price_vat": 182,
+  "date": "2026-11-04",
+  "note": "546 ₽/лист 3 м²",
+  "vat_included": true
+ },
+ {
+  "name": "ГКЛВ Knauf 12,5 мм 1200×2500",
+  "unit": "м2",
+  "shop": "Петрович СПб",
+  "url": "https://petrovich.ru",
+  "price_vat": 227,
+  "date": "2026-11-04",
+  "note": "681 ₽/лист 3 м²",
+  "vat_included": true
+ },
+ {
+  "name": "Профлист С21 0,5 мм с полимерным покрытием",
+  "unit": "м2",
+  "shop": "Профлист-Металл (atlant-gk.com)",
+  "url": "https://atlant-gk.com",
+  "price_vat": 398,
+  "date": "2026-11-04",
+  "note": "второй источник: ПТК «Свой Дом» Grand Line 480 ₽/м²; в Петровиче только оцинкованный",
+  "vat_included": true
+ },
+ {
+  "name": "Стеклопакет однокамерный 4-16-4",
+  "unit": "м2",
+  "shop": "steklopaket-spb.ru",
+  "url": "https://steklopaket-spb.ru",
+  "price_vat": 1940,
+  "date": "2026-11-04",
+  "note": "второй: nadezhnye-okna.com 2010, nevskieokna 2199 ₽/м²; в тройке не продают",
+  "vat_included": true
+ },
+ {
+  "name": "Стеклопакет двухкамерный 4-10-4-10-4",
+  "unit": "м2",
+  "shop": "nadezhnye-okna.com",
+  "url": "https://nadezhnye-okna.com",
+  "price_vat": 2875,
+  "date": "2026-11-04",
+  "note": "второй: monferran.ru 3500 ₽/м²; в тройке не продают",
+  "vat_included": true
+ },
+ {
+  "name": "Линолеум коммерческий гомогенный Tarkett (iQ Granit / Primo)",
+  "unit": "м2",
+  "shop": "Полград",
+  "url": "https://polgrad.ru",
+  "price_vat": 2404,
+  "date": "2026-11-04",
+  "note": "второй: Ирбис от 2750 ₽/м²; Tarkett iQ Granit",
+  "vat_included": true
+ },
+ {
+  "name": "Линолеум коммерческий Tarkett (гетерогенный, 2 мм)",
+  "unit": "м2",
+  "shop": "stm-spb.ru",
+  "url": "https://stm-spb.ru",
+  "price_vat": 870,
+  "date": "2026-11-04",
+  "note": "Tarkett Acczent Pro, рулон; второй: linoleum-sklad 899, kp-opt.ru 1125 ₽/м²",
+  "vat_included": true
+ },
+ {
+  "name": "Краска в/д интерьерная Aura Interior Nord 9 л",
+  "unit": "л",
+  "shop": "СКС (sks.spb.ru)",
+  "url": "https://sks.spb.ru",
+  "price_vat": 299.2,
+  "date": "2026-11-04",
+  "note": "2693 ₽ / 9 л; в Петровиче 1034 ₽ — фасовка не подтверждена",
+  "vat_included": true
+ },
+ {
+  "name": "Краска в/д интерьерная Tikkurila Euro 7 9 л",
+  "unit": "л",
+  "shop": "Петрович СПб",
+  "url": "https://petrovich.ru",
+  "price_vat": 866.6,
+  "date": "2026-11-04",
+  "note": "7799 ₽ / 9 л; второй: СКС 7997 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Штукатурка гипсовая Knauf Ротбанд 30 кг",
+  "unit": "кг",
+  "shop": "Петрович СПб",
+  "url": "https://petrovich.ru",
+  "price_vat": 22.33,
+  "date": "2026-11-04",
+  "note": "670 ₽ / 30 кг; второй: Материк 670, СКС 675",
+  "vat_included": true
+ },
+ {
+  "name": "Шпаклёвка финишная Weber Vetonit LR+ 20 кг",
+  "unit": "кг",
+  "shop": "СКС (sks.spb.ru)",
+  "url": "https://sks.spb.ru",
+  "price_vat": 54.9,
+  "date": "2026-11-04",
+  "note": "1098 ₽ / 20 кг; второй: Петрович 1109 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Состав антикоррозионный «Армотанк 07»",
+  "unit": "кг",
+  "shop": "Химпродукция (Екатеринбург)",
+  "url": "https://armotank.ru",
+  "price_vat": 850,
+  "date": "2026-11-04",
+  "note": "оценка: один надёжный источник; МК Авангард 195 ₽/кг сомнительно; запросить КП производителя",
+  "vat_included": true
+ },
+ {
+  "name": "Плита / кассета потолочная АЛБЕС 600×600",
+  "unit": "шт",
+  "shop": "ИнтерПром",
+  "url": "https://interprom-spb.ru",
+  "price_vat": 245,
+  "date": "2026-11-04",
+  "note": "кассета Албес AP600A6; второй: potolok777 265, skf-spb 357 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Прокат металлический (уголок, швеллер, труба профильная) С255",
+  "unit": "т",
+  "shop": "metall.spb.ru",
+  "url": "https://metall.spb.ru",
+  "price_vat": 82900,
+  "date": "2026-11-04",
+  "note": "средняя по уголку 50×5 / швеллеру 16П / профтрубе, от 5 т; второй: СтройКомплект 67–83 тыс., Акрон 84–95 тыс. ₽/т",
+  "vat_included": true
+ },
+ {
+  "name": "Лист гладкий оцинкованный с полимерным покрытием 0,5 мм",
+  "unit": "м2",
+  "shop": "Петрович СПб",
+  "url": "https://petrovich.ru",
+  "price_vat": 620,
+  "date": "2026-11-04",
+  "note": "0,45 мм 1,25×2 м — 1550 ₽/лист; второй: МЕПЭН 0,5 мм 891 ₽/м²",
+  "vat_included": true
+ },
+ {
+  "name": "Профиль стоечный ПС 50×50 3 м (за м)",
+  "unit": "м",
+  "shop": "Петрович СПб",
+  "url": "https://petrovich.ru",
+  "price_vat": 165,
+  "date": "2026-11-04",
+  "note": "ПС 50×50 3 м — 493–497 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Профиль направляющий ПН 50×40 3 м (за м)",
+  "unit": "м",
+  "shop": "Петрович СПб",
+  "url": "https://petrovich.ru",
+  "price_vat": 145,
+  "date": "2026-11-04",
+  "note": "ПН 50×40 3 м — 435–437 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Аренда рамных лесов с доставкой, 1 месяц на м2",
+  "unit": "м2",
+  "shop": "td-set.ru",
+  "url": "https://td-set.ru",
+  "price_vat": 110,
+  "date": "2026-11-04",
+  "note": "90 ₽/м² в месяц при 501–1000 м² + доставка ~20 ₽/м² (оценка); второй: «Уровень» 85–150 ₽/м²",
+  "vat_included": true
+ },
+ {
+  "name": "Техноэласт ЭКП (верхний слой наплавляемой кровли)",
+  "unit": "м2",
+  "shop": "Сатурн (1-sc.saturn-r)",
+  "url": "https://1-sc.ru/sankt-peterburg/tovary/naplavlyaemye-materialy/845-tehnojelast-jekp-10-0h1-0-m-slanec-seryj",
+  "price_vat": 471.5,
+  "date": "2026-11-04",
+  "note": "Техноэласт ЭКП 10 м²; второй: Петрович 4829 ₽/рул = 482,9 ₽/м²",
+  "vat_included": true
+ },
+ {
+  "name": "Дверь противопожарная EI60 однопольная 2050×950, за м2",
+  "unit": "м2",
+  "shop": "ОхтаСпецСталь (pulsardoors.ru)",
+  "url": "https://pulsardoors.ru/katalog/protivopozharnye-dveri/ei-60/",
+  "price_vat": 12190,
+  "date": "2026-11-04",
+  "note": "EI60 однопольная 950×2050 от 23 740 ₽ / 1,95 м²; второй: Промет ДП-1-60 26 400 ₽, Сталь-Строй Техно 25 750 ₽; в тройке не продают",
+  "vat_included": true
+ },
+ {
+  "name": "Фанера ФК 12 мм 1525×1525 сорт 3/4",
+  "unit": "м2",
+  "shop": "Петрович СПб",
+  "url": "https://petrovich.ru",
+  "price_vat": 588.7,
+  "date": "2026-11-04",
+  "note": "ФК 12×1525×1525 3/4 — 1369 ₽/лист 2,33 м²; второй: Фанера-Базар 1062 ₽/лист (Москва)",
+  "vat_included": true
+ },
+ {
+  "name": "Поликарбонат сотовый 8 мм",
+  "unit": "м2",
+  "shop": "Петрович СПб",
+  "url": "https://sankt-peterburg.stroyportal.ru/profile/std-petrovich-sankt-peterburg-175328/pricelist/section-polikarbonat-polistirol-listy-7/",
+  "price_vat": 514.9,
+  "date": "2026-11-04",
+  "note": "Woggel 8 мм 2,1×6 м — 6488 ₽/лист 12,6 м²; второй: Сатурн 7019 ₽/лист",
+  "vat_included": true
+ },
+ {
+  "name": "Дверной блок межкомнатный (полотно, коробка, наличники, петли) 2000×800, за м2",
+  "unit": "м2",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/catalog/10050/dveri-mezhkomnatnye-s-korobkoj/",
+  "price_vat": 3900,
+  "date": "2026-11-04",
+  "note": "оценка-комплект: блок ДФГ 21-9 800×2000 (полотно + коробка) 5151 ₽ + наличники ~1500 + петли ~600 = ~7250 ₽ / 1,85 м²; марка не задана",
+  "vat_included": true
+ },
+ {
+  "name": "Комплект поворотно-откидной фурнитуры окна ПВХ (Roto NT / Maco)",
+  "unit": "компл",
+  "shop": "32okna.ru (СПб)",
+  "url": "https://32okna.ru/uslugi/peredelka-furnituryi-okon-s-povorotnogo-na-povorotno-otkidnoe/",
+  "price_vat": 5000,
+  "date": "2026-11-04",
+  "note": "комплект Roto NT на створку до 70×150 без работ; второй: Окна-Строй — набор узлов Roto NT ~5000 ₽; в тройке не продают",
+  "vat_included": true
+ },
+ {
+  "name": "Блок оконный/дверной ПВХ со стеклопакетом однокамерным и фурнитурой, за м2",
+  "unit": "м2",
+  "shop": "Завод окон ПВХ (zavod-okna-pvh.ru)",
+  "url": "https://zavod-okna-pvh.ru/gotovye-okna/",
+  "price_vat": 8190,
+  "date": "2026-11-04",
+  "note": "окно 870×1440 П/О однокамерное 10 260 ₽ / 1,25 м²; второй: Окнометрия Rehau Blitz от 6100 ₽/м², Лемана ПРО Deceuninck 1050×700 12 171 ₽; двери ПВХ дороже — оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Плитка напольная «Шахтинская плитка» 300×300",
+  "unit": "м2",
+  "shop": "Петрович СПб",
+  "url": "https://petrovich.ru/product/692116/",
+  "price_vat": 652,
+  "date": "2026-11-04",
+  "note": "Unitile (Шахтинская плитка) Техногрес серый 300×300×8; второй: vashdom24 725 ₽/м², plitka-78 958 ₽/м²",
+  "vat_included": true
+ },
+ {
+  "name": "Сэндвич-панель ПВХ 10 мм для откосов",
+  "unit": "м2",
+  "shop": "Петрович СПб",
+  "url": "https://petrovich.ru/product/979883/",
+  "price_vat": 143.65,
+  "date": "2026-11-04",
+  "note": "КМ 1500×3000×10 — 646,44 ₽/лист 4,5 м²; второй: Нэймар 1422 ₽/лист, ПВХ Маркет 2022 ₽/лист",
+  "vat_included": true
+ },
+ {
+  "name": "Гидроизоляция двухкомпонентная обмазочная Ceresit CR 166",
+  "unit": "кг",
+  "shop": "Петрович СПб",
+  "url": "https://petrovich.ru/product/1221722/",
+  "price_vat": 400,
+  "date": "2026-11-04",
+  "note": "Ceresit CR 166 комплект 24+8 кг — 12 800 ₽ / 32 кг; второй: rskmarket 4607 ₽ за 24 кг + 10 л (Москва, не подтверждено)",
+  "vat_included": true
+ },
+ {
+  "name": "Ламинат 33 класс 10 мм (ГОСТ 32304-2013)",
+  "unit": "м2",
+  "shop": "Петрович СПб",
+  "url": "https://petrovich.ru/catalog/1550/",
+  "price_vat": 515.2,
+  "date": "2026-11-04",
+  "note": "Egger Home 33 кл. 10 мм — 899 ₽/упак 1,745 м²; второй: Egger 12 мм 1297 ₽/1,495 м²",
+  "vat_included": true
+ },
+ {
+  "name": "Грунт глубокого проникновения Ceresit CT 17 10 л",
+  "unit": "л",
+  "shop": "Лемана ПРО СПб",
+  "url": "https://spb.lemanapro.ru/product/gruntovka-ceresit-ct17-transparent-glubokogo-proniknoveniya-morozostoykaya-10-l-89398668/",
+  "price_vat": 142.8,
+  "date": "2026-11-04",
+  "note": "Ceresit CT 17 10 л — 1428 ₽; второй: Петрович 1499 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Плитка керамическая настенная 200×300 (Kerama Marazzi / Cersanit)",
+  "unit": "м2",
+  "shop": "Петрович СПб",
+  "url": "https://petrovich.ru/product/154597/",
+  "price_vat": 359.7,
+  "date": "2026-11-04",
+  "note": "Unitile белая 300×200×7 — 518 ₽/упак 1,44 м²; второй: Петрович Шахтинская «Алита» 520 ₽/м²",
+  "vat_included": true
+ },
+ {
+  "name": "Дверь металлическая техническая ДМ 2050×950, за м2",
+  "unit": "м2",
+  "shop": "ТехДорс СПб (spb.tech-doors.ru)",
+  "url": "https://spb.tech-doors.ru/catalog/tehnicheskie-dvery/",
+  "price_vat": 5436,
+  "date": "2026-11-04",
+  "note": "однопольная глухая 980×2050 от 10 920 ₽ / 2,01 м²; второй: ТМ-Металл «Мастер» 2050×950 14 300 ₽ (7333 ₽/м²); в тройке не продают",
+  "vat_included": true
+ },
+ {
+  "name": "Минвата звукоизоляционная 50 мм (Rockwool Акустик Баттс)",
+  "unit": "м2",
+  "shop": "Петрович СПб",
+  "url": "https://petrovich.ru/catalog/224461898/",
+  "price_vat": 410,
+  "date": "2026-11-04",
+  "note": "Роквул Акустик Баттс 50 мм 6 м² — 2460 ₽; второй: НеваСтрой 2245 ₽, ТДВ 2425 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Керамогранит 600×600 технический (Эстима / Грасаро)",
+  "unit": "м2",
+  "shop": "Петрович СПб",
+  "url": "https://petrovich.ru/product/1131615/",
+  "price_vat": 833.3,
+  "date": "2026-11-04",
+  "note": "Gracia Ceramica Monte серый 600×600×10 — 1200 ₽/упак 1,44 м²; второй: plitka-78 УГ100 950 ₽/м²",
+  "vat_included": true
+ },
+ {
+  "name": "Минплита кровельная Техноруф Н30 (ТехноНИКОЛЬ)",
+  "unit": "м3",
+  "shop": "Оптпос (дистрибьютор ТехноНИКОЛЬ, СПб)",
+  "url": "https://optpos.ru/teploizolyaciya/tehnonikol-utep/",
+  "price_vat": 3950,
+  "date": "2026-11-04",
+  "note": "Техноруф Н30; второй: Аверс ТД 4600 ₽/м³, РусьСтрой 5150 ₽/м³; в тройке не нашли",
+  "vat_included": true
+ },
+ {
+  "name": "Плита фиброцементная фасадная 8 мм (Латонит / LTM)",
+  "unit": "м2",
+  "shop": "ВЭКМ (vekm.ru)",
+  "url": "https://www.vekm.ru/ventiliruemye-fasady/fibro/price_material.php",
+  "price_vat": 950,
+  "date": "2026-11-04",
+  "note": "Latonit 8 мм поверхностная окраска от 950 ₽/м² (Москва, справочно); второй: fibrecement.ru 1800, НВС СПб 1910 ₽/м²; разброс большой — запросить КП",
+  "vat_included": true
+ }
+]
