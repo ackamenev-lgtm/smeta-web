@@ -1,0 +1,52 @@
+[
+ {
+  "name": "LPA-6C EVA, громкоговоритель потолочный широкополосный",
+  "unit": "шт",
+  "shop": "Луис+ (ksb365.ru); 2-й: Синтез Безопасности 2281 ₽",
+  "url": "https://ksb365.ru/lpa/tproduct/655332612-910244554221-lpa-6c-eva",
+  "price_vat": 2131.8,
+  "date": "2026-11-04",
+  "note": "в тройке Петрович/Лемана/Сатурн нет; 2-й источник https://sintsec.ru/product?pid=117918; запросить КП дистрибьютора",
+  "vat_included": true
+ },
+ {
+  "name": "LPA-6W EVA, громкоговоритель настенный широкополосный",
+  "unit": "шт",
+  "shop": "ГК Линк (gklink.ru); 2-й: Луис+ 3233 ₽",
+  "url": "https://gklink.ru/product/lpa-6w-eva-shirokopolosnyy-nastennyy-gromkogovoritel/",
+  "price_vat": 3071.35,
+  "date": "2026-11-04",
+  "note": "в тройке нет; 2-й источник https://luis.ru/p/35780; запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "PR.012031 Труба гофрированная ПВХ лёгкая 350 Н серая с/з d20 Промрукав",
+  "unit": "м",
+  "shop": "ТД Оптикабель, Москва; 2-й: Промрукав 31,55 ₽, ЭЛКО 28,40 ₽",
+  "url": "https://optcable.ru/catalog/iem-1805350-truba-gofrirovannaya-pvkh-legkaya-zond-d20/",
+  "price_vat": 20.07,
+  "date": "2026-11-04",
+  "note": "в тройке марка Промрукав не найдена; 2-й источник https://www.promrukav.ru/catalog/truba-gofrirovannaya-iz-pvkh/",
+  "vat_included": true
+ },
+ {
+  "name": "PR08.4996 Комплект крепления ОКЛ (саморез, дюбель, скоба СМО d19-20), 100 шт",
+  "unit": "уп",
+  "shop": "promrukav-rus.ru (Москва); 2-й: Амарас 2466,60 ₽",
+  "url": "https://promrukav-rus.ru/komplekty-dlya-krepleniya-okl-s-ispolzovaniem-samoreza-dyubelya-i-skoby-smo-19-20-100-sht-promrukav-pr08-4996",
+  "price_vat": 1498.15,
+  "date": "2026-11-04",
+  "note": "в смете наименование d21-22, артикул PR08.4996 = d19-20 под трубу d20; 2-й https://amaras.pro/catalog/krepezhnaya-skoba-klipsa/pr08-4996/",
+  "vat_included": true
+ },
+ {
+  "name": "КСРЭВнг(А)-FRLSLTx 1х2х1,38 кабель огнестойкий низкотоксичный",
+  "unit": "м",
+  "shop": "Атлас ТПК, Москва; 2-й: КТЗ 208,41 ₽ (Москва), ТПК Парма 119,90 ₽ (Екб)",
+  "url": "https://atlastpk.ru/catalog/ksrevng-a-frlsltx/",
+  "price_vat": 165.13,
+  "date": "2026-11-04",
+  "note": "в тройке нет; 2-й источник https://ktz.ru/catalog/kabelno-provodnikovaya-produktsiya/1-38-mm2/; запросить КП завода — позиция 25 % материалов",
+  "vat_included": true
+ }
+]
