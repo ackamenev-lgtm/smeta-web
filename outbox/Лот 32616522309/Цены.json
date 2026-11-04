@@ -1,0 +1,142 @@
+[
+ {
+  "name": "Бетон В7,5 (М100) F200 W6 на гравии",
+  "unit": "м3",
+  "shop": "beton-chl.ru (Челябинск), безнал",
+  "url": "https://beton-chl.ru/beton-m-100/",
+  "price_vat": 4150,
+  "date": "2026-11-04",
+  "note": "2-й источник: profbeton74.ru 4150 безнал; в тройке Петрович/Лемана/Сатурн товарного бетона нет",
+  "vat_included": true
+ },
+ {
+  "name": "Гидробетон СРГ-Ф2 (Кальматрон), мешок 25 кг",
+  "unit": "кг",
+  "shop": "Деловой союз (Москва)",
+  "url": "https://delsz.ru/index/izolyaczionnyie-materialyi/gidroizolyacziya/gidroizolyaczionnyie-smesi/kalmatron-gidrobeton-srg-f2-remontnaya-smes-na-melkom-zapolnitele-s-mikrofibroj,-25-kg,-meshok.html",
+  "price_vat": 50,
+  "date": "2026-11-04",
+  "note": "1250 ₽/25 кг; 2-й: Гидро Эксперт 1375 ₽/25 кг; розница ЭДКМ 1625 ₽/25 кг; в тройке не найден",
+  "vat_included": true
+ },
+ {
+  "name": "Кальматрон-Шовный, мешок 25 кг",
+  "unit": "кг",
+  "shop": "Деловой союз (Москва)",
+  "url": "https://delsz.ru/index/izolyaczionnyie-materialyi/gidroizolyacziya/gidroizolyaczionnyie-smesi/kalmatron-shovnyij-sostav-czementnyij-shovnyij-bezusadochnyij,-meshok-25-kg.html",
+  "price_vat": 115,
+  "date": "2026-11-04",
+  "note": "2875 ₽/25 кг; 2-й: Гидро Эксперт 3015 ₽/25 кг; розница ЭДКМ 4000 ₽/25 кг; в тройке не найден",
+  "vat_included": true
+ },
+ {
+  "name": "Кальматрон — состав защитный гидроизоляционный проникающий, 25 кг",
+  "unit": "кг",
+  "shop": "Деловой союз (Москва)",
+  "url": "https://delsz.ru/index/izolyaczionnyie-materialyi/gidroizolyacziya/gidroizolyaczionnyie-smesi/kalmatron-costav-zashhitnyij-gidroizolyaczionnyij-pronikayushhego-dejstviya,-meshok-25-kg.html",
+  "price_vat": 115,
+  "date": "2026-11-04",
+  "note": "2875 ₽/25 кг; 2-й: Гидро Эксперт 3162 ₽/25 кг; розница ЭДКМ 4000 ₽/25 кг; в тройке не найден",
+  "vat_included": true
+ },
+ {
+  "name": "Кальматрон-Эластик, комплект 34 кг (25 кг + 9 кг)",
+  "unit": "кг",
+  "shop": "Гидро Эксперт (Москва)",
+  "url": "https://gidro-expert.ru/collection/gidroizolyatsiya/kalmatron",
+  "price_vat": 209.0,
+  "date": "2026-11-04",
+  "note": "7106 ₽/компл 34 кг; 2-й: Промснаб Челябинск 283–325,45 ₽/кг; в смете ед. «комп.», по расходу 3 кг/м2 это кг",
+  "vat_included": true
+ },
+ {
+  "name": "Кальматрон-Шовный, мешок 25 кг (заделка полостей)",
+  "unit": "кг",
+  "shop": "Деловой союз (Москва)",
+  "url": "https://delsz.ru/index/izolyaczionnyie-materialyi/gidroizolyacziya/gidroizolyaczionnyie-smesi/kalmatron-shovnyij-sostav-czementnyij-shovnyij-bezusadochnyij,-meshok-25-kg.html",
+  "price_vat": 115,
+  "date": "2026-11-04",
+  "note": "2875 ₽/25 кг; 2-й: Гидро Эксперт 3015 ₽/25 кг; розница ЭДКМ 4000 ₽/25 кг",
+  "vat_included": true
+ },
+ {
+  "name": "Кальматрон-Эластик, комплект 34 кг (доп. участки)",
+  "unit": "кг",
+  "shop": "Гидро Эксперт (Москва)",
+  "url": "https://gidro-expert.ru/collection/gidroizolyatsiya/kalmatron",
+  "price_vat": 209.0,
+  "date": "2026-11-04",
+  "note": "7106 ₽/34 кг; 2-й: Промснаб Челябинск",
+  "vat_included": true
+ },
+ {
+  "name": "Гидропломба (марка не задана — Кальмастоп, 3 кг)",
+  "unit": "кг",
+  "shop": "Гидро Эксперт (Москва)",
+  "url": "https://gidro-expert.ru/collection/gidroizolyatsiya/kalmatron",
+  "price_vat": 275,
+  "date": "2026-11-04",
+  "note": "оценка: один источник, 825 ₽/3 кг",
+  "vat_included": true
+ },
+ {
+  "name": "Песок строительный (пескогрунт)",
+  "unit": "м3",
+  "shop": "Щебень-РФ (Челябинск)",
+  "url": "https://chelyabinsk.scheben-rf.ru/price/",
+  "price_vat": 1100,
+  "date": "2026-11-04",
+  "note": "один источник; в тройке не найден",
+  "vat_included": true
+ },
+ {
+  "name": "Щебень гравийный М800 фр. 20–40",
+  "unit": "м3",
+  "shop": "Щебень-РФ (Челябинск)",
+  "url": "https://chelyabinsk.scheben-rf.ru/price/",
+  "price_vat": 1500,
+  "date": "2026-11-04",
+  "note": "2-й: THEIA GROUP Челябинск 1600 ₽/м3; розница НЕРУД Челябинск 1840 ₽/м3",
+  "vat_included": true
+ },
+ {
+  "name": "Бетон В15 (М200) F200 W4 на гравии",
+  "unit": "м3",
+  "shop": "profbeton74.ru (Челябинск), безнал",
+  "url": "https://profbeton74.ru/",
+  "price_vat": 4800,
+  "date": "2026-11-04",
+  "note": "2-й: beton-74.ru 4800 безнал; F150 в прайсе — F200 уточнить у завода",
+  "vat_included": true
+ },
+ {
+  "name": "Доска обрезная хвойная 40 мм, сорт III–IV (опалубка)",
+  "unit": "м3",
+  "shop": "МетПромИнтекс (Челябинск)",
+  "url": "https://chel.metalloprokat.ru/price/price_16424070.html",
+  "price_vat": 14400,
+  "date": "2026-11-04",
+  "note": "2-й: Леском74 14 700 ₽/м3 (40×150×3000); розница Леском74 16 000 ₽/м3 (40×150×4000)",
+  "vat_included": true
+ },
+ {
+  "name": "Арматура А500С (А-III) d10",
+  "unit": "т",
+  "shop": "komplektsteel.ru (Челябинск)",
+  "url": "https://komplektsteel.ru/catalog/sort-prokat/armatura/armatura_a500s/",
+  "price_vat": 67500,
+  "date": "2026-11-04",
+  "note": "2-й: ankts.ru прайс 03.11.2026 — 67 500 ₽/т до 2 т",
+  "vat_included": true
+ },
+ {
+  "name": "Ёмкость полиэтиленовая 1000 л (еврокуб) с крышкой, клапаном, краном",
+  "unit": "шт",
+  "shop": "Пластело (Челябинск)",
+  "url": "https://chelyabinsk.plastelo.ru/catalog/evrokuby/",
+  "price_vat": 19727,
+  "date": "2026-11-04",
+  "note": "UC 1000 дп с клапаном; 2-й: Уралрегионтара (tradedir) 19 000 ₽ новый; запросить КП",
+  "vat_included": true
+ }
+]
