@@ -1,0 +1,4 @@
+[
+  {"name": "Эжекционный доводчик двухтрубный TechnoHeat ЭД-ПО 1000-485-200/100/2", "unit": "шт", "shop": "Смета заказчика (цена поставщика, июль 2026)", "url": "", "price_vat": 68674, "date": "2026-11-04", "note": "Сметная документация.xlsx, поз. 3.1: 57 415,97 = 68 674 / 1,22 + 2 % трансп.", "vat_included": true},
+  {"name": "Эжекционный доводчик TechnoHeat (каталог производителя, от 20 шт)", "unit": "шт", "shop": "Technoheat (ООО «И. К. Велес») / productcenter.ru", "url": "https://productcenter.ru/products/56445/dovodchiki-ezhiektsionnyie-technoheat", "price_vat": 60000, "date": "2026-11-04", "note": "цена «от», типоразмер не указан; ЭТП ГПБ: ЭД-ПО 1600 мм 60 000 с НДС (2023)", "vat_included": true}
+]
