@@ -1,0 +1,62 @@
+[
+ {
+  "name": "Фильтр кассетный ФВКас 592×592×48 G4",
+  "unit": "шт",
+  "shop": "АИР Компани (airnn.ru)",
+  "url": "https://airnn.ru/product/filtr-vozdushnyy-kassetnyy-fvkas-592x592x48-mm-g4",
+  "price_vat": 705,
+  "date": "2026-11-04",
+  "note": "в Петровиче/Лемана ПРО/Сатурне нет; 86 типоразмеров по ведомости, цена по эталону 592×592 — оценка; запросить КП поставщика фильтров; 2-й источник: 2-й источник ЭЛВЕНТ СПб 1 259,33",
+  "vat_included": true
+ },
+ {
+  "name": "Фильтр карманный ФВК 592×592×360-6 F5",
+  "unit": "шт",
+  "shop": "GreenCond (greencond.ru)",
+  "url": "https://greencond.ru/catalog/filtra_dlya_ventilyatsii_/karmannye_filtra/filtr_vozdushnyy_karmannyy_iz_poliestera/1290426/",
+  "price_vat": 1475,
+  "date": "2026-11-04",
+  "note": "в тройке магазинов нет; 52 типоразмера, цена по эталону — оценка; запросить КП поставщика; 2-й источник: 2-й источник filters-online 1 482,23; розница 4-20.ru СПб 1 722",
+  "vat_included": true
+ },
+ {
+  "name": "Кассета сменная канального фильтра ФВ 250 EU3",
+  "unit": "шт",
+  "shop": "ПромЭлВент (Гатчина), кассета ФВ 250 EU3",
+  "url": "https://gatchina.promelvent.ru/katalog-produkcii/ventilyacionnoe-oborudovanie-i-kondicionirovanie/kanalnye-filtry/smennye-kassety-dlya-fv/",
+  "price_vat": 240,
+  "date": "2026-11-04",
+  "note": "в тройке магазинов нет; часть позиций — карманные кассеты ФЛФ (Титан СПб 2 050 ₽) — риск; 2-й источник: 2-й источник saratov-vent 220",
+  "vat_included": true
+ },
+ {
+  "name": "Ремень клиновой SPZ-1000 Lp",
+  "unit": "шт",
+  "shop": "Кирелис (kirelis.ru)",
+  "url": "https://www.kirelis.ru/catalog/pemni-klinovye/uzkie/id_40247/",
+  "price_vat": 54.4,
+  "date": "2026-11-04",
+  "note": "в тройке магазинов нет; длины 710–2360 мм, цена по эталону 1000 мм — оценка; бренд HIMPT (Китай); 2-й источник: 2-й источник gamm.ru 62,16; УРТ 89",
+  "vat_included": true
+ },
+ {
+  "name": "Ремень клиновой SPA-2000 Lp",
+  "unit": "шт",
+  "shop": "Кирелис (kirelis.ru)",
+  "url": "https://www.kirelis.ru/catalog/pemni-klinovye/uzkie-spa/id_38432/",
+  "price_vat": 128.3,
+  "date": "2026-11-04",
+  "note": "в тройке магазинов нет; брендовые (Gates/Conti/Rubena) ~1 000 ₽ — риск, если заказчик потребует бренд; 2-й источник: 2-й источник Ринком Rubena 1 013",
+  "vat_included": true
+ },
+ {
+  "name": "Смазка литиевая Литол-24, 100 г",
+  "unit": "шт",
+  "shop": "Лемана ПРО",
+  "url": "https://lemanapro.ru/catalogue/smazochnye-materialy/",
+  "price_vat": 150,
+  "date": "2026-11-04",
+  "note": "; 2-й источник: 2-й источник ЭДКМ 90",
+  "vat_included": true
+ }
+]
