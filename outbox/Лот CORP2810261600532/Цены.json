@@ -1,0 +1,62 @@
+[
+ {
+  "name": "Реагент кислотный для промывки теплообменников HydroChem 620, канистра 20 кг",
+  "unit": "канистра",
+  "shop": "Биолайт",
+  "url": "https://biolight.info/product/0007190",
+  "price_vat": 4770,
+  "date": "2026-11-04",
+  "note": "СПб, не в Петровиче/Лемана/Сатурне",
+  "vat_included": true
+ },
+ {
+  "name": "Реагент для промывки теплообменников MR.BOND Iron, канистра 20 кг",
+  "unit": "канистра",
+  "shop": "ТЕРМА-МСК",
+  "url": "https://terma-msk.ru/categories/mr-bond",
+  "price_vat": 5200,
+  "date": "2026-11-04",
+  "note": "Москва, второй источник",
+  "vat_included": true
+ },
+ {
+  "name": "Очиститель щелочной для теплообменников Rexfaber Cleaner-K, 5 л",
+  "unit": "канистра",
+  "shop": "РЕФО",
+  "url": "https://refo24.ru/catalog/products/sredstvo-chistyaschee-rex-faber-5lcleaner-k",
+  "price_vat": 1590,
+  "date": "2026-11-04",
+  "note": "СПб, не в Петровиче/Лемана/Сатурне",
+  "vat_included": true
+ },
+ {
+  "name": "Очиститель щелочной DimeAll TechClean, 5 л",
+  "unit": "канистра",
+  "shop": "Холодон",
+  "url": "https://www.holodon.ru/catalog/khimicheskie-komponenty/ochistitel-shchelochnoy-techclean-5-l-1-10-dimeall/",
+  "price_vat": 1718.37,
+  "date": "2026-11-04",
+  "note": "второй источник",
+  "vat_included": true
+ },
+ {
+  "name": "Смазка силиконовая аэрозоль Bitumast 320 мл",
+  "unit": "шт",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/product/155163/",
+  "price_vat": 411,
+  "date": "2026-11-04",
+  "note": "СПб",
+  "vat_included": true
+ },
+ {
+  "name": "Смазка силиконовая ASTROhim 520 мл",
+  "unit": "шт",
+  "shop": "Лемана ПРО",
+  "url": "https://lemanapro.ru/catalogue/specializirovannye-smazki/silikonovye/",
+  "price_vat": 332,
+  "date": "2026-11-04",
+  "note": "страница каталога Москва",
+  "vat_included": true
+ }
+]
