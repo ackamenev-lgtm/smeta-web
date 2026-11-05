@@ -1,0 +1,352 @@
+[
+ {
+  "name": "Кондиционер канальный Daichi DA160CLHP1X (внутренний блок 16,12 кВт, on/off, R410A)",
+  "unit": "шт",
+  "shop": "iclim.ru / climatradeam.ru (Петрович, Лемана ПРО, Сатурн не продают)",
+  "url": "https://iclim.ru/catalog/konditsionery/kanalnye/daichi-da160clhp1x-df160clop3x/",
+  "price_vat": 57690,
+  "date": "2026-11-05",
+  "note": "Внутр. блок = комплект 147 890 − наружный блок 90 200 (РРЦ daichi.business). комплект DA160CLHP1X/DF160CLOP3X 147 890 ₽ с НДС: iclim.ru (Москва) https://iclim.ru/catalog/konditsionery/kanalnye/daichi-da160clhp1x-df160clop3x/ и climatradeam.ru https://climatradeam.ru/kanalnyj-konditsioner-daichi-da160clhp1xdf160clop3x/. Модель подобрана по КТРУ (все габариты, шум, диапазоны совпадают). Запросить КП дилера Daichi.",
+  "vat_included": true
+ },
+ {
+  "name": "Кондиционер канальный Daichi DF160CLOP3X (наружный блок, 380 В)",
+  "unit": "шт",
+  "shop": "daichi.business (РРЦ) / mir-komforta.ru",
+  "url": "https://daichi.business/catalog/konditsionirovanie/polupromyshlennye_konditsionery/naruzhnye/DF160CLOP3X/",
+  "price_vat": 90200,
+  "date": "2026-11-05",
+  "note": "РРЦ наружного блока 90 200 ₽ — daichi.business и mir-komforta.ru. Запросить КП дилера Daichi.",
+  "vat_included": true
+ },
+ {
+  "name": "Труба профильная 60×60×3 мм (рамы наружных блоков)",
+  "unit": "кг",
+  "shop": "В-Металл (металлобаза, Москва)",
+  "url": "https://v-mtl.ru/truby/truby-profilnye/",
+  "price_vat": 60.5,
+  "date": "2026-11-05",
+  "note": "60 500 ₽/т; один источник",
+  "vat_included": true
+ },
+ {
+  "name": "Труба медная отожжённая 3/8\" 9,52×0,81 мм (бухта 15 м)",
+  "unit": "м",
+  "shop": "Severcon (Москва)",
+  "url": "https://www.severcon.ru/catalog/truba-mednaya-9-52kh0-81kh15000-3-8-sharq-tubes.html",
+  "price_vat": 339.0,
+  "date": "2026-11-05",
+  "note": "5 085 ₽ за бухту 15 м; thermonline.ru 5 475 ₽. В Петровиче/Лемане ПРО дюймовой меди под R410A нет",
+  "vat_included": true
+ },
+ {
+  "name": "Труба медная отожжённая 3/4\" 19,05×0,89 мм (бухта 15 м)",
+  "unit": "м",
+  "shop": "Severcon (Москва)",
+  "url": "https://www.severcon.ru/catalog/truba-mednaya-19-05kh0-89kh15000-3-4-sharq-tubes.html",
+  "price_vat": 714.6,
+  "date": "2026-11-05",
+  "note": "10 719 ₽ за бухту 15 м; второй источник thermonline.ru 12 150 ₽ (810 ₽/м); розница bavis.ru 12 320 ₽ (821 ₽/м)",
+  "vat_included": true
+ },
+ {
+  "name": "Изоляция K-Flex ST 13×10 (трубка 2 м)",
+  "unit": "м",
+  "shop": "Алексир (alexir.ru)",
+  "url": "https://www.alexir.ru/product/k-flex-st-trubki-dlina-2m-vndiam-13mm/",
+  "price_vat": 89.87,
+  "date": "2026-11-05",
+  "note": "один источник; в Петровиче 13×10 не найдено",
+  "vat_included": true
+ },
+ {
+  "name": "Изоляция K-Flex ST 13×22 (трубка 2 м; в смете «13×20» — такого типоразмера нет)",
+  "unit": "м",
+  "shop": "Петрович (Москва)",
+  "url": "https://pskov.petrovich.ru/catalog/1288/teploizoljatsija-dlja-trub-22-mm/",
+  "price_vat": 117.5,
+  "date": "2026-11-05",
+  "note": "235 ₽ за трубку 2 м; svetelektro.net 111,83 ₽/м",
+  "vat_included": true
+ },
+ {
+  "name": "Хладагент R410A (баллон 11,3 кг)",
+  "unit": "кг",
+  "shop": "breezerrus.ru (BAVIS, Москва)",
+  "url": "https://breezerrus.ru/freon-r410a-ballon-11-3-kg/",
+  "price_vat": 973.45,
+  "date": "2026-11-05",
+  "note": "11 000 ₽ за баллон 11,3 кг; svar-gaz.ru 13 500 ₽; розница vsefreoni.ru 15 000 ₽. 65 кг = 6 баллонов",
+  "vat_included": true
+ },
+ {
+  "name": "Труба полипропиленовая PN20 25 мм (дренаж; в смете материал внутри расценки)",
+  "unit": "м",
+  "shop": "Петрович (Москва)",
+  "url": "https://moscow.petrovich.ru/product/1154074/",
+  "price_vat": 61.0,
+  "date": "2026-11-05",
+  "note": "Lammin 25×2000 PN20 — 122 ₽ за 2 м; фасонные — в отходах категории",
+  "vat_included": true
+ },
+ {
+  "name": "Крепёж (шпилька М10, анкеры, гайки, хомуты)",
+  "unit": "кг",
+  "shop": "Петрович (Москва)",
+  "url": "https://moscow.petrovich.ru/product/665880/",
+  "price_vat": 340.0,
+  "date": "2026-11-05",
+  "note": "оценка: шпилька М10×1000 119 ₽ / 0,35 кг = 340 ₽/кг; состав крепежа в смете не раскрыт",
+  "vat_included": true
+ },
+ {
+  "name": "Решётка наружная воздухозаборная 400×200 (Арктос АРН)",
+  "unit": "шт",
+  "shop": "дилер Арктос (арктос.рф)",
+  "url": "https://voronezh.xn--80aumghe.xn--p1acf/product-category/reshetki-arktos/naruzhnye-reshetki-arktos/naruzhnye-reshetki-arn-arktos/",
+  "price_vat": 1869.0,
+  "date": "2026-11-05",
+  "note": "один источник, РРЦ производителя; марка в смете не задана — принята Арктос АРН",
+  "vat_included": true
+ },
+ {
+  "name": "Крепёж воздуховодов (шпилька, анкер, профиль подвеса)",
+  "unit": "кг",
+  "shop": "Петрович (Москва)",
+  "url": "https://moscow.petrovich.ru/product/665880/",
+  "price_vat": 340.0,
+  "date": "2026-11-05",
+  "note": "оценка, как п.18",
+  "vat_included": true
+ },
+ {
+  "name": "Воздуховоды 650×350 оцинк. 0,7 мм с фасонными деталями",
+  "unit": "м2",
+  "shop": "Р-Вент (производитель, Москва)",
+  "url": "https://www.r-vent.ru/price.html",
+  "price_vat": 578.0,
+  "date": "2026-11-05",
+  "note": "Смесь 70 % прямые (470 ₽/м2) + 30 % фасонные (830 ₽/м2) = 578 ₽/м2 — доля фасонных «оценка». Второй источник ПромКом promcom.org/prays: 530/810 → 614 ₽/м2; Квентр 760/940. Розница КлиматКонтроль 1 881/2 445 → 2 050. Запросить КП производителя по спецификации",
+  "vat_included": true
+ },
+ {
+  "name": "Материал базальтовый огнезащитный МБОР-20Ф (рулон 12 м2)",
+  "unit": "м2",
+  "shop": "Рус-Корда (склад Москва)",
+  "url": "https://www.rus-korda.ru/price/price_ogon.htm",
+  "price_vat": 843.2,
+  "date": "2026-11-05",
+  "note": "1 054 ₽/м2 прайс, 843,2 ₽ при закупке до 100 тыс.; второй источник antagroup.ru от 862 ₽/м2; розница ultrastroy.com 1 239 ₽/м2. Запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Клей K-Flex K-414 (банка 2,6 л ≈ 2,5 кг; в смете «клей типа Kleber»)",
+  "unit": "кг",
+  "shop": "VentArm (Москва)",
+  "url": "https://ventarm.ru/brand/k-flex/",
+  "price_vat": 1800.0,
+  "date": "2026-11-05",
+  "note": "4 500 ₽ за 2,6 л (2,5 кг); teploport.ru 5 388 ₽; розница gremir.ru 6 898 ₽. В смете 180 ₽/кг — такой цены на клей для каучука нет",
+  "vat_included": true
+ },
+ {
+  "name": "Труба профильная 60×60×3 мм (кронштейны навеса)",
+  "unit": "кг",
+  "shop": "В-Металл (металлобаза, Москва)",
+  "url": "https://v-mtl.ru/truby/truby-profilnye/",
+  "price_vat": 60.5,
+  "date": "2026-11-05",
+  "note": "60 500 ₽/т",
+  "vat_included": true
+ },
+ {
+  "name": "Лист оцинкованный 0,5 мм (покрытие козырька)",
+  "unit": "м2",
+  "shop": "Петрович (Москва)",
+  "url": "https://moscow.petrovich.ru/product/148543/",
+  "price_vat": 440.0,
+  "date": "2026-11-05",
+  "note": "1 375 ₽ за лист 1,25×2,5 (3,125 м2); в смете материал внутри расценки",
+  "vat_included": true
+ },
+ {
+  "name": "Решётка вентиляционная АМН 600×300 (Арктос)",
+  "unit": "шт",
+  "shop": "astra-vent.ru (Москва)",
+  "url": "https://astra-vent.ru/amnarktos/",
+  "price_vat": 2387.0,
+  "date": "2026-11-05",
+  "note": "один источник; прайс inklimat.ru 1 390 ₽ (дата прайса не указана)",
+  "vat_included": true
+ },
+ {
+  "name": "Автовышка 45 м с оператором, смена 8 ч (п.32: 8 маш.-ч)",
+  "unit": "смена",
+  "shop": "ГСТ (gstrf.ru, Москва)",
+  "url": "https://gstrf.ru/price/avtovyshki/",
+  "price_vat": 33600,
+  "date": "2026-11-05",
+  "note": "28 000 ₽ б/НДС (33 600 с НДС), пропуск в центр включён; kran4rent.ru 36 000 ₽ с НДС. Тарификатор 2.47 — вышка 18 м, не подходит",
+  "vat_included": true
+ },
+ {
+  "name": "Сплит-система канальная Daichi DA160CLHP1X/DF160CLOP3X (комплект)",
+  "unit": "шт",
+  "shop": "iclim.ru (Москва)",
+  "url": "https://iclim.ru/catalog/konditsionery/kanalnye/daichi-da160clhp1x-df160clop3x/",
+  "price_vat": 147890,
+  "date": "2026-11-05",
+  "note": "комплект; цена с НДС 22 %",
+  "vat_included": true
+ },
+ {
+  "name": "Сплит-система канальная Daichi DA160CLHP1X/DF160CLOP3X (комплект)",
+  "unit": "шт",
+  "shop": "climatradeam.ru",
+  "url": "https://climatradeam.ru/kanalnyj-konditsioner-daichi-da160clhp1xdf160clop3x/",
+  "price_vat": 147890,
+  "date": "2026-11-05",
+  "note": "комплект",
+  "vat_included": true
+ },
+ {
+  "name": "Кондиционер канальный Daichi DF160CLOP3X (наружный блок, 380 В)",
+  "unit": "шт",
+  "shop": "mir-komforta.ru",
+  "url": "https://www.mir-komforta.ru/brands/daichi/",
+  "price_vat": 90200,
+  "date": "2026-11-05",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Труба медная отожжённая 3/8\" 9,52×0,81 мм (бухта 15 м)",
+  "unit": "м",
+  "shop": "thermonline.ru (Синоптика, Москва)",
+  "url": "https://www.thermonline.ru/raskhodnye-materialy-dlya-konditsionerov/mednye-truby-dlya-konditsionerov/",
+  "price_vat": 365.0,
+  "date": "2026-11-05",
+  "note": "5 475 ₽ за бухту 15 м",
+  "vat_included": true
+ },
+ {
+  "name": "Труба медная отожжённая 3/4\" 19,05×0,89 мм (бухта 15 м)",
+  "unit": "м",
+  "shop": "thermonline.ru (Синоптика, Москва)",
+  "url": "https://www.thermonline.ru/raskhodnye-materialy-dlya-konditsionerov/mednye-truby-dlya-konditsionerov/",
+  "price_vat": 810.0,
+  "date": "2026-11-05",
+  "note": "12 150 ₽ за бухту 15 м",
+  "vat_included": true
+ },
+ {
+  "name": "Труба медная отожжённая 3/4\" 19,05×0,89 мм (бухта 15 м)",
+  "unit": "м",
+  "shop": "bavis.ru",
+  "url": "https://bavis.ru/mednye-truby/mednaya-truba-3-4-st-19-05-h-0-89mm-buhta-15m.html",
+  "price_vat": 821.33,
+  "date": "2026-11-05",
+  "note": "12 320 ₽ за бухту 15 м",
+  "vat_included": true
+ },
+ {
+  "name": "Хладагент R410A (баллон 11,3 кг)",
+  "unit": "кг",
+  "shop": "svar-gaz.ru",
+  "url": "https://www.svar-gaz.ru/catalog/welding/freon_khladon_v_ballonakh/freon_r410a_khladon_v_ballone_11_3_kg/",
+  "price_vat": 1194.69,
+  "date": "2026-11-05",
+  "note": "13 500 ₽ за баллон",
+  "vat_included": true
+ },
+ {
+  "name": "Хладагент R410A (баллон 11,3 кг)",
+  "unit": "кг",
+  "shop": "vsefreoni.ru",
+  "url": "https://vsefreoni.ru/catalog/freon/khladagent-freon-r410a-11-3-kg/",
+  "price_vat": 1327.43,
+  "date": "2026-11-05",
+  "note": "15 000 ₽ за баллон",
+  "vat_included": true
+ },
+ {
+  "name": "Воздуховоды 650×350 оцинк. 0,7 мм с фасонными деталями",
+  "unit": "м2",
+  "shop": "ПромКом (promcom.org, Москва)",
+  "url": "https://promcom.org/prays/",
+  "price_vat": 614.0,
+  "date": "2026-11-05",
+  "note": "530 прямые / 810 фасонные, смесь 70/30",
+  "vat_included": true
+ },
+ {
+  "name": "Воздуховоды 650×350 оцинк. 0,7 мм с фасонными деталями",
+  "unit": "м2",
+  "shop": "Завод Квентр (Москва)",
+  "url": "https://zkventr.ru/katalog1/izdeliya-dlya-ventilyacii/vozduhovody/kruglye-i-pryamougolnye-vozdukhovody/iz-oczinkovannoj-stali/",
+  "price_vat": 814.0,
+  "date": "2026-11-05",
+  "note": "760 прямые / 940 фасонные, смесь 70/30",
+  "vat_included": true
+ },
+ {
+  "name": "Материал базальтовый огнезащитный МБОР-20Ф (рулон 12 м2)",
+  "unit": "м2",
+  "shop": "Анта Групп (antagroup.ru)",
+  "url": "https://antagroup.ru/catalog/ognezashchita/ognezashchita_metallokonstruktsii/tizol/folgirovannyy_ognezashchitnyy_bazaltovyy_material_tizol_mbor_20f_rulon_12_m/",
+  "price_vat": 862.0,
+  "date": "2026-11-05",
+  "note": "от 862 ₽/м2",
+  "vat_included": true
+ },
+ {
+  "name": "Материал базальтовый огнезащитный МБОР-20Ф (рулон 12 м2)",
+  "unit": "м2",
+  "shop": "Ультрастрой (ultrastroy.com)",
+  "url": "https://ultrastroy.com/price/",
+  "price_vat": 1239.0,
+  "date": "2026-11-05",
+  "note": "прайс",
+  "vat_included": true
+ },
+ {
+  "name": "Клей K-Flex K-414 (банка 2,6 л ≈ 2,5 кг)",
+  "unit": "кг",
+  "shop": "teploport.ru",
+  "url": "https://teploport.ru/izolyaciya/aksessuary-dlya-izolyacii/kley-k-flex-414-banka-2-6-l/",
+  "price_vat": 2155.2,
+  "date": "2026-11-05",
+  "note": "5 388 ₽ за банку",
+  "vat_included": true
+ },
+ {
+  "name": "Изоляция K-Flex ST 13×22 (трубка 2 м)",
+  "unit": "м",
+  "shop": "svetelektro.net",
+  "url": "https://svetelektro.net/prajs-list/price/k-flex",
+  "price_vat": 111.83,
+  "date": "2026-11-05",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Автовышка 45 м с оператором, смена 8 ч",
+  "unit": "смена",
+  "shop": "Анкран (kran4rent.ru)",
+  "url": "https://kran4rent.ru/catalog/arenda-avtovishek/avtovyshka-45m/",
+  "price_vat": 36000,
+  "date": "2026-11-05",
+  "note": "с НДС",
+  "vat_included": true
+ },
+ {
+  "name": "Решётка вентиляционная АМН 600×300 (Арктос)",
+  "unit": "шт",
+  "shop": "inklimat.ru (прайс Арктос)",
+  "url": "https://inklimat.ru/files/price/price_arktos.pdf",
+  "price_vat": 1390,
+  "date": "2026-11-05",
+  "note": "дата прайса не указана",
+  "vat_included": true
+ }
+]
