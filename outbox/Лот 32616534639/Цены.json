@@ -1,0 +1,82 @@
+[
+ {
+  "name": "Испытание диэлектрических перчаток (шт)",
+  "unit": "шт",
+  "shop": "ООО «Балтэнергосервис»",
+  "url": "https://balt.spb.ru/poverka-i-ispytanie/ispytaniya-sredstv-zashchity",
+  "price_vat": 120,
+  "date": "2026-11-05",
+  "note": "СПб, прайс с 26.01.2026",
+  "vat_included": true
+ },
+ {
+  "name": "Испытание бот диэлектрических (шт)",
+  "unit": "шт",
+  "shop": "ООО «Балтэнергосервис»",
+  "url": "https://balt.spb.ru/poverka-i-ispytanie/ispytaniya-sredstv-zashchity",
+  "price_vat": 125,
+  "date": "2026-11-05",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Испытание указателя напряжения до 1000 В",
+  "unit": "шт",
+  "shop": "ООО «Балтэнергосервис»",
+  "url": "https://balt.spb.ru/poverka-i-ispytanie/ispytaniya-sredstv-zashchity",
+  "price_vat": 140,
+  "date": "2026-11-05",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Испытание инструмента с изолирующими рукоятками",
+  "unit": "шт",
+  "shop": "ООО «Балтэнергосервис»",
+  "url": "https://balt.spb.ru/poverka-i-ispytanie/ispytaniya-sredstv-zashchity",
+  "price_vat": 180,
+  "date": "2026-11-05",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Испытание диэлектрических перчаток (пара)",
+  "unit": "пара",
+  "shop": "ЛабТестЭнерго",
+  "url": "https://spb.lablte.ru/ispytaniya-siz",
+  "price_vat": 220,
+  "date": "2026-11-05",
+  "note": "срок до 4 дней; НДС в прайсе не указан",
+  "vat_included": true
+ },
+ {
+  "name": "Испытание бот диэлектрических (пара)",
+  "unit": "пара",
+  "shop": "ЛабТестЭнерго",
+  "url": "https://spb.lablte.ru/ispytaniya-siz",
+  "price_vat": 220,
+  "date": "2026-11-05",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Испытание указателя напряжения до 1000 В",
+  "unit": "шт",
+  "shop": "ЛабТестЭнерго",
+  "url": "https://spb.lablte.ru/ispytaniya-siz",
+  "price_vat": 220,
+  "date": "2026-11-05",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Испытание инструмента с изолирующими рукоятками",
+  "unit": "шт",
+  "shop": "ЛабТестЭнерго",
+  "url": "https://spb.lablte.ru/ispytaniya-siz",
+  "price_vat": 220,
+  "date": "2026-11-05",
+  "note": "",
+  "vat_included": true
+ }
+]
