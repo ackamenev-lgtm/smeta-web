@@ -1,0 +1,352 @@
+[
+ {
+  "name": "ГКЛ Knauf 12,5 мм (лист 2500×1200)",
+  "unit": "м2",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/product/101931/",
+  "price_vat": 176.67,
+  "date": "2026-11-05",
+  "note": "530 ₽/лист 3 м²",
+  "vat_included": true
+ },
+ {
+  "name": "Профиль потолочный ПП 60×27, 3 м",
+  "unit": "м",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/",
+  "price_vat": 124.0,
+  "date": "2026-11-05",
+  "note": "372 ₽/3 м; 2-й: Сатурн 381 ₽/3 м",
+  "vat_included": true
+ },
+ {
+  "name": "Профиль направляющий ПН 28×27, 3 м",
+  "unit": "м",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/",
+  "price_vat": 85.67,
+  "date": "2026-11-05",
+  "note": "257 ₽/3 м",
+  "vat_included": true
+ },
+ {
+  "name": "Подвес прямой Knauf + тяга с зажимом 1 м",
+  "unit": "компл",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/",
+  "price_vat": 43,
+  "date": "2026-11-05",
+  "note": "подвес 20 ₽ + тяга 23 ₽; кол-во по ВОР п.4",
+  "vat_included": true
+ },
+ {
+  "name": "Соединитель одноуровневый «краб» 60×27",
+  "unit": "шт",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/product/150807/",
+  "price_vat": 40,
+  "date": "2026-11-05",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Саморез TN 3,5×25",
+  "unit": "шт",
+  "shop": "Петрович Москва",
+  "url": "https://moscow.petrovich.ru/",
+  "price_vat": 1.29,
+  "date": "2026-11-05",
+  "note": "1290 ₽/1000 шт",
+  "vat_included": true
+ },
+ {
+  "name": "Шпаклёвка Knauf Фуген, 25 кг",
+  "unit": "кг",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/product/109171/",
+  "price_vat": 29.08,
+  "date": "2026-11-05",
+  "note": "727 ₽/25 кг",
+  "vat_included": true
+ },
+ {
+  "name": "Шпаклёвка Knauf Ротбанд Финиш, 25 кг",
+  "unit": "кг",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/product/106961/",
+  "price_vat": 30.4,
+  "date": "2026-11-05",
+  "note": "760 ₽/25 кг; ВОР п.8 + п.10 = 148,5 кг",
+  "vat_included": true
+ },
+ {
+  "name": "Грунтовка глубокого проникновения Ceresit CT17 (потолок)",
+  "unit": "кг",
+  "shop": "Лемана ПРО",
+  "url": "https://spb.lemanapro.ru/",
+  "price_vat": 142.8,
+  "date": "2026-11-05",
+  "note": "142,8 ₽/л, соседний лот",
+  "vat_included": true
+ },
+ {
+  "name": "Грунтовка укрепляющая Ceresit CT17 (потолок)",
+  "unit": "кг",
+  "shop": "Лемана ПРО",
+  "url": "https://spb.lemanapro.ru/",
+  "price_vat": 142.8,
+  "date": "2026-11-05",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Краска ВД-АК (Лакра), потолок",
+  "unit": "кг",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/catalog/6627/vodno-dispersionnye-kraski-lakra/",
+  "price_vat": 113.93,
+  "date": "2026-11-05",
+  "note": "Лакра 14 кг; 2-й: Сатурн Pufas 15,7 кг 1580 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Грунтовка глубокого проникновения Ceresit CT17 (стены)",
+  "unit": "кг",
+  "shop": "Лемана ПРО",
+  "url": "https://spb.lemanapro.ru/",
+  "price_vat": 142.8,
+  "date": "2026-11-05",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Обои флизелиновые под окраску Ateliero Рейн 1,06×25 м",
+  "unit": "м2",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/product/1154543/",
+  "price_vat": 54.68,
+  "date": "2026-11-05",
+  "note": "1449 ₽/рулон 26,5 м²; 2-й: Victoria Stenova Almaz 3390 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Клей обойный Metylan Флизелин Экстра Комфорт",
+  "unit": "уп",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/",
+  "price_vat": 918,
+  "date": "2026-11-05",
+  "note": "по расходу производителя",
+  "vat_included": true
+ },
+ {
+  "name": "Краска ВД-АК (Лакра), обои за 2 раза",
+  "unit": "кг",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/catalog/6627/vodno-dispersionnye-kraski-lakra/",
+  "price_vat": 113.93,
+  "date": "2026-11-05",
+  "note": "ВОР п.20 + п.23",
+  "vat_included": true
+ },
+ {
+  "name": "Грунтовка укрепляющая Ceresit CT17 (стены)",
+  "unit": "кг",
+  "shop": "Лемана ПРО",
+  "url": "https://spb.lemanapro.ru/",
+  "price_vat": 142.8,
+  "date": "2026-11-05",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Краска ВД-АК (Лакра), стены",
+  "unit": "кг",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/catalog/6627/vodno-dispersionnye-kraski-lakra/",
+  "price_vat": 113.93,
+  "date": "2026-11-05",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Фанера ФК 12 мм 2/4 шлиф. 1525×1525",
+  "unit": "м2",
+  "shop": "Сатурн",
+  "url": "https://spb.m.saturn.net/catalog/fanera/tag-shlifovannaya/",
+  "price_vat": 760.66,
+  "date": "2026-11-05",
+  "note": "1769 ₽/лист 2,33 м²; 2-й: Петрович 1849 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Антисептик-антипирен Neomid 450, 10 кг",
+  "unit": "кг",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/product/100761/",
+  "price_vat": 107.4,
+  "date": "2026-11-05",
+  "note": "1074 ₽/10 кг",
+  "vat_included": true
+ },
+ {
+  "name": "Ламинат Tarkett Navigator Колумб 33 кл.",
+  "unit": "м2",
+  "shop": "ГлавПаркет СПб",
+  "url": "https://spb.glavparket.ru/catalog/laminat/laminat-tarkett-navigator-kolumb/",
+  "price_vat": 1796,
+  "date": "2026-11-05",
+  "note": "2250 ₽/уп 1,253 м²; 2-й: Корсант 2195 ₽/м²; в Петровиче/Лемане/Сатурне нет",
+  "vat_included": true
+ },
+ {
+  "name": "Линолеум коммерческий 34/43 Tarkett Acczent Pro, 2 мм",
+  "unit": "м2",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/product/152458/",
+  "price_vat": 600.5,
+  "date": "2026-11-05",
+  "note": "2-й: 6420011.ru 840 ₽; класс пожарной опасности проверить на КМ5 по ТЗ",
+  "vat_included": true
+ },
+ {
+  "name": "Клей для линолеума Homakoll 148 Prof, 14 кг (вместо Бустилата)",
+  "unit": "кг",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/product/675760/",
+  "price_vat": 460.93,
+  "date": "2026-11-05",
+  "note": "6453 ₽/14 кг; расход 0,35 кг/м²; Бустилат в Лемане 585 ₽/кг",
+  "vat_included": true
+ },
+ {
+  "name": "Плинтус деревянный 45×14×3000 АВ",
+  "unit": "м",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/product/105963/",
+  "price_vat": 78.0,
+  "date": "2026-11-05",
+  "note": "234 ₽/шт 3 м",
+  "vat_included": true
+ },
+ {
+  "name": "Очиститель Cosmofen 10, 1 л",
+  "unit": "шт",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/",
+  "price_vat": 1100,
+  "date": "2026-11-05",
+  "note": "кол-во по ВОР п.47",
+  "vat_included": true
+ },
+ {
+  "name": "Решётка вентиляционная ПВХ Era ПР 600×1200 (экран)",
+  "unit": "шт",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/product/157806/",
+  "price_vat": 728,
+  "date": "2026-11-05",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Грунтовка укрепляющая Ceresit CT17 (откосы)",
+  "unit": "кг",
+  "shop": "Лемана ПРО",
+  "url": "https://spb.lemanapro.ru/",
+  "price_vat": 142.8,
+  "date": "2026-11-05",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Краска ВД-АК (Лакра), откосы",
+  "unit": "кг",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/catalog/6627/vodno-dispersionnye-kraski-lakra/",
+  "price_vat": 113.93,
+  "date": "2026-11-05",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Труба гофрированная ПВХ d16 с зондом",
+  "unit": "м",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/product/984865/",
+  "price_vat": 15.29,
+  "date": "2026-11-05",
+  "note": "1529 ₽/100 м (КМ); DKC 2138 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Кабель ВВГнг(А)-LS 3×1,5",
+  "unit": "м",
+  "shop": "ЭТМ",
+  "url": "https://www.etm.ru/cat/nn/1648100",
+  "price_vat": 64.42,
+  "date": "2026-11-05",
+  "note": "2-й: Петрович 99 ₽ (LSLTx)",
+  "vat_included": true
+ },
+ {
+  "name": "Кабель ВВГнг(А)-LS 3×2,5",
+  "unit": "м",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/product/103088/",
+  "price_vat": 146.23,
+  "date": "2026-11-05",
+  "note": "Кабэкс 14 623 ₽/100 м; 2-й: Кузьмич 170,19 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Выключатель 2-кл. с подсветкой Schneider Glossa",
+  "unit": "шт",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/",
+  "price_vat": 448,
+  "date": "2026-11-05",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Подрозетник для бетона d68×45",
+  "unit": "шт",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/product/128015/",
+  "price_vat": 20,
+  "date": "2026-11-05",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Розетка с заземлением, шторками и крышкой Glossa GSL000148",
+  "unit": "шт",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/",
+  "price_vat": 444,
+  "date": "2026-11-05",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Светильник COLIBRI DL LED 15 4000K",
+  "unit": "шт",
+  "shop": "Innoka",
+  "url": "https://innoka-group.ru/catalog/product/colibri-dl-led-15-4000k/",
+  "price_vat": 3420,
+  "date": "2026-11-05",
+  "note": "2-й: Электролайт 3636,15 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Светильник LED накладной 595×595 30 Вт 4200 лм IP40 (Лайтен LTN School)",
+  "unit": "шт",
+  "shop": "Лайтен",
+  "url": "",
+  "price_vat": 4729,
+  "date": "2026-11-05",
+  "note": "оценка: соответствие ТЗ (4200–4600 лм, полистирол) проверить; 2-й: ЭТМ Gauss MiR 4466,55 ₽ (3800 лм)",
+  "vat_included": true
+ }
+]
