@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Компрессор Embraco NEK6214Z R134a",
+    "unit": "шт",
+    "shop": "Вентилятор.ру",
+    "url": "https://ventilatorry.ru/holodilnoe-oborudovanie/holodilnye-kompressory/porshnevye/kompressory-porshnevye-polugermetichnye-embraco/ne/nek6214z",
+    "price_vat": 16155,
+    "date": "2026-09-30",
+    "note": "на сайте указано с НДС; аналог, не код Балтики 3783387",
+    "vat_included": true
+  },
+  {
+    "name": "Компрессор Embraco NEK6214Z R134a",
+    "unit": "шт",
+    "shop": "holodmag.com",
+    "url": "https://holodmag.com/products/kompressor-embraco-aspera-nek6214z",
+    "price_vat": 16734,
+    "date": "2026-11-05",
+    "note": "розница, НДС в цене на странице не расписан — принято как розница с НДС",
+    "vat_included": true
+  },
+  {
+    "name": "Компрессор Embraco NEK6214Z R134a",
+    "unit": "шт",
+    "shop": "Артхолод",
+    "url": "https://aholod.ru/item/kompressor-porshnevoy-embraco-aspera-nek6214z-r-134a-hbp/",
+    "price_vat": 15512,
+    "date": "2026-11-05",
+    "note": "акция −25 % с 20 683; в закупку на год не брал",
+    "vat_included": true
+  },
+  {
+    "name": "Фильтр-осушитель Danfoss DCL 032s 1/4 пайка",
+    "unit": "шт",
+    "shop": "ХолодПромСервис СПб",
+    "url": "https://holodps-spb.ru/catalog/components-refrigeration-climatic/filters-refrigerating/filters-danfoss/",
+    "price_vat": 1150,
+    "date": "2026-11-05",
+    "note": "одна цена на эту модель; аналог кода 3783390",
+    "vat_included": true
+  },
+  {
+    "name": "Фильтр-осушитель Danfoss SAD-032 1/4 пайка",
+    "unit": "шт",
+    "shop": "refo24",
+    "url": "https://refo24.ru/catalog/products/filtr-osushitel-sad-032-14",
+    "price_vat": 457,
+    "date": "2026-11-05",
+    "note": "другая модель, не смешана с DCL 032s",
+    "vat_included": true
+  },
+  {
+    "name": "Двигатель вентилятора Refprom YZF 10-20 10 Вт",
+    "unit": "шт",
+    "shop": "ВсеИнструменты",
+    "url": "https://www.vseinstrumenti.ru/product/el-dvigatel-refprom-yzf-10-20-10w-7240-007240-21025874/",
+    "price_vat": 1304,
+    "date": "2026-11-05",
+    "note": "аналог моторов 3783402 и 3783452; НДС как розница",
+    "vat_included": true
+  },
+  {
+    "name": "Двигатель вентилятора Artiko 16AV02 10 Вт",
+    "unit": "шт",
+    "shop": "zipm.ru",
+    "url": "https://zipm.ru/goods/16av02_elektricheskij-dvigatel-motor-obduva-dlja-holodilnika-10w",
+    "price_vat": 1340,
+    "date": "2026-11-05",
+    "note": "второй аналог 10 Вт",
+    "vat_included": true
+  },
+  {
+    "name": "Термостат RANCO K-50-H2005-002",
+    "unit": "шт",
+    "shop": "Ника Холод",
+    "url": "https://nika-holod.ru/catalog/termostaty/ranco/",
+    "price_vat": 582,
+    "date": "2026-11-05",
+    "note": "один магазин; аналог кода 3783401",
+    "vat_included": true
+  }
+]
