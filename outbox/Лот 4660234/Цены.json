@@ -1,0 +1,182 @@
+[
+ {
+  "name": "Приточная установка Breezart 2000 Lux EZ25-380/3",
+  "unit": "шт",
+  "shop": "Breezart (прайс 01.04.2026)",
+  "url": "https://breezart.ru/tech/price_breezart.pdf",
+  "price_vat": 442900,
+  "date": "2026-11-05",
+  "note": "прайс производителя",
+  "vat_included": true
+ },
+ {
+  "name": "Приточная установка Breezart 2000 Lux (базовая 12,5 кВт)",
+  "unit": "шт",
+  "shop": "breezart.msk.su (офиц. дилер)",
+  "url": "https://breezart.msk.su/Breezart-2000-Lux",
+  "price_vat": 360200,
+  "date": "2026-11-05",
+  "note": "скидка дилера к прайсу 414 200 — −13 %",
+  "vat_included": true
+ },
+ {
+  "name": "Приточная установка Breezart 2000 Lux (12,5 кВт)",
+  "unit": "шт",
+  "shop": "VentArm",
+  "url": "https://ventarm.ru/ventilyacionnye-ustanovki/pritochnye-ustanovki/breezart/7025/",
+  "price_vat": 414200,
+  "date": "2026-11-05",
+  "note": "по прайсу",
+  "vat_included": true
+ },
+ {
+  "name": "Вентилятор Systemair PRF 200D2 IE2",
+  "unit": "шт",
+  "shop": "Энергопрайм",
+  "url": "https://www.energoprime.ru/catalog/systemair/tsentrobezhnye-ventilyatory/",
+  "price_vat": 174087,
+  "date": "2026-11-05",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Вентилятор Systemair PRF 200D2 IE2",
+  "unit": "шт",
+  "shop": "Ventilatorry.ru",
+  "url": "https://ventilatorry.ru/drugie-kategorii/brandy/systemair-br/ventilyatory-dlya-agressivnyh-sred/prf/prf-200d2-ie2",
+  "price_vat": 181282,
+  "date": "2026-11-05",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Каплеуловитель КАП-500К нерж. AISI 430 Ø500",
+  "unit": "шт",
+  "shop": "Моснаб",
+  "url": "https://mosnab.ru/kapleulovitel-kap-500k--vlagootdelitel--dlja-kruglih-kanalov-iz-nerzhavejki-aisi-430-f500/",
+  "price_vat": 67687,
+  "date": "2026-11-05",
+  "note": "один источник",
+  "vat_included": true
+ },
+ {
+  "name": "Щит управления вентиляторами ЩУВ7-2,2",
+  "unit": "шт",
+  "shop": "П-ИР Групп",
+  "url": "https://p-irgroup.ru/katalog/ventilyatsiya-i-konditsionirovanie/sistemy-kanalnoy-ventilyatsii/sistemy-avtomaticheskogo-upravleniya-1/schity-upravleniya-ventilyatorami/schit-upravleniya-ventilyatorami-schuv7.html",
+  "price_vat": 14476,
+  "date": "2026-11-05",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Щит управления вентиляторами ЩУВ7-2,2",
+  "unit": "шт",
+  "shop": "БигВент (СПб)",
+  "url": "https://bigvent.ru/catalog/avtomatika/shhity-upravleniya/shhity-upravleniya-ventilyatorami-shhuv/shhuv7/",
+  "price_vat": 15003,
+  "date": "2026-11-05",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Клапан утеплённый Shuft КВУ-ПО 500×300h-УХЛ2",
+  "unit": "шт",
+  "shop": "Румклимат",
+  "url": "https://www.roomklimat.ru/catalog/ventilyatsiya/klapany/obratnye-klapany-uteplennye/kvu-po-500kh300h-ukhl2-klapan-uteplennyy-s-perimetralnym-podogrevom/",
+  "price_vat": 12577,
+  "date": "2026-11-05",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Клапан утеплённый Shuft КВУ-ПО 500×300h-УХЛ2",
+  "unit": "шт",
+  "shop": "Вент-Стайл",
+  "url": "https://www.vent-style.ru/goods/klapan-uteplennyy-s-perimetralnym-podogrevom-shuftkvu-po-500h300h-uhl2",
+  "price_vat": 28136,
+  "date": "2026-11-05",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Электропривод Gruner 341-230-05",
+  "unit": "шт",
+  "shop": "gruner.msk.ru",
+  "url": "https://gruner.msk.ru/tovar/341-230-05/",
+  "price_vat": 11038,
+  "date": "2026-11-05",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Электропривод Gruner 341-230-05",
+  "unit": "шт",
+  "shop": "Вен-Тех",
+  "url": "https://ven-tech.ru/product/privod-gruner-341-230-05/",
+  "price_vat": 21960,
+  "date": "2026-11-05",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Шумоглушитель круглый Ø315 L1000 оцинк. 0,5",
+  "unit": "шт",
+  "shop": "ВентПро",
+  "url": "https://wentpro.ru/vozduhovody/vozduhovody-nerzhaveyka/shumoglushitel-kr-dlya-kruglyh-vozduhovodov-iz-nerzhaveyushe",
+  "price_vat": 4616,
+  "date": "2026-11-05",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Шумоглушитель круглый Ø315 L1000 оцинк. 0,5",
+  "unit": "шт",
+  "shop": "Вин-Тел",
+  "url": "https://vin-tel.ru/catalog/vozdukhovody/kruglye_stalnye/shumoglushitel_kr/shumoglushitel_kr_315_1000_soundtek_ots_s_0_5_vintel/",
+  "price_vat": 7750,
+  "date": "2026-11-05",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Воздуховод прямошовный нерж. AISI 430 Ø315 L=1250",
+  "unit": "шт",
+  "shop": "Магкреп",
+  "url": "https://www.magkrep.ru/product/vozdukhovod_pryamoshovnyy_vps_315_l_1250_aisi_430_0_7nerzhaveyka/",
+  "price_vat": 4030,
+  "date": "2026-11-05",
+  "note": "розница; опт от 30 000 — 3 580",
+  "vat_included": true
+ },
+ {
+  "name": "Воздуховод круглый нерж. Ø315",
+  "unit": "м",
+  "shop": "Вендер Климат (СПб)",
+  "url": "https://www.vender-climat.ru/shop/vozdukhovody/vozduhovod-iz-nerzhavejushhej-stali-kruglyj-315-mm/",
+  "price_vat": 8082,
+  "date": "2026-11-05",
+  "note": "цена «от»",
+  "vat_included": true
+ },
+ {
+  "name": "Труба профильная 60×60×3 мм 6 м",
+  "unit": "шт",
+  "shop": "Петрович (СПб)",
+  "url": "https://petrovich.ru/product/612983/",
+  "price_vat": 2977,
+  "date": "2026-11-05",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Кабель Камкабель ВВГнг(А)-LS 5×10",
+  "unit": "м",
+  "shop": "Петрович",
+  "url": "https://moscow.petrovich.ru/product/1035850/",
+  "price_vat": 979,
+  "date": "2026-11-05",
+  "note": "",
+  "vat_included": true
+ }
+]
