@@ -1,0 +1,372 @@
+[
+ {
+  "name": "Фильтр панельный G4 592×592×48",
+  "unit": "шт",
+  "shop": "Ozonair",
+  "url": "https://ozonair.ru",
+  "price_vat": 1624,
+  "date": "2026-11-05",
+  "note": "второй источник Ecofilt ФВП-IV 4 366; взята нижняя",
+  "vat_included": true
+ },
+ {
+  "name": "Фильтр панельный G4 287×592×48",
+  "unit": "шт",
+  "shop": "Ecofilt",
+  "url": "https://ecofilt.ru",
+  "price_vat": 1941,
+  "date": "2026-11-05",
+  "note": "оценка: один источник",
+  "vat_included": true
+ },
+ {
+  "name": "Фильтр карманный G4 592×592×520 (вытяжные В1, В1.1)",
+  "unit": "шт",
+  "shop": "Яндекс Маркет ФВК-1-592-592-600-6-G4",
+  "url": "https://market.yandex.ru/category/filtry-karmannyye-g4",
+  "price_vat": 1188,
+  "date": "2026-11-05",
+  "note": "второй источник airnn 1 141 (глубина 600, аналог)",
+  "vat_included": true
+ },
+ {
+  "name": "Фильтр карманный G4 287×592×520 (вытяжные В1, В1.1)",
+  "unit": "шт",
+  "shop": "Вентмарка ФВК-1-592-287-520-6-G4",
+  "url": "https://ventmarka.ru/catalog/filtr-fvk-1-592-287-520-6-g4/",
+  "price_vat": 832,
+  "date": "2026-11-05",
+  "note": "оценка: один источник",
+  "vat_included": true
+ },
+ {
+  "name": "Фильтр карманный ФВК-698-397-210 G4 (Wega XP)",
+  "unit": "шт",
+  "shop": "Ozonair",
+  "url": "https://ozonair.ru",
+  "price_vat": 1306.34,
+  "date": "2026-11-05",
+  "note": "оценка: один источник",
+  "vat_included": true
+ },
+ {
+  "name": "Фильтр карманный ФВК G4 598-297 / 598-347 / 498-247 (Wega XP)",
+  "unit": "шт",
+  "shop": "vfilters ФВК-66-300-6-G4",
+  "url": "https://vfilters.ru",
+  "price_vat": 1155,
+  "date": "2026-11-05",
+  "note": "оценка: аналог по размеру",
+  "vat_included": true
+ },
+ {
+  "name": "Фильтрующая вставка кассетная G3 200",
+  "unit": "шт",
+  "shop": "oasis-nk FV-250 (аналог)",
+  "url": "https://oasis-nk.ru",
+  "price_vat": 320,
+  "date": "2026-11-05",
+  "note": "оценка по размеру 250",
+  "vat_included": true
+ },
+ {
+  "name": "Фильтрующая вставка кассетная G3 250",
+  "unit": "шт",
+  "shop": "filterone FVS 250",
+  "url": "https://filterone.ru",
+  "price_vat": 369,
+  "date": "2026-11-05",
+  "note": "второй источник oasis-nk 320",
+  "vat_included": true
+ },
+ {
+  "name": "Фильтрующая вставка кассетная G3 315",
+  "unit": "шт",
+  "shop": "filterone FVS 315",
+  "url": "https://filterone.ru",
+  "price_vat": 432,
+  "date": "2026-11-05",
+  "note": "второй источник oasis-nk 420; Ozonair FVF 422,73",
+  "vat_included": true
+ },
+ {
+  "name": "Фильтр карманный F7 592×592×520",
+  "unit": "шт",
+  "shop": "filters-online ФВК-2-592-592-520-10-F7",
+  "url": "https://www.filters-online.ru/catalog/karman-filter-fvk/fvk-2-f7/",
+  "price_vat": 2445.48,
+  "date": "2026-11-05",
+  "note": "медиана: Ozonair 3 416, filters-online 2 445, teplocontrol 999",
+  "vat_included": true
+ },
+ {
+  "name": "Фильтр карманный F7 287×592×520",
+  "unit": "шт",
+  "shop": "ventivolt ФВК-287-592-530-5-F7",
+  "url": "https://ventivolt.ru/fvk_287_592_f7",
+  "price_vat": 1190,
+  "date": "2026-11-05",
+  "note": "второй источник el-vent 1 174",
+  "vat_included": true
+ },
+ {
+  "name": "Фильтр карманный ФВК-698-397-600 F7 (Wega XP)",
+  "unit": "шт",
+  "shop": "Ozonair FVK-592-592-360-8-F7",
+  "url": "https://ozonair.ru",
+  "price_vat": 2971.49,
+  "date": "2026-11-05",
+  "note": "оценка: аналог по площади",
+  "vat_included": true
+ },
+ {
+  "name": "Фильтр карманный ФВК F7 598-297 / 598-347 / 498-247 (Wega XP)",
+  "unit": "шт",
+  "shop": "vfilters ФВК-66-300-6-F7",
+  "url": "https://vfilters.ru",
+  "price_vat": 1440,
+  "date": "2026-11-05",
+  "note": "оценка: аналог по размеру",
+  "vat_included": true
+ },
+ {
+  "name": "Средство для чистки теплообменников кондиционеров, 5 л",
+  "unit": "кан",
+  "shop": "Русклимат AF-ClA",
+  "url": "https://www.rusklimat.ru",
+  "price_vat": 1382,
+  "date": "2026-11-05",
+  "note": "медиана: BAVIS 1 215, AF-ClA 1 382, Becool 1 558, RF-CondenSate 2 259",
+  "vat_included": true
+ },
+ {
+  "name": "Средство для промывки теплообменников чиллера, 5 л",
+  "unit": "кан",
+  "shop": "Русклимат RF-CondenSate",
+  "url": "https://www.rusklimat.ru",
+  "price_vat": 2259,
+  "date": "2026-11-05",
+  "note": "второй источник 2 790",
+  "vat_included": true
+ },
+ {
+  "name": "Масло холодильное Bitzer BSE170, 10 л (доливка)",
+  "unit": "кан",
+  "shop": "Холод СПб (база цен)",
+  "url": "",
+  "price_vat": 37700,
+  "date": "2026-11-05",
+  "note": "второй источник Геофрост 45 885; доливка 10 л на чиллер — оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Воронка капельная HL21",
+  "unit": "шт",
+  "shop": "teploshop.ru",
+  "url": "https://teploshop.ru",
+  "price_vat": 1990,
+  "date": "2026-11-05",
+  "note": "медиана: rosteploenergo 1 923, teploshop 1 990, Венторус 2 066, promstok 2 404, santexbaza 2 488",
+  "vat_included": true
+ },
+ {
+  "name": "Пульт проводной Hisense HYXE-VA01A",
+  "unit": "шт",
+  "shop": "ek-vent.ru",
+  "url": "https://ek-vent.ru",
+  "price_vat": 14500,
+  "date": "2026-11-05",
+  "note": "оценка: ek-vent 14 500 (Екатеринбург), hisense-air 25 900 (нет в продаже); запросить КП Бриз",
+  "vat_included": true
+ },
+ {
+  "name": "Блок ротации БУРР-1M",
+  "unit": "шт",
+  "shop": "beglaria.ru",
+  "url": "https://beglaria.ru",
+  "price_vat": 5999,
+  "date": "2026-11-05",
+  "note": "медиана: atlantcompany 5 400, beglaria 5 999, climati 7 330",
+  "vat_included": true
+ },
+ {
+  "name": "Блок ротации исполнительный БИС-1М",
+  "unit": "шт",
+  "shop": "climati.ru",
+  "url": "https://climati.ru",
+  "price_vat": 2620,
+  "date": "2026-11-05",
+  "note": "второй источник atlantcompany 1 600; взята верхняя",
+  "vat_included": true
+ },
+ {
+  "name": "Дренажная помпа для сплит-системы Hisense 24",
+  "unit": "шт",
+  "shop": "etechzone (RED FLOW для Hisense)",
+  "url": "https://etechzone.ru",
+  "price_vat": 3520,
+  "date": "2026-11-05",
+  "note": "оценка: штатная помпа Hisense без цены; techno-rai 3 270",
+  "vat_included": true
+ },
+ {
+  "name": "Дренажная помпа для блока Hisense AVSM-15DDVMA",
+  "unit": "шт",
+  "shop": "etechzone (RED FLOW для Hisense)",
+  "url": "https://etechzone.ru",
+  "price_vat": 3520,
+  "date": "2026-11-05",
+  "note": "оценка: штатная помпа Hisense без цены; запросить КП Бриз",
+  "vat_included": true
+ },
+ {
+  "name": "Дренажная помпа для блока Hisense AVSM-18DDVMA",
+  "unit": "шт",
+  "shop": "etechzone (RED FLOW для Hisense)",
+  "url": "https://etechzone.ru",
+  "price_vat": 3520,
+  "date": "2026-11-05",
+  "note": "оценка: штатная помпа Hisense без цены; запросить КП Бриз",
+  "vat_included": true
+ },
+ {
+  "name": "Дренажная помпа для блока Hisense AVDM-38CHVMA",
+  "unit": "шт",
+  "shop": "etechzone (RED FLOW для Hisense)",
+  "url": "https://etechzone.ru",
+  "price_vat": 3520,
+  "date": "2026-11-05",
+  "note": "оценка: штатная помпа Hisense без цены; запросить КП Бриз",
+  "vat_included": true
+ },
+ {
+  "name": "Дренажная помпа для блока Hisense AVSM-54 CHVMA",
+  "unit": "шт",
+  "shop": "etechzone (RED FLOW для Hisense)",
+  "url": "https://etechzone.ru",
+  "price_vat": 3520,
+  "date": "2026-11-05",
+  "note": "оценка: штатная помпа Hisense без цены; запросить КП Бриз",
+  "vat_included": true
+ },
+ {
+  "name": "Дренажная помпа для блока Hisense AVSM-96 FHVMA",
+  "unit": "шт",
+  "shop": "etechzone (RED FLOW для Hisense)",
+  "url": "https://etechzone.ru",
+  "price_vat": 3520,
+  "date": "2026-11-05",
+  "note": "оценка: штатная помпа Hisense без цены; запросить КП Бриз",
+  "vat_included": true
+ },
+ {
+  "name": "Дренажная помпа для блока Hisense AVBM-15KАVMA",
+  "unit": "шт",
+  "shop": "etechzone (RED FLOW для Hisense)",
+  "url": "https://etechzone.ru",
+  "price_vat": 3520,
+  "date": "2026-11-05",
+  "note": "оценка: штатная помпа Hisense без цены; запросить КП Бриз",
+  "vat_included": true
+ },
+ {
+  "name": "Дренажная помпа для блока Hisense AVBM-19КАVMA",
+  "unit": "шт",
+  "shop": "etechzone (RED FLOW для Hisense)",
+  "url": "https://etechzone.ru",
+  "price_vat": 3520,
+  "date": "2026-11-05",
+  "note": "оценка: штатная помпа Hisense без цены; запросить КП Бриз",
+  "vat_included": true
+ },
+ {
+  "name": "Дренажная помпа для блока Hisense AVBM-30КАVMA",
+  "unit": "шт",
+  "shop": "etechzone (RED FLOW для Hisense)",
+  "url": "https://etechzone.ru",
+  "price_vat": 3520,
+  "date": "2026-11-05",
+  "note": "оценка: штатная помпа Hisense без цены; запросить КП Бриз",
+  "vat_included": true
+ },
+ {
+  "name": "Дренажная помпа Eckerle EE1000",
+  "unit": "шт",
+  "shop": "kupiclimate / masclim",
+  "url": "https://kupiclimate.ru",
+  "price_vat": 8140,
+  "date": "2026-11-05",
+  "note": "медиана: foraircond 8 000, kupiclimate 8 080, masclim 8 200, kondicionerkin 9 187",
+  "vat_included": true
+ },
+ {
+  "name": "Дренажная помпа Eckerle EE400M",
+  "unit": "шт",
+  "shop": "cliland.ru",
+  "url": "https://cliland.ru",
+  "price_vat": 9250,
+  "date": "2026-11-05",
+  "note": "медиана: redarmy 6 000, mosholding 7 150, cliland 9 250, kupiclimate 9 280, td-egida 9 487",
+  "vat_included": true
+ },
+ {
+  "name": "Пульт KET WSP01A-WiFi",
+  "unit": "шт",
+  "shop": "putivetra.ru",
+  "url": "https://putivetra.ru",
+  "price_vat": 9150,
+  "date": "2026-11-05",
+  "note": "оценка: один источник",
+  "vat_included": true
+ },
+ {
+  "name": "Пульт Royal Clima MACS-RC-420MB",
+  "unit": "шт",
+  "shop": "westclimat.ru",
+  "url": "https://westclimat.ru",
+  "price_vat": 13200,
+  "date": "2026-11-05",
+  "note": "оценка: один источник (mircli 106 108 — выброс); в ТЗ «RS» — опечатка",
+  "vat_included": true
+ },
+ {
+  "name": "Хладагент R410A (баллон 11,3 кг), за кг",
+  "unit": "кг",
+  "shop": "refo24",
+  "url": "https://refo24.ru",
+  "price_vat": 1326.55,
+  "date": "2026-11-05",
+  "note": "медиана: liderair 14 500, armada 14 863, refo24 14 990, kupiclimate 15 300, reftema 15 500 за 11,3 кг",
+  "vat_included": true
+ },
+ {
+  "name": "Пропиленгликоль 45 % (бочка), кг",
+  "unit": "кг",
+  "shop": "hstream / siliktrade",
+  "url": "https://hstream.ru",
+  "price_vat": 100.48,
+  "date": "2026-11-05",
+  "note": "медиана: eglikol 84,8, hstream 95,95, siliktrade 105, himrus 112 ₽/кг",
+  "vat_included": true
+ },
+ {
+  "name": "Труба электросварная 219×6",
+  "unit": "м",
+  "shop": "steel-ex",
+  "url": "https://steel-ex.ru",
+  "price_vat": 1957,
+  "date": "2026-11-05",
+  "note": "медиана: rr-grup 1 872, 1metallobaza 1 945, steel-ex 1 957, glavmosmetall 2 300, proconsim 3 190",
+  "vat_included": true
+ },
+ {
+  "name": "Воздуховод оцинкованный 500×300, δ 0,7",
+  "unit": "м",
+  "shop": "zkventr.ru",
+  "url": "https://zkventr.ru",
+  "price_vat": 2700,
+  "date": "2026-11-05",
+  "note": "медиана: zkventr 760 ₽/м² ≈ 2 700/м, vent-style 2 760/м, yanvent 2 320/м",
+  "vat_included": true
+ }
+]
