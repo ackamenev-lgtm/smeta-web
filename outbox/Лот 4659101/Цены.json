@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Концентрат для очистки и дезинфекции испарителей Bavis BactClean 5 л",
+    "unit": "шт",
+    "shop": "Лемана ПРО",
+    "url": "https://poisk.im/p/1179594172291446157",
+    "price_vat": 1710,
+    "date": "2026-11-05",
+    "note": "цена Лемана ПРО (арт. 92639745) по агрегатору poisk.im, на сайте магазина не перепроверена; Москва",
+    "vat_included": true
+  },
+  {
+    "name": "Концентрат для очистки испарителей Rexfaber 5L.CLEANER-V 5 л",
+    "unit": "шт",
+    "shop": "foraircond.ru",
+    "url": "https://foraircond.ru/catalog/Ochistiteli-kondicionerov",
+    "price_vat": 1670,
+    "date": "2026-11-05",
+    "note": "второй источник к Bavis BactClean; в Петровиче позиции нет",
+    "vat_included": true
+  },
+  {
+    "name": "Концентрат для очистки конденсаторов Bavis TechClean 5 л",
+    "unit": "шт",
+    "shop": "Лемана ПРО",
+    "url": "https://poisk.im/p/1179594172291446157",
+    "price_vat": 1615,
+    "date": "2026-11-05",
+    "note": "цена Лемана ПРО по агрегатору poisk.im (блок аналогов), на сайте магазина не перепроверена",
+    "vat_included": true
+  },
+  {
+    "name": "Концентрат для очистки конденсаторов Rexfaber 5L.CLEANER-K 5 л",
+    "unit": "шт",
+    "shop": "foraircond.ru",
+    "url": "https://foraircond.ru/catalog/Ochistiteli-kondicionerov",
+    "price_vat": 1550,
+    "date": "2026-11-05",
+    "note": "второй источник к Bavis TechClean",
+    "vat_included": true
+  }
+]
