@@ -1,0 +1,162 @@
+[
+ {
+  "name": "Костюм рабочий зимний утеплённый Спрут Стандарт",
+  "unit": "шт",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/product/1164410/",
+  "price_vat": 4488,
+  "date": "2026-11-05",
+  "note": "второй источник: Лемана ПРО «Иней» 2 300 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Костюм рабочий зимний «Иней»",
+  "unit": "шт",
+  "shop": "Лемана ПРО",
+  "url": "https://spb.lemanapro.ru/product/82258237/",
+  "price_vat": 2300,
+  "date": "2026-11-05",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Ботинки рабочие Мистраль SJ8055-W",
+  "unit": "пара",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/product/1164453/",
+  "price_vat": 2907,
+  "date": "2026-11-05",
+  "note": "второй источник: Лемана ПРО арт. 92816003 3 500–4 000 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Перчатки х/б с ПВХ",
+  "unit": "пара",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/product/105684/",
+  "price_vat": 26,
+  "date": "2026-11-05",
+  "note": "второй источник: Лемана ПРО Сибртех 68074 33 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Лестница алюминиевая трёхсекционная Сибртех 3×7",
+  "unit": "шт",
+  "shop": "Лемана ПРО",
+  "url": "https://lemanapro.ru/",
+  "price_vat": 10247,
+  "date": "2026-11-05",
+  "note": "страница Москвы; второй источник: Лесамега СПб AL309 3×9 10 232 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Лестница алюминиевая трёхсекционная AL309 3×9",
+  "unit": "шт",
+  "shop": "Лесамега",
+  "url": "https://bestlestnitsy.ru/lestnicy_alyuminievye",
+  "price_vat": 10232,
+  "date": "2026-11-05",
+  "note": "СПб",
+  "vat_included": true
+ },
+ {
+  "name": "Набор инструмента 101 предмет",
+  "unit": "шт",
+  "shop": "Лемана ПРО",
+  "url": "https://spb.lemanapro.ru/product/12840816/",
+  "price_vat": 3488,
+  "date": "2026-11-05",
+  "note": "второй источник: Петрович Jonnesway 101 пр. 38 946 ₽ (проф.)",
+  "vat_included": true
+ },
+ {
+  "name": "Костюм рабочий летний Спрут Стандарт",
+  "unit": "шт",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/catalog/285396683/",
+  "price_vat": 1529,
+  "date": "2026-11-05",
+  "note": "второй источник: Сатурн СПб 1 330 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Стремянка алюминиевая STR2-AL-5, 5 ступеней",
+  "unit": "шт",
+  "shop": "Лемана ПРО",
+  "url": "https://stroyportal.ru/",
+  "price_vat": 3848,
+  "date": "2026-11-05",
+  "note": "прайс Лемана ПРО СПб через stroyportal; второй источник: Петрович Hesler 6 ст. 5 990 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Клещи токоизмерительные PROconnect P266C",
+  "unit": "шт",
+  "shop": "Лемана ПРО",
+  "url": "https://spb.lemanapro.ru/product/90479485/",
+  "price_vat": 1206,
+  "date": "2026-11-05",
+  "note": "один источник",
+  "vat_included": true
+ },
+ {
+  "name": "Пирометр AMO T630",
+  "unit": "шт",
+  "shop": "Лемана ПРО",
+  "url": "https://spb.lemanapro.ru/product/92779973/",
+  "price_vat": 770,
+  "date": "2026-11-05",
+  "note": "один источник",
+  "vat_included": true
+ },
+ {
+  "name": "Мультиметр M830B",
+  "unit": "шт",
+  "shop": "Лемана ПРО",
+  "url": "https://lemanapro.ru/",
+  "price_vat": 878,
+  "date": "2026-11-05",
+  "note": "оценка: страница Уфы",
+  "vat_included": true
+ },
+ {
+  "name": "Очки защитные Krafter Panorama",
+  "unit": "шт",
+  "shop": "Лемана ПРО",
+  "url": "https://stroyportal.ru/",
+  "price_vat": 258,
+  "date": "2026-11-05",
+  "note": "прайс Лемана ПРО СПб через stroyportal",
+  "vat_included": true
+ },
+ {
+  "name": "Каска защитная UVEX",
+  "unit": "шт",
+  "shop": "Восток-Сервис",
+  "url": "https://www.vostok.ru/",
+  "price_vat": 2759,
+  "date": "2026-11-05",
+  "note": "оценка: не Петрович/Лемана/Сатурн",
+  "vat_included": true
+ },
+ {
+  "name": "Указатель напряжения до 1000 В",
+  "unit": "шт",
+  "shop": "nfcom.ru",
+  "url": "https://nfcom.ru/",
+  "price_vat": 503,
+  "date": "2026-11-05",
+  "note": "оценка: не Петрович/Лемана/Сатурн, цена «от»",
+  "vat_included": true
+ },
+ {
+  "name": "Перчатки диэлектрические",
+  "unit": "пара",
+  "shop": "nfcom.ru",
+  "url": "https://nfcom.ru/",
+  "price_vat": 790,
+  "date": "2026-11-05",
+  "note": "оценка: не Петрович/Лемана/Сатурн, цена «от»",
+  "vat_included": true
+ }
+]
