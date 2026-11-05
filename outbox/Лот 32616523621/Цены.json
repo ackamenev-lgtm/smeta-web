@@ -1,0 +1,262 @@
+[
+ {
+  "name": "CAPAROL Amphibolin / КАПАРОЛ Амфиболин краска акриловая",
+  "unit": "кг",
+  "shop": "100pil.ru / kraski-st.ru (СПб)",
+  "url": "https://kraski-st.ru/kraska-caparol/",
+  "price_vat": 1869.0,
+  "date": "2026-11-05",
+  "note": "Caparol Amphibolin база 1 10 л: 23 705 ₽ (100pil) и 24 889 ₽ (kraski-st, СПб); среднее 2 430 ₽/л ÷ 1,3 кг/л = 1 869 ₽/кг. В Петровиче/Лемана/Сатурне не найдено; код сметы ТЦ_59.1.14.03_78_7800000000_07.07.2026_02_1",
+  "vat_included": true
+ },
+ {
+  "name": "Плиты XPS ТЕХНОНИКОЛЬ CARBON PROF 50 мм",
+  "unit": "м3",
+  "shop": "averstd.ru / spbrik.ru",
+  "url": "https://averstd.ru/e_xps-carbon-prof-50-mm-270-kpa",
+  "price_vat": 7240.0,
+  "date": "2026-11-05",
+  "note": "Технониколь XPS Carbon Prof 50 мм: 7 200 и 7 280 ₽/м3; в Петровиче только Carbon Eco; в смете 85.29 м3; код сметы 12.2.05.09-0021",
+  "vat_included": true
+ },
+ {
+  "name": "Изопласт ЭПП-4,0 (нижний слой)",
+  "unit": "м2",
+  "shop": "spbrik.ru / masterkrov.su",
+  "url": "https://spbrik.ru/product/izofleks/izoplast-epp/",
+  "price_vat": 437.5,
+  "date": "2026-11-05",
+  "note": "Изопласт ЭПП-4,0: 4 800 и 3 950 ₽ за рулон 10 м2; объём — 915,25 м2 (нижний слой) без отходов сметы; в смете 1061.69 м2; код сметы 12.1.02.03-0195",
+  "vat_included": true
+ },
+ {
+  "name": "Линолеум гомогенный коммерческий 34/43 (Tarkett iQ Granit или экв.)",
+  "unit": "м2",
+  "shop": "irbis-pol.ru / parketremont.ru (СПб)",
+  "url": "https://parketremont.ru/catalog/linoleum/commercheskiy-linoleum/homogennyi/tarkett-gom/iq-granit/8805/",
+  "price_vat": 3146.5,
+  "date": "2026-11-05",
+  "note": "Гомогенный линолеум Tarkett iQ Granit 34/43: 2 750 и 3 543 ₽/м2; объём 108,45 + 88,5 = 196,95 м2; в смете 200.89 м2; код сметы 01.6.03.04-0115",
+  "vat_included": true
+ },
+ {
+  "name": "Шпатлёвка Weber Vetonit VH",
+  "unit": "кг",
+  "shop": "Петрович / tdvasya.ru",
+  "url": "https://petrovich.ru/product/138069/",
+  "price_vat": 46.4,
+  "date": "2026-11-05",
+  "note": "Weber Vetonit VH 20 кг: 905 ₽ (Петрович) и 951 ₽ (tdvasya) → 46,4 ₽/кг; код сметы 04.3.02.09-3278",
+  "vat_included": true
+ },
+ {
+  "name": "Изопласт ЭКП-5,0 (верхний слой)",
+  "unit": "м2",
+  "shop": "spbrik.ru / avalon-ltd.ru",
+  "url": "https://spbrik.ru/product/izofleks/izoplast-ekp-5-0/",
+  "price_vat": 509.0,
+  "date": "2026-11-05",
+  "note": "Изопласт ЭКП-5,0: 4 800 и 5 380 ₽ за рулон 10 м2; объём — 915,25 м2 (верхний слой); в смете 1043.38 м2; код сметы 12.1.02.03-0051",
+  "vat_included": true
+ },
+ {
+  "name": "Трубы стальные электросварные прямошовные из стали марок Ст2, 10, наружный диаметр 219 мм, толщина с",
+  "unit": "м",
+  "shop": "inrost-group.ru / 1metallobaza.ru",
+  "url": "https://spb.inrost-group.ru/truby/219x6/prymoshovnye/",
+  "price_vat": 2288.0,
+  "date": "2026-11-05",
+  "note": "Труба э/св 219×6: 2 253 и 2 323 ₽/м; код сметы 23.5.02.02-0087",
+  "vat_included": true
+ },
+ {
+  "name": "Смеси сухие наливные быстротвердеющие на цементной основе для выравнивания оснований пола, расход 1,",
+  "unit": "т",
+  "shop": "Петрович (через stroyportal) / tskarteco.ru",
+  "url": "https://sankt-peterburg.stroyportal.ru/catalog/model-rovnitel-styazhka-pola-pervichnyy-petrolit-litoy-b-667274/",
+  "price_vat": 15480.0,
+  "date": "2026-11-05",
+  "note": "Ровнитель Петролит «Литой бетон» М300 25 кг: 409 ₽ (Петрович) и 365 ₽ (tskarteco) → 15 480 ₽/т. Быстротвердеющий аналог дороже — оценка; код сметы 04.3.02.01-0414",
+  "vat_included": true
+ },
+ {
+  "name": "Задвижка клиновая двухдисковая с выдвижным шпинделем 31ч6бр, номинальное давление 1,0 МПа, присоедин",
+  "unit": "шт",
+  "shop": "vkomplekt.spb.ru / zaporarm.ru",
+  "url": "https://vkomplekt.spb.ru/item/zadvizhka-30ch6br-du200-ru10",
+  "price_vat": 19329.0,
+  "date": "2026-11-05",
+  "note": "Задвижка Ду200 30ч6бр: 17 774 и 20 884 ₽; в смете 31ч6бр — аналог, запросить КП; код сметы 18.1.02.01-0015",
+  "vat_included": true
+ },
+ {
+  "name": "Кран шаровой чугунный, присоединение к трубопроводу фланцевое, номинальное давление 1,6 МПа, номинал",
+  "unit": "шт",
+  "shop": "spb.steel-pro.ru / tebus.ru / ilion-spb.ru",
+  "url": "https://spb.steel-pro.ru/catalog/zapornaya_armatura/krany_sharovye_chugunnye/kran_sharovoy_chugunnyy_565a_du_50_ru16_flantsevyy_rukoyatka_tmaks_150_os_zetkama_565a_050_s_09/",
+  "price_vat": 9212.0,
+  "date": "2026-11-05",
+  "note": "Кран шаровой чугунный фланцевый Ду50 Ру16: 9 000 / 9 563 / 9 072 ₽; код сметы 18.1.09.11-1052",
+  "vat_included": true
+ },
+ {
+  "name": "Кирпич силикатный лицевой полнотелый одинарный, размеры 250х120х65 мм, марка М250",
+  "unit": "1000 шт",
+  "shop": "kamneteka.ru / kirpi4nik.com (СПб)",
+  "url": "https://kamneteka.ru/cat/kirpich/oblicovochnyj/silikatnyj/pavlovskij-kz-seryj-1nf-polnotelyj/",
+  "price_vat": 34450.0,
+  "date": "2026-11-05",
+  "note": "Кирпич силикатный лицевой полнотелый 1НФ: 32,0 ₽ (Павловский М200) и 36,9 ₽ (БЗСК) → 34,45 ₽/шт. М250 в продаже не найден — оценка; код сметы 05.2.03.13-0006",
+  "vat_included": true
+ },
+ {
+  "name": "Блок дверной входной из ПВХ-профилей, с простой коробкой, однопольный, с офисной фурнитурой, без сте",
+  "unit": "м2",
+  "shop": "oknacwc.ru / spb.supermarket-okon.com",
+  "url": "https://spb.supermarket-okon.com/doors",
+  "price_vat": 8312.0,
+  "date": "2026-11-05",
+  "note": "Офисная дверь ПВХ: 16 500 ₽ за 0,9×2,2 м (8 333 ₽/м2, oknacwc) и от 8 290 ₽/м2 (Супермаркет окон); запросить КП с размерами; код сметы 11.3.01.02-0011",
+  "vat_included": true
+ },
+ {
+  "name": "Портландцемент бездобавочный общестроительный ЦЕМ 0 32,5Н",
+  "unit": "т",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/catalog/12111/",
+  "price_vat": 12340.0,
+  "date": "2026-11-05",
+  "note": "Цемент 50 кг: ЦЕМРОС М500 Д0 639 ₽ и ПЦ500 Д0 595 ₽ (оба Петрович) → 12 340 ₽/т; код сметы 03.2.01.01-0001",
+  "vat_included": true
+ },
+ {
+  "name": "Блок дверной входной из ПВХ-профилей, с простой коробкой, однопольный, с офисной фурнитурой, без сте",
+  "unit": "м2",
+  "shop": "oknacwc.ru / spb.supermarket-okon.com",
+  "url": "https://spb.supermarket-okon.com/doors",
+  "price_vat": 8312.0,
+  "date": "2026-11-05",
+  "note": "Офисная дверь ПВХ: 16 500 ₽ за 0,9×2,2 м (8 333 ₽/м2, oknacwc) и от 8 290 ₽/м2 (Супермаркет окон); запросить КП с размерами; код сметы 11.3.01.02-0012",
+  "vat_included": true
+ },
+ {
+  "name": "Плитка керамогранитная, неполированная, толщина 8 мм",
+  "unit": "м2",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/product/692116/",
+  "price_vat": 523.0,
+  "date": "2026-11-05",
+  "note": "Керамогранит Unitile Техногрес 300×300×8: 652 и 669 ₽ за 1,26 м2 (Петрович) → 523 ₽/м2; объём облицовки 336,63 м2; в смете 338.73 м2; код сметы 06.2.05.03-0011",
+  "vat_included": true
+ },
+ {
+  "name": "Блок дверной входной из ПВХ-профилей, с простой коробкой, однопольный, с офисной фурнитурой, без сте",
+  "unit": "м2",
+  "shop": "oknacwc.ru / spb.supermarket-okon.com",
+  "url": "https://spb.supermarket-okon.com/doors",
+  "price_vat": 8312.0,
+  "date": "2026-11-05",
+  "note": "Офисная дверь ПВХ: 16 500 ₽ за 0,9×2,2 м (8 333 ₽/м2, oknacwc) и от 8 290 ₽/м2 (Супермаркет окон); запросить КП с размерами; код сметы 11.3.01.02-0010",
+  "vat_included": true
+ },
+ {
+  "name": "Сетка стальная сварная из арматурной проволоки без покрытия, диаметр проволоки 5 мм, размер ячейки 1",
+  "unit": "м2",
+  "shop": "Петрович / barion-steel.ru",
+  "url": "https://petrovich.ru/product/637173/",
+  "price_vat": 282.0,
+  "date": "2026-11-05",
+  "note": "Сетка сварная 100×100: Петрович d5,5 1 159 ₽/3 м2 = 386 ₽/м2; Барион 100×100×5 от 179 ₽/м2; код сметы 08.1.02.17-0097",
+  "vat_included": true
+ },
+ {
+  "name": "Отвод 90° с радиусом кривизны R=1,5 Ду на давление до 16 МПа, номинальный диаметр 200 мм, наружный д",
+  "unit": "шт",
+  "shop": "lsr-steel.ru / rosarma.ru",
+  "url": "https://rosarma.ru/catalogue/detali_truboprovoda/otvody/krutoizognutye_stalnye_gost_17375_2001/",
+  "price_vat": 1411.0,
+  "date": "2026-11-05",
+  "note": "Отвод 90° 219×6: 1 220 и 1 602 ₽; код сметы 23.8.04.06-0095",
+  "vat_included": true
+ },
+ {
+  "name": "Прокат просечно-вытяжной горячекатаный, марки стали Ст3пс, Ст3сп, ширина 500 мм, толщина 4 мм",
+  "unit": "т",
+  "shop": "adamantsteel.ru / spb.usk-rus.ru",
+  "url": "https://www.adamantsteel.ru/product/listovoy-metalloprokat/list-prosechno-vytyazhnoy-pvl/508/",
+  "price_vat": 69111.0,
+  "date": "2026-11-05",
+  "note": "Лист ПВЛ-508: от 66 990 и 71 232 ₽/т (СПб); код сметы 08.3.12.04-0001",
+  "vat_included": true
+ },
+ {
+  "name": "Песок природный для строительных работ I класс, средний",
+  "unit": "м3",
+  "shop": "lsk-razvitie.ru / pesok-vsevologsk.ru",
+  "url": "https://lsk-razvitie.ru/pesok-vsevolozhskiy-rayon/",
+  "price_vat": 895.0,
+  "date": "2026-11-05",
+  "note": "Песок мытый Всеволожский р-н: 790 ₽/м3 с доставкой и 1 000 ₽/м3; код сметы 02.3.01.02-1104",
+  "vat_included": true
+ },
+ {
+  "name": "Эмаль алкидная уретановая антикоррозионная, атмосферостойкая для защиты поверхности металлических, б",
+  "unit": "кг",
+  "shop": "ferraantikor.ru / Петрович",
+  "url": "https://sankt-peterburg.ferraantikor.ru/akz-antikorrozionnaya-zashchita",
+  "price_vat": 594.0,
+  "date": "2026-11-05",
+  "note": "Эмаль алкидно-уретановая ФЕРРА-ЖД-АУ-1004 20 кг 9 016 ₽ (451 ₽/кг) и грунт-эмаль 3в1 Экодом 10 кг 7 373 ₽ (737 ₽/кг, аналог) — оценка; код сметы 14.4.04.03-0016",
+  "vat_included": true
+ },
+ {
+  "name": "Клей плиточный Крепс Усиленный",
+  "unit": "т",
+  "shop": "Петрович / Сатурн",
+  "url": "https://petrovich.ru/product/104176/",
+  "price_vat": 22680.0,
+  "date": "2026-11-05",
+  "note": "Клей Крепс Усиленный 25 кг (марка по ТЗ): 587 ₽ (Петрович) и 547 ₽ (Сатурн) → 22 680 ₽/т; код сметы 14.1.06.02-0011",
+  "vat_included": true
+ },
+ {
+  "name": "Фланец приварной встык, марка стали 20, номинальное давление 1,6 МПа, номинальный диаметр 200 мм",
+  "unit": "шт",
+  "shop": "valving.ru",
+  "url": "https://valving.ru/flanec-vorotnikovyj-tip-11/flanec-privarnoy-vstyk-du200-ru16-st20-tip-11",
+  "price_vat": 3846.0,
+  "date": "2026-11-05",
+  "note": "Фланец приварной встык Ду200 Ру16: 3 846 ₽ — один источник, оценка; код сметы 23.8.03.11-0012",
+  "vat_included": true
+ },
+ {
+  "name": "Плитка керамогранитная, неполированная, многоцветная, толщина 9 мм",
+  "unit": "м2",
+  "shop": "spb.slavdom.ru",
+  "url": "https://spb.slavdom.ru/catalog/plitka-ulichnie-pokrytia/plitka-i-stupeni/keramogranit/tolshchina-mm_8/",
+  "price_vat": 1325.0,
+  "date": "2026-11-05",
+  "note": "Керамогранит 9 мм многоцветный: Estima 1 225–1 425 ₽/м2 — оценка, один источник; объём 52,7 м2; в смете 53.75 м2; код сметы 06.2.05.03-0003",
+  "vat_included": true
+ },
+ {
+  "name": "Блок дверной входной из ПВХ-профилей, с простой коробкой, однопольный, с офисной фурнитурой, с однок",
+  "unit": "м2",
+  "shop": "oknacwc.ru / spb.supermarket-okon.com",
+  "url": "https://spb.supermarket-okon.com/doors",
+  "price_vat": 8312.0,
+  "date": "2026-11-05",
+  "note": "Офисная дверь ПВХ: 16 500 ₽ за 0,9×2,2 м (8 333 ₽/м2, oknacwc) и от 8 290 ₽/м2 (Супермаркет окон); запросить КП с размерами; код сметы 11.3.01.02-0016",
+  "vat_included": true
+ },
+ {
+  "name": "Аренда фасадных рамных лесов 994,96 м2 × 3 мес (фасад, июль–сентябрь 2027)",
+  "unit": "м2·мес",
+  "shop": "opalubkavspb.ru / td-set.ru",
+  "url": "https://td-set.ru/katalog/stroitelnye_lesa/arenda_stroitel_nyh_lesov/",
+  "price_vat": 80.0,
+  "date": "2026-11-05",
+  "note": "Аренда 500–1000 м2: 70 ₽ (Уровень) и 90 ₽ (ТД Сеть) за м2/мес; срок 3 мес — оценка",
+  "vat_included": true
+ }
+]
