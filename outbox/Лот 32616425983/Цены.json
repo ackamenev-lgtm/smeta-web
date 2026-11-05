@@ -1,0 +1,152 @@
+[
+ {
+  "name": "Труба ПЭ100-RC SDR17 110×6,6 (Мультипайп ПРО RC)",
+  "unit": "м",
+  "shop": "awstroy.ru",
+  "url": "https://awstroy.ru",
+  "price_vat": 972,
+  "date": "2026-11-05",
+  "note": "СПб; второй источник — ТЦ ЛСР 941 ₽ без НДС",
+  "vat_included": true
+ },
+ {
+  "name": "Труба ПЭ100-RC SDR17 160×9,5 (Мультипайп ПРО RC)",
+  "unit": "м",
+  "shop": "awstroy.ru",
+  "url": "https://awstroy.ru",
+  "price_vat": 2030,
+  "date": "2026-11-05",
+  "note": "СПб; второй источник — ТЦ ЛСР 1 966 ₽ без НДС",
+  "vat_included": true
+ },
+ {
+  "name": "Труба ПЭ100-RC SDR17 355×21,1 (Мультипайп ПРО RC)",
+  "unit": "м",
+  "shop": "protrubplast.ru",
+  "url": "https://protrubplast.ru",
+  "price_vat": 17920.83,
+  "date": "2026-11-05",
+  "note": "Москва, один источник; RC без защитного слоя 9 691 ₽ — нужен запрос поставщику",
+  "vat_included": true
+ },
+ {
+  "name": "Задвижка клиновая фланцевая DN150 PN10 обрезиненный клин (Jafar 2002)",
+  "unit": "шт",
+  "shop": "khoper.ru",
+  "url": "https://khoper.ru",
+  "price_vat": 81407,
+  "date": "2026-11-05",
+  "note": "второй источник — ТЦ ЛСР 49 919 ₽ без НДС",
+  "vat_included": true
+ },
+ {
+  "name": "Шток телескопический Jafar 9011 для задвижки DN100",
+  "unit": "шт",
+  "shop": "awstroy.ru",
+  "url": "https://awstroy.ru",
+  "price_vat": 9362,
+  "date": "2026-11-05",
+  "note": "один источник",
+  "vat_included": true
+ },
+ {
+  "name": "Шток телескопический Jafar 9011 для задвижки DN150",
+  "unit": "шт",
+  "shop": "awstroy.ru",
+  "url": "https://awstroy.ru",
+  "price_vat": 9362,
+  "date": "2026-11-05",
+  "note": "один источник",
+  "vat_included": true
+ },
+ {
+  "name": "Шток телескопический Jafar 9011 для задвижки DN200",
+  "unit": "шт",
+  "shop": "awstroy.ru",
+  "url": "https://awstroy.ru",
+  "price_vat": 9717,
+  "date": "2026-11-05",
+  "note": "один источник",
+  "vat_included": true
+ },
+ {
+  "name": "Вставка демонтажная фланцевая DN100 PN10 (Jafar 9311)",
+  "unit": "шт",
+  "shop": "ksteel.ru",
+  "url": "https://ksteel.ru",
+  "price_vat": 70781.92,
+  "date": "2026-11-05",
+  "note": "alfaarm.ru 34 023 ₽; принята верхняя  ближе к ТЦ ЛСР",
+  "vat_included": true
+ },
+ {
+  "name": "Вставка демонтажная фланцевая DN150 PN10 (Jafar 9311)",
+  "unit": "шт",
+  "shop": "ksteel.ru",
+  "url": "https://ksteel.ru",
+  "price_vat": 106215.12,
+  "date": "2026-11-05",
+  "note": "alfaarm.ru 49 572 ₽; принята верхняя  ближе к ТЦ ЛСР",
+  "vat_included": true
+ },
+ {
+  "name": "Вставка демонтажная фланцевая DN200 PN10 (Jafar 9311)",
+  "unit": "шт",
+  "shop": "ksteel.ru",
+  "url": "https://ksteel.ru",
+  "price_vat": 142958.64,
+  "date": "2026-11-05",
+  "note": "alfaarm.ru 66 722 ₽; принята верхняя  ближе к ТЦ ЛСР",
+  "vat_included": true
+ },
+ {
+  "name": "Вантуз двухступенчатый бесколодезный DN50 PN10 Jafar 7080 (H1845)",
+  "unit": "шт",
+  "shop": "awstroy.ru",
+  "url": "https://awstroy.ru",
+  "price_vat": 168777,
+  "date": "2026-11-05",
+  "note": "hotoks-pkf.ru H1095 147 153 ₽; высота штока по ПСД не задана",
+  "vat_included": true
+ },
+ {
+  "name": "Песок природный I класс средний (засыпка траншей)",
+  "unit": "м3",
+  "shop": "peterburg-pesok.ru",
+  "url": "https://peterburg-pesok.ru",
+  "price_vat": 1250,
+  "date": "2026-11-05",
+  "note": "с доставкой, безнал; gruntdostavka-spb.ru от 800 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Песок природный II класс средний (основания)",
+  "unit": "м3",
+  "shop": "peterburg-pesok.ru",
+  "url": "https://peterburg-pesok.ru",
+  "price_vat": 1250,
+  "date": "2026-11-05",
+  "note": "с доставкой, безнал; gruntdostavka-spb.ru от 800 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Земля растительная (грунт плодородный) с доставкой",
+  "unit": "м3",
+  "shop": "gravelit-spb.ru",
+  "url": "https://gravelit-spb.ru",
+  "price_vat": 975,
+  "date": "2026-11-05",
+  "note": "19 500 ₽ за 20 м³; nerudnye-spb.ru 600 ₽/м³, inert-spb.ru от 450 ₽ — принята верхняя",
+  "vat_included": true
+ },
+ {
+  "name": "Аренда блочной крепи траншей (щиты 3,5/4,0 м с распорками)",
+  "unit": "компл.-сут",
+  "shop": "konveyer-1.ru",
+  "url": "https://konveyer-1.ru",
+  "price_vat": 4000,
+  "date": "2026-11-05",
+  "note": "24 комплекта × 10 суток — оценка; aluminievye-krepi.ru 2 500–3 000 ₽/сут",
+  "vat_included": true
+ }
+]
