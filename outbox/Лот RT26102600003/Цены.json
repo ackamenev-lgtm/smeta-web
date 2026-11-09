@@ -1,0 +1,142 @@
+[
+ {
+  "name": "Хладагент R22",
+  "unit": "кг",
+  "shop": "ВсеФреоны (Москва)",
+  "url": "https://vsefreoni.ru/catalog/freon/khladagent-freon-r22-13-6-kg/",
+  "price_vat": 1268.3823529411766,
+  "date": "2026-11-09",
+  "note": "баллон 13,6 кг 17 250 ₽ → за кг; 2-й источник Масклим 17 800 ₽/13,6 кг; в Петровиче/Лемана/Сатурне нет",
+  "vat_included": true
+ },
+ {
+  "name": "Хладагент R410A",
+  "unit": "кг",
+  "shop": "ВсеФреоны (Москва)",
+  "url": "https://vsefreoni.ru/",
+  "price_vat": 1327.433628318584,
+  "date": "2026-11-09",
+  "note": "баллон 11,3 кг 15 000 ₽ → за кг; 2-й источник Русклимат СПб 16 699 ₽/11,3 кг; в Петровиче/Лемана/Сатурне нет",
+  "vat_included": true
+ },
+ {
+  "name": "Масло синтетическое POE 32 Errecom, 1 л",
+  "unit": "л",
+  "shop": "АРТХОЛОД",
+  "url": "https://aholod.ru/item/maslo-errecom-poe-32-1-l-/",
+  "price_vat": 1493,
+  "date": "2026-11-09",
+  "note": "2-й источник ГеоФрост 1 994 ₽; в тройке нет",
+  "vat_included": true
+ },
+ {
+  "name": "Фильтр сетчатый EU3 к Carrier FB4BSF060 (эквивалент: панельный ФВП 592×592, 2 шт)",
+  "unit": "шт.",
+  "shop": "Норд Эйр (СПб)",
+  "url": "https://nord-air.ru/magazin/product/filtr-panelnyj-fvp-g4-592-592-48",
+  "price_vat": 1300,
+  "date": "2026-11-09",
+  "note": "оценка: оригинал Carrier в открытых прайсах не найден; 2 × 650 ₽, размер уточнить",
+  "vat_included": true
+ },
+ {
+  "name": "Фильтр панельный G4 к Lemming L-CBS017 (эквивалент ФВП-G4, 2 шт)",
+  "unit": "шт.",
+  "shop": "Норд Эйр (СПб)",
+  "url": "https://nord-air.ru/magazin/product/filtr-panelnyj-fvp-g4-592-592-48",
+  "price_vat": 1300,
+  "date": "2026-11-09",
+  "note": "оценка: оригинал Lemming в открытых прайсах не найден; 2 × 650 ₽, размер уточнить",
+  "vat_included": true
+ },
+ {
+  "name": "Фильтр канальный G4 Ø125 (POL-G4-125)",
+  "unit": "шт.",
+  "shop": "Свежий Воздух (Москва)",
+  "url": "https://fresh-air.moscow/product/filtr-pol-g4-125/",
+  "price_vat": 2300,
+  "date": "2026-11-09",
+  "note": "2-й источник Яндекс Маркет 2 315 ₽; в тройке не найден",
+  "vat_included": true
+ },
+ {
+  "name": "Азот технический, заправка баллона 10 л",
+  "unit": "шт.",
+  "shop": "Нордгаз (СПб)",
+  "url": "https://nord-gaz.ru/gaz/azot.html",
+  "price_vat": 400,
+  "date": "2026-11-09",
+  "note": "2-й источник ЛидерГаз 648 ₽; в В. Новгороде — ДИОКСИД, цена по запросу",
+  "vat_included": true
+ },
+ {
+  "name": "Фильтр-осушитель Danfoss (Ридан) DML 083s",
+  "unit": "шт.",
+  "shop": "ru-dfs.com",
+  "url": "https://ru-dfs.com/023z505891/",
+  "price_vat": 1126,
+  "date": "2026-11-09",
+  "note": "2-й источник gcexpress 1 235 ₽; в тройке нет",
+  "vat_included": true
+ },
+ {
+  "name": "Манометр Value 68 мм высокого давления",
+  "unit": "шт.",
+  "shop": "refo24",
+  "url": "https://refo24.ru/catalog/products/manometr-visokogo-davleniya-value-hp-68mm-r22-r134a-r404a-r407c",
+  "price_vat": 799,
+  "date": "2026-11-09",
+  "note": "2-й источник Ника Холод 817 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Трубка Энергофлекс Супер 22/9",
+  "unit": "м.п.",
+  "shop": "Терманн (СПб)",
+  "url": "https://termann.ru/catalog/truby/teploizolyatsiya/",
+  "price_vat": 18,
+  "date": "2026-11-09",
+  "note": "36 ₽ за трубку 2 м → за м; 2-й источник Терморос СПб 32,43 ₽/м; в Петровиче и Лемана ПРО не найдена",
+  "vat_included": true
+ },
+ {
+  "name": "ТРВ Ридан TE2 068Z3209R (аналог Danfoss TE2)",
+  "unit": "шт.",
+  "shop": "Ридан (производитель)",
+  "url": "https://ridan.ru/product/068Z3209R",
+  "price_vat": 4710.12,
+  "date": "2026-11-09",
+  "note": "3 860,75 без НДС; 2-й источник Россхолод TE2 5 400 ₽; модель под хладагент уточнить",
+  "vat_included": true
+ },
+ {
+  "name": "Дренажная помпа Aspen Mini Orange FP2212",
+  "unit": "шт.",
+  "shop": "PMK-Company",
+  "url": "https://pmk-company.ru/products/22772960",
+  "price_vat": 3850,
+  "date": "2026-11-09",
+  "note": "2-й источник Климатис СПб 6 000 ₽; цена заказчика 2 600 ниже рынка",
+  "vat_included": true
+ },
+ {
+  "name": "Клапан соленоидный Danfoss EVR 6 + катушка 220 В",
+  "unit": "шт.",
+  "shop": "Фрегат-Холод (fholod.ru)",
+  "url": "http://www.fholod.ru/price-03.htm",
+  "price_vat": 2508.4,
+  "date": "2026-11-09",
+  "note": "корпус 1 886,40 + катушка 622; 2-й источник Основы холода 4 900 ₽ в сборе",
+  "vat_included": true
+ },
+ {
+  "name": "Клапан обратный Danfoss NRV 10s",
+  "unit": "шт.",
+  "shop": "Фрегат-Холод (fholod.ru)",
+  "url": "http://www.fholod.ru/price-03.htm",
+  "price_vat": 1075.5,
+  "date": "2026-11-09",
+  "note": "2-й источник ЮгФрост 2 900 ₽ (аналог)",
+  "vat_included": true
+ }
+]
