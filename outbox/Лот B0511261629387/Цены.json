@@ -1,0 +1,132 @@
+[
+ {
+  "name": "Люк инспекционный 300х200 оцинк. с уплотнителем (ФАД 300х200)",
+  "unit": "шт",
+  "shop": "Вентсистемы (СПб)",
+  "url": "https://shop.ventsystem.ru/inspekcionie-ljuchki-dlja-ventilacii/ljuchki-china-cink/dlja-prjamougolnih-vozduhovodov-china/inspekcionnij-ljuk-fad-300-200",
+  "price_vat": 1580,
+  "date": "2026-11-09",
+  "note": "2-й источник: Виавент ВВ-32 1 674 ₽ (viavent.ru/products/vozd/vent-lyuki/); All4Vent ПРВ-32 1 290 ₽ с НДС 5 %. В Петровиче/Лемана ПРО/Сатурне нет",
+  "vat_included": true
+ },
+ {
+  "name": "МБОР-5Ф фольгированный (ТИЗОЛ), рулон 45 м2",
+  "unit": "м2",
+  "shop": "Центр Изоляции",
+  "url": "https://centrisol.ru/katalog/teploizolyaciya/mbor-5f",
+  "price_vat": 305.9,
+  "date": "2026-11-09",
+  "note": "2-й источник: прайс ТИЗОЛ 338 ₽/м2 (ultrastroy.com/price/tizol/). В тройке магазинов нет",
+  "vat_included": true
+ },
+ {
+  "name": "Огнезащитный клеевой состав «Плазас» (ТИЗОЛ)",
+  "unit": "кг",
+  "shop": "ТИЗОЛ (прайс дилера)",
+  "url": "https://ultrastroy.com/price/tizol/",
+  "price_vat": 95,
+  "date": "2026-11-09",
+  "note": "один источник, позиция < 1 % — оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Скотч алюминиевый «Ламс» 70 мм × 50 м",
+  "unit": "рулон",
+  "shop": "ТИЗОЛ (прайс дилера)",
+  "url": "https://ultrastroy.com/price/tizol/",
+  "price_vat": 350,
+  "date": "2026-11-09",
+  "note": "один источник, позиция < 1 % — оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Щелочное пенное средство Grass Bios-K, канистра 22,5 кг",
+  "unit": "канистра",
+  "shop": "GRASS.SPB.RU (СПб)",
+  "url": "https://grass.spb.ru/products/59377",
+  "price_vat": 7232.01,
+  "date": "2026-11-09",
+  "note": "2-й источник: СПЕЦКЛЮЧ 7 232,01 ₽ (speckluch.ru/products/58516); ProWife 7 732 ₽. В тройке нет",
+  "vat_included": true
+ },
+ {
+  "name": "Дезэфект-Практик, концентрат 1 л",
+  "unit": "л",
+  "shop": "МАКС-ФАРМА",
+  "url": "https://maks-farma.ru/catalog/universalnye-dezinfitsiruyushchie-sredstva/dezefekt_praktik_1l_/",
+  "price_vat": 801,
+  "date": "2026-11-09",
+  "note": "2-й источник: Descont 900 ₽ (descont.ru/product/dezefekt-praktik/). Названа в ТЗ",
+  "vat_included": true
+ },
+ {
+  "name": "Вывоз и утилизация отходов IV класса (жировые отложения, ветошь) с документами",
+  "unit": "кг",
+  "shop": "ТрейдКом (СПб)",
+  "url": "https://tradecomspb.ru/services/vyvoz-othodov-4-i-5-klassa/",
+  "price_vat": 17,
+  "date": "2026-11-09",
+  "note": "«от 17 руб./кг»; вес отходов — оценка 0,3 кг/м2. Запросить КП оператора",
+  "vat_included": true
+ },
+ {
+  "name": "Транспортирование отходов (рейс)",
+  "unit": "рейс",
+  "shop": "Утилинг (СПб)",
+  "url": "https://utiling.ru/services/pererabotka-masla/",
+  "price_vat": 3800,
+  "date": "2026-11-09",
+  "note": "«перевозка от 3 800 ₽» — оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Люк инспекционный 300х200 оцинк. (Виавент ВВ-32)",
+  "unit": "шт",
+  "shop": "Виавент",
+  "url": "https://viavent.ru/products/vozd/vent-lyuki/",
+  "price_vat": 1674,
+  "date": "2026-11-09",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Люк инспекционный ПРВ-32 300х200",
+  "unit": "шт",
+  "shop": "All4Vent (СПб)",
+  "url": "https://all4vent.ru/accessdoors.html",
+  "price_vat": 1290,
+  "date": "2026-11-09",
+  "note": "цена с НДС 5 %; для ОСНО с НДС 22 % выше",
+  "vat_included": true
+ },
+ {
+  "name": "МБОР-5Ф фольгированный 30000х1500х5",
+  "unit": "м2",
+  "shop": "ТИЗОЛ (прайс ultrastroy)",
+  "url": "https://ultrastroy.com/price/tizol/",
+  "price_vat": 372,
+  "date": "2026-11-09",
+  "note": "рулон 45 м2",
+  "vat_included": true
+ },
+ {
+  "name": "Щелочное средство Grass Bios-K, канистра 22,5 кг",
+  "unit": "канистра",
+  "shop": "СПЕЦКЛЮЧ (СПб)",
+  "url": "https://speckluch.ru/products/58516",
+  "price_vat": 7232.01,
+  "date": "2026-11-09",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Дезэфект-Практик, концентрат 1 л",
+  "unit": "л",
+  "shop": "Descont",
+  "url": "https://descont.ru/product/dezefekt-praktik/",
+  "price_vat": 900,
+  "date": "2026-11-09",
+  "note": "",
+  "vat_included": true
+ }
+]
