@@ -1,0 +1,192 @@
+[
+ {
+  "name": "Краска ВД моющаяся Tikkurila Euro Power 7",
+  "unit": "л",
+  "shop": "Петрович",
+  "url": "https://moscow.petrovich.ru/product/103964/",
+  "price_vat": 866.56,
+  "date": "2026-11-09",
+  "note": "Tikkurila Euro Power 7 база А 9 л = 7 799 ₽; 2-й источник Albia 9 749 ₽/9 л",
+  "vat_included": true
+ },
+ {
+  "name": "Штукатурка цементная Волма Аквапласт базовая 25 кг",
+  "unit": "кг",
+  "shop": "Петрович",
+  "url": "https://moscow.petrovich.ru/catalog/1447/volma/",
+  "price_vat": 17.84,
+  "date": "2026-11-09",
+  "note": "Петрович 446 ₽/25 кг; 2-й источник Сатурн 469 ₽/25 кг",
+  "vat_included": true
+ },
+ {
+  "name": "Плитка настенная белая 300×200 (Axima/Unitile)",
+  "unit": "м2",
+  "shop": "Петрович",
+  "url": "https://moscow.petrovich.ru/catalog/10042/plitka-belaja/",
+  "price_vat": 436,
+  "date": "2026-11-09",
+  "note": "Axima белая 300×200 436 ₽/м2; 2-й источник Петрович Unitile 436 ₽/м2",
+  "vat_included": true
+ },
+ {
+  "name": "Клей плиточный Ceresit CM 11 PRO",
+  "unit": "кг",
+  "shop": "Петрович",
+  "url": "https://moscow.petrovich.ru/product/114585/",
+  "price_vat": 24.76,
+  "date": "2026-11-09",
+  "note": "Ceresit CM 11 PRO 25 кг = 619 ₽; 2-й источник Максикерам 601 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Плитка «кабанчик» Corsa Deco Soft Brick белая 200×95",
+  "unit": "м2",
+  "shop": "Петрович",
+  "url": "https://moscow.petrovich.ru/catalog/9576257/",
+  "price_vat": 1100,
+  "date": "2026-11-09",
+  "note": "Петрович 1 100 ₽; 2-й источник Петрович Soft Brick 150×75 — 1 420 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Планкен прямой лиственница сорт А 20×140×3000",
+  "unit": "м2",
+  "shop": "ЛесСевер",
+  "url": "https://lessever.ru/",
+  "price_vat": 1680,
+  "date": "2026-11-09",
+  "note": "в Петровиче/Лемана/Сатурне не нашли; 2-й источник Sky-Wood 2 147 ₽/м2 (sky-wood.ru)",
+  "vat_included": true
+ },
+ {
+  "name": "Масло-лазурь цветное Osmo Holzschutz Öl-Lasur 2,5 л",
+  "unit": "шт",
+  "shop": "Паркет-Строй",
+  "url": "https://parket-stroi.ru/maslo/proizvoditel-m/osmo/osmo-holzschutzol-lasur",
+  "price_vat": 18479,
+  "date": "2026-11-09",
+  "note": "в тройке не нашли; 2-й источник rub-dvor.ru 19 150 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Цемент М500 Д20 50 кг",
+  "unit": "кг",
+  "shop": "Петрович",
+  "url": "https://moscow.petrovich.ru/product/144444/",
+  "price_vat": 11.78,
+  "date": "2026-11-09",
+  "note": "ЦЕМРОС М500 Д20 589 ₽/50 кг; 2-й источник Петрович Цементум 545 ₽/40 кг",
+  "vat_included": true
+ },
+ {
+  "name": "Песок строительный карьерный навалом",
+  "unit": "м3",
+  "shop": "НерудСтрой-М",
+  "url": "https://stroynerud.ru/sypuchie-materialy/pesok",
+  "price_vat": 1100,
+  "date": "2026-11-09",
+  "note": "в тройке навалом нет; 2-й источник НСМ Групп от 450 ₽/м3",
+  "vat_included": true
+ },
+ {
+  "name": "Керамогранит 60×60 матовый",
+  "unit": "м2",
+  "shop": "Петрович",
+  "url": "https://moscow.petrovich.ru/catalog/1352/keramogranit-matovyj-rossiya/",
+  "price_vat": 1162.51,
+  "date": "2026-11-09",
+  "note": "Уральский Гранит Моноколор UF002MR 60×60 матовый; 2-й источник Петрович Lavelly Ситец 1 690 ₽/1,44 м2 = 1 174 ₽/м2",
+  "vat_included": true
+ },
+ {
+  "name": "Кабель ВВГнг(А)-LS 3×1,5",
+  "unit": "м",
+  "shop": "Петрович",
+  "url": "https://moscow.petrovich.ru/product/770854/",
+  "price_vat": 112,
+  "date": "2026-11-09",
+  "note": "Петрович Конкорд 112 ₽/м; 2-й источник l-electro.com Конкорд 8 793 ₽/100 м. В ВОР ВВГнг(А) — LS не хуже",
+  "vat_included": true
+ },
+ {
+  "name": "Кабель ВВГнг(А)-LS 3×2,5",
+  "unit": "м",
+  "shop": "Петрович",
+  "url": "https://moscow.petrovich.ru/product/103088/",
+  "price_vat": 135.33,
+  "date": "2026-11-09",
+  "note": "Петрович Кабэкс 13 533 ₽/100 м; 2-й источник l-electro.com Конкорд 12 977 ₽/100 м",
+  "vat_included": true
+ },
+ {
+  "name": "Шинопровод однофазный ЭРА TR-200-1PT BK 2 м (ввод и заглушка в комплекте)",
+  "unit": "шт",
+  "shop": "ЭРА (erarussia.ru)",
+  "url": "https://erarussia.ru/shihoppobod-odhofazhyii-epa-tr-200---1pt---bk-2m-chephyii-b0054461",
+  "price_vat": 1374,
+  "date": "2026-11-09",
+  "note": "в тройке не нашли; 2-й источник el-power.ru 1 445 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Светильник трековый ЭРА TR37-GU10 BK Б0053304",
+  "unit": "шт",
+  "shop": "ЭК (e-kc.ru)",
+  "url": "https://e-kc.ru/cena/svetilnik-trekovyj-odnofaznyj-tr37-gu10-bk-pod-lampu-mr16-chernyj-b0053304-m_in_ch-energiya-sveta",
+  "price_vat": 315.37,
+  "date": "2026-11-09",
+  "note": "в тройке не нашли; 2-й источник Эльбиконт (Русский Свет) 261 ₽, СПб",
+  "vat_included": true
+ },
+ {
+  "name": "Люстра из металлического каркаса и пеньковой верёвки, ретро, 50 см (LED-лампа в комплекте)",
+  "unit": "шт",
+  "shop": "Яндекс Маркет",
+  "url": "https://market.yandex.ru/category/lyustry-iz-verevki",
+  "price_vat": 4565,
+  "date": "2026-11-09",
+  "note": "в тройке не нашли; 2-й источник Theretro FR-153 50 см 6 613 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Тепловая завеса электрическая Ballu BHC-L09S03-ST (0,9 м, 3 кВт, 220 В)",
+  "unit": "шт",
+  "shop": "Лемана ПРО",
+  "url": "https://tula.stroyportal.ru/profile/lemana-pro-moskva-194393/pricelist/section-vozdushnye-teplovye-zavesy-2375/",
+  "price_vat": 11371,
+  "date": "2026-11-09",
+  "note": "модель в ВОР не задана; 2-й источник Термокит 14 490 ₽; запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Унитаз-компакт Cersanit Just с сиденьем",
+  "unit": "компл",
+  "shop": "Лемана ПРО",
+  "url": "https://lemanapro.ru/catalogue/unitazy-kompakt/kosoy-vypusk/",
+  "price_vat": 7200,
+  "date": "2026-11-09",
+  "note": "2-й источник korsant.ru Santek Анимо 7 768 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Поддон душевой акриловый Metakam Apart 90×90 + экран фронтальный",
+  "unit": "компл",
+  "shop": "Лемана ПРО",
+  "url": "https://lemanapro.ru/catalogue/dushevye-poddony/",
+  "price_vat": 10188,
+  "date": "2026-11-09",
+  "note": "Лемана 8 848 + экран 1 340 ₽; 2-й источник Водопарад Aquatek с каркасом и экраном 14 730 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Умывальник керамический Santek Анимо 50 см",
+  "unit": "шт",
+  "shop": "Корсант",
+  "url": "https://korsant.ru/santek/animo/",
+  "price_vat": 2411,
+  "date": "2026-11-09",
+  "note": "в тройке не нашли; 2-й источник Акванет Cersanit Carina 50 — 3 650 ₽",
+  "vat_included": true
+ }
+]
