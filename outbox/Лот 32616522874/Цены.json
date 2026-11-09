@@ -1,0 +1,442 @@
+[
+ {
+  "name": "Бетон В25 (М350) П4 F150 W6",
+  "unit": "м3",
+  "shop": "Гамма-Бетон (Дмитров)",
+  "url": "https://dmitrov.gamma-beton.ru/tovarniy-beton/m350-v25",
+  "price_vat": 5170,
+  "date": "2026-11-09",
+  "note": "4 750 ₽/м3 с НДС (В25 П4 F200 W8 гравий) + доставка до 20 км 420 ₽/м3; второй источник Бетон-Гуру 5 200 ₽ + доставка",
+  "vat_included": true
+ },
+ {
+  "name": "Арматура А500С Ø12 мм",
+  "unit": "т",
+  "shop": "Новаметком",
+  "url": "https://novametcom.ru/produkciya/steel/sortovoj_prokat/stroitelnaya_armatura/filter/stamp-is-a500s/",
+  "price_vat": 57.74,
+  "date": "2026-11-09",
+  "note": "57 740 ₽/т; второй источник Стройсталь 59 590 ₽/т",
+  "vat_included": true
+ },
+ {
+  "name": "Фанера ламинированная 18 мм для опалубки ленты",
+  "unit": "м2",
+  "shop": "Лемана ПРО (Москва)",
+  "url": "https://tula.stroyportal.ru/profile/lemana-pro-moskva-194393/pricelist/section-fanera-178/",
+  "price_vat": 1443.74,
+  "date": "2026-11-09",
+  "note": "ТЗ п.9 — инвентарная опалубка 69,8 м2; берём фанеру однократно; 4 298 ₽ за лист 2440×1220 = 2,977 м2; второй источник Петрович (Москва) 4 759 ₽ за лист",
+  "vat_included": true
+ },
+ {
+  "name": "Мастика битумная гидроизоляционная",
+  "unit": "кг",
+  "shop": "ТЕХНОНИКОЛЬ shop.tn.ru (Москва)",
+  "url": "https://shop.tn.ru/gidroizoljacija/mastiki-i-praymeri?p=2",
+  "price_vat": 249.4,
+  "date": "2026-11-09",
+  "note": "в ведомости не выделена: 69,6 м2 × 3 мм × 1 кг/м2·мм; МГТН №24 ведро 20 кг 4 988 ₽; второй источник Петрович 4 970 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Изол рулонный резинобитумный",
+  "unit": "м2",
+  "shop": "МетТрансТерминал (Москва)",
+  "url": "https://met-trans.ru/rti/brizol-rti",
+  "price_vat": 116,
+  "date": "2026-11-09",
+  "note": "Изол И-БД 2 мм; второй источник Химстрой (Москва) 196 ₽/м2",
+  "vat_included": true
+ },
+ {
+  "name": "Мастика резинобитумная (приклейка изола)",
+  "unit": "кг",
+  "shop": "Гидро-Дом (дилер ТН)",
+  "url": "https://gidro-dom.ru/catalog/mastika-prikleivayushchaya-vishera-22-vedro-20-kg/",
+  "price_vat": 229.95,
+  "date": "2026-11-09",
+  "note": "в ведомости не выделена: 617,7 м2 × 1,5 кг/м2; Вишера №22; второй источник ЦентроСтрой (Москва) 309 ₽/кг",
+  "vat_included": true
+ },
+ {
+  "name": "Бетон В25 (М350) П4 F150 W6 — плита",
+  "unit": "м3",
+  "shop": "Гамма-Бетон (Дмитров)",
+  "url": "https://dmitrov.gamma-beton.ru/tovarniy-beton/m350-v25",
+  "price_vat": 5170,
+  "date": "2026-11-09",
+  "note": "4 750 ₽/м3 с НДС (В25 П4 F200 W8 гравий) + доставка до 20 км 420 ₽/м3; второй источник Бетон-Гуру 5 200 ₽ + доставка",
+  "vat_included": true
+ },
+ {
+  "name": "Арматура А500С Ø10 мм",
+  "unit": "т",
+  "shop": "Стройсталь",
+  "url": "https://www.stroymetall.ru/catalog/armatura/riflenaya-a3-a500c-10mm/",
+  "price_vat": 59.59,
+  "date": "2026-11-09",
+  "note": "59 590 ₽/т; второй источник Новаметком 59 840 ₽/т",
+  "vat_included": true
+ },
+ {
+  "name": "Мастика битумная гидроизоляционная — плита",
+  "unit": "кг",
+  "shop": "ТЕХНОНИКОЛЬ shop.tn.ru (Москва)",
+  "url": "https://shop.tn.ru/gidroizoljacija/mastiki-i-praymeri?p=2",
+  "price_vat": 249.4,
+  "date": "2026-11-09",
+  "note": "в ведомости не выделена: 598 м2 × 2 мм × 1 кг/м2·мм; МГТН №24 ведро 20 кг 4 988 ₽; второй источник Петрович 4 970 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Герметик полиуретановый для швов пола, 600 мл",
+  "unit": "шт",
+  "shop": "Мастер Кровли (Москва)",
+  "url": "https://masterkrowli.ru/germetiki",
+  "price_vat": 510,
+  "date": "2026-11-09",
+  "note": "в ведомости не выделен: 260 м × 25 мм2 = 6,5 л; Технониколь ПУ MASTER 600 мл; второй источник KRONbuild PU-40 698 ₽ (Альбия)",
+  "vat_included": true
+ },
+ {
+  "name": "Грунтовка эпоксидная для бетонных полов",
+  "unit": "кг",
+  "shop": "Политакс (производитель)",
+  "url": "https://ekb-politaks.ru/products/beton/gruntovki-beton/88ep-2g.html",
+  "price_vat": 550,
+  "date": "2026-11-09",
+  "note": "в ведомости не выделена: 590,3 м2 × 0,3 кг/м2; 88EP 2G, 61–200 кг; второй источник Эпоксол-2MS 787 ₽/кг (Москва)",
+  "vat_included": true
+ },
+ {
+  "name": "Состав эпоксидный наливной для пола (3 мм)",
+  "unit": "кг",
+  "shop": "Подольский завод стройматериалов",
+  "url": "https://pzsm.ru/epoksidnyj-pol-ep-pol",
+  "price_vat": 480,
+  "date": "2026-11-09",
+  "note": "в ведомости не выделен: 590,3 м2 × 3 мм × 1,4 кг/м2·мм; ЭП-ПОЛ, расход 1,5 кг/м2 на 1 мм → 590,3 м2 × 3 мм × 1,5 = 2 656 кг; второй источник Альфапол ЭП-2Х 494,4 ₽/кг",
+  "vat_included": true
+ },
+ {
+  "name": "Бетон В20 (М250) — отмостка",
+  "unit": "м3",
+  "shop": "Омега-Бетон (Дмитров)",
+  "url": "https://dmitrov.omega-beton.ru/price/",
+  "price_vat": 5050,
+  "date": "2026-11-09",
+  "note": "4 650 ₽/м3 без НДС (В20 гравий) + доставка ≈400 ₽/м3 (оценка)",
+  "vat_included": false
+ },
+ {
+  "name": "Песок кварцевый для пескоструя",
+  "unit": "т",
+  "shop": "ТАВР-Неруд (Москва)",
+  "url": "https://tavrnerud.com/services/peskostruynye-raboty/",
+  "price_vat": 4400,
+  "date": "2026-11-09",
+  "note": "фр. 0,63–1,2 мм; второй источник Бетон-Партнёр 4 420 ₽/т биг-бэг",
+  "vat_included": true
+ },
+ {
+  "name": "Швеллер 22П Ст3",
+  "unit": "т",
+  "shop": "МеталлСтройРегион (Москва)",
+  "url": "https://metalstroyregion.ru/price-shveler/",
+  "price_vat": 72500,
+  "date": "2026-11-09",
+  "note": "опт, 22П ст3; второй источник Стройсталь 109 890 ₽/т (розница)",
+  "vat_included": true
+ },
+ {
+  "name": "Лист г/к 10–12 мм Ст3",
+  "unit": "т",
+  "shop": "Металл-СМ",
+  "url": "https://metall-sm.ru/catalog/chernyy-metalloprokat/listovoy-prokat/list-goryachekatanyy/",
+  "price_vat": 66605,
+  "date": "2026-11-09",
+  "note": "лист г/к 10–12 мм Ст3 1500×3000",
+  "vat_included": true
+ },
+ {
+  "name": "Труба профильная 160×160×5",
+  "unit": "т",
+  "shop": "СТК Вега (МО)",
+  "url": "https://vega-stk.ru/truba/truba-160x160x5",
+  "price_vat": 42100,
+  "date": "2026-11-09",
+  "note": "второй источник Главметаллсталь 43 497 ₽/т",
+  "vat_included": true
+ },
+ {
+  "name": "Лист г/к 6–8 мм Ст3",
+  "unit": "т",
+  "shop": "Металл-СМ",
+  "url": "https://metall-sm.ru/catalog/chernyy-metalloprokat/listovoy-prokat/list-goryachekatanyy/",
+  "price_vat": 64571,
+  "date": "2026-11-09",
+  "note": "лист г/к 6 мм Ст3 (8 мм — 62 690 ₽/т); второй источник Новаметком 71 910 ₽/т",
+  "vat_included": true
+ },
+ {
+  "name": "Сэндвич-панель кровельная МВ 200 мм, металл 0,5 мм",
+  "unit": "м2",
+  "shop": "Главметаллсталь (Москва)",
+  "url": "https://glavmetalstal.ru/materialyi-dlya-krovli/sendvich-paneli/krovelnyie-sendvich-paneli/sendvich-paneli-iz-mineralnoj-vatyi/krovelnyie-sendvich-paneli-s-minvatoj-200-ral-7011-temno-seryij/",
+  "price_vat": 3146,
+  "date": "2026-11-09",
+  "note": "кровельная МВ 200 мм, металл 0,5–0,7; второй источник Пайп-Прайс 3 845 ₽/м2",
+  "vat_included": true
+ },
+ {
+  "name": "Саморез для сэндвич-панелей 5,5/6,3×285",
+  "unit": "шт",
+  "shop": "Паритет метизы",
+  "url": "https://paritet-metizy.ru/catalog/samorezy/?id=114",
+  "price_vat": 28.5,
+  "date": "2026-11-09",
+  "note": "второй источник Урал-Мастер 39,70 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Лист оцинкованный с полимерным покрытием 0,5 мм (свесы, парапеты)",
+  "unit": "м2",
+  "shop": "Новаметком",
+  "url": "https://novametcom.ru/produkciya/steel/list_prokat/list_polimernyj/",
+  "price_vat": 491,
+  "date": "2026-11-09",
+  "note": "в ведомости не выделен — материал нормы 12-01-010; PE 0,5×1250; второй источник Восток Тендер 741 ₽/м",
+  "vat_included": true
+ },
+ {
+  "name": "Пена монтажная противопожарная 0,88 л (кровля)",
+  "unit": "шт",
+  "shop": "МетСтройСетка (Москва)",
+  "url": "https://metstroysetka.ru/raskhodnye-materialy-i-instrumenty/montazhnaya-pena/professionalnaya-montazhnaya-pena/professionalnaya-montazhnaya-pena-ognestoykaya-bartons-880-ml/",
+  "price_vat": 472.5,
+  "date": "2026-11-09",
+  "note": "Barton's огнестойкая 880 мл; второй источник ОМ-ТС 543 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Сэндвич-панель стеновая МВ 150 мм, металл 0,5 мм",
+  "unit": "м2",
+  "shop": "Главметаллсталь (Москва)",
+  "url": "https://glavmetalstal.ru/materialyi-dlya-krovli/sendvich-paneli/stenovyie-sendvich-paneli/stenovyie-cendvich-paneli-iz-mineralnoj-vatyi/stenovyie-sendvich-paneli-s-minvatoj-150-ral-9003-belyij/",
+  "price_vat": 2718,
+  "date": "2026-11-09",
+  "note": "стеновая МВ 150 мм 0,5 мм; второй источник ТЭП-Полис 2 889 ₽/м2 (100–1000 м2)",
+  "vat_included": true
+ },
+ {
+  "name": "Нащельники и доборные элементы 0,5 мм с полимерным покрытием",
+  "unit": "м2",
+  "shop": "ЭЛСАН (Москва)",
+  "url": "https://lesollp.ru/production/dobornye-elementy/fasonnye_elementy/",
+  "price_vat": 683,
+  "date": "2026-11-09",
+  "note": "ТЗ п.25: 1,081 т ÷ 4,3 кг/м2 = 251 м2 развёртки; фасонный элемент 0,5 мм полиэстер, опт от 40 м2 по развёртке; второй источник БНКСМ 1 250 ₽/м2",
+  "vat_included": true
+ },
+ {
+  "name": "Саморез для сэндвич-панелей 5,5/6,3×240",
+  "unit": "шт",
+  "shop": "Паритет метизы",
+  "url": "https://paritet-metizy.ru/catalog/samorezy/?id=114",
+  "price_vat": 28,
+  "date": "2026-11-09",
+  "note": "второй источник Урал-Мастер 29 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Пена монтажная противопожарная 0,88 л (стены)",
+  "unit": "шт",
+  "shop": "МетСтройСетка (Москва)",
+  "url": "https://metstroysetka.ru/raskhodnye-materialy-i-instrumenty/montazhnaya-pena/professionalnaya-montazhnaya-pena/professionalnaya-montazhnaya-pena-ognestoykaya-bartons-880-ml/",
+  "price_vat": 472.5,
+  "date": "2026-11-09",
+  "note": "Barton's огнестойкая 880 мл; второй источник ОМ-ТС 543 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Ворота распашные из сэндвич-панелей 4000×4500 с калиткой",
+  "unit": "компл",
+  "shop": "Hanler (производитель)",
+  "url": "https://chelyabinsk.hanler.ru/raspashnye-promyshlennye-vorota-uteplennye-vorota",
+  "price_vat": 352000,
+  "date": "2026-11-09",
+  "note": "ЛСР: каркас 38 м трубы + 18 м2 панели ≈ 63 500 б/НДС; проём 4000×4500, сэндвич 80 мм, от 352 000 ₽; калитка — опция; АМВ 4000×4000 от 291 920 ₽. Запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Сэндвич-панель Металл Профиль ТСП-Z 120 мм МВ 110 кг/м3 (перегородки)",
+  "unit": "м2",
+  "shop": "ТопХаус (Москва)",
+  "url": "https://msk.tophouse.ru/price/stenovaya-trehsloynaya-sendvich-panel-s-vidimyim-krepleniem-z-lock-49590",
+  "price_vat": 3670,
+  "date": "2026-11-09",
+  "note": "МП ТСП-Z 120, МВ 105 кг/м3 (по ТЗ 110 — у производителя по запросу); второй источник М-Профиль 3 605 ₽/м2",
+  "vat_included": true
+ },
+ {
+  "name": "Сэндвич-панель Металл Профиль ТСП-Z 120 мм МВ 110 кг/м3 (тамбур)",
+  "unit": "м2",
+  "shop": "ТопХаус (Москва)",
+  "url": "https://msk.tophouse.ru/price/stenovaya-trehsloynaya-sendvich-panel-s-vidimyim-krepleniem-z-lock-49590",
+  "price_vat": 3670,
+  "date": "2026-11-09",
+  "note": "МП ТСП-Z 120, МВ 105 кг/м3 (по ТЗ 110 — у производителя по запросу); второй источник М-Профиль 3 605 ₽/м2",
+  "vat_included": true
+ },
+ {
+  "name": "Потолок подвесной 600×600 влагостойкий, комплект (тамбур)",
+  "unit": "м2",
+  "shop": "Бюро Потолков (Москва)",
+  "url": "https://buro-potolkov.ru/catalog/vlagostoykiy-potolok-armstrong/filter/clear/apply/",
+  "price_vat": 1300,
+  "date": "2026-11-09",
+  "note": "в ведомости не выделен — материал нормы 15-01-047; плита Armstrong Ceramaguard 1 043 ₽/м2 + подвесная система ≈250 ₽/м2 (оценка)",
+  "vat_included": true
+ },
+ {
+  "name": "Роллетные ворота ЖР PD/55mN 3150×3265, серебро",
+  "unit": "шт",
+  "shop": "оценка по аналогу",
+  "url": "https://www.alurol.ru/vorota/rulonnye/alutech/",
+  "price_vat": 95000,
+  "date": "2026-11-09",
+  "note": "оценка: Алюрол (Алютех) 3000×3000 с автоматикой и установкой 103 877 ₽ минус монтаж ≈10 %; Ролетс PD/55 2700×2400 с приводом 76 575 ₽. Запросить КП на 3150×3265",
+  "vat_included": true
+ },
+ {
+  "name": "Труба стальная 89×3,5 для регистров",
+  "unit": "м",
+  "shop": "Стройсталь",
+  "url": "https://www.stroymetall.ru/catalog/truby/elektrosvarnye/89x3-5/",
+  "price_vat": 508.41,
+  "date": "2026-11-09",
+  "note": "в ведомости не выделена — по объёму работы 64 м; электросварная ГОСТ 10704",
+  "vat_included": true
+ },
+ {
+  "name": "Труба стальная бесшовная 57×3,5",
+  "unit": "м",
+  "shop": "ПРОТЭК",
+  "url": "https://www.protecgroup.ru/products/besshovnye-truby-metalloprokat-3",
+  "price_vat": 718.41,
+  "date": "2026-11-09",
+  "note": "ГОСТ 8732; второй источник В-Металл 787,30 ₽/м",
+  "vat_included": true
+ },
+ {
+  "name": "Грязевик абонентский Ду80 фланцевый",
+  "unit": "шт",
+  "shop": "МетПромКо",
+  "url": "https://metpromko.ru/prod-grvk0185",
+  "price_vat": 3875,
+  "date": "2026-11-09",
+  "note": "в ведомости не выделен — материал нормы 18-06-002; фланцевый Ру16",
+  "vat_included": true
+ },
+ {
+  "name": "Потолок подвесной 600×600 влагостойкий, комплект (санузел)",
+  "unit": "м2",
+  "shop": "Бюро Потолков (Москва)",
+  "url": "https://buro-potolkov.ru/catalog/vlagostoykiy-potolok-armstrong/filter/clear/apply/",
+  "price_vat": 1300,
+  "date": "2026-11-09",
+  "note": "в ведомости не выделен — материал нормы 15-01-047; плита Armstrong Ceramaguard 1 043 ₽/м2 + подвесная система ≈250 ₽/м2 (оценка)",
+  "vat_included": true
+ },
+ {
+  "name": "Ковровое покрытие коммерческое (ковролин)",
+  "unit": "м2",
+  "shop": "Петрович (Москва)",
+  "url": "https://moscow.petrovich.ru/product/1073144/",
+  "price_vat": 282.75,
+  "date": "2026-11-09",
+  "note": "Нева Тафт Коррида, 33 кл., 1 131 ₽ за пог. м ширины 4 м; второй источник Лемана ПРО ФлорТ Про 345 ₽/м2",
+  "vat_included": true
+ },
+ {
+  "name": "Клапан пожарный угловой КПЛ 50 латунный",
+  "unit": "шт",
+  "shop": "Инжфаворит",
+  "url": "https://infavorit.ru/catalog/klapan-pozharnyy-latun-kplm/",
+  "price_vat": 2139,
+  "date": "2026-11-09",
+  "note": "в ведомости не выделен — материал нормы 16-07-001; КПЛМ 50-1 Апогей; второй источник Холт 2 764 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Труба стальная ВГП Ду50×3,5",
+  "unit": "м",
+  "shop": "В-Металл (склад Подольск)",
+  "url": "https://v-mtl.ru/truby/truba-vgp/truba-vgp-57kh3-5/",
+  "price_vat": 298.07,
+  "date": "2026-11-09",
+  "note": "в ведомости не выделена — материал нормы 16-02-011 (150 м); ВГП Ду50 ГОСТ 3262",
+  "vat_included": true
+ },
+ {
+  "name": "Кондиционер кассетный Kentatsu KSVB165HZRN1W/KSUNB165HZRN3 с панелью KPU95-DR",
+  "unit": "компл",
+  "shop": "JIONE (Москва)",
+  "url": "https://jione.ru/kentatsu-ksvb165hzrn1w-ksunb165hzrn3-kpu95-dr",
+  "price_vat": 212490,
+  "date": "2026-11-09",
+  "note": "с панелью KPU95-DR; второй источник Proclimate 212 490 ₽, официальный дилер 223 290 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Сплит-система Kentatsu Sempai KSGPA53HZRN1/KSRPA53HZRN1",
+  "unit": "компл",
+  "shop": "Moscowclimate",
+  "url": "https://www.moscowclimate.ru/catalog/split-sistemy/split-sistema-kentatsu-sempai-ksgpa53hzrn1-ksrpa53hzrn1.html",
+  "price_vat": 77490,
+  "date": "2026-11-09",
+  "note": "второй источник СтройДизайн 78 000 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Щит с монтажной панелью ЩМП-2 500×400×220 IP30",
+  "unit": "шт",
+  "shop": "Сатурн (Москва)",
+  "url": "https://msk.saturn.net/catalog/raspredelitelnye-shchity/tag-metallicheskie/",
+  "price_vat": 4962,
+  "date": "2026-11-09",
+  "note": "ЩМП-2-0 500×400×220 IP31; второй источник Промэлектроника IEK 7 126,66 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Щит распределительный ЩРН-36 IP31",
+  "unit": "шт",
+  "shop": "Сатурн (Москва)",
+  "url": "https://msk.saturn.net/catalog/raspredelitelnye-shchity/tag-metallicheskie/",
+  "price_vat": 3605,
+  "date": "2026-11-09",
+  "note": "ЩРН-36 IP31; второй источник EKF маркет 4 115 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Тепловая завеса Тепломаш КЭВ-12П4050E",
+  "unit": "шт",
+  "shop": "ВекБТ (Москва)",
+  "url": "https://vekbt.ru/category/obogrevateli/teplovye-zavesy/teplomash/zavesy-serii-400-promyshlennye/serija-ip54-dlja-avtomoek/",
+  "price_vat": 85505,
+  "date": "2026-11-09",
+  "note": "второй источник СитиКлимат 103 050 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Тепловая завеса Тепломаш КЭВ-2П1122E",
+  "unit": "шт",
+  "shop": "teplomash.org.ru",
+  "url": "https://teplomash.org.ru/catalog/detail/teplovaya-zavesa-teplomash-kev-2p1122e/",
+  "price_vat": 7450,
+  "date": "2026-11-09",
+  "note": "второй источник Венторус 7 970 ₽",
+  "vat_included": true
+ }
+]
