@@ -1,0 +1,232 @@
+[
+ {
+  "name": "Песок строительный карьерный средней крупности, с доставкой Дмитровский р-н",
+  "unit": "м3",
+  "shop": "ВЕРТОН Дмитров",
+  "url": "https://dmitrov.werton.ru/pesok/",
+  "price_vat": 650,
+  "date": "2026-11-09",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Песок строительный карьерный средней крупности, с доставкой Дмитровский р-н",
+  "unit": "м3",
+  "shop": "ПК МСК Дмитров",
+  "url": "https://dmitrov-pesok.pkmsk.ru/",
+  "price_vat": 650,
+  "date": "2026-11-09",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Песок мытый/сеяный, с доставкой Дмитровский р-н",
+  "unit": "м3",
+  "shop": "ВЕРТОН Дмитров",
+  "url": "https://dmitrov.werton.ru/pesok/",
+  "price_vat": 770,
+  "date": "2026-11-09",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Бетон В25 W8 F150 гранитный (без доставки)",
+  "unit": "м3",
+  "shop": "Гамма-Бетон",
+  "url": "https://gamma-beton.ru/",
+  "price_vat": 5420,
+  "date": "2026-11-09",
+  "note": "доставка ~420 руб/м3",
+  "vat_included": true
+ },
+ {
+  "name": "Бетон В25 W8 F150 (без доставки)",
+  "unit": "м3",
+  "shop": "Бетон-Гуру",
+  "url": "https://betongu.ru/",
+  "price_vat": 5880,
+  "date": "2026-11-09",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Бетон В7,5 (без доставки)",
+  "unit": "м3",
+  "shop": "Бетон в Дмитрове",
+  "url": "https://beton-v-dmitrove.ru/",
+  "price_vat": 3355,
+  "date": "2026-11-09",
+  "note": "доставка ~400 руб/м3",
+  "vat_included": true
+ },
+ {
+  "name": "Труба ПЭ100 SDR11 63×5,8",
+  "unit": "м",
+  "shop": "Промбаза",
+  "url": "https://prombase.ru/",
+  "price_vat": 232.05,
+  "date": "2026-11-09",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Труба ПЭ100 SDR11 63×5,8",
+  "unit": "м",
+  "shop": "Ironpolimer",
+  "url": "https://ironpolimer.ru/",
+  "price_vat": 243.73,
+  "date": "2026-11-09",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Кабель ВБШвнг(А)-LS 5×50",
+  "unit": "м",
+  "shop": "Кабель.ру Москва",
+  "url": "https://cable.ru/",
+  "price_vat": 2593,
+  "date": "2026-11-09",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Кабель ВБШвнг(А)-LS 5×50",
+  "unit": "м",
+  "shop": "Кабель-Краснодар",
+  "url": "https://kabel-krasnodar.ru/",
+  "price_vat": 2152.5,
+  "date": "2026-11-09",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Кабель КППГЭнг(А)-HF 10×1,0",
+  "unit": "м",
+  "shop": "Просто Кабель",
+  "url": "https://prostokabel.ru/",
+  "price_vat": 139.03,
+  "date": "2026-11-09",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Кабель КППГЭнг(А)-HF 10×1,0",
+  "unit": "м",
+  "shop": "Кабельпром",
+  "url": "https://kabelprom.ru/",
+  "price_vat": 104.14,
+  "date": "2026-11-09",
+  "note": "СПб",
+  "vat_included": true
+ },
+ {
+  "name": "Кольцо стеновое КС 20.9",
+  "unit": "шт",
+  "shop": "ПСК-Энерго",
+  "url": "https://psk-energo.ru/",
+  "price_vat": 5200,
+  "date": "2026-11-09",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Кольцо стеновое КС 20.9",
+  "unit": "шт",
+  "shop": "Регторг",
+  "url": "https://regtorg.ru/",
+  "price_vat": 7250,
+  "date": "2026-11-09",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Плита днища ПН 20",
+  "unit": "шт",
+  "shop": "ПСК Истра",
+  "url": "",
+  "price_vat": 8140,
+  "date": "2026-11-09",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Плита перекрытия 2ПП 20-1",
+  "unit": "шт",
+  "shop": "i-strela",
+  "url": "https://i-strela.ru/",
+  "price_vat": 7660,
+  "date": "2026-11-09",
+  "note": "с доставкой; самовывоз 4890",
+  "vat_included": true
+ },
+ {
+  "name": "Труба нерж. AISI304 57×3,0",
+  "unit": "м",
+  "shop": "Фортис-Стил",
+  "url": "https://fortis-steel.ru/",
+  "price_vat": 1627,
+  "date": "2026-11-09",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Труба нерж. AISI304 57×3,0",
+  "unit": "м",
+  "shop": "Сталь-СР",
+  "url": "https://steel-sr.ru/",
+  "price_vat": 2068.21,
+  "date": "2026-11-09",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Компрессор Кратон Hobby AC-300-40-DD",
+  "unit": "шт",
+  "shop": "Компрессор-Уфа",
+  "url": "https://kompressor-ufa.ru/",
+  "price_vat": 16890,
+  "date": "2026-11-09",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Компрессор Кратон Hobby AC-300-40-DD",
+  "unit": "шт",
+  "shop": "Toool",
+  "url": "https://toool.ru/",
+  "price_vat": 18990,
+  "date": "2026-11-09",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Насос погружной Solidpump 65UZ21.5",
+  "unit": "шт",
+  "shop": "Ленгидропром",
+  "url": "https://lengidroprom.ru/",
+  "price_vat": 49390,
+  "date": "2026-11-09",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Насос погружной Solidpump 80UZ22.2",
+  "unit": "шт",
+  "shop": "Ленгидропром",
+  "url": "https://lengidroprom.ru/",
+  "price_vat": 64610,
+  "date": "2026-11-09",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Насос погружной Solidpump 80UZ25.5",
+  "unit": "шт",
+  "shop": "Ленгидропром",
+  "url": "https://lengidroprom.ru/",
+  "price_vat": 109354,
+  "date": "2026-11-09",
+  "note": "",
+  "vat_included": true
+ }
+]
