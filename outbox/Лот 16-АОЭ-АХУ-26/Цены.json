@@ -1,0 +1,322 @@
+[
+ {
+  "name": "Плита потолочная акустическая 600×600 кромка Tegular (Rockfon/Ecophon класс А)",
+  "unit": "м2",
+  "shop": "Потолки.ру",
+  "url": "https://potolki.ru/catalog/akusticheskie_potolki/600kh600/",
+  "price_vat": 1670,
+  "date": "2026-11-09",
+  "note": "OD Ps B24 Tegular; Rockfon Artic E24 (942) временно не поставляется; 2-й: glavsnab.net 1 206 (Board A24)",
+  "vat_included": true
+ },
+ {
+  "name": "Подвесная система Т-24 для потолка «Армстронг» (комплект на 1 м2: несущий, поперечные, уголок, подвесы)",
+  "unit": "м2",
+  "shop": "Склад потолков",
+  "url": "https://skladpotolkov.ru/podvestnaya-sistema-armstrong",
+  "price_vat": 240,
+  "date": "2026-11-09",
+  "note": "2-й: dvamolotka.ru комплект Байкал + T-24 253/м2",
+  "vat_included": true
+ },
+ {
+  "name": "Плита потолочная минераловатная 600×600×12 типа «Армстронг» (Байкал/Оазис)",
+  "unit": "м2",
+  "shop": "Смарткомплект (Москва)",
+  "url": "https://smartcomplect.ru",
+  "price_vat": 511.8,
+  "date": "2026-11-09",
+  "note": "Байкал 600×600; 2-й: skf-spb 543",
+  "vat_included": true
+ },
+ {
+  "name": "Пескобетон М300 сухая смесь, 40 кг",
+  "unit": "кг",
+  "shop": "Лемана ПРО",
+  "url": "https://lemanapro.ru/product/peskobeton-m300-kaliber-40-kg-83580377/",
+  "price_vat": 8.28,
+  "date": "2026-11-09",
+  "note": "Kaliber М300 40 кг 331 ₽; 2-й: Петрович Dauer 399 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Дверной блок деревянный двупольный (шпон, коробка, наличник, фурнитура), проём более 3 м2",
+  "unit": "м2",
+  "shop": "Двери Грут",
+  "url": "https://dverigrut.ru",
+  "price_vat": 8964,
+  "date": "2026-11-09",
+  "note": "34 960 за 2×900×2000 (≈3,9 м2 проёма); 2-й: Яндекс Маркет «Неоклассика» 1400×2000 33 673 (10 862/м2)",
+  "vat_included": true
+ },
+ {
+  "name": "Дверь противопожарная металлическая EI60 однопольная 900×2100, порошковая окраска",
+  "unit": "шт",
+  "shop": "Двери металл-М (Москва)",
+  "url": "https://msk.1dvm.ru/catalog/protivopozharnye-dveri/dver-protivopozharnaya-odnopolnaya-2100kh900-ei-60/",
+  "price_vat": 13800,
+  "date": "2026-11-09",
+  "note": "2-й источник: tudoors.ru 14 700; Петрович (СПб) 24 664; в Петровиче / Лемана ПРО / Сатурне позиции нет в Москве",
+  "vat_included": true
+ },
+ {
+  "name": "Дверь противопожарная металлическая EI60 двупольная 1600×2100, порошковая окраска",
+  "unit": "шт",
+  "shop": "FP-Systems",
+  "url": "https://fp-systems.ru/product/dpm-0260/",
+  "price_vat": 20500,
+  "date": "2026-11-09",
+  "note": "2-й источник: npknn.ru 31 818 (Н. Новгород)",
+  "vat_included": true
+ },
+ {
+  "name": "ГКЛ Knauf 12,5 мм 1200×2500",
+  "unit": "м2",
+  "shop": "Петрович",
+  "url": "https://moscow.petrovich.ru/product/101931/",
+  "price_vat": 146.7,
+  "date": "2026-11-09",
+  "note": "Knauf 2500×1200×12,5 — 440 ₽ за лист 3 м2",
+  "vat_included": true
+ },
+ {
+  "name": "Сантехническая перегородка HPL 12 мм на алюминиевом профиле с фурнитурой",
+  "unit": "м2",
+  "shop": "Санкаб",
+  "url": "https://sancab.ru/santehnicheskie-peregorodki-hpl",
+  "price_vat": 8600,
+  "date": "2026-11-09",
+  "note": "2-й источник: sigma-peregorodki.ru 10 500; в Петровиче / Лемана ПРО / Сатурне позиции нет",
+  "vat_included": true
+ },
+ {
+  "name": "Плита мраморная полированная 20 мм (нарезка под плинтус)",
+  "unit": "м2",
+  "shop": "Космостоун",
+  "url": "https://cosmostone.ru/store/mramor/polirovannaya/",
+  "price_vat": 5405,
+  "date": "2026-11-09",
+  "note": "Бьянко Ибица 20 мм; 2-й: globalgranit.ru 6 800; резка/фаска плинтуса — риск",
+  "vat_included": true
+ },
+ {
+  "name": "Карниз гипсовый потолочный высотой до 250 мм",
+  "unit": "м",
+  "shop": "Эколепнина",
+  "url": "https://ecolepnina.ru/catalogue/karnizy/karnizy-profilnye/",
+  "price_vat": 1750,
+  "date": "2026-11-09",
+  "note": "КП150.100 гладкий, за м.п.",
+  "vat_included": true
+ },
+ {
+  "name": "Фрамугоприёмник/механизм открывания фрамуги (комплект)",
+  "unit": "компл",
+  "shop": "Дмекс",
+  "url": "https://www.dmex.ru/framuzhnyj-mehanizm",
+  "price_vat": 2887,
+  "date": "2026-11-09",
+  "note": "Stublina 4020 2 619 ₽ + тяга 2 м 268 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Краска ВД акриловая для стен и потолков, моющаяся, 9 л",
+  "unit": "л",
+  "shop": "Петрович",
+  "url": "https://moscow.petrovich.ru/product/1023711/",
+  "price_vat": 613.6,
+  "date": "2026-11-09",
+  "note": "КМ моющаяся база А 9 л — 5 522 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Паркет штучный дуб натур 15 мм",
+  "unit": "м2",
+  "shop": "Лоба-Бона",
+  "url": "https://loba-bona.ru/shtuchnyj-parket/",
+  "price_vat": 2750,
+  "date": "2026-11-09",
+  "note": "дуб натур 210×70×15; 2-й: realparket.ru 3 070; в Петровиче / Лемана ПРО / Сатурне позиции нет",
+  "vat_included": true
+ },
+ {
+  "name": "Плита пазогребневая гипсовая 667×500×80 пустотелая",
+  "unit": "м2",
+  "shop": "Петрович",
+  "url": "https://moscow.petrovich.ru/catalog/1571/pazogrebnevye-plity-80-mm/",
+  "price_vat": 990,
+  "date": "2026-11-09",
+  "note": "Волма пустотелая 330 ₽ × 3 шт/м2",
+  "vat_included": true
+ },
+ {
+  "name": "Плита пазогребневая гипсовая 667×500×80 полнотелая",
+  "unit": "м2",
+  "shop": "Петрович",
+  "url": "https://moscow.petrovich.ru/product/105529/",
+  "price_vat": 1083,
+  "date": "2026-11-09",
+  "note": "Волма полнотелая 361 ₽ × 3 шт/м2",
+  "vat_included": true
+ },
+ {
+  "name": "Штукатурка цементно-известковая сухая смесь 25 кг",
+  "unit": "кг",
+  "shop": "Петрович",
+  "url": "https://moscow.petrovich.ru/catalog/1447/shtukaturki-25-kg-tsementnye/",
+  "price_vat": 16.96,
+  "date": "2026-11-09",
+  "note": "Knauf Унтерпутц 25 кг 424 ₽; 2-й: favoright.ru Основит Т-21 472 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Профиль направляющий ПН 28×27 0,6 мм",
+  "unit": "м",
+  "shop": "Петрович",
+  "url": "https://moscow.petrovich.ru/catalog/12082/knauf/",
+  "price_vat": 71.7,
+  "date": "2026-11-09",
+  "note": "Knauf ПН 28×27 3 м 215 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Профиль направляющий ПН 50×40 0,6 мм",
+  "unit": "м",
+  "shop": "Петрович",
+  "url": "https://moscow.petrovich.ru/catalog/12082/knauf/",
+  "price_vat": 122.7,
+  "date": "2026-11-09",
+  "note": "Knauf ПН 50×40 3 м 368 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Профиль потолочный ПП 60×27 0,6 мм",
+  "unit": "м",
+  "shop": "Петрович",
+  "url": "https://moscow.petrovich.ru/catalog/12082/knauf/",
+  "price_vat": 101.7,
+  "date": "2026-11-09",
+  "note": "Knauf ПП 60×27 3 м 305 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Грунтовка глубокого проникновения 10 л",
+  "unit": "л",
+  "shop": "Петрович",
+  "url": "https://moscow.petrovich.ru/catalog/1459/",
+  "price_vat": 129.4,
+  "date": "2026-11-09",
+  "note": "КМ-17 10 л — 1 294 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Профиль стоечный ПС 50×50 0,6 мм",
+  "unit": "м",
+  "shop": "Петрович",
+  "url": "https://moscow.petrovich.ru/catalog/12082/knauf/",
+  "price_vat": 130.7,
+  "date": "2026-11-09",
+  "note": "Knauf ПС 50×50 3 м 392 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Плёнка самоклеящаяся ПВХ декоративная",
+  "unit": "м2",
+  "shop": "Лемана ПРО",
+  "url": "https://lemanapro.ru/product/dekorativnaya-samokleyashchayasya-plenka-d-c-fix-3126-200-045-m-93833347/",
+  "price_vat": 281.5,
+  "date": "2026-11-09",
+  "note": "d-c-fix 0,45×15 м — 1 900 ₽ за 6,75 м2",
+  "vat_included": true
+ },
+ {
+  "name": "Перегородка из ПВХ-профиля глухая (стеклопакет/сэндвич), изготовление",
+  "unit": "м2",
+  "shop": "Заказать остекление",
+  "url": "https://zakazat-osteklenie.ru/ofisnye-peregorodki-iz-pvh/",
+  "price_vat": 4622,
+  "date": "2026-11-09",
+  "note": "2-й источник: arstarcompany.ru 5 800",
+  "vat_included": true
+ },
+ {
+  "name": "Перегородка из ПВХ-профиля с дверным блоком, изготовление",
+  "unit": "м2",
+  "shop": "Арстар",
+  "url": "https://arstarcompany.ru/plastikovye-peregorodki-dlya-ofisa/",
+  "price_vat": 6600,
+  "date": "2026-11-09",
+  "note": "2-й источник: zakazat-osteklenie.ru 9 800",
+  "vat_included": true
+ },
+ {
+  "name": "Потолок реечный алюминиевый (рейка 100 мм + стрингер + подвесы), комплект на 1 м2",
+  "unit": "м2",
+  "shop": "Интер Потолки",
+  "url": "https://interpotolki.ru/catalog/reechnie-potolki/material-alyuminij_anodirovannyj_s_napyleniem/",
+  "price_vat": 1817,
+  "date": "2026-11-09",
+  "note": "100P металлик, за м2; в Петровиче / Лемана ПРО / Сатурне позиции нет",
+  "vat_included": true
+ },
+ {
+  "name": "Розетка потолочная гипсовая до D 750 мм",
+  "unit": "шт",
+  "shop": "Феникс-групп",
+  "url": "https://phoenix-group.ru",
+  "price_vat": 2550,
+  "date": "2026-11-09",
+  "note": "Рг-55 730 мм; Рг-53 750 мм — 3 525; 2-й: allepnina.ru SRT23 4 148",
+  "vat_included": true
+ },
+ {
+  "name": "Натяжной потолок: ПВХ-полотно матовое + профиль-багет гарпунный, на 1 м2",
+  "unit": "м2",
+  "shop": "Опт-прайс натяжных потолков",
+  "url": "https://potolkiprofit.ru/dileram/ceny/",
+  "price_vat": 116,
+  "date": "2026-11-09",
+  "note": "полотно MSD мат в гарпуне 87–98 ₽/м2 + стеновой профиль 48 ₽/м (≈0,6 м на м2)",
+  "vat_included": true
+ },
+ {
+  "name": "Окно ПВХ двухстворчатое поворотно-откидное, 2-камерный стеклопакет (более 2 м2)",
+  "unit": "м2",
+  "shop": "Окно-МСК",
+  "url": "https://okno-msk.ru/okna-rehau/kolichestvo-stvorok/dvustvorchatye/",
+  "price_vat": 6800,
+  "date": "2026-11-09",
+  "note": "2-й источник: oknarating.ru Rehau Blitz 6 828",
+  "vat_included": true
+ },
+ {
+  "name": "Окно ПВХ глухое, 2-камерный стеклопакет (до 2 м2)",
+  "unit": "м2",
+  "shop": "Окна Люкс",
+  "url": "https://oknalux.ru/landings/skolko_stoit_plastikovoe_okno/",
+  "price_vat": 4774,
+  "date": "2026-11-09",
+  "note": "2-й источник: okno-msk.ru Blitz 4 800",
+  "vat_included": true
+ },
+ {
+  "name": "Обои виниловые на тканевой основе (коммерческие, моющиеся)",
+  "unit": "м2",
+  "shop": "Салон обоев",
+  "url": "https://salon-oboev.ru",
+  "price_vat": 1131,
+  "date": "2026-11-09",
+  "note": "LSI CCS-422; 2-й: dellco.ru DES-311 1 376",
+  "vat_included": true
+ },
+ {
+  "name": "Обои виниловые на флизелиновой основе тиснёные, плотные",
+  "unit": "м2",
+  "shop": "Петрович",
+  "url": "https://ekaterinburg.petrovich.ru/product/1033470/",
+  "price_vat": 160.3,
+  "date": "2026-11-09",
+  "note": "Elysium 1,06×10,05 = 1 707 за рулон 10,65 м2; 2-й: Ornamy Bauhaus 2 170 (204/м2)",
+  "vat_included": true
+ }
+]
