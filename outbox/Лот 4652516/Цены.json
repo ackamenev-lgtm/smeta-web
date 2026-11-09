@@ -1,0 +1,92 @@
+[
+ {
+  "name": "Концентрат для очистки конденсаторов BAVIS TechClean 5 л (1:5–1:10)",
+  "unit": "шт (канистра 5 л)",
+  "shop": "Bavis (Москва, Электродная ул., 8), 2ГИС",
+  "url": "https://2gis.ru/moscow/firm/70000001089046205/tab/prices",
+  "price_vat": 1148,
+  "date": "2026-11-09",
+  "note": "в Петровиче, Лемана ПРО, Сатурне нет",
+  "vat_included": true
+ },
+ {
+  "name": "Концентрат для очистки конденсаторов BAVIS TechClean 5 л (1:5–1:10)",
+  "unit": "шт (канистра 5 л)",
+  "shop": "ПК Вертикаль",
+  "url": "https://pkvertikal.ru/rashodnye-materialy/himicheskie-sredstva/koncentrat-dlya-ochistki-kondensatorov-bavis-techclean-5l.-1-5-1-10",
+  "price_vat": 1101,
+  "date": "2026-11-09",
+  "note": "цена «от»",
+  "vat_included": true
+ },
+ {
+  "name": "Концентрат для очистки и дезинфекции испарителей BAVIS BactClean 5 л (1:6–1:10)",
+  "unit": "шт (канистра 5 л)",
+  "shop": "BAVIS",
+  "url": "https://bavis.ru/himicheskie-sredstva.html",
+  "price_vat": 1215,
+  "date": "2026-11-09",
+  "note": "цена со скидкой, без скидки 1 458",
+  "vat_included": true
+ },
+ {
+  "name": "Тест кислотности масла Errecom ACID-TEST RK1349 (4 теста)",
+  "unit": "упак",
+  "shop": "zip-sm.ru (Москва)",
+  "url": "https://zip-sm.ru/product/test-kislotnosti-errecom-rk1349/",
+  "price_vat": 1860,
+  "date": "2026-11-09",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Тест кислотности масла Errecom ACID-TEST RK1349 (4 теста)",
+  "unit": "упак",
+  "shop": "TISA climate (Москва)",
+  "url": "http://tisa-climate.ru/acid_test",
+  "price_vat": 2000,
+  "date": "2026-11-09",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Концентрат для очистки и дезинфекции испарителей BAVIS BactClean 5 л (1:6–1:10)",
+  "unit": "шт (канистра 5 л)",
+  "shop": "Аэросистемы (kvent.ru)",
+  "url": "https://kvent.ru/rashodnye-materialy/sredstva.html",
+  "price_vat": 1215,
+  "date": "2026-11-09",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Концентрат для очистки и дезинфекции испарителей BAVIS BactClean 5 л (1:6–1:10)",
+  "unit": "шт (канистра 5 л)",
+  "shop": "ПК Вертикаль",
+  "url": "https://pkvertikal.ru/rashodnye-materialy/himicheskie-sredstva",
+  "price_vat": 1125,
+  "date": "2026-11-09",
+  "note": "цена «от»",
+  "vat_included": true
+ },
+ {
+  "name": "Концентрат для очистки конденсаторов BAVIS TechClean 5 л (1:5–1:10)",
+  "unit": "шт (канистра 5 л)",
+  "shop": "Холодон (holodon.ru)",
+  "url": "https://www.holodon.ru/catalog/khimicheskie-komponenty/ochistitel-shchelochnoy-techclean-5-l-1-10-dimeall/",
+  "price_vat": 1718.37,
+  "date": "2026-11-09",
+  "note": "аналог DimeAll TechClean, розница",
+  "vat_included": true
+ },
+ {
+  "name": "Тест кислотности масла Errecom ACID-TEST RK1349 (4 теста)",
+  "unit": "упак",
+  "shop": "Аэросистемы (kvent.ru)",
+  "url": "https://kvent.ru/rashodnye-materialy/sredstva/errecom-acid.html",
+  "price_vat": 2566,
+  "date": "2026-11-09",
+  "note": "розница",
+  "vat_included": true
+ }
+]
