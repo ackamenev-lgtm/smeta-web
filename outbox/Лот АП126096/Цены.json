@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Смазка Литол-24 (ГОСТ 21150), банка 2,5 кг",
+    "unit": "кг",
+    "shop": "PiterOils (СПб)",
+    "url": "https://piteroils.ru/catalog/smazki/otechestvennye_2/litol/",
+    "price_vat": 526.41,
+    "date": "2026-11-09",
+    "note": "Sintec Литол-24 2,5 кг 1 316 ₽; в Петровиче не найдено; Лемана ПРО — Титан-СМ 800 г 746 ₽ (932 ₽/кг, розница)",
+    "vat_included": true
+  },
+  {
+    "name": "Дезинфицирующее средство-концентрат для систем вентиляции и кондиционирования (Pro-Brite SEPTA 101-5), 5 л",
+    "unit": "л",
+    "shop": "Климбит (СПб)",
+    "url": "https://klimbit.ru/product/101-5-mnogofunkcionalnoe-dezinficirujushee-sredstvo-pro-brite-septa-s-mojushim-effektom-5-l/",
+    "price_vat": 520.0,
+    "date": "2026-11-09",
+    "note": "в Петровиче/Лемана/Сатурне нет; второй источник — АБАКТЕРИЛ АБ-308 5 л 2 895 ₽ (ОфисШоп)",
+    "vat_included": true
+  },
+  {
+    "name": "Грунт-эмаль по ржавчине 3 в 1 серая, 10 кг (Empils / Экодом)",
+    "unit": "кг",
+    "shop": "Лемана ПРО СПб",
+    "url": "https://spb.lemanapro.ru/catalogue/emali-dlya-naruzhnyh-i-vnutrennih-rabot/",
+    "price_vat": 325.8,
+    "date": "2026-11-09",
+    "note": "Лемана Empils 10 кг 3 258 ₽; Петрович Экодом 10 кг 7 373 ₽ (737 ₽/кг) — розница",
+    "vat_included": true
+  },
+  {
+    "name": "Хладагент R410A, баллон 11,3 кг",
+    "unit": "кг",
+    "shop": "Русклимат СПб",
+    "url": "https://www.rusklimat.ru/sankt-peterburg/product/freon-r-410a-11-3-kg",
+    "price_vat": 1477.79,
+    "date": "2026-11-09",
+    "note": "в Петровиче/Лемана/Сатурне нет; второй — ЛенПромСервис 14 000 ₽ (regtorg), розница Оспром 19 500 ₽; часть парка на R32 — оценка",
+    "vat_included": true
+  },
+  {
+    "name": "Концентрат для очистки испарителей с антибактериальным эффектом (Becool BC-CLN EVO), 5 л",
+    "unit": "л",
+    "shop": "Климатис СПб",
+    "url": "https://klimatisspb.ru/shop/product/bc-cln-evo-koncentrat-dlya-ochistki-isparitelej-s-ab-effektom-bez-shchelochej-i-kislot-5-litrov",
+    "price_vat": 410.01,
+    "date": "2026-11-09",
+    "note": "в Петровиче/Лемана/Сатурне нет; второй — BAVIS BactClean 5 л 1 215 ₽ (bavis.ru, Мск)",
+    "vat_included": true
+  },
+  {
+    "name": "Хладагент R410A, баллон 11,3 кг",
+    "unit": "кг",
+    "shop": "ЛенПромСервис / ФРЕОН СПб (regtorg)",
+    "url": "https://spb.regtorg.ru/goods/t1461224-freon_hladon_r410a_113_kg.htm",
+    "price_vat": 1238.94,
+    "date": "2026-11-09",
+    "note": "14 000 ₽ за баллон, карточка обновлена 14.04.2026 — подтвердить",
+    "vat_included": true
+  },
+  {
+    "name": "Смазка Литол-24 (ГОСТ 21150), банка 2,5 кг",
+    "unit": "кг",
+    "shop": "Лемана ПРО",
+    "url": "https://lemanapro.ru/catalogue/smazochnye-materialy/",
+    "price_vat": 932.5,
+    "date": "2026-11-09",
+    "note": "Титан-СМ Sintec Литол-24 800 г 746 ₽; в Петровиче не найдено",
+    "vat_included": true
+  },
+  {
+    "name": "Грунт-эмаль по ржавчине 3 в 1 серая, 10 кг (Empils / Экодом)",
+    "unit": "кг",
+    "shop": "Петрович",
+    "url": "https://petrovich.ru/catalog/6656/grunty-emali/",
+    "price_vat": 737.3,
+    "date": "2026-11-09",
+    "note": "Экодом серая 10 кг 7 373 ₽",
+    "vat_included": true
+  },
+  {
+    "name": "Концентрат для очистки испарителей с антибактериальным эффектом (Becool BC-CLN EVO), 5 л",
+    "unit": "л",
+    "shop": "BAVIS (Мск)",
+    "url": "https://bavis.ru/himicheskie-sredstva/koncentrat-dlya-ochistki-i-dezinfekcii-ispariteley-bavis-bactclean-5l-1-6-1-10.html",
+    "price_vat": 243.0,
+    "date": "2026-11-09",
+    "note": "BAVIS BactClean 5 л 1 215 ₽ — аналог",
+    "vat_included": true
+  },
+  {
+    "name": "Дезинфицирующее средство-концентрат для систем вентиляции и кондиционирования (Pro-Brite SEPTA 101-5), 5 л",
+    "unit": "л",
+    "shop": "ОфисШоп (СПб)",
+    "url": "https://ofisshop.ru/catalog/dezinfitsiruyushchie_sredstva/sredstvo_dezinfitsiruyushchee_5_l_abakteril_kontsentrat_ab30/",
+    "price_vat": 579.0,
+    "date": "2026-11-09",
+    "note": "АБАКТЕРИЛ АБ-308 5 л 2 895 ₽ — аналог",
+    "vat_included": true
+  }
+]
