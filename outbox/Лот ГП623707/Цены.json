@@ -1,0 +1,212 @@
+[
+ {
+  "name": "Диффузор потолочный Арктос 4АПН 300×300 (тип и размер — уточнить)",
+  "unit": "шт",
+  "shop": "OZONAIR",
+  "url": "https://ozonair.ru/arktos-4apn-300x300-diffuzor-chetyrekhpotochnyy/",
+  "price_vat": 1481.91,
+  "date": "2026-11-09",
+  "note": "2-й источник: СветЭлектро 1 719,49 ₽ (svetelektro.net). Тип/размер в ТЗ не задан — допущение",
+  "vat_included": true
+ },
+ {
+  "name": "Клей плиточный Ceresit CM 14 Extra (25 кг)",
+  "unit": "кг",
+  "shop": "Лемана ПРО (Москва)",
+  "url": "https://lemanapro.ru/",
+  "price_vat": 39.08,
+  "date": "2026-11-09",
+  "note": "25 кг = 977 ₽ (Лемана ПРО Мск, пр-т Лихачёва)",
+  "vat_included": true
+ },
+ {
+  "name": "Затирка эпоксидная Litokol Starlike EVO (5 кг)",
+  "unit": "кг",
+  "shop": "Петрович (Москва)",
+  "url": "https://moscow.petrovich.ru/product/995444/",
+  "price_vat": 1778.0,
+  "date": "2026-11-09",
+  "note": "5 кг = 8 890 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Раковина накладная круглая фаянс WeltWasser Elbach 3062 46×46",
+  "unit": "шт",
+  "shop": "Душевой (Москва)",
+  "url": "https://www.dushevoi.ru/products/rakovina-welt-wasser-ww-sk-elbach-3062-275417-ware/",
+  "price_vat": 2046,
+  "date": "2026-11-09",
+  "note": "в Петровиче/Лемане/Сатурне точной модели не нашли; CeramaLux 46 см — 5 600 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Шпаклёвка полимерная финишная Knauf Полимер Финиш (20 кг)",
+  "unit": "кг",
+  "shop": "Петрович (Москва)",
+  "url": "https://moscow.petrovich.ru/catalog/9575960/",
+  "price_vat": 44.9,
+  "date": "2026-11-09",
+  "note": "20 кг = 898 ₽; Vetonit LR+ 20 кг = 1 040 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Краска Tikkurila (Tikkivala) Euro Power 7 моющаяся, база А, белая (9 л)",
+  "unit": "л",
+  "shop": "Лемана ПРО (Москва)",
+  "url": "https://lemanapro.ru/product/kraska-dlya-sten-i-potolkov-tikkivala-euro-power-7-moyushchayasya-matovaya-cvet-belyy-baza-a-9-l-11601215/",
+  "price_vat": 855.33,
+  "date": "2026-11-09",
+  "note": "9 л = 7 698 ₽ (Лемана ПРО Мск); Петрович Мск 7 980 ₽. Расход 0,15 л/м² × 2 слоя",
+  "vat_included": true
+ },
+ {
+  "name": "Дверь влагостойкая EtaDoor 700×2000, алюминиевая коробка и кромка (комплект)",
+  "unit": "шт",
+  "shop": "Строй-Тема (дилер EtaDoor, Москва)",
+  "url": "https://stroy-tema.ru/vlagostojkaya-dver-pvx-etadoor-s-alyuminievoj-korobkoj.html",
+  "price_vat": 26010,
+  "date": "2026-11-09",
+  "note": "2-й источник: KRAFTER HPL compact, алюм. коробка — от 39 000 ₽ (hpl-krafter.ru). Запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Комплект двери МДФ эмаль белая 800×2000 (полотно, коробка, наличники, замок, петли)",
+  "unit": "шт",
+  "shop": "Лемана ПРО",
+  "url": "https://spb.lemanapro.ru/set/komplekt-dveri-solo-2-gluhaya-80x200-sm-emal-belyy-s-doborom-100-mm-89431447/",
+  "price_vat": 15200,
+  "date": "2026-11-09",
+  "note": "Соло 2 комплект; цена страницы СПб, в Мск полотно Соло 4 — 10 506 ₽ без коробки",
+  "vat_included": true
+ },
+ {
+  "name": "Ровнитель Weber.vetonit 3000 (20 кг)",
+  "unit": "кг",
+  "shop": "Петрович (Москва)",
+  "url": "https://moscow.petrovich.ru/catalog/12129/nalivnye-poly-vetonit-samovyravnivajuschijsja/",
+  "price_vat": 66.5,
+  "date": "2026-11-09",
+  "note": "20 кг = 1 330 ₽. Расход 8 кг/м² (5 мм) — по комплекту 7.2.16",
+  "vat_included": true
+ },
+ {
+  "name": "Плитка ПВХ Forbo Effekta Professional 0,45 мм 500×500 (светлая)",
+  "unit": "м2",
+  "shop": "floorcontract.ru (РРЦ Forbo)",
+  "url": "https://floorcontract.ru/magazin-2/folder/effekta-professional",
+  "price_vat": 2053,
+  "date": "2026-11-09",
+  "note": "2-й источник: К.Центр 2 189 ₽/м² (comfort-center.com). В тройке не найдено",
+  "vat_included": true
+ },
+ {
+  "name": "Фиксатор Forbo Eurocol 541 Eurofix Anti Slip (10 кг)",
+  "unit": "шт",
+  "shop": "GFLEX (Москва)",
+  "url": "https://gflex.ru/catalog/klei/2572/",
+  "price_vat": 6700,
+  "date": "2026-11-09",
+  "note": "марка из ТЗ (в ТЗ ошибочно названа краской). Расход 0,1–0,15 кг/м² → 1 ведро; stroi-opt 7 890 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Дверь влагостойкая EtaDoor 800×2000, алюминиевая коробка и кромка (комплект)",
+  "unit": "шт",
+  "shop": "Строй-Тема (дилер EtaDoor, Москва)",
+  "url": "https://stroy-tema.ru/vlagostojkaya-dver-pvx-etadoor-s-alyuminievoj-korobkoj.html",
+  "price_vat": 26010,
+  "date": "2026-11-09",
+  "note": "2-й источник: KRAFTER HPL compact — от 39 000 ₽. Запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Светильник встраиваемый LED даунлайт GALAD Термит LED-30 Ø245 4000К",
+  "unit": "шт",
+  "shop": "KEOSVET (Москва)",
+  "url": "https://keosvet.ru/catalog/kruglye-svetilniki-downlight/galad-termit-led-30/",
+  "price_vat": 4530,
+  "date": "2026-11-09",
+  "note": "Arlight Cyclone Ø230 — 4 628 ₽ (divine-light.ru)",
+  "vat_included": true
+ },
+ {
+  "name": "Плёнка Oracal 8510 матовая для стекла, ширина 1,26 м",
+  "unit": "мп",
+  "shop": "ReklamShop (Москва)",
+  "url": "http://reklamshop.ru/prod/materialy/plenki/plotternye-plenki/plenki-dlya-stekla/plenka-oracal-8510/",
+  "price_vat": 1410.11,
+  "date": "2026-11-09",
+  "note": "60,53 м² / 1,26 м + раскрой ≈ 53 пог. м; Sklad Plenok 1 712,90 ₽/пог. м. Цвет/плотность — по согласованию",
+  "vat_included": true
+ },
+ {
+  "name": "Дверь полуторная в алюминиевой раме, двойное остекление 5+5, 2300×1500",
+  "unit": "шт",
+  "shop": "Офимолл (Москва)",
+  "url": "https://ofimall.ru/catalog/ofisnye-dveri/aljuminievye",
+  "price_vat": 94485,
+  "date": "2026-11-09",
+  "note": "Альта Дуо двустворчатая двойное стекло от 94 485 ₽; Атэри полуторная от 94 800 ₽ (atery.ru). Запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Доводчик GEZE TS 3000 V EN1-4 со скользящим каналом",
+  "unit": "шт",
+  "shop": "Lemonadd (Москва)",
+  "url": "https://lemonadd.ru/category/geze/",
+  "price_vat": 11039,
+  "date": "2026-11-09",
+  "note": "8 311 ₽ корпус + 2 728 ₽ канал; allsb 9 320 + 3 023 ₽",
+  "vat_included": true
+ },
+ {
+  "name": "Дверь в алюминиевой раме, двойное остекление 5+5, 2300×900 (столовая)",
+  "unit": "шт",
+  "shop": "Атэри (Москва)",
+  "url": "https://www.atery.ru/catalog/ofisnye-dveri/",
+  "price_vat": 61200,
+  "date": "2026-11-09",
+  "note": "от 61 200 ₽; Офимолл Альта Дуо 2000×800 47 253 ₽ → по площади 61 133 ₽. Запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Дверь в алюминиевой раме, двойное остекление 5+5, 2300×900 (пом. №15)",
+  "unit": "шт",
+  "shop": "Атэри (Москва)",
+  "url": "https://www.atery.ru/catalog/ofisnye-dveri/",
+  "price_vat": 61200,
+  "date": "2026-11-09",
+  "note": "от 61 200 ₽; Офимолл Альта Дуо 2000×800 47 253 ₽ → по площади 61 133 ₽. Запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Дверь в алюминиевой раме, двойное остекление 5+5, 2300×900 (пом. №16)",
+  "unit": "шт",
+  "shop": "Атэри (Москва)",
+  "url": "https://www.atery.ru/catalog/ofisnye-dveri/",
+  "price_vat": 61200,
+  "date": "2026-11-09",
+  "note": "от 61 200 ₽; Офимолл Альта Дуо 2000×800 47 253 ₽ → по площади 61 133 ₽. Запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Дверь в алюминиевой раме, двойное остекление 5+5, 2300×1000",
+  "unit": "шт",
+  "shop": "Атэри (Москва)",
+  "url": "https://www.atery.ru/catalog/ofisnye-dveri/",
+  "price_vat": 67200,
+  "date": "2026-11-09",
+  "note": "от 67 200 ₽; Офимолл по площади 67 926 ₽. Запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Перегородка каркасная алюминиевая, двойное остекление 5+5, 2300×3300",
+  "unit": "м2",
+  "shop": "Перегородка 77 (Москва)",
+  "url": "https://peregorodka77.ru/catalog/alyuminievye-peregorodki/alyuminievye-peregorodki-steklyannye/",
+  "price_vat": 8100,
+  "date": "2026-11-09",
+  "note": "8 100 ₽/м²; Glass Today 11 500 ₽/м² (glasstoday.ru). Секция без импоста 3,3 м — проверить у производителя",
+  "vat_included": true
+ }
+]
