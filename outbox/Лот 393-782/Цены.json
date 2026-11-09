@@ -1,0 +1,312 @@
+[
+ {
+  "name": "Утеплитель Rockwool Руф Баттс Н Оптима 50 мм (цоколь БТП)",
+  "unit": "м3",
+  "shop": "Гранд Лайн ТК (Москва, Дмитровское ш.)",
+  "url": "https://grandline-tk.ru/catalog/uteplenie_i_izolyatsiya/utepliteli/uteplitel_dlya_fasada_50_mm/",
+  "price_vat": 9944.44,
+  "date": "2026-11-09",
+  "note": "1790 ₽/уп 0,18 м3; 2-й источник Мастер Кровли 12 800 ₽/м3 (masterkrowli.ru); в Петровиче/Лемана/Сатурне не найден",
+  "vat_included": true
+ },
+ {
+  "name": "Дюбель тарельчатый Daxmer 10×100 мет. гвоздь (цоколь БТП)",
+  "unit": "шт",
+  "shop": "Петрович",
+  "url": "https://petrozavodsk.petrovich.ru/catalog/9960/djubeli-tarelchatye/",
+  "price_vat": 10.52,
+  "date": "2026-11-09",
+  "note": "2629 ₽/250 шт; 5 шт/м2 × 30 м2; цена Москвы не показана — оценка по региону Петровича",
+  "vat_included": true
+ },
+ {
+  "name": "Профнастил С21-1000-0,7 полиэстер RAL 5005 (цоколь БТП)",
+  "unit": "м2",
+  "shop": "Метбаза (Щёлково/Москва)",
+  "url": "https://www.metbaza.com/product/profnastil-s21-ral-5005-signalnyij-sinij-0-7-mm-poliester-grand-line/",
+  "price_vat": 588,
+  "date": "2026-11-09",
+  "note": "2-й источник: SF-Маркет 826,5 ₽/м2 (sf-market.ru); в Петровиче/Лемана С21 0,7 не найден",
+  "vat_included": true
+ },
+ {
+  "name": "Профиль шляпный ПШ-50 1,0 мм оцинк. — направляющие (цоколь БТП)",
+  "unit": "мп",
+  "shop": "Завод Кровля Сервис",
+  "url": "https://kszavod.ru/catalog/navesnye-fasadnye-sistemy/elementy-podsistemy-nfs/profil-shlyapnyy-psh-50/?oid=14528",
+  "price_vat": 119,
+  "date": "2026-11-09",
+  "note": "357 ₽/шт 3 м; 2 мп/м2 (допущение: 2 ряда направляющих)",
+  "vat_included": true
+ },
+ {
+  "name": "Саморез кровельный 4,8×28 RAL 5005 (цоколь БТП)",
+  "unit": "шт",
+  "shop": "Сатурн (Москва)",
+  "url": "https://msk.saturn.net/catalog/samorezi-krovelnie/tag-ral-5005/",
+  "price_vat": 4.68,
+  "date": "2026-11-09",
+  "note": "1169 ₽/250 шт; 8 шт/м2",
+  "vat_included": true
+ },
+ {
+  "name": "Люк ревизионный под покраску Эвент ЛПНШ 600×600 скрытый",
+  "unit": "шт",
+  "shop": "Петрович (Москва)",
+  "url": "https://moscow.petrovich.ru/product/1148982/",
+  "price_vat": 4253,
+  "date": "2026-11-09",
+  "note": "2-й источник: Хаммер Гиппократ 600×600 — 4350 ₽, Петрович Москва",
+  "vat_included": true
+ },
+ {
+  "name": "Фасонные элементы (отливы) из оцинк. листа 0,5 мм с полимером, гибка, м2 развёртки",
+  "unit": "м2",
+  "shop": "Металло-База (Наро-Фоминск)",
+  "url": "https://metalo-baza.ru/proizvodstvo/metalloizdeliya/fasonnye-elementy/",
+  "price_vat": 1685,
+  "date": "2026-11-09",
+  "note": "2-й источник: ПФК Фасад 1020 ₽/м2 (прайс 2021, устарел); RAL не задан — уточнить",
+  "vat_included": true
+ },
+ {
+  "name": "Саморез кровельный 4,8×28 RAL (отливы)",
+  "unit": "шт",
+  "shop": "Сатурн (Москва)",
+  "url": "https://msk.saturn.net/catalog/samorezi-krovelnie/tag-ral-5005/",
+  "price_vat": 4.68,
+  "date": "2026-11-09",
+  "note": "4 шт/мп",
+  "vat_included": true
+ },
+ {
+  "name": "Аренда вышки-туры ВСП 1,2×2,0 h 5,2 м, 14 сут (отливы)",
+  "unit": "сут",
+  "shop": "Rent4work (Москва)",
+  "url": "https://rent4work.ru/stroitelnoe-oborudovanie/vyshki-tury/arenda-vyshki-tury-vsp-250-52",
+  "price_vat": 290,
+  "date": "2026-11-09",
+  "note": "без НДС; 2-й источник: istralesa.ru 930 ₽/сут; высота отливов не задана — допущение",
+  "vat_included": false
+ },
+ {
+  "name": "Профнастил С21-1000-0,7 полиэстер (цвет по месту, принят RAL 9003) — заделка",
+  "unit": "м2",
+  "shop": "Метбаза (Щёлково/Москва)",
+  "url": "https://www.metbaza.com/product/profnastil-s21-ral-5005-signalnyij-sinij-0-7-mm-poliester-grand-line/",
+  "price_vat": 588,
+  "date": "2026-11-09",
+  "note": "цена RAL 5005 как аналог; 2-й источник SF-Маркет 826,5 ₽/м2",
+  "vat_included": true
+ },
+ {
+  "name": "Саморез кровельный 4,8×28 (заделка отверстий)",
+  "unit": "шт",
+  "shop": "Сатурн (Москва)",
+  "url": "https://msk.saturn.net/catalog/samorezi-krovelnie/tag-ral-5005/",
+  "price_vat": 4.68,
+  "date": "2026-11-09",
+  "note": "8 шт/м2",
+  "vat_included": true
+ },
+ {
+  "name": "Утеплитель Rockwool Руф Баттс Н Оптима 50 мм (заделка отверстий)",
+  "unit": "м3",
+  "shop": "Гранд Лайн ТК (Москва, Дмитровское ш.)",
+  "url": "https://grandline-tk.ru/catalog/uteplenie_i_izolyatsiya/utepliteli/uteplitel_dlya_fasada_50_mm/",
+  "price_vat": 9944.44,
+  "date": "2026-11-09",
+  "note": "2-й источник Мастер Кровли 12 800 ₽/м3",
+  "vat_included": true
+ },
+ {
+  "name": "Лист алюминиевый рифлёный «Квинтет» 1,2×1200×300 (мин. отрез 0,36 м2)",
+  "unit": "шт",
+  "shop": "НФ-Металл (Москва)",
+  "url": "https://nfmetall.ru/alyuminiy/alyuminievyy-list/riflenyy/kvintet/12-mm/",
+  "price_vat": 752,
+  "date": "2026-11-09",
+  "note": "минимальный отрез под 0,2 м2; 2-й источник: Стальная Долина 2028 ₽ за 1,2×1200×600",
+  "vat_included": true
+ },
+ {
+  "name": "Плитка настенная Шахтинская Белая 20×30 матовая",
+  "unit": "м2",
+  "shop": "Лемана ПРО (Москва)",
+  "url": "https://www.stroyportal.ru/catalog/model-plitka-nastennaya-20x30-sm-144-m-tsvet-belyy-matov-565466/",
+  "price_vat": 400.69,
+  "date": "2026-11-09",
+  "note": "577 ₽/кор 1,44 м2 (агрегатор, 04.2026); 2-й источник Лемана ПРО СПб 508 ₽/м2",
+  "vat_included": true
+ },
+ {
+  "name": "Клей Ceresit CM 17 C2 (стены душевых)",
+  "unit": "кг",
+  "shop": "Лемана ПРО (Москва)",
+  "url": "https://www.stroyportal.ru/catalog/model-kley-dlya-plitki-vysokoelastichnyy-ceresit-cm-17-s-3021990/",
+  "price_vat": 100.8,
+  "date": "2026-11-09",
+  "note": "2520 ₽/25 кг (Лемана ПРО Москва, через stroyportal); 2-й источник Петрович 3068 ₽/25 кг; 4 кг/м2; C2 — по гидроизоляции",
+  "vat_included": true
+ },
+ {
+  "name": "Затирка Ceresit CE 40 белая (стены душевых)",
+  "unit": "кг",
+  "shop": "Лемана ПРО (Москва)",
+  "url": "https://lemanapro.ru/catalogue/zatirki-cementnye-dlya-plitki/",
+  "price_vat": 180.5,
+  "date": "2026-11-09",
+  "note": "CE 40 Aquastatic 01 белая 361 ₽/2 кг; 2-й источник Петрович 1119 ₽/2 кг",
+  "vat_included": true
+ },
+ {
+  "name": "Грунт Knauf Тифенгрунд (стены душевых)",
+  "unit": "л",
+  "shop": "Петрович (Москва)",
+  "url": "https://moscow.petrovich.ru/catalog/6615/gruntovki-10-litrov/",
+  "price_vat": 148.3,
+  "date": "2026-11-09",
+  "note": "1483 ₽/10 кг",
+  "vat_included": true
+ },
+ {
+  "name": "Вывоз строительного мусора, контейнер 8 м3 (Истра)",
+  "unit": "рейс",
+  "shop": "Вавилон (Истра)",
+  "url": "https://istra.vavilon-service.ru/",
+  "price_vat": 7500,
+  "date": "2026-11-09",
+  "note": "без НДС (не указан); 2-й источник: musor.com.ru 8000 ₽; весь мусор лота",
+  "vat_included": false
+ },
+ {
+  "name": "Керамогранит Kerama Marazzi Специи Имбирь SP900700N 30×30 матовый",
+  "unit": "м2",
+  "shop": "Керамика-Базар (Москва)",
+  "url": "https://www.keramika-bazar.ru/keramika/rossiyskaya-plitka/kerama-marazzi-kerama-maratstsi-rossiya/spetsii-keramicheskiy-granit/sp900700n-imbir-matovyy-universalnaya-plitka-30x30/",
+  "price_vat": 1194,
+  "date": "2026-11-09",
+  "note": "2-й источник Максикерам 1242 ₽/м2; в Лемана/Петровиче не найден; серия 8 мм — ТЗ требует 12 мм и R11, уточнить",
+  "vat_included": true
+ },
+ {
+  "name": "Клей Ceresit CM 17 C2 (пол душевых)",
+  "unit": "кг",
+  "shop": "Лемана ПРО (Москва)",
+  "url": "https://www.stroyportal.ru/catalog/model-kley-dlya-plitki-vysokoelastichnyy-ceresit-cm-17-s-3021990/",
+  "price_vat": 100.8,
+  "date": "2026-11-09",
+  "note": "2520 ₽/25 кг; 2-й источник Петрович 3068 ₽/25 кг; 5,5 кг/м2",
+  "vat_included": true
+ },
+ {
+  "name": "Затирка Ceresit CE 40 (пол душевых)",
+  "unit": "кг",
+  "shop": "Лемана ПРО (Москва)",
+  "url": "https://lemanapro.ru/catalogue/zatirki-cementnye-dlya-plitki/",
+  "price_vat": 332,
+  "date": "2026-11-09",
+  "note": "CE 40 жасмин (беж. под «Имбирь») 664 ₽/2 кг; 2-й источник Петрович 1119 ₽/2 кг; 0,4 кг/м2",
+  "vat_included": true
+ },
+ {
+  "name": "Грунт Knauf Тифенгрунд (пол душевых)",
+  "unit": "л",
+  "shop": "Петрович (Москва)",
+  "url": "https://moscow.petrovich.ru/catalog/6615/gruntovki-10-litrov/",
+  "price_vat": 148.3,
+  "date": "2026-11-09",
+  "note": "0,15 л/м2",
+  "vat_included": true
+ },
+ {
+  "name": "Гидроизоляция Knauf Флэхендихт",
+  "unit": "кг",
+  "shop": "Петрович (Москва)",
+  "url": "https://moscow.petrovich.ru/product/126011/",
+  "price_vat": 457,
+  "date": "2026-11-09",
+  "note": "2285 ₽/5 кг; 1,0 кг/м2 на 2 слоя; 2-й источник Лемана ПРО 1906 ₽/5 кг (Липецк)",
+  "vat_included": true
+ },
+ {
+  "name": "Лента Knauf Флэхендихтбанд Про 12 см",
+  "unit": "м",
+  "shop": "Петрович (Москва)",
+  "url": "https://moscow.petrovich.ru/catalog/7198/",
+  "price_vat": 165.7,
+  "date": "2026-11-09",
+  "note": "1657 ₽/10 м; 40 м — оценка по периметру душевых и поддонов",
+  "vat_included": true
+ },
+ {
+  "name": "Грунт Knauf Тифенгрунд (гидроизоляция)",
+  "unit": "л",
+  "shop": "Петрович (Москва)",
+  "url": "https://moscow.petrovich.ru/catalog/6615/gruntovki-10-litrov/",
+  "price_vat": 148.3,
+  "date": "2026-11-09",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Кирпич рядовой полнотелый М150 1NF",
+  "unit": "шт",
+  "shop": "Петрович (Москва)",
+  "url": "https://moscow.petrovich.ru/catalog/1557/",
+  "price_vat": 24.5,
+  "date": "2026-11-09",
+  "note": "394 шт/м3; 2-й источник Мстера М150 24,9 ₽ (Петрович)",
+  "vat_included": true
+ },
+ {
+  "name": "Смесь ЦПС М150 ЗОФ 50 кг (кладочный раствор)",
+  "unit": "кг",
+  "shop": "Петрович (Москва)",
+  "url": "https://moscow.petrovich.ru/product/133062/",
+  "price_vat": 8.1,
+  "date": "2026-11-09",
+  "note": "405 ₽/50 кг; 0,24 м3 раствора на м3 кладки",
+  "vat_included": true
+ },
+ {
+  "name": "Трап HL310N DN50/75/110, решётка 115×115 нерж.",
+  "unit": "шт",
+  "shop": "УТМ (Москва)",
+  "url": "https://utmsk.ru/component/hikashop/product/trap-dn-50-75-110-hl310n",
+  "price_vat": 3948.39,
+  "date": "2026-11-09",
+  "note": "2-й источник pex-a.ru 4081,69 ₽; в Петровиче/Лемана не найден; марка трапа в ТЗ не задана",
+  "vat_included": true
+ },
+ {
+  "name": "Труба канализационная ПП Ostendorf 50×1000",
+  "unit": "шт",
+  "shop": "Петрович (Москва)",
+  "url": "https://moscow.petrovich.ru/catalog/7180/",
+  "price_vat": 208,
+  "date": "2026-11-09",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Отвод ПП Ostendorf 50×45°",
+  "unit": "шт",
+  "shop": "Петрович (Москва)",
+  "url": "https://moscow.petrovich.ru/catalog/7180/",
+  "price_vat": 53,
+  "date": "2026-11-09",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Зонт прямоугольный 600×600 оцинк. 0,7 мм на шине (Гамарт)",
+  "unit": "шт",
+  "shop": "Вент-Стайл (Москва)",
+  "url": "https://www.vent-style.ru/gamart/page-335",
+  "price_vat": 3520,
+  "date": "2026-11-09",
+  "note": "2-й источник Аэрлайн 3224 ₽ (0,5 мм)",
+  "vat_included": true
+ }
+]
