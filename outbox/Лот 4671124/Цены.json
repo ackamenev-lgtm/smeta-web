@@ -1,0 +1,42 @@
+[
+ {
+  "name": "Тест-аэрозоль для дымовых извещателей Гефест ТА-01(м), 140 мл",
+  "unit": "шт",
+  "shop": "Актив-СБ",
+  "url": "https://www.aktivsb.ru/prod-81119.html",
+  "price_vat": 1446,
+  "date": "2026-11-09",
+  "note": "розница; B2B-партнёрам 1 330; в Петровиче/Лемана ПРО/Сатурне нет",
+  "vat_included": true
+ },
+ {
+  "name": "Аэрозоль для проверки дымовых извещателей Detectortesters CHEK01-001",
+  "unit": "шт",
+  "shop": "Бастион Калининград",
+  "url": "https://shop.bastion-kld.pro/ohrannoe-oborudovanie/izveshateli-ohrannye/testory-dlya-izveshatelej/aerozol-dlya-proverki-dymovyh-izveshatelej-detectortesters-c.html",
+  "price_vat": 1462,
+  "date": "2026-11-09",
+  "note": "второй источник к тест-аэрозолю",
+  "vat_included": true
+ },
+ {
+  "name": "Журнал эксплуатации систем противопожарной защиты",
+  "unit": "шт",
+  "shop": "Магазин 01",
+  "url": "https://magazin01.ru/product/zhurnal_ekspluatatsii_sistem_protivopozharnoy_zashchity_tverdaya_oblozhka_novaya_redaktsiya_npo_puls/",
+  "price_vat": 155,
+  "date": "2026-11-09",
+  "note": "твёрдая обложка, розница; опт 139",
+  "vat_included": true
+ },
+ {
+  "name": "Журнал эксплуатации систем противопожарной защиты",
+  "unit": "шт",
+  "shop": "Инфознак",
+  "url": "https://infoznak.ru/zhurnal-ekspluatatsii-sistem-protivopozharnoy-zashchity-rasshirennyy/",
+  "price_vat": 209,
+  "date": "2026-11-09",
+  "note": "расширенный, 35 л.",
+  "vat_included": true
+ }
+]
