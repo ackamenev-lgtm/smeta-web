@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Тестовый аэрозоль ТА-01(с) 210 мл (Гефест)",
+    "unit": "шт",
+    "shop": "Тинко",
+    "url": "https://www.tinko.ru/catalog/product/324223/",
+    "price_vat": 1408.52,
+    "date": "2026-11-09",
+    "note": "оптовая; розница 1 531. В Петровиче, Лемана ПРО, Сатурне нет",
+    "vat_included": true
+  },
+  {
+    "name": "Тестовый аэрозоль ТА-01(с) 210 мл (Гефест)",
+    "unit": "шт",
+    "shop": "АктивСБ",
+    "url": "https://www.aktivsb.ru/prod-81120.html",
+    "price_vat": 1408,
+    "date": "2026-11-09",
+    "note": "цена B2B; розница 1 531",
+    "vat_included": true
+  },
+  {
+    "name": "Тестовый аэрозоль ТА-01(с) 210 мл (Гефест)",
+    "unit": "шт",
+    "shop": "Грумант",
+    "url": "https://www.grumant.ru/production/catalog/00047882",
+    "price_vat": 1608,
+    "date": "2026-11-09",
+    "note": "розница",
+    "vat_included": true
+  },
+  {
+    "name": "Смазка силиконовая аэрозоль ASTROhim 520 мл",
+    "unit": "шт",
+    "shop": "Лемана ПРО",
+    "url": "https://lemanapro.ru/catalogue/smazochnye-materialy/",
+    "price_vat": 411,
+    "date": "2026-11-09",
+    "note": "Москва",
+    "vat_included": true
+  },
+  {
+    "name": "Смазка силиконовая аэрозоль Bitumast 320 мл",
+    "unit": "шт",
+    "shop": "Петрович",
+    "url": "https://moscow.petrovich.ru/catalog/4116/smazki-aerozoli/",
+    "price_vat": 411,
+    "date": "2026-11-09",
+    "note": "Москва; 320 мл — дороже за мл",
+    "vat_included": true
+  }
+]
