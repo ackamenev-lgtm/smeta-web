@@ -1,0 +1,142 @@
+[
+ {
+  "name": "Аэрозоль для проверки дымовых извещателей SOLO A3, 250 мл",
+  "unit": "шт",
+  "shop": "PIIR.RU (Москва)",
+  "url": "https://piir.ru/product/solo-a3-001-ajerozol-dlja-proverki-dymovyh-izveshhatelej/",
+  "price_vat": 4545,
+  "date": "2026-11-09",
+  "note": "В Петровиче/Лемана ПРО/Сатурне нет. 2-й источник pdo-nk.ru 3 100 (нет в наличии). Расход: 768 визитов × 40 извещателей ÷ 200 тестов на баллон — оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Перезарядка огнетушителя ОП-4 на станции (услуга)",
+  "unit": "шт",
+  "shop": "УралКриоГаз Екб 300 б/НДС / StopFire Казань 380 — среднее",
+  "url": "https://kriogen.ru/service/perezaryadka-ognetushiteley/",
+  "price_vat": 340,
+  "date": "2026-11-09",
+  "note": "Ставка за 1 шт; ОП-10 дороже (504–1 009) — в рисках",
+  "vat_included": false
+ },
+ {
+  "name": "Перезарядка огнетушителя ОУ-5 на станции (услуга)",
+  "unit": "шт",
+  "shop": "УралКриоГаз Екб 420 б/НДС / StopFire Казань 1 050 — среднее",
+  "url": "https://stopfire.pro/price-list/",
+  "price_vat": 735,
+  "date": "2026-11-09",
+  "note": "ОУ-10 дороже (до 1 900) — в рисках",
+  "vat_included": false
+ },
+ {
+  "name": "Знак ФЭС фотолюминесцентный на пластике 200×200 (ГОСТ 34428)",
+  "unit": "шт",
+  "shop": "Инновация Безопасности (Пермь)",
+  "url": "https://tdsb-perm.ru/shop/znaki_s_naneseniem_fotolyuminestsentnogo_sloya/",
+  "price_vat": 197,
+  "date": "2026-11-09",
+  "note": "В тройке магазинов нет. 2-й источник control01 210",
+  "vat_included": true
+ },
+ {
+  "name": "План эвакуации фотолюминесцентный А2 600×400 на ПВХ, с разработкой макета",
+  "unit": "шт",
+  "shop": "lumplan.ru",
+  "url": "https://lumplan.ru/",
+  "price_vat": 2800,
+  "date": "2026-11-09",
+  "note": "2-й источник ГЕФЕСТ 2 800–3 000, control01 3 000–3 200",
+  "vat_included": true
+ },
+ {
+  "name": "Знак пожарной безопасности фотолюминесцентный 200×200 (комплект ПБО)",
+  "unit": "шт",
+  "shop": "Инновация Безопасности (Пермь)",
+  "url": "https://tdsb-perm.ru/shop/znaki_s_naneseniem_fotolyuminestsentnogo_sloya/",
+  "price_vat": 197,
+  "date": "2026-11-09",
+  "note": "20 знаков на ПБО — допущение. 2-й источник control01 210",
+  "vat_included": true
+ },
+ {
+  "name": "Аэрозоль для проверки дымовых извещателей SOLO A3, 250 мл",
+  "unit": "шт",
+  "shop": "pdo-nk.ru (нет в наличии)",
+  "url": "https://pdo-nk.ru/katalog/aerozoli/aehrozol-dlya-proverki-dymovyh-izveshchatelej/aehrozol-dlya-proverki-dymovyh-izveshchatelej-solo-a3-001.html",
+  "price_vat": 3100,
+  "date": "2026-11-09",
+  "note": "2-й источник, нет в наличии",
+  "vat_included": true
+ },
+ {
+  "name": "Перезарядка огнетушителя ОП-4 (услуга станции)",
+  "unit": "шт",
+  "shop": "StopFire Казань",
+  "url": "https://stopfire.pro/price-list/",
+  "price_vat": 380,
+  "date": "2026-11-09",
+  "note": "без НДС (УСН), прайс 02.03.2026",
+  "vat_included": false
+ },
+ {
+  "name": "Перезарядка огнетушителя ОП-4 (услуга станции)",
+  "unit": "шт",
+  "shop": "УралКриоГаз Екатеринбург",
+  "url": "https://kriogen.ru/service/perezaryadka-ognetushiteley/",
+  "price_vat": 315,
+  "date": "2026-11-09",
+  "note": "цена с НДС 5 %",
+  "vat_included": true
+ },
+ {
+  "name": "Перезарядка огнетушителя ОУ-5 (услуга станции)",
+  "unit": "шт",
+  "shop": "StopFire Казань",
+  "url": "https://stopfire.pro/price-list/",
+  "price_vat": 1050,
+  "date": "2026-11-09",
+  "note": "без НДС (УСН)",
+  "vat_included": false
+ },
+ {
+  "name": "Перезарядка огнетушителя ОУ-5 (услуга станции)",
+  "unit": "шт",
+  "shop": "УралКриоГаз Екатеринбург",
+  "url": "https://kriogen.ru/service/perezaryadka-ognetushiteley/",
+  "price_vat": 441,
+  "date": "2026-11-09",
+  "note": "цена с НДС 5 %",
+  "vat_included": true
+ },
+ {
+  "name": "Знак ФЭС фотолюминесцентный на пластике 200×200",
+  "unit": "шт",
+  "shop": "control01",
+  "url": "https://control01.ru/price/",
+  "price_vat": 210,
+  "date": "2026-11-09",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "План эвакуации фотолюминесцентный А2 600×400 на ПВХ",
+  "unit": "шт",
+  "shop": "ГЕФЕСТ",
+  "url": "https://pozharoff.net/price-plans/",
+  "price_vat": 3000,
+  "date": "2026-11-09",
+  "note": "1–5 шт, без рамки",
+  "vat_included": true
+ },
+ {
+  "name": "План эвакуации фотолюминесцентный А2 600×400 на ПВХ",
+  "unit": "шт",
+  "shop": "control01",
+  "url": "https://control01.ru/price/",
+  "price_vat": 3200,
+  "date": "2026-11-09",
+  "note": "1–5 шт",
+  "vat_included": true
+ }
+]
