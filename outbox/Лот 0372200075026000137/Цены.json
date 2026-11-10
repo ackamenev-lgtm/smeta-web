@@ -1,0 +1,442 @@
+[
+ {
+  "name": "Доска обрезная хвойная 25×150×6000, сорт 1–2",
+  "unit": "м3",
+  "shop": "Петрович СПб",
+  "url": "https://petrovich.ru/catalog/1512/",
+  "price_vat": 33288.89,
+  "date": "2026-11-04",
+  "note": "749 руб./шт = 0,0225 м3. Второй источник: Петрович, доска 150 мм 615 руб./шт (27 333 руб./м3). Объём по ЛС-1 поз. 6.2 (сорт III)",
+  "vat_included": true
+ },
+ {
+  "name": "Доска обрезная хвойная 25 мм, сорт II",
+  "unit": "м3",
+  "shop": "Петрович СПб",
+  "url": "https://petrovich.ru/catalog/1512/",
+  "price_vat": 33288.89,
+  "date": "2026-11-04",
+  "note": "как поз. выше; объём ЛС-1 поз. 8.1",
+  "vat_included": true
+ },
+ {
+  "name": "Доска обрезная лиственница 50×100×6000, сорт 1 (лаги)",
+  "unit": "м3",
+  "shop": "НПФ «НИКС» СПб",
+  "url": "https://npfniks.ru/doska_obreznaya_50_100_6000.php",
+  "price_vat": 48300,
+  "date": "2026-08-28",
+  "note": "в Петровиче лиственницы нет. НИКС 48 300 руб./м3 (сухой брус 60 100); pilomaterialyvspb строганная 35 500 руб./м3",
+  "vat_included": true
+ },
+ {
+  "name": "Рубероид РКП-350 (прокладки под лаги)",
+  "unit": "м2",
+  "shop": "Петрович СПб",
+  "url": "https://petrovich.ru/product/988036/",
+  "price_vat": 46.67,
+  "date": "2026-11-04",
+  "note": "700 руб./рулон 15 м2; stroyportal (Петрович) 922 руб.",
+  "vat_included": true
+ },
+ {
+  "name": "Плита ДСП 16 мм 2750×1830",
+  "unit": "м2",
+  "shop": "ПСТ СПб",
+  "url": "https://pst-spb.ru/product/dsp-2750kh1830kh16-mm-sort-1_1/",
+  "price_vat": 344.76,
+  "date": "2026-11-04",
+  "note": "1735 руб./лист 5,03 м2; второй источник tdvasya.ru 1929 руб./лист",
+  "vat_included": true
+ },
+ {
+  "name": "Линолеум коммерческий Tarkett Acczent Pro 34/43 КМ2 2 мм",
+  "unit": "м2",
+  "shop": "Петрович СПб",
+  "url": "https://petrovich.ru/product/152458/",
+  "price_vat": 600.5,
+  "date": "2026-11-04",
+  "note": "1201 руб./пог. м (ширина 2 м). Второй источник: floordealer 980 руб./м2, kp-opt 1125 руб./м2",
+  "vat_included": true
+ },
+ {
+  "name": "Клей для коммерческого линолеума Homakoll 248, 14 кг",
+  "unit": "кг",
+  "shop": "Петрович СПб",
+  "url": "https://petrovich.ru/product/675757/",
+  "price_vat": 401.86,
+  "date": "2026-10-29",
+  "note": "Петрович 5626 руб./14 кг (29.10.2026, лот 953631); napolspb.ru 5510 руб. Количество по ЛС-1 поз. 10.2",
+  "vat_included": true
+ },
+ {
+  "name": "Порог алюминиевый одноуровневый 40×900 мм",
+  "unit": "шт",
+  "shop": "Петрович СПб",
+  "url": "https://petrovich.ru/catalog/1310/porogi-dlya-pola-alyuminievye-ptq/",
+  "price_vat": 290,
+  "date": "2026-11-04",
+  "note": "Петрович 290 руб.; stroyportal (Петрович) 291 руб.",
+  "vat_included": true
+ },
+ {
+  "name": "Плинтус ПВХ напольный 80 мм, 2,2 м",
+  "unit": "м",
+  "shop": "Петрович СПб",
+  "url": "https://petrovich.ru/catalog/285395768/plastikovye-plintusy-80-mm/",
+  "price_vat": 190.45,
+  "date": "2026-11-04",
+  "note": "Идеал Дюра 419 руб./2,2 м (светло-серый 331 руб.). В ЛС-1 плинтус 19×48 на клее КН-2 — эквивалент",
+  "vat_included": true
+ },
+ {
+  "name": "Плита потолочная Armstrong Retail Board 600×600×12 КМ1",
+  "unit": "м2",
+  "shop": "Петрович СПб",
+  "url": "https://petrovich.ru/product/128874/",
+  "price_vat": 586.11,
+  "date": "2026-11-04",
+  "note": "второй вариант Armstrong Bajkal 519,44 руб. (Петрович)",
+  "vat_included": true
+ },
+ {
+  "name": "Подвесная система Т-24 (профили, подвесы)",
+  "unit": "м2",
+  "shop": "skladpotolkov.ru",
+  "url": "https://skladpotolkov.ru/podvestnaya-sistema-armstrong",
+  "price_vat": 240,
+  "date": "2026-11-04",
+  "note": "второй источник 6420011.ru 300 руб./м2",
+  "vat_included": true
+ },
+ {
+  "name": "Штукатурка цементно-известковая MixMaster МШ25, 25 кг",
+  "unit": "кг",
+  "shop": "Петрович СПб",
+  "url": "https://petrovich.ru/product/136228/",
+  "price_vat": 15.92,
+  "date": "2026-11-04",
+  "note": "оценка расхода: 17 кг/м2 на 10 мм; ремонт 15 мм (193,21 м2), выравнивание 7,5 мм (172,57 м2), откосы 10 мм (3 м2), по сетке 20 мм (23,64 м2). В ЛС-1 раствор внутри расценки. Второй источник: Крепс Экстра-Лайт 490 руб./25 кг",
+  "vat_included": true
+ },
+ {
+  "name": "Шпаклёвка полимерная финишная weber LR+, 20 кг",
+  "unit": "кг",
+  "shop": "Петрович СПб",
+  "url": "https://petrovich.ru/product/662749/",
+  "price_vat": 55.45,
+  "date": "2026-11-04",
+  "note": "оценка: 0,5 кг/м2 под улучшенную окраску. Один источник",
+  "vat_included": true
+ },
+ {
+  "name": "Краска ВД-АК интерьерная Лакра, 14 кг",
+  "unit": "кг",
+  "shop": "Петрович СПб",
+  "url": "https://petrovich.ru/catalog/6627/vodno-dispersionnye-kraski-lakra/",
+  "price_vat": 113.93,
+  "date": "2026-11-04",
+  "note": "1595 руб./14 кг; dspb.ru 1263 руб. Количество по ЛС-1 поз. 20.1, 29.1, 77.1",
+  "vat_included": true
+ },
+ {
+  "name": "Краска ВД-АК интерьерная Лакра, 14 кг (потолок санузла)",
+  "unit": "кг",
+  "shop": "Петрович СПб",
+  "url": "https://petrovich.ru/catalog/6627/vodno-dispersionnye-kraski-lakra/",
+  "price_vat": 113.93,
+  "date": "2026-11-04",
+  "note": "ЛС-1 поз. 56.1",
+  "vat_included": true
+ },
+ {
+  "name": "Грунтовка Ceresit CT 17",
+  "unit": "л",
+  "shop": "Лемана ПРО",
+  "url": "https://lemanapro.ru/",
+  "price_vat": 136.7,
+  "date": "2026-10-29",
+  "note": "Лемана ПРО 136,7 руб./л (29.10.2026); Петрович CT17 PRO 143,8 руб./л. Количество по ЛС-1 поз. 20.2, 29.2, 77.2, 56.2, 52.4",
+  "vat_included": true
+ },
+ {
+  "name": "Керамогранит неполированный 9–10 мм",
+  "unit": "м2",
+  "shop": "Петрович СПб",
+  "url": "https://petrovich.ru/product/1233614/",
+  "price_vat": 716.25,
+  "date": "2026-10-29",
+  "note": "второй источник: Петрович Москва Unitile 30×30 493 руб./м2. Количество ЛС-1 поз. 21.2 + 55.2",
+  "vat_included": true
+ },
+ {
+  "name": "Керамогранит 40×40 неполированный 10 мм",
+  "unit": "м2",
+  "shop": "Петрович СПб",
+  "url": "https://petrovich.ru/product/1233614/",
+  "price_vat": 716.25,
+  "date": "2026-10-29",
+  "note": "как стены; ЛС-1 поз. 52.1",
+  "vat_included": true
+ },
+ {
+  "name": "Клей плиточный Ceresit CM 11",
+  "unit": "кг",
+  "shop": "Лемана ПРО",
+  "url": "https://lemanapro.ru/",
+  "price_vat": 22.68,
+  "date": "2026-10-29",
+  "note": "Лемана ПРО 22,68 руб./кг; Петрович CM11 PRO 24,76 руб./кг. Количество ЛС-1 поз. 21.3, 55.3, 52.3",
+  "vat_included": true
+ },
+ {
+  "name": "Затирка цементная для швов 1–6 мм",
+  "unit": "кг",
+  "shop": "Петрович Москва",
+  "url": "https://moscow.petrovich.ru/",
+  "price_vat": 155,
+  "date": "2026-10-29",
+  "note": "второй источник Арткерамика 197,5 руб./кг. ЛС-1 поз. 21.1, 55.1",
+  "vat_included": true
+ },
+ {
+  "name": "Гидроизоляционная смесь Ceresit CR 65, 20 кг",
+  "unit": "кг",
+  "shop": "Петрович СПб",
+  "url": "https://petrovich.ru/product/614946/",
+  "price_vat": 95.45,
+  "date": "2026-11-04",
+  "note": "Петрович 1909 руб./20 кг; spb.ceresit-russia.com 1900 руб. Количество по ЛС-1 поз. 51",
+  "vat_included": true
+ },
+ {
+  "name": "Сетка штукатурная стальная 5×5 мм",
+  "unit": "м2",
+  "shop": "STEELBORG (metalloprokat.ru)",
+  "url": "https://spb.metalloprokat.ru/metiz/setka/mm/shtukaturnaya/",
+  "price_vat": 32.22,
+  "date": "2026-11-04",
+  "note": "1611 руб./рулон 1×50 м; МЕПЭН 990 руб./рулон 0,5×100 м. По ЛС-1 68,17 м2 (коэф. 2,67), взято по площади 23,64 × 1,08",
+  "vat_included": true
+ },
+ {
+  "name": "Полотно дверное шпон дуб, глухое 800×2000 (Ржевдорс 060)",
+  "unit": "шт",
+  "shop": "Петрович СПб",
+  "url": "https://sankt-peterburg.stroyportal.ru/",
+  "price_vat": 9990,
+  "date": "2026-11-04",
+  "note": "Петрович СПб через stroyportal; Петрович Тверь 15 932 руб.",
+  "vat_included": true
+ },
+ {
+  "name": "Коробка дверная шпон (комплект)",
+  "unit": "шт",
+  "shop": "Петрович СПб",
+  "url": "https://petrovich.ru/",
+  "price_vat": 1590,
+  "date": "2026-11-04",
+  "note": "от 1590 руб./комплект, один источник",
+  "vat_included": true
+ },
+ {
+  "name": "Наличник шпон 2150 мм",
+  "unit": "шт",
+  "shop": "Петрович СПб",
+  "url": "https://petrovich.ru/",
+  "price_vat": 548,
+  "date": "2026-11-04",
+  "note": "28 м по ЛС-1 ÷ 2,15 м; один источник",
+  "vat_included": true
+ },
+ {
+  "name": "Замок врезной межкомнатный Ajax DK.002 + ручка на розетке",
+  "unit": "компл",
+  "shop": "Петрович СПб",
+  "url": "https://petrovich.ru/product/1214231/",
+  "price_vat": 1380,
+  "date": "2026-11-04",
+  "note": "замок 990 руб., ручка 390 руб. (Петрович). Palladium 0155 от 572 руб.",
+  "vat_included": true
+ },
+ {
+  "name": "Набор присоединительный 1\"×3/4\" для радиатора с кронштейнами",
+  "unit": "компл",
+  "shop": "Петрович СПб",
+  "url": "https://petrovich.ru/product/685646/",
+  "price_vat": 250,
+  "date": "2026-11-04",
+  "note": "Royal Thermo 214 руб. (Петрович)",
+  "vat_included": true
+ },
+ {
+  "name": "Раковина (умывальник) керамическая 450×330",
+  "unit": "шт",
+  "shop": "Петрович Москва",
+  "url": "https://moscow.petrovich.ru/",
+  "price_vat": 3840,
+  "date": "2026-11-04",
+  "note": "Cersanit 4120 руб.",
+  "vat_included": true
+ },
+ {
+  "name": "Смеситель для умывальника однорычажный",
+  "unit": "шт",
+  "shop": "Сатурн СПб",
+  "url": "https://spb.saturn.net/",
+  "price_vat": 1108,
+  "date": "2026-11-04",
+  "note": "один источник",
+  "vat_included": true
+ },
+ {
+  "name": "Полотенцесушитель водяной нерж. М-образный 500×500 (MyFrea М-1к)",
+  "unit": "шт",
+  "shop": "Петрович СПб",
+  "url": "https://petrovich.ru/product/1150528/",
+  "price_vat": 1990,
+  "date": "2026-11-04",
+  "note": "MyFrea М-1 500×500 2290 руб.",
+  "vat_included": true
+ },
+ {
+  "name": "Ванна стальная 170×70 Antika",
+  "unit": "шт",
+  "shop": "Петрович СПб",
+  "url": "https://petrovich.ru/product/660788/",
+  "price_vat": 10200,
+  "date": "2026-11-04",
+  "note": "danavanna.ru 11 100 руб.",
+  "vat_included": true
+ },
+ {
+  "name": "Сифон для ванны с выпуском и переливом Wirquin Pro",
+  "unit": "шт",
+  "shop": "Петрович СПб",
+  "url": "https://petrovich.ru/product/162742/",
+  "price_vat": 880,
+  "date": "2026-11-04",
+  "note": "АНИ пласт EC255BL 1590 руб.",
+  "vat_included": true
+ },
+ {
+  "name": "Смеситель для ванны с душем, длинный излив (Corsa Deco Flow L)",
+  "unit": "шт",
+  "shop": "Петрович СПб",
+  "url": "https://petrovich.ru/catalog/7174/s-dushem/",
+  "price_vat": 3440,
+  "date": "2026-11-04",
+  "note": "РМС SL 3464 руб.",
+  "vat_included": true
+ },
+ {
+  "name": "Выпуск для раковины 1 1/4\"",
+  "unit": "шт",
+  "shop": "Петрович СПб",
+  "url": "https://petrovich.ru/product/1071749/",
+  "price_vat": 167,
+  "date": "2026-11-04",
+  "note": "в ЛС-1 латунный; Alcaplast A31 340 руб. (feniks-trade)",
+  "vat_included": true
+ },
+ {
+  "name": "Труба смывная для унитаза d110 с манжетой",
+  "unit": "шт",
+  "shop": "Сатурн СПб",
+  "url": "https://spb.saturn.net/product/truba-dlya-unitaza-sinikon-jestkaya-pryamaya-s-rezinovoy-manjetoy-d-110mm/",
+  "price_vat": 330,
+  "date": "2026-11-04",
+  "note": "Biber-Tools 476 руб.; Петрович слив АНИ K828 300 руб.",
+  "vat_included": true
+ },
+ {
+  "name": "Кабель ВВГнг(А)-LSLTx 3×1,5",
+  "unit": "м",
+  "shop": "Петрович СПб",
+  "url": "https://petrovich.ru/product/670985/",
+  "price_vat": 99,
+  "date": "2026-11-04",
+  "note": "Петрович Кабэкс LSLTx 99 руб./м; Нева Электро Сервис 83,06 руб./м. ЛС-1 поз. 39.2 + 62.2",
+  "vat_included": true
+ },
+ {
+  "name": "Кабель ВВГнг(А)-LSLTx 3×2,5",
+  "unit": "м",
+  "shop": "Петрович СПб",
+  "url": "https://petrovich.ru/product/670988/",
+  "price_vat": 170,
+  "date": "2026-11-04",
+  "note": "Петрович Кабэкс LSLTx 170 руб./м на отрез; Толедо (Кабэкс) 125,02 руб./м, Ремкабель 113,39. Бухтой дешевле — запросить. ЛС-1 поз. 39.3",
+  "vat_included": true
+ },
+ {
+  "name": "Труба гофрированная ПВХ d20 с протяжкой",
+  "unit": "м",
+  "shop": "optcable",
+  "url": "https://optcable.ru/",
+  "price_vat": 20.07,
+  "date": "2026-10-29",
+  "note": "Промрукав 31,55 руб./м",
+  "vat_included": true
+ },
+ {
+  "name": "Розетка AtlasDesign белая с заземлением (ATN000143)",
+  "unit": "шт",
+  "shop": "Петрович СПб",
+  "url": "https://petrovich.ru/product/650614/",
+  "price_vat": 202,
+  "date": "2026-11-04",
+  "note": "со шторками ATN000145 241 руб.",
+  "vat_included": true
+ },
+ {
+  "name": "Выключатель AtlasDesign одноклавишный белый (ATN000111)",
+  "unit": "шт",
+  "shop": "Петрович СПб",
+  "url": "https://petrovich.ru/product/650607/",
+  "price_vat": 202,
+  "date": "2026-11-04",
+  "note": "Петрович Москва 187 руб.",
+  "vat_included": true
+ },
+ {
+  "name": "Рамка AtlasDesign одноместная белая (ATN000101)",
+  "unit": "шт",
+  "shop": "Петрович СПб",
+  "url": "https://petrovich.ru/product/650623/",
+  "price_vat": 65,
+  "date": "2026-11-04",
+  "note": "один источник",
+  "vat_included": true
+ },
+ {
+  "name": "Подрозетник для бетона d68×45 (IMT351001)",
+  "unit": "шт",
+  "shop": "Петрович СПб",
+  "url": "https://petrovich.ru/product/128015/",
+  "price_vat": 20,
+  "date": "2026-11-04",
+  "note": "Greenel 68×42 21 руб.",
+  "vat_included": true
+ },
+ {
+  "name": "Светильник LED 595×295 IP65 20–25 Вт",
+  "unit": "шт",
+  "shop": "Терра-LED",
+  "url": "https://chl.terra-led.ru/svetilniki-595x295/",
+  "price_vat": 4054,
+  "date": "2026-11-04",
+  "note": "18 Вт IP65 4460 руб. (тот же поставщик); ЛС-1 3782,61 руб. без НДС",
+  "vat_included": true
+ },
+ {
+  "name": "Мешок полипропиленовый для мусора 55×95, до 50 кг",
+  "unit": "шт",
+  "shop": "Петрович СПб",
+  "url": "https://petrovich.ru/product/1145108/",
+  "price_vat": 19,
+  "date": "2026-11-04",
+  "note": "10,158 т ÷ 40 кг; повышенной прочности 38 руб.",
+  "vat_included": true
+ }
+]
