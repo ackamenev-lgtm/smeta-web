@@ -1,0 +1,322 @@
+[
+ {
+  "name": "Фанкойл MDV MDKH2-350-R4, 4,20 кВт",
+  "unit": "шт",
+  "shop": "iclim",
+  "url": "https://iclim.ru/catalog/promyshlennye_konditsionery/fankoyly/mdv_mdkh2_350_r4/",
+  "price_vat": 106000,
+  "date": "2026-11-03",
+  "note": "второй источник ventar-s.ru 106 000. Длина корпуса 1240 мм больше старого L=980 — проверить место. Запросить КП поставщика.",
+  "vat_included": true
+ },
+ {
+  "name": "Фанкойл MDV MDKH2-500-R4, 5,35 кВт",
+  "unit": "шт",
+  "shop": "iclim",
+  "url": "https://iclim.ru/catalog/promyshlennye_konditsionery/fankoyly/mdv_mdkh2_500_r4/",
+  "price_vat": 113000,
+  "date": "2026-11-03",
+  "note": "второй источник ventar-s.ru 113 000. Запросить КП поставщика.",
+  "vat_included": true
+ },
+ {
+  "name": "Фанкойл MDV MDKH2-700-R4, 6,75 кВт",
+  "unit": "шт",
+  "shop": "iclim",
+  "url": "https://iclim.ru/catalog/promyshlennye_konditsionery/fankoyly/mdv_mdkh2_700_r4/",
+  "price_vat": 129000,
+  "date": "2026-11-03",
+  "note": "второй источник komfort-climat.ru 129 000. Запросить КП поставщика.",
+  "vat_included": true
+ },
+ {
+  "name": "Термостат MDV KJR-18B/E",
+  "unit": "шт",
+  "shop": "MDV-profi",
+  "url": "https://krasnoyarsk.mdv-profi.ru/t/kjr-18b-e-termostat-mdv",
+  "price_vat": 7380,
+  "date": "2026-11-03",
+  "note": "второй источник eskvent.ru (Москва) KJR-18B/E-D 7 200. В Петровиче, Лемана ПРО, Сатурне нет.",
+  "vat_included": true
+ },
+ {
+  "name": "Кран шаровой Valtec VT.218.N.05 3/4",
+  "unit": "шт",
+  "shop": "Петрович Москва",
+  "url": "https://moscow.petrovich.ru/product/103914/",
+  "price_vat": 779,
+  "date": "2026-11-03",
+  "note": "второй источник tradehousegroup.ru 740,30",
+  "vat_included": true
+ },
+ {
+  "name": "Фильтр косой Valtec VT.192.N.05 3/4",
+  "unit": "шт",
+  "shop": "Петрович Москва",
+  "url": "https://moscow.petrovich.ru/catalog/285396790/filtry-3-4/",
+  "price_vat": 710,
+  "date": "2026-11-03",
+  "note": "один источник, доля < 1 %",
+  "vat_included": true
+ },
+ {
+  "name": "Клапан балансировочный Valtec VT.054.N.05 3/4",
+  "unit": "шт",
+  "shop": "Теплосити (Москва)",
+  "url": "https://teplocity.pro/",
+  "price_vat": 2273,
+  "date": "2026-11-03",
+  "note": "второй источник tradehousegroup.ru 1 922,61. В Петровиче нет, Лемана ПРО только Орёл 6 017 — не взяли.",
+  "vat_included": true
+ },
+ {
+  "name": "Клапан двухходовой с приводом Clima Esperto CV-234/220 3/4",
+  "unit": "компл",
+  "shop": "Климато",
+  "url": "https://klimato.ru/shop/aksessuary_dlya_fankoylov/klapany_dlya_fankoilov/",
+  "price_vat": 10120,
+  "date": "2026-11-03",
+  "note": "второй источник fancoil-kkb.ru 11 000; клапан MDV TWVK09-S iclim 16 300. В Петровиче, Лемана ПРО, Сатурне нет.",
+  "vat_included": true
+ },
+ {
+  "name": "Подводка гибкая ТР-сантехника Гигант 3/4 ВР-НР 50 см",
+  "unit": "шт",
+  "shop": "Петрович Москва",
+  "url": "https://moscow.petrovich.ru/product/1095654/",
+  "price_vat": 900,
+  "date": "2026-11-03",
+  "note": "второй источник Флексор нерж. 536,75; длину задаёт проект, принято 50 см",
+  "vat_included": true
+ },
+ {
+  "name": "Трубка K-Flex ST 9×22 (изоляция подводок)",
+  "unit": "м",
+  "shop": "st-prices.ru",
+  "url": "https://st-prices.ru/",
+  "price_vat": 87,
+  "date": "2026-11-03",
+  "note": "второй источник smtrading.ru 96; 0,6 м на подводку — оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Лента K-Flex ST 50 мм × 15 м (подводки)",
+  "unit": "рул",
+  "shop": "Петрович Москва",
+  "url": "https://moscow.petrovich.ru/",
+  "price_vat": 755,
+  "date": "2026-11-03",
+  "note": "1 м на подводку — оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Ниппель Valtec 3/4 VTr.582.N.0005",
+  "unit": "шт",
+  "shop": "Петрович Москва",
+  "url": "https://moscow.petrovich.ru/",
+  "price_vat": 157,
+  "date": "2026-11-03",
+  "note": "второй источник vestatrade 144; 4 фитинга на узел — оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Шланг дренажный 16 мм (объём не задан)",
+  "unit": "м",
+  "shop": "ruvinil.ru",
+  "url": "https://ruvinil.ru/",
+  "price_vat": 49.66,
+  "date": "2026-11-03",
+  "note": "второй источник lindex 74,40; объём не задан",
+  "vat_included": true
+ },
+ {
+  "name": "Анкер 10×100 (крепление фанкойла)",
+  "unit": "шт",
+  "shop": "Петрович Москва",
+  "url": "https://moscow.petrovich.ru/",
+  "price_vat": 64,
+  "date": "2026-11-03",
+  "note": "один источник; 4 шт на фанкойл",
+  "vat_included": true
+ },
+ {
+  "name": "Хомут сантехнический 3/4 со шпилькой и дюбелем",
+  "unit": "шт",
+  "shop": "Петрович Москва",
+  "url": "https://moscow.petrovich.ru/",
+  "price_vat": 98,
+  "date": "2026-11-03",
+  "note": "второй источник stroyportal (прайс); 2 шт на узел",
+  "vat_included": true
+ },
+ {
+  "name": "Кабель ВВГнг(А)-LS 3×1,5 (объём не задан)",
+  "unit": "м",
+  "shop": "Петрович Москва",
+  "url": "https://moscow.petrovich.ru/product/680613/",
+  "price_vat": 124,
+  "date": "2026-11-03",
+  "note": "второй источник Конкорд 102–105; объём не задан",
+  "vat_included": true
+ },
+ {
+  "name": "Труба гофрированная ПВХ 16 мм DKC (питание, объём не задан)",
+  "unit": "м",
+  "shop": "Петрович Москва",
+  "url": "https://moscow.petrovich.ru/",
+  "price_vat": 21.38,
+  "date": "2026-11-03",
+  "note": "2 138 за бухту 100 м; объём не задан",
+  "vat_included": true
+ },
+ {
+  "name": "Клеммы WAGO 221-413, уп. 50 шт",
+  "unit": "уп",
+  "shop": "Петрович Москва",
+  "url": "https://moscow.petrovich.ru/product/938931/",
+  "price_vat": 1749,
+  "date": "2026-11-03",
+  "note": "второй источник vseinstrumenti 1 506; 6 шт на точку",
+  "vat_included": true
+ },
+ {
+  "name": "Коробка распаечная 100×100×50 IP54",
+  "unit": "шт",
+  "shop": "Петрович Москва",
+  "url": "https://moscow.petrovich.ru/",
+  "price_vat": 100,
+  "date": "2026-11-03",
+  "note": "второй источник TDM 71,85",
+  "vat_included": true
+ },
+ {
+  "name": "Стяжки 200×3,6, уп. 100 шт",
+  "unit": "уп",
+  "shop": "Петрович Москва",
+  "url": "https://moscow.petrovich.ru/",
+  "price_vat": 151,
+  "date": "2026-11-03",
+  "note": "второй источник Fortisflex 126; 20 шт на точку",
+  "vat_included": true
+ },
+ {
+  "name": "Плёнка полиэтиленовая 200 мкм, рукав",
+  "unit": "пог.м",
+  "shop": "Петрович Москва",
+  "url": "https://moscow.petrovich.ru/product/152425/",
+  "price_vat": 23.1,
+  "date": "2026-11-03",
+  "note": "3,03 м² в пог.м; 520 м² укрытия",
+  "vat_included": true
+ },
+ {
+  "name": "Шпатлёвка Кнауф Ротбанд паста Профи 18 кг",
+  "unit": "шт",
+  "shop": "Петрович Москва",
+  "url": "https://moscow.petrovich.ru/",
+  "price_vat": 1768,
+  "date": "2026-11-03",
+  "note": "один источник; 0,5 кг на точку — оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Краска Кнауф Вайсванд 14 кг",
+  "unit": "шт",
+  "shop": "Петрович Москва",
+  "url": "https://moscow.petrovich.ru/",
+  "price_vat": 5139,
+  "date": "2026-11-03",
+  "note": "один источник; цвет стен не задан — оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Фанкойл MDV MDKH2-350-R4, 4,20 кВт",
+  "unit": "шт",
+  "shop": "ventar-s.ru",
+  "url": "https://ventar-s.ru/product/napolno-potolochnye-dvuhtrubnye-fankojly-s-nizhnim-zaborom-vozduha-mdkh2-350-r4/",
+  "price_vat": 106000,
+  "date": "2026-11-03",
+  "note": "второй источник",
+  "vat_included": true
+ },
+ {
+  "name": "Фанкойл MDV MDKH2-500-R4, 5,35 кВт",
+  "unit": "шт",
+  "shop": "ventar-s.ru",
+  "url": "https://ventar-s.ru/product/napolno-potolochnye-dvuhtrubnye-fankojly-s-nizhnim-zaborom-vozduha-mdkh2-500-r4/",
+  "price_vat": 113000,
+  "date": "2026-11-03",
+  "note": "второй источник",
+  "vat_included": true
+ },
+ {
+  "name": "Фанкойл MDV MDKH2-700-R4, 6,75 кВт",
+  "unit": "шт",
+  "shop": "Комфорт-климат",
+  "url": "https://komfort-climat.ru/product/mdv-mdkh2-700-r4/",
+  "price_vat": 129000,
+  "date": "2026-11-03",
+  "note": "второй источник",
+  "vat_included": true
+ },
+ {
+  "name": "Термостат MDV KJR-18B/E-D",
+  "unit": "шт",
+  "shop": "Эсквент (Москва)",
+  "url": "https://eskvent.ru/",
+  "price_vat": 7200,
+  "date": "2026-11-03",
+  "note": "второй источник",
+  "vat_included": true
+ },
+ {
+  "name": "Клапан двухходовой с приводом Clima Esperto CV-234/220 3/4",
+  "unit": "компл",
+  "shop": "fancoil-kkb.ru",
+  "url": "https://fancoil-kkb.ru/",
+  "price_vat": 11000,
+  "date": "2026-11-03",
+  "note": "второй источник",
+  "vat_included": true
+ },
+ {
+  "name": "Клапан двухходовой с приводом MDV TWVK09-S",
+  "unit": "компл",
+  "shop": "iclim",
+  "url": "https://iclim.ru/",
+  "price_vat": 16300,
+  "date": "2026-11-03",
+  "note": "второй источник",
+  "vat_included": true
+ },
+ {
+  "name": "Клапан балансировочный Valtec VT.054.N.05 3/4",
+  "unit": "шт",
+  "shop": "tradehousegroup.ru",
+  "url": "https://tradehousegroup.ru/",
+  "price_vat": 1922.61,
+  "date": "2026-11-03",
+  "note": "второй источник",
+  "vat_included": true
+ },
+ {
+  "name": "Кран шаровой Valtec VT.218.N.05 3/4",
+  "unit": "шт",
+  "shop": "tradehousegroup.ru",
+  "url": "https://tradehousegroup.ru/",
+  "price_vat": 740.3,
+  "date": "2026-11-03",
+  "note": "второй источник",
+  "vat_included": true
+ },
+ {
+  "name": "Фанкойл Dantex DF-024UDB/M",
+  "unit": "шт",
+  "shop": "Mircli",
+  "url": "https://mircli.ru/",
+  "price_vat": 77990,
+  "date": "2026-11-03",
+  "note": "второй источник",
+  "vat_included": true
+ }
+]
