@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ТО торгового ХО со встроенным агрегатом, ступень 6–12 ед. на объекте",
+    "unit": "ед/мес",
+    "shop": "СКВ-Климат",
+    "url": "https://www.skv-climat.ru/obsluzhivaniye-kholodil'nogo-oborudovaniya.html",
+    "price_vat": 700,
+    "date": "2026-11-10",
+    "note": "Услуга, не товар. СПб, 8 (812) 980-84-91. НДС на странице не указан: в расчёт лота взято как 700 руб. без НДС. Год магазина = 700 × 12 × 7 ед. типового набора.",
+    "vat_included": false
+  },
+  {
+    "name": "ТО горки или бонеты",
+    "unit": "ед/мес",
+    "shop": "VSHOLOD",
+    "url": "https://vsholod.ru/servis/tekhnicheskoe-obsluzhivanie-oborudovaniya/",
+    "price_vat": 600,
+    "date": "2026-11-10",
+    "note": "Услуга. Новосибирск, в цену лота не бралась: другой регион. НДС на странице не указан.",
+    "vat_included": false
+  },
+  {
+    "name": "ТО холодильного шкафа или витрины",
+    "unit": "ед/мес",
+    "shop": "VSHOLOD",
+    "url": "https://vsholod.ru/servis/tekhnicheskoe-obsluzhivanie-oborudovaniya/",
+    "price_vat": 500,
+    "date": "2026-11-10",
+    "note": "Услуга. Новосибирск, в цену лота не бралась: другой регион. НДС на странице не указан.",
+    "vat_included": false
+  },
+  {
+    "name": "ТО холодильной горки",
+    "unit": "ед/мес",
+    "shop": "ХолодМаркет",
+    "url": "https://coldmarket-tver.ru/services/to.html",
+    "price_vat": 425,
+    "date": "2026-11-10",
+    "note": "Услуга. Тверь, вилка 350–500, взята середина. В цену лота не бралась: другой регион. НДС на странице не указан.",
+    "vat_included": false
+  },
+  {
+    "name": "Нормо-час ремонта рефрижератора",
+    "unit": "ч",
+    "shop": "Рефэксперт",
+    "url": "https://refexpert.ru/ceny-na-raboty-po-remontu-refrizheratorov",
+    "price_vat": 1600,
+    "date": "2026-11-10",
+    "note": "Услуга. СПб, пр. Александровской Фермы, 29. На сайте прямо «без НДС». Аналог: транспортный холод, не горка магазина. Эта ставка взята в час ремонта.",
+    "vat_included": false
+  },
+  {
+    "name": "Нормо-час иных работ по холодильной витрине",
+    "unit": "ч",
+    "shop": "remont178",
+    "url": "https://remont178.ru/remont-holodilnoj-vitriny",
+    "price_vat": 1800,
+    "date": "2026-11-10",
+    "note": "Услуга. СПб и ЛО. НДС на странице не указан. В цену часа не бралась. Ночь на сайте +50% к работе.",
+    "vat_included": false
+  },
+  {
+    "name": "Бензин АИ-95",
+    "unit": "л",
+    "shop": "АЗС Санкт-Петербург, средняя",
+    "url": "https://gdebenzin.net/azs/sankt-peterburg",
+    "price_vat": 72.8,
+    "date": "2026-11-10",
+    "note": "Розница с НДС, средняя по городу на 10.11.2026. В бюджет вошла цена без НДС.",
+    "vat_included": true
+  }
+]
