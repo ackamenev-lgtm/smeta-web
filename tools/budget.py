@@ -31,8 +31,10 @@ PALE = "D6E3F0"
 YELLOW = "FFF2CC"
 GREEN = "E2EFDA"
 ORANGE = "FCE4D6"
+ROSE = "F8CBAD"
 THIN = Border(*[Side(style="thin", color="BFBFBF")] * 4)
 VAT = 1.22
+UNAPPROVED = "нормо-часы, не утверждено"
 
 
 def region_key(name):
@@ -155,9 +157,18 @@ def build(data, out_dir):
             w.setdefault("norm", 0)
             w.setdefault("over", 0)
             w.setdefault("spec", "")
-            print(f"нет в тарификаторе: {w.get('name')} — цена КП {w['kp']}, бригада {w['brig']} (должно быть в JSON)")
         w["qty"] = float(w.get("qty") or 0)
         w["rash_pct"] = rash.get(w["spec"], {}).get("pct", 0)
+        w["unapproved"] = not (w.get("art") and w.get("sec"))
+        if w["unapproved"]:
+            if not w.get("match") or w.get("match") == "точно":
+                w["match"] = "нет в тарификаторе"
+            rate = spr["rates"].get(w.get("spec") or "") or {}
+            w["hour_rate"] = rate.get("h_msk" if reg == "msk" else "h_spb") or 0
+            if not w.get("brig") and w.get("norm") and w["hour_rate"]:
+                w["brig"] = round(float(w["norm"]) * float(w["hour_rate"]))
+        else:
+            w["hour_rate"] = None
         works.append(w)
 
     mats = []
@@ -221,7 +232,18 @@ def build(data, out_dir):
     write_map(map_path, data, works, hours, kp)
     write_letter(letter_path, data, kp)
     write_registry(out_dir, data, cost, kp, mat_ss, mat_kp, brig, work_kp)
+    open_items = [w for w in works if w.get("unapproved")]
+    open_sum = sum((w.get("brig") or 0) * w["qty"] for w in open_items)
     print(f"с/с {cost:,.0f} | КП б/НДС {kp:,.0f} | с НДС {kp * VAT:,.0f} | наценка {markup:.1%}")
+    if open_items:
+        print(f"НЕ УТВЕРЖДЕНО ТАРИФИКАТОРОМ: {len(open_items)} работ, оплата по нормо-часам {open_sum:,.0f} руб. Лист «Добавить в тарификатор».")
+        for w in open_items:
+            calc = (float(w.get("norm") or 0)) * (float(w.get("hour_rate") or 0))
+            print(f"  {w.get('name')} | {w.get('unit')} | {w.get('spec') or 'код не указан'} | "
+                  f"норма {w.get('norm') or '—'} × ставка {w.get('hour_rate') or '—'} = {calc:.0f} | "
+                  f"в бюджете {w.get('brig') or 0} | {w.get('norm_src') or w.get('src') or 'основание не указано'}")
+    else:
+        print("работ вне тарификатора нет")
     lo, hi = tender.get("mk_from") or 0, tender.get("mk_to") or 1
     if markup < 0.15:
         print("наценка ниже 15 % — нужно согласование ГД")
@@ -347,9 +369,13 @@ def write_budget(path, data, works, mats, indirect, reg_name, delivery, growth, 
 
     ww = wb.create_sheet("Работы", 0)
     title(ww, "Работы")
+    ww["A2"] = ("Колонка «Проверка»: «нормо-часы, не утверждено» — расценки в тарификаторе нет, "
+                "оплата бригаде посчитана как норма × ставка часа. Эти строки разобраны на листе «Добавить в тарификатор».")
+    ww["A2"].alignment = Alignment(wrap_text=True)
+    ww.row_dimensions[2].height = 28
     head(ww, 3, ["Артикул", "Позиция ВОР", "Ед.", "Объём", "Метка", "Код", "КП тарифа", "Бригада",
                  "Норма, чел.-ч", "% расходников", "Подтянута", "Оплата бригаде", "Расходники",
-                 "С/с материалов", "Прямая с/с", "Косвенные", "КП работ", "КП за ед."])
+                 "С/с материалов", "Прямая с/с", "Косвенные", "КП работ", "КП за ед.", "Проверка"])
     wend = 3 + max(len(works), 1)
     for i, w in enumerate(works):
         r = 4 + i
@@ -374,7 +400,8 @@ def write_budget(path, data, works, mats, indirect, reg_name, delivery, growth, 
         ww.cell(r, 16, f'=IF(SUM($O$4:$O${wend})=0,0,Косвенные!$C$4*O{r}/SUM($O$4:$O${wend}))')
         ww.cell(r, 17, f"=G{r}*D{r}+P{r}")
         ww.cell(r, 18, f"=IF(D{r}=0,0,Q{r}/D{r})")
-        for c in range(1, 19):
+        ww.cell(r, 19, UNAPPROVED if w.get("unapproved") else "тариф")
+        for c in range(1, 20):
             cell = ww.cell(r, c)
             cell.border = THIN
             cell.alignment = Alignment(wrap_text=True, vertical="center")
@@ -384,8 +411,11 @@ def write_budget(path, data, works, mats, indirect, reg_name, delivery, growth, 
                 cell.number_format = "0%"
         if w["over"] > 0.005:
             ww.cell(r, 11).fill = PatternFill("solid", fgColor=YELLOW)
+        if w.get("unapproved"):
+            for c in (2, 8, 19):
+                ww.cell(r, c).fill = PatternFill("solid", fgColor=ROSE)
         ww.row_dimensions[r].height = 30
-    widths(ww, [12, 42, 8, 12, 14, 8, 12, 12, 12, 12, 12, 16, 14, 16, 14, 14, 14, 12])
+    widths(ww, [12, 42, 8, 12, 14, 8, 12, 12, 12, 12, 12, 16, 14, 16, 14, 14, 14, 12, 28])
 
     ind = wb.create_sheet("Косвенные", 0)
     title(ind, "Косвенные")
@@ -440,6 +470,8 @@ def write_budget(path, data, works, mats, indirect, reg_name, delivery, growth, 
         (20, "Маржа при −10 %", '=IF(B19=0,0,1-B8/B19)', "0.0%"),
         (21, "Минимальная цена, наценка 15 %", "=B8*1.15", "#,##0.00"),
         (22, "Трудоёмкость, чел.-ч", f"=SUMPRODUCT(Работы!I4:I{wend},Работы!D4:D{wend})", "#,##0.00"),
+        (24, "Из оплаты бригадам — по нормо-часам, не утверждено",
+         f'=SUMIF(Работы!S4:S{wend},"{UNAPPROVED}",Работы!L4:L{wend})', "#,##0.00"),
     ]
     if nmck:
         rows.append((23, "КП к НМЦК", '=IF(Параметры!B13=0,0,B11/Параметры!B13-1)', "0.0%"))
@@ -510,22 +542,60 @@ def write_budget(path, data, works, mats, indirect, reg_name, delivery, growth, 
     widths(rk, [6, 40, 16, 36, 40])
 
     ad = wb.create_sheet("Добавить в тарификатор")
-    title(ad, "Добавить в тарификатор")
-    head(ad, 3, ["Работа", "Ед.", "Цена КП", "Оплата бригаде", "Норма, чел.-ч", "Основание"])
-    extra = [(4 + i, w) for i, w in enumerate(works) if not spr_has(w)]
+    title(ad, "Не утверждено тарификатором: оплата по нормо-часам")
+    ad["A2"] = ("Этих работ нет в тарификаторе. Оплата бригаде = норма × ставка часа специальности. "
+                "Жёлтая ставка — ввод: если её поправить, колонка «по нормо-часам» пересчитается. "
+                "В себестоимость попадает колонка «в бюджете». Расхождение — повод проверить расчёт до заявки. "
+                "Заказчику этот лист не передавать.")
+    ad["A2"].alignment = Alignment(wrap_text=True)
+    ad.row_dimensions[2].height = 48
+    head(ad, 3, ["Работа", "Ед.", "Объём", "Код", "Норма, чел.-ч/ед.", "Ставка часа, руб",
+                 "Оплата по нормо-часам, руб/ед.", "Оплата в бюджете, руб/ед.", "Расхождение, руб/ед.",
+                 "Сумма в себестоимости", "Цена КП, руб/ед.", "Основание нормы", "Откуда цена КП", "Статус"])
+    extra = [(4 + i, w) for i, w in enumerate(works) if w.get("unapproved")]
     for n, (src_row, w) in enumerate(extra):
         r = 4 + n
         ad.cell(r, 1, f"=Работы!B{src_row}")
         ad.cell(r, 2, f"=Работы!C{src_row}")
-        ad.cell(r, 3, f"=Работы!G{src_row}")
-        ad.cell(r, 4, f"=Работы!H{src_row}")
+        ad.cell(r, 3, f"=Работы!D{src_row}")
+        ad.cell(r, 4, f"=Работы!F{src_row}")
         ad.cell(r, 5, f"=Работы!I{src_row}")
-        ad.cell(r, 6, w.get("src") or w.get("norm_src"))
-        for c in range(1, 7):
-            ad.cell(r, c).border = THIN
-            if c in (3, 4, 5):
-                ad.cell(r, c).number_format = "#,##0.00"
-    widths(ad, [46, 10, 14, 18, 16, 36])
+        rate_cell = ad.cell(r, 6, w.get("hour_rate") or None)
+        rate_cell.fill = PatternFill("solid", fgColor=YELLOW)
+        ad.cell(r, 7, f'=IF(OR(E{r}="",F{r}="",F{r}=0),"",ROUND(E{r}*F{r},2))')
+        ad.cell(r, 8, f"=Работы!H{src_row}")
+        ad.cell(r, 9, f'=IF(G{r}="","",H{r}-G{r})')
+        ad.cell(r, 10, f"=Работы!L{src_row}")
+        ad.cell(r, 11, f"=Работы!G{src_row}")
+        ad.cell(r, 12, w.get("norm_src") or "")
+        ad.cell(r, 13, w.get("src") or "")
+        ad.cell(r, 14, UNAPPROVED)
+        for c in range(1, 15):
+            cell = ad.cell(r, c)
+            cell.border = THIN
+            cell.alignment = Alignment(wrap_text=True, vertical="center")
+            if c in (3, 5, 6, 7, 8, 9, 10, 11):
+                cell.number_format = "#,##0.00"
+        ad.row_dimensions[r].height = 30
+    total_r = 4 + len(extra)
+    ad.cell(total_r, 1, "Итого в себестоимости").font = Font(bold=True)
+    if extra:
+        total = ad.cell(total_r, 10, f"=SUM(J4:J{total_r - 1})")
+    else:
+        total = ad.cell(total_r, 10, 0)
+        ad.cell(total_r, 14, "таких работ нет")
+    total.font = Font(bold=True)
+    total.number_format = "#,##0.00"
+    total.border = THIN
+    if extra:
+        ad.conditional_formatting.add(
+            f"I4:I{total_r - 1}",
+            CellIsRule(operator="notEqual", formula=["0"],
+                       fill=PatternFill("solid", fgColor=ORANGE)),
+        )
+    ad.auto_filter.ref = f"A3:N{max(total_r - 1, 3)}"
+    ad.sheet_properties.tabColor = ROSE
+    widths(ad, [42, 10, 12, 8, 16, 16, 18, 18, 16, 18, 16, 36, 28, 28])
 
     kpws = wb.create_sheet("КП")
     kpws["A1"] = f"Коммерческое предложение — {data.get('project', '')}"
@@ -610,10 +680,6 @@ def write_budget(path, data, works, mats, indirect, reg_name, delivery, growth, 
         current = wb.sheetnames.index(name)
         wb.move_sheet(name, offset=i - current)
     wb.save(path)
-
-
-def spr_has(w):
-    return bool(w.get("art")) and w.get("sec")
 
 
 def write_kp(path, data, works, mats, kp, turnkey):
