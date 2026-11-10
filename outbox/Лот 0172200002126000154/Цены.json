@@ -1,0 +1,232 @@
+[
+ {
+  "name": "Комплексная система очистки Rainpark OLPSV-15 л/с D2000 H2600",
+  "unit": "шт",
+  "shop": "Дорлоток (lotok-vodootvod.ru)",
+  "url": "https://lotok-vodootvod.ru/kns-los-rezervuari/kompleksnye-sistemy-ochistki-rainpark/kompleksnye-sistemy-ochistki-rainpark-olpsv-400/",
+  "price_vat": 560000,
+  "date": "2026-11-05",
+  "note": "два источника: Дорлоток OLPSV 400-15 / 1000-15 D2000 — 560 000; КА проекта 037-25-2023-КА: КП Стандартпарк №1339 от 17.05.2024 (с НДС 20 %) ÷ 1,2 × индекс КГЗ оборуд. 1,047 × 1,22 = 616 182. Взята меньшая. Запросить КП поставщика",
+  "vat_included": true
+ },
+ {
+  "name": "Труба ПП гофр. двухслойная SN16 OD400",
+  "unit": "м",
+  "shop": "Трубапластик СПб",
+  "url": "https://sankt-peterburg.trubaplastik.ru/catalog/truby/gofrirovannye-truby-diametr/400",
+  "price_vat": 5518.08,
+  "date": "2026-11-05",
+  "note": "в тройке нет; второй: ТСТ Корсис ПРО SN16 400 — 6 096 б/НДС",
+  "vat_included": true
+ },
+ {
+  "name": "Труба ПП гофр. Икапласт SN16 OD200",
+  "unit": "м",
+  "shop": "КомСтрой СПб (прайс 12.03.2026)",
+  "url": "https://comstroy-spb.ru/catalog/kanalizaciya_drenazh/truba_gofrirovannaya_ikaplast/",
+  "price_vat": 1659.67,
+  "date": "2026-11-05",
+  "note": "9 958 ₽ за 6 м; в тройке нет",
+  "vat_included": true
+ },
+ {
+  "name": "Песок природный средний",
+  "unit": "м3",
+  "shop": "М-Бетон",
+  "url": "https://spb.ooombeton.ru/prajs/",
+  "price_vat": 485,
+  "date": "2026-11-05",
+  "note": "M-Бетон, песок средний 2–2,5, без доставки",
+  "vat_included": true
+ },
+ {
+  "name": "Щебень из гравия фр. 20–40",
+  "unit": "м3",
+  "shop": "М-Бетон",
+  "url": "https://spb.ooombeton.ru/prajs/",
+  "price_vat": 2150,
+  "date": "2026-11-05",
+  "note": "аналог: гравий 20–40, без доставки",
+  "vat_included": true
+ },
+ {
+  "name": "Эмульсия битумная ЭБДК Б-50 (подгрунтовка)",
+  "unit": "т",
+  "shop": "ABZ-GROUP",
+  "url": "https://abz-group.ru/prajs-list/",
+  "price_vat": 24000,
+  "date": "2026-11-05",
+  "note": "аналог битума БНД",
+  "vat_included": true
+ },
+ {
+  "name": "А/б смесь к/з плотная тип Б марка 1",
+  "unit": "т",
+  "shop": "ABZ-GROUP",
+  "url": "https://abz-group.ru/prajs-list/",
+  "price_vat": 3680,
+  "date": "2026-11-05",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "А/б смесь м/з плотная тип Б марка 1",
+  "unit": "т",
+  "shop": "ABZ-GROUP",
+  "url": "https://abz-group.ru/prajs-list/",
+  "price_vat": 3810,
+  "date": "2026-11-05",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Бетон В7,5 М100",
+  "unit": "м3",
+  "shop": "М-Бетон",
+  "url": "https://spb.ooombeton.ru/prajs/",
+  "price_vat": 4050,
+  "date": "2026-11-05",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Бетон В7,5 М100 (замоноличивание)",
+  "unit": "м3",
+  "shop": "М-Бетон",
+  "url": "https://spb.ooombeton.ru/prajs/",
+  "price_vat": 4050,
+  "date": "2026-11-05",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Бетон В12,5 М150 (сульфатостойкий по смете)",
+  "unit": "м3",
+  "shop": "М-Бетон",
+  "url": "https://spb.ooombeton.ru/prajs/",
+  "price_vat": 4175,
+  "date": "2026-11-05",
+  "note": "аналог: гравийный В12,5; сульфатостойкий цемент уточнить",
+  "vat_included": true
+ },
+ {
+  "name": "Бетон В12,5 М150",
+  "unit": "м3",
+  "shop": "М-Бетон",
+  "url": "https://spb.ooombeton.ru/prajs/",
+  "price_vat": 4175,
+  "date": "2026-11-05",
+  "note": "аналог",
+  "vat_included": true
+ },
+ {
+  "name": "Бетон гидротехнический В25 W10 F200 (сульфатостойкий по смете)",
+  "unit": "м3",
+  "shop": "М-Бетон",
+  "url": "https://spb.ooombeton.ru/prajs/",
+  "price_vat": 4910,
+  "date": "2026-11-05",
+  "note": "аналог; сульфатостойкий цемент уточнить",
+  "vat_included": true
+ },
+ {
+  "name": "Арматура А500С d12",
+  "unit": "т",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/catalog/12107/armatura-12-mm/",
+  "price_vat": 97864.08,
+  "date": "2026-11-05",
+  "note": "252 ₽ за пруток 2,9 м (2,575 кг)",
+  "vat_included": true
+ },
+ {
+  "name": "Арматура А240 d6–22",
+  "unit": "т",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/catalog/12107/armatura-12-mm/",
+  "price_vat": 97864.08,
+  "date": "2026-11-05",
+  "note": "аналог цены А500С",
+  "vat_included": true
+ },
+ {
+  "name": "Геотекстиль иглопробивной 200 г/м2",
+  "unit": "м2",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/catalog/21750/geotekstil-200g-m2/",
+  "price_vat": 62.7,
+  "date": "2026-11-05",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Днище ПН10 d1000",
+  "unit": "шт",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/catalog/812/",
+  "price_vat": 4263,
+  "date": "2026-11-05",
+  "note": "смета п.13: 0,36 м3",
+  "vat_included": true
+ },
+ {
+  "name": "Кольцо КС10.9",
+  "unit": "шт",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/catalog/812/",
+  "price_vat": 5730,
+  "date": "2026-11-05",
+  "note": "1,78 м = 2 шт",
+  "vat_included": true
+ },
+ {
+  "name": "Плита перекрытия ПП10",
+  "unit": "шт",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/catalog/812/",
+  "price_vat": 4190,
+  "date": "2026-11-05",
+  "note": "0,2 м3 = 2 шт",
+  "vat_included": true
+ },
+ {
+  "name": "Кольцо опорное КО-6",
+  "unit": "шт",
+  "shop": "Петрович",
+  "url": "https://petrovich.ru/catalog/812/",
+  "price_vat": 799,
+  "date": "2026-11-05",
+  "note": "0,08 м3 = 4 шт",
+  "vat_included": true
+ },
+ {
+  "name": "Люк чугунный тяжёлый Т(С250) d600",
+  "unit": "шт",
+  "shop": "ЛЮК СПБ.РФ",
+  "url": "https://xn--90arcrj0f.xn--p1ai/product/lyuk-chugunnyj-tyazhyolyj-t-s250-tip-k/",
+  "price_vat": 6200,
+  "date": "2026-11-05",
+  "note": "второй: ПРОФИТ 812 — 8 880",
+  "vat_included": true
+ },
+ {
+  "name": "Камень бортовой БР100.30.15",
+  "unit": "шт",
+  "shop": "ПСК «Стандарт»",
+  "url": "https://plitka-asfalt.ru/izdeliya/bordyury/dorozhnyij.html",
+  "price_vat": 370,
+  "date": "2026-11-05",
+  "note": "в Петровиче нет; второй: Выбор-СПб 750, Монолит-ЖБИ 600",
+  "vat_included": true
+ },
+ {
+  "name": "Ворота распашные из сварной сетки 2000×4500",
+  "unit": "компл",
+  "shop": "F24 (завод)",
+  "url": "https://f24.su/catalog/vorota/",
+  "price_vat": 73703,
+  "date": "2026-11-05",
+  "note": "второй: Русская свая — от 28 800 (размер не указан). Запросить КП",
+  "vat_included": true
+ }
+]
