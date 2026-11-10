@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Кабель ВВГнг(А)-LS 5х2,5",
+    "unit": "м",
+    "shop": "Петрович",
+    "url": "https://petrovich.ru/product/1150855/",
+    "price_vat": 225,
+    "date": "2026-11-02",
+    "note": "барабан Кабэкс, цена без карты; с картой 218",
+    "vat_included": true
+  },
+  {
+    "name": "Кабель ВВГнг(А)-LS 5х2,5",
+    "unit": "м",
+    "shop": "Лемана ПРО",
+    "url": "https://spb.lemanapro.ru/catalogue/silovye-kabeli/vvg-5x2-5-mm-gost/",
+    "price_vat": 312,
+    "date": "2026-11-02",
+    "note": "отрез, не в закупку: дороже Петровича",
+    "vat_included": true
+  },
+  {
+    "name": "Кабель ВВГнг(А)-LS 5х2,5",
+    "unit": "м",
+    "shop": "ЭТМ",
+    "url": "https://www.etm.ru/cat/nn/9382833",
+    "price_vat": 198.7,
+    "date": "2026-11-02",
+    "note": "Элкаб. Не в закупку: Петрович эту позицию продаёт",
+    "vat_included": true
+  },
+  {
+    "name": "Труба гладкая ПВХ DKC 25 мм УФ 3 м",
+    "unit": "шт",
+    "shop": "Петроэлектро",
+    "url": "https://petromelectro.ru/brands/dkc/plastikovaya-truba-dlya-elektroprovodki/",
+    "price_vat": 242.04,
+    "date": "2026-11-02",
+    "note": "63925UF, 80,68 ₽/м. В Петровиче карточка есть, цена не открылась. оценка относительно тройки",
+    "vat_included": true
+  },
+  {
+    "name": "Клипса DKC 25 мм, упаковка 100 шт",
+    "unit": "упак",
+    "shop": "Петрович",
+    "url": "https://petrovich.ru/product/660834/",
+    "price_vat": 824,
+    "date": "2026-11-02",
+    "note": "без карты, с картой 800",
+    "vat_included": true
+  },
+  {
+    "name": "Коробка OBO T100 IP66 150x116x67 с вводами",
+    "unit": "шт",
+    "shop": "Proff Electro",
+    "url": "https://proff-electro.ru/catalog/13/sub_174/EC002600/169151/",
+    "price_vat": 459,
+    "date": "2026-11-02",
+    "note": "артикул 2007077",
+    "vat_included": true
+  },
+  {
+    "name": "Пена огнезащитная DKC DF1201 740 мл",
+    "unit": "шт",
+    "shop": "DKC",
+    "url": "https://dkc.com.ru/ognestoykie-resheniya/",
+    "price_vat": 2934.83,
+    "date": "2026-11-02",
+    "note": "прайс с НДС 22 %",
+    "vat_included": true
+  },
+  {
+    "name": "Щит EKF ЩРН-24 металл IP31",
+    "unit": "шт",
+    "shop": "Петрович",
+    "url": "https://moscow.petrovich.ru/catalog/175966934/raspredelitelnye-schity-navesnye-metallicheskie/",
+    "price_vat": 2203,
+    "date": "2026-11-02",
+    "note": "без карты, с картой 2139. IP в ТЗ не задан",
+    "vat_included": true
+  },
+  {
+    "name": "Автомат Chint NXB-63 3P 32А 6кА",
+    "unit": "шт",
+    "shop": "Хай Вольт",
+    "url": "https://hi-volt.ru/catalog/avtomaty/chint/nxb-63/",
+    "price_vat": 849.58,
+    "date": "2026-11-02",
+    "note": "77volt 865,61",
+    "vat_included": true
+  },
+  {
+    "name": "Автомат Chint NXB-63 3P 16А 6кА",
+    "unit": "шт",
+    "shop": "Хай Вольт",
+    "url": "https://hi-volt.ru/catalog/avtomaty/chint/nxb-63/",
+    "price_vat": 819.01,
+    "date": "2026-11-02",
+    "note": "77volt 834,48",
+    "vat_included": true
+  },
+  {
+    "name": "Автомат Chint NXB-63 1P 6А 6кА",
+    "unit": "шт",
+    "shop": "Хай Вольт",
+    "url": "https://hi-volt.ru/catalog/avtomaty/chint/nxb-63/",
+    "price_vat": 248.48,
+    "date": "2026-11-02",
+    "note": "814012",
+    "vat_included": true
+  },
+  {
+    "name": "Контактор Chint NC1-2510 3P 25А",
+    "unit": "шт",
+    "shop": "БОНПЕТ",
+    "url": "https://bonpet.tech/nizkovoltnye-izdeliya/kommutaciya/kontaktory-rele/silovye-kontaktory",
+    "price_vat": 2416,
+    "date": "2026-11-02",
+    "note": "оценка соответствия: в ТЗ DIN 3P 20А",
+    "vat_included": true
+  },
+  {
+    "name": "Реле F&F PCZ-527",
+    "unit": "шт",
+    "shop": "F&F эксперт",
+    "url": "https://ff-expert.ru/p/astronomicheskoe-rele-vremeni-evroavtomatika-ff-pcz-527",
+    "price_vat": 5682,
+    "date": "2026-11-02",
+    "note": "electrical.ru 7099 с НДС",
+    "vat_included": true
+  },
+  {
+    "name": "Светильник PromLED Плазма 600 X Оптима 4000К 120",
+    "unit": "шт",
+    "shop": "PromLED",
+    "url": "https://promled.shop/category/plazma-x/",
+    "price_vat": 86000,
+    "date": "2026-11-02",
+    "note": "Опора 24 та же цена 86000. НДС в витрине принят включённым. Запросить КП завода",
+    "vat_included": true
+  },
+  {
+    "name": "Профиль монтажный перфорированный 38х40х2000х1,2",
+    "unit": "шт",
+    "shop": "Петрович",
+    "url": "https://petrovich.ru/catalog/285396989/profili-montazhnye/",
+    "price_vat": 762,
+    "date": "2026-11-02",
+    "note": "хлыст 2 м без карты, с картой 739. Длина рамы — оценка",
+    "vat_included": true
+  },
+  {
+    "name": "Аренда автовышки 18 м смена",
+    "unit": "смена",
+    "shop": "КВ",
+    "url": "https://kv-ooo.ru/product/avtovyshki/avtovyshki-18-m/",
+    "price_vat": 16000,
+    "date": "2026-11-02",
+    "note": "Стройт 17800. Число смен — оценка",
+    "vat_included": true
+  }
+]
