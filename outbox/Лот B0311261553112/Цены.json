@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Светильник LED Effect СТРУНА 24Вт 2500лм 5000К IP65 с БАП 1ч",
+    "unit": "шт",
+    "shop": "ЭКС",
+    "url": "https://www.elektro.ru/product/svetilnik_struna_opal_blok_avariynogo_pitaniya_637kh76kh164mm_le-spp-26-024-1006-65khle0274/",
+    "price_vat": 14605,
+    "date": "2026-11-10",
+    "note": "в Петровиче, Лемана ПРО и Сатурне нет; вторая цена ShopLEDs 14 605",
+    "vat_included": true
+  },
+  {
+    "name": "Светильник LED Effect СТРУНА 24Вт 2500лм 5000К IP65 без БАП",
+    "unit": "шт",
+    "shop": "FCBN",
+    "url": "http://www.fcbn.ru/struna-24-vt-5000k-opal",
+    "price_vat": 4500,
+    "date": "2026-11-10",
+    "note": "в тройке магазинов нет; розница Spektr-Sveta 4 830",
+    "vat_included": true
+  },
+  {
+    "name": "Светильник Enercom FL-WA-40-M",
+    "unit": "шт",
+    "shop": "ledcomplex.ru",
+    "url": "https://ledcomplex.ru/info/brand/enercom/",
+    "price_vat": 17700,
+    "date": "2026-11-10",
+    "note": "оценка: точной цены FL-WA-40-M нет, аналог NR-SLW-40 17 700 ₽. Запросить КП Энерком",
+    "vat_included": true
+  },
+  {
+    "name": "Выключатель ЭРА Эксперт 11160103 IP65",
+    "unit": "шт",
+    "shop": "electric-spb.com",
+    "url": "https://electric-spb.com/element-vyklyuchatel-1-kl-op-era-ekspert-10a-ip65-11-1601-03/",
+    "price_vat": 1226.1,
+    "date": "2026-11-10",
+    "note": "СПб; вторая цена elcn только после входа",
+    "vat_included": true
+  },
+  {
+    "name": "Переключатель ЭРА Эксперт 11160303 IP65",
+    "unit": "шт",
+    "shop": "elcn.ru",
+    "url": "https://www.elcn.ru/catalog/product/101207/",
+    "price_vat": 1220.35,
+    "date": "2026-11-10",
+    "note": "один открытый источник",
+    "vat_included": true
+  },
+  {
+    "name": "Труба алюминиевая D20×2",
+    "unit": "м",
+    "shop": "Фортис Металл СПб",
+    "url": "https://spb.fortis-steel.ru/produkciya/trubnyy-prokat/",
+    "price_vat": 181,
+    "date": "2026-11-10",
+    "note": "в тройке нет; второй источник 162,50 за стенку 1,5 мм, не взята",
+    "vat_included": true
+  },
+  {
+    "name": "Труба нержавеющая AISI 304 D20×2",
+    "unit": "м",
+    "shop": "Снабтехмет СПб",
+    "url": "https://spb.snabtechmet.ru/catalog/truby-nerzhaveyushchie/kruglaya/truba-kruglaya-nerzhaveyushchaya/aisi_304/",
+    "price_vat": 362,
+    "date": "2026-11-10",
+    "note": "в тройке нет; Фортис 362–364",
+    "vat_included": true
+  },
+  {
+    "name": "Корпус щита AISI 304 600×400×250 IP66 DKC R5CEB06491",
+    "unit": "шт",
+    "shop": "iautomatica.ru",
+    "url": "https://www.iautomatica.ru/catalog-dkc/korpusa-navesnye-ce-iz-nerzhaveyushchey-stali/navesnoy-shkaf-ce-iz-nerzhaveyushchey-stali-aisi-304-600-x-400-x-250mm-bez-flantsa/",
+    "price_vat": 36835,
+    "date": "2026-11-10",
+    "note": "в тройке нет; цена с НДС. У g-kabel 28 362 без явного НДС, не взята",
+    "vat_included": true
+  },
+  {
+    "name": "Автомат Systeme Electric 3P 25А C9F34325",
+    "unit": "шт",
+    "shop": "online.el-com.ru",
+    "url": "https://online.el-com.ru/product/61d0396e-c8f3-11ed-b7f5-005056014a4b",
+    "price_vat": 1342.92,
+    "date": "2026-11-10",
+    "note": "розница proff-electro 1 580. Марка по примечанию ведомости, в ТЗ написано CNC",
+    "vat_included": true
+  },
+  {
+    "name": "Автомат Systeme Electric 1P 10А C9F34110",
+    "unit": "шт",
+    "shop": "ЭТМ",
+    "url": "https://www.etm.ru/cat/nn/2912764",
+    "price_vat": 348.44,
+    "date": "2026-11-10",
+    "note": "оценка количества: 6 групп до чтения схемы",
+    "vat_included": true
+  },
+  {
+    "name": "Кабель ВВГнг(А)-LS 5х6",
+    "unit": "м",
+    "shop": "ЭТМ",
+    "url": "https://www.etm.ru/cat/nn/2111935",
+    "price_vat": 475.92,
+    "date": "2026-11-10",
+    "note": "Петрович 570 ₽/м, взята меньшая ЭТМ",
+    "vat_included": true
+  },
+  {
+    "name": "Коробка DKC 85×85 IP55",
+    "unit": "шт",
+    "shop": "Хай Вольт",
+    "url": "https://hi-volt.ru/catalog/product/567684/",
+    "price_vat": 210.16,
+    "date": "2026-11-10",
+    "note": "оценка: в ведомости IP65, открытая цена IP55. Розница рядом — Петрович 100×100 IP55 246 ₽",
+    "vat_included": true
+  },
+  {
+    "name": "Лоток сетчатый нерж. 50×50",
+    "unit": "м",
+    "shop": "electroguru.ru",
+    "url": "https://electroguru.ru/provolochnyj-lotok/lider/plln-inox/790842/",
+    "price_vat": 1161,
+    "date": "2026-11-10",
+    "note": "в тройке нет; вторая цена 1 160,96",
+    "vat_included": true
+  },
+  {
+    "name": "Кабель ВВГнг(А)-LS 5х1,5",
+    "unit": "м",
+    "shop": "ЭТМ",
+    "url": "https://www.etm.ru/cat/nn/3504948",
+    "price_vat": 146.17,
+    "date": "2026-11-10",
+    "note": "Петрович 174 ₽/м",
+    "vat_included": true
+  },
+  {
+    "name": "Кабель ВВГнг(А)-LS 3х1,5",
+    "unit": "м",
+    "shop": "Петрович",
+    "url": "https://petrovich.ru/product/103085/",
+    "price_vat": 88,
+    "date": "2026-11-10",
+    "note": "ЭТМ 96,45 дороже, взята цена Петровича",
+    "vat_included": true
+  }
+]
