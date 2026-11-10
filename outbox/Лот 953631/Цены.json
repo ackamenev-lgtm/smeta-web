@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Линолеум Tarkett Force Canasta 4, 33 класс, КМ2",
+    "unit": "м2",
+    "shop": "spb-carpet",
+    "url": "https://spb-carpet.ru/index.php?product_id=9470&route=product%2Fproduct",
+    "price_vat": 727,
+    "date": "2026-10-29",
+    "note": "КМ2, ширина 3–4 м",
+    "vat_included": true
+  },
+  {
+    "name": "Линолеум Tarkett Force Canasta 4, 33 класс, КМ2",
+    "unit": "м2",
+    "shop": "Ундхаус",
+    "url": "https://www.undhaus.ru/catalog/linoleum/tarkett/force",
+    "price_vat": 797,
+    "date": "2026-10-29",
+    "note": "ширина 3 м; пожарная строка на сайте Г2 В3 РП1 Д2 Т2",
+    "vat_included": true
+  },
+  {
+    "name": "Линолеум Tarkett Force Canasta 4, 33 класс, КМ2",
+    "unit": "м2",
+    "shop": "Петрович СПб",
+    "url": "https://petrovich.ru/catalog/1548/linoleum-33-klass/",
+    "price_vat": 919.99,
+    "date": "2026-10-29",
+    "note": "с картой 919,99, без карты 928,99; 1 пог. м ширины 3 м = 3 м2, цена читается как руб/м2",
+    "vat_included": true
+  },
+  {
+    "name": "Линолеум Tarkett Force Canasta 4, рулон",
+    "unit": "м2",
+    "shop": "СТМ СПб",
+    "url": "https://www.stm-spb.ru/catalog/linoleum/linoleum_polukommercheskiy/polukommercheskiy_na_vspenennoy_osnove/linoleum_forse_force_tarkett/linoleum_forse_force_kanasta_4_canasta_4.html",
+    "price_vat": 780,
+    "date": "2026-10-29",
+    "note": "целый рулон 3 м; отрез 950 руб/м2",
+    "vat_included": true
+  },
+  {
+    "name": "Оконный блок стеклопластик, изделие",
+    "unit": "м2",
+    "shop": "Стеклокомпозит",
+    "url": "https://www.steklokompozit.ru/okna-steklokompozit-cena/",
+    "price_vat": 12750,
+    "date": "2026-10-29",
+    "note": "оценка: 26 775 / 2,10 м2, стандартный СП, дата прайса на странице не указана",
+    "vat_included": true
+  },
+  {
+    "name": "Оконный блок стеклопластик под ключ",
+    "unit": "м2",
+    "shop": "Окна Титан СПб",
+    "url": "https://oknatitan.ru/stekloplastikovye-okna.html",
+    "price_vat": 18500,
+    "date": "2026-10-29",
+    "note": "с монтажом, откосами и подоконником, в закупку изделия не бралось",
+    "vat_included": true
+  },
+  {
+    "name": "Клей Homakoll 248, 14 кг",
+    "unit": "шт",
+    "shop": "Напол СПб",
+    "url": "https://napolspb.ru/sredstva-for-floor/klei-parket/khomakol/kley-dlya-pvkh-khomakol-248---14-kg",
+    "price_vat": 5510,
+    "date": "2026-10-29",
+    "note": "расход 350 г/м2",
+    "vat_included": true
+  },
+  {
+    "name": "Клей Homakoll 248, 14 кг",
+    "unit": "шт",
+    "shop": "Петрович СПб",
+    "url": "https://petrovich.ru/product/675757/",
+    "price_vat": 5626,
+    "date": "2026-10-29",
+    "note": "без карты 5 823",
+    "vat_included": true
+  },
+  {
+    "name": "Шпаклёвка weber.vetonit LR+ 20 кг",
+    "unit": "шт",
+    "shop": "Петрович СПб",
+    "url": "https://petrovich.ru/product/662749/",
+    "price_vat": 1109,
+    "date": "2026-10-29",
+    "note": "расход 1,2 кг/м2/мм",
+    "vat_included": true
+  },
+  {
+    "name": "Шпаклёвка weber.vetonit LR+ 20 кг",
+    "unit": "шт",
+    "shop": "БМС",
+    "url": "https://www.bmskirov.ru/catalog/stroitelnye_materialy/smesi_stroitelnye/stroitelnye_smesi_weber/485575/",
+    "price_vat": 1211.4,
+    "date": "2026-10-29",
+    "note": "Киров, второй источник",
+    "vat_included": true
+  },
+  {
+    "name": "Краска Finncolor Oasis Hall&Office белая 0,9 л",
+    "unit": "шт",
+    "shop": "Яндекс Маркет",
+    "url": "https://market.yandex.ru/category/kraski-oasis-dlya-sten-i-potolkov",
+    "price_vat": 583,
+    "date": "2026-10-29",
+    "note": "",
+    "vat_included": true
+  },
+  {
+    "name": "Краска Finncolor Oasis Hall&Office белая 9 л",
+    "unit": "шт",
+    "shop": "Лемана ПРО СПб",
+    "url": "https://spb.lemanapro.ru/brands/finncolor/",
+    "price_vat": 4407,
+    "date": "2026-10-29",
+    "note": "489,67 руб/л, банка больше расхода откосов",
+    "vat_included": true
+  },
+  {
+    "name": "Грунтовка Ceresit CT 17, 10 л",
+    "unit": "шт",
+    "shop": "Лемана ПРО",
+    "url": "https://lemanapro.ru/product/gruntovka-ceresit-ct17-transparent-glubokogo-proniknoveniya-morozostoykaya-10-l-89398668/",
+    "price_vat": 1367,
+    "date": "2026-10-29",
+    "note": "витрина Москвы, 136,70 руб/л",
+    "vat_included": true
+  },
+  {
+    "name": "Подоконник ПВХ 400×2000×20",
+    "unit": "шт",
+    "shop": "Петрович СПб",
+    "url": "https://petrovich.ru/catalog/10053/",
+    "price_vat": 1214,
+    "date": "2026-10-29",
+    "note": "",
+    "vat_included": true
+  },
+  {
+    "name": "ГКЛ Knauf 12,5 мм 2500×1200",
+    "unit": "шт",
+    "shop": "Лемана ПРО СПб",
+    "url": "https://sankt-peterburg.stroyportal.ru/catalog/price-gsp-knauf-152729/",
+    "price_vat": 527,
+    "date": "2026-04-15",
+    "note": "старше 45 дней",
+    "vat_included": true
+  },
+  {
+    "name": "Шнур сварочный линолеума",
+    "unit": "м",
+    "shop": "Петрович СПб",
+    "url": "https://petrovich.ru/catalog/1547/tarkett/",
+    "price_vat": 85,
+    "date": "2026-10-29",
+    "note": "витрина 85 и 88,96",
+    "vat_included": true
+  },
+  {
+    "name": "Вывоз мусора Газель 3 м3 + погрузка 4 этаж",
+    "unit": "рейс",
+    "shop": "vyvoz-musora.su",
+    "url": "https://vyvoz-musora.su/price/",
+    "price_vat": 4530,
+    "date": "2026-10-29",
+    "note": "2390+2140",
+    "vat_included": true
+  },
+  {
+    "name": "Вывоз мусора Газель 3 м3 + погрузка 4 этаж",
+    "unit": "рейс",
+    "shop": "vyvoz-musor.com",
+    "url": "https://vyvoz-musor.com/services/vyvoz-stroitelnogo-musora/",
+    "price_vat": 4550,
+    "date": "2026-10-29",
+    "note": "2400+2150",
+    "vat_included": true
+  }
+]
