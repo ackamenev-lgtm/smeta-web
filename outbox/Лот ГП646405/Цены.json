@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Шпаклёвка полимерная финишная Боларс Super",
+    "unit": "кг",
+    "shop": "Петрович",
+    "url": "https://moscow.petrovich.ru/product/681691/",
+    "price_vat": 38.0,
+    "date": "2026-11-01",
+    "note": "расход как у комплекта 8.2.38, 1,2 кг/м2; у 8.3.7 комплекта нет",
+    "vat_included": true
+  },
+  {
+    "name": "Грунт Церезит CT17 PRO",
+    "unit": "л",
+    "shop": "Петрович",
+    "url": "https://moscow.petrovich.ru/catalog/6615/cerezit/",
+    "price_vat": 143.8,
+    "date": "2026-11-01",
+    "note": "грунт комплекта шпаклёвки 0,15 л/м2",
+    "vat_included": true
+  },
+  {
+    "name": "Краска Tikkurila Euro Power 7 белая",
+    "unit": "л",
+    "shop": "Петрович",
+    "url": "https://moscow.petrovich.ru/product/103964/",
+    "price_vat": 855.2222,
+    "date": "2026-11-01",
+    "note": "оценка: 7 697 руб. за 9 л с витрины каталога, карточка товара целиком не открылась; расход 0,3 л/м2 как у 8.2.34, два слоя",
+    "vat_included": true
+  },
+  {
+    "name": "Ровнитель Weber Vetonit 3000",
+    "unit": "кг",
+    "shop": "Петрович",
+    "url": "https://moscow.petrovich.ru/product/148490/",
+    "price_vat": 69.0,
+    "date": "2026-11-01",
+    "note": "расход производителя 1,5 кг/м2/мм; толщина 5 мм — верх слоя продукта и комплекта 7.2.16, в ТЗ толщина не задана",
+    "vat_included": true
+  },
+  {
+    "name": "Грунт Церезит CT17 PRO под ровнитель",
+    "unit": "л",
+    "shop": "Петрович",
+    "url": "https://moscow.petrovich.ru/catalog/6615/cerezit/",
+    "price_vat": 143.8,
+    "date": "2026-11-01",
+    "note": "комплект 7.2.16, 0,2 л/м2",
+    "vat_included": true
+  },
+  {
+    "name": "Демпферная лента",
+    "unit": "м",
+    "shop": "оценка",
+    "url": "",
+    "price_vat": 50,
+    "date": "2026-11-01",
+    "note": "оценка 50 руб/м: открытой цены на дату расчёта нет; расход 0,4 м/м2 из комплекта 7.2.16",
+    "vat_included": true
+  },
+  {
+    "name": "Грунтовка эпоксидная QTP 1000",
+    "unit": "кг",
+    "shop": "МПКМ",
+    "url": "https://mpkm.org/gruntovka/qtp-1000/",
+    "price_vat": 1423.3607,
+    "date": "2026-11-01",
+    "note": "в Петровиче, Лемана ПРО и Сатурне нет; прайс производителя по запросу. Расход 0,30 кг/м2 × 26,72 = 8,0 кг, куплено комплектом 24,4 кг. Запросить КП",
+    "vat_included": true
+  },
+  {
+    "name": "Sikafloor-263 SL комплект A+B",
+    "unit": "кг",
+    "shop": "МПКМ",
+    "url": "https://mpkm.org/polimernye-poly/sikafloor-263-sl/",
+    "price_vat": 4375.0,
+    "date": "2026-11-01",
+    "note": "цена без скидки 87 500 руб. за 20 кг. Смола 1,15 кг/м2 при слое 1 мм по техкарте (нижняя граница). Нужно 30,7 кг, закупка 2×20 кг. Наполнитель Sikafloor Filler 1 отдельно не оценён. Второй открытый источник не подтверждён. Запросить КП",
+    "vat_included": true
+  },
+  {
+    "name": "Финишный эпоксидный состав RAL 9003",
+    "unit": "кг",
+    "shop": "оценка по цене Sikafloor-263",
+    "url": "https://mpkm.org/polimernye-poly/sikafloor-263-sl/",
+    "price_vat": 4375.0,
+    "date": "2026-11-01",
+    "note": "оценка: прайс QTP на финиш RAL 9003 только «по запросу». Цена кг принята равной подтверждённой цене Sikafloor-263. Расход 0,3 кг/м2 — оценка одного окрасочного слоя. Фасовка не известна. Запросить КП",
+    "vat_included": true
+  },
+  {
+    "name": "Лист ПВХ вспененный белый 3 мм (аналог 3050×1560)",
+    "unit": "м2",
+    "shop": "Ремэкс",
+    "url": "https://www.remex.ru/collection/vspenennyi-pvx",
+    "price_vat": 754.5187,
+    "date": "2026-11-01",
+    "note": "точного листа 3000×1500×3 в открытом прайсе нет. Аналог Unext Strong 3050×1560×3, 3 590 руб/лист, 8 листов на 34 м2. В тройке магазинов не найден",
+    "vat_included": true
+  },
+  {
+    "name": "Клей монтажный для листов ПВХ",
+    "unit": "кг",
+    "shop": "оценка",
+    "url": "",
+    "price_vat": 280,
+    "date": "2026-11-01",
+    "note": "оценка расхода 0,3 кг/м2 и цены 280 руб/кг: открытой нормы и цены нет",
+    "vat_included": true
+  },
+  {
+    "name": "Плинтус МДФ белый 100×16×2400 Cosca Decor AP77",
+    "unit": "шт",
+    "shop": "Лемана ПРО",
+    "url": "https://spb.lemanapro.ru/product/plintus-pod-pokrasku-cosca-decor-ap77-belyy-100x16x2400-mm-mdf-s-pazom-92904532/",
+    "price_vat": 990,
+    "date": "2026-11-01",
+    "note": "оценка переноса: цена Санкт-Петербурга, московская карточка того же артикула не открылась. 11 шт на 25 м.п.",
+    "vat_included": true
+  },
+  {
+    "name": "Розетка скрытая с заземлением, средний сегмент",
+    "unit": "шт",
+    "shop": "оценка",
+    "url": "",
+    "price_vat": 450,
+    "date": "2026-11-01",
+    "note": "марка не задана. Оценка 450 руб. среднего сегмента, страница магазина не зафиксирована. Подрозетник при замене не меняем",
+    "vat_included": true
+  },
+  {
+    "name": "Выключатель одноклавишный скрытый, средний сегмент",
+    "unit": "шт",
+    "shop": "оценка",
+    "url": "",
+    "price_vat": 380,
+    "date": "2026-11-01",
+    "note": "число клавиш не задано. Оценка 380 руб.",
+    "vat_included": true
+  },
+  {
+    "name": "Светильник LED встраиваемый круглый 300 мм, аналог диаметра 320 мм",
+    "unit": "шт",
+    "shop": "Terra LED",
+    "url": "https://terra-led.ru/wolta/svetodiodnyy-svetilnik-wolta-led-dlus-ultratonkiy-vstraivaemyy-24w-4000k-6000k-1800lm-300x13-mm/",
+    "price_vat": 675,
+    "date": "2026-11-01",
+    "note": "точного диаметра 320 мм нет. Аналог Wolta DLUS 300 мм, 675 руб. Оборудование, запросить КП поставщика",
+    "vat_included": true
+  },
+  {
+    "name": "Шинопровод трековый Gauss TR101 белый 1 м",
+    "unit": "м",
+    "shop": "Gauss",
+    "url": "https://gauss-shop.ru/internet-magazin/product/shinoprovod-gauss-nakladnoj-1m-belyj-s-adapterom-pitaniya-i-zaglushkoj-tr101",
+    "price_vat": 611,
+    "date": "2026-11-01",
+    "note": "минимальная из открытых: Gauss 611 руб/м и Denkirs 950 руб/м. В тройке магазинов нет. Запросить КП",
+    "vat_included": true
+  },
+  {
+    "name": "Трековый светильник Feron AL141 10 Вт белый",
+    "unit": "шт",
+    "shop": "Feron",
+    "url": "https://msk.shop.feron.ru/catalog/trekovye_led_svetilniki_odnofaznye/svetodiodnyy_svetilnik_feron_one_al141_trekovyy_odnofaznyy_na_shinoprovod_10w_4000k_35_gradusov_bely/",
+    "price_vat": 340,
+    "date": "2026-11-01",
+    "note": "мощность в ТЗ не задана, принят 10 Вт. Второй источник Navigator NLT-T1 10 Вт 616,82 руб. Запросить КП",
+    "vat_included": true
+  },
+  {
+    "name": "Дверь алюминиевая со стеклом, оценка 900×2100",
+    "unit": "шт",
+    "shop": "Ваши двери",
+    "url": "https://vashidveri.com/magazin/product/alyuminievaya-dver-no2",
+    "price_vat": 23058.0,
+    "date": "2026-11-01",
+    "note": "оценка: размер не задан, принят 900×2100 = 1,89 м2. Цена 12 200 руб/м2 за триплекс 8 мм, не за 5+5. Замок в цене страницы не выделен. Запросить КП производителя",
+    "vat_included": true
+  },
+  {
+    "name": "Плёнка матовая белая на стекло",
+    "unit": "м2",
+    "shop": "оценка",
+    "url": "https://tonirovka-okna.ru/matovaya-dekorativnaya-plenka-dm-50-belaya.html",
+    "price_vat": 400,
+    "date": "2026-11-01",
+    "note": "оценка 400 руб/м2 только материал. Открытые цены Москвы 650–900 руб/м2 уже с монтажом, их в материал не ставим: работа есть в 12.2.8",
+    "vat_included": true
+  },
+  {
+    "name": "Фанера ФК 18 мм",
+    "unit": "лист",
+    "shop": "оценка",
+    "url": "",
+    "price_vat": 2100,
+    "date": "2026-11-01",
+    "note": "оценка цены листа. Площадь полосы 0,6 м2, покупается 1 лист",
+    "vat_included": true
+  },
+  {
+    "name": "ГКЛ 12,5 мм",
+    "unit": "лист",
+    "shop": "оценка",
+    "url": "",
+    "price_vat": 550,
+    "date": "2026-11-01",
+    "note": "оценка цены листа на площадь полосы 0,6 м2",
+    "vat_included": true
+  },
+  {
+    "name": "Ремонтный состав для приямков",
+    "unit": "кг",
+    "shop": "оценка",
+    "url": "",
+    "price_vat": 90,
+    "date": "2026-11-01",
+    "note": "оценка 5 кг на приямок при неизвестной глубине, 90 руб/кг",
+    "vat_included": true
+  },
+  {
+    "name": "Шинопровод трековый Denkirs TR1001-WH белый 1 м",
+    "unit": "м",
+    "shop": "Люмик",
+    "url": "https://lumic.ru/trekovyj-shinoprovod-odnofaznyj-1m-belyj-s-tokovvodom-i-zaglushkoj-tr1001-wh",
+    "price_vat": 950,
+    "date": "2026-11-01",
+    "note": "второй источник, в расчёт взята меньшая цена Gauss 611 руб/м",
+    "vat_included": true
+  },
+  {
+    "name": "Трековый светильник Navigator NLT-T1-1L 10 Вт белый",
+    "unit": "шт",
+    "shop": "Shop220",
+    "url": "https://shop220.ru/trekovie-svetilniki-i-shinoprovod-navigator.htm",
+    "price_vat": 616.82,
+    "date": "2026-11-01",
+    "note": "второй источник, в расчёт взят Feron AL141 340 руб.",
+    "vat_included": true
+  }
+]
