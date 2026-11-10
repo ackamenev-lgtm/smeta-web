@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Регулярная уборка офиса 5 раз в неделю",
+    "unit": "м2",
+    "shop": "Клининг для Бизнеса",
+    "url": "https://klining-for-business.ru/service/uborka-ofisov",
+    "price_vat": 65,
+    "date": "2026-11-02",
+    "note": "оценка. Нижняя граница 65–70 тыс. ₽/мес на 700–1 000 м2, то есть 65 ₽/м2 в месяц. НДС не указан",
+    "vat_included": false
+  },
+  {
+    "name": "Штатный клининг, график 5/2 по 8 часов, 1 человек",
+    "unit": "мес",
+    "shop": "NovaClean",
+    "url": "https://spb.novaclean.ru/uslugi/regulyarnaya-uborka-ofisov-v-spb",
+    "price_vat": 61500,
+    "date": "2026-11-02",
+    "note": "от 61 500 ₽/мес за человека, химия и техника в тексте страницы включены. В расчёт лота не ставилась: число людей прайс не задаёт",
+    "vat_included": false
+  },
+  {
+    "name": "Грязезащитный ковёр 85×150, одна замена при графике 2 раза в месяц",
+    "unit": "замена",
+    "shop": "Клининг-Про",
+    "url": "https://spb.klining-pro.ru/himchistka/servis-smennyh-kovrov/",
+    "price_vat": 502,
+    "date": "2026-11-02",
+    "note": "колонка уменьшается с частотой, принята как цена одной замены. НДС не указан",
+    "vat_included": false
+  },
+  {
+    "name": "Грязезащитный ковёр 115×200, одна замена при графике 2 раза в месяц",
+    "unit": "замена",
+    "shop": "Клининг-Про",
+    "url": "https://spb.klining-pro.ru/himchistka/servis-smennyh-kovrov/",
+    "price_vat": 759,
+    "date": "2026-11-02",
+    "note": "колонка уменьшается с частотой, принята как цена одной замены. НДС не указан",
+    "vat_included": false
+  },
+  {
+    "name": "Грязезащитный ковёр 85×150, замена 1 раз в 2 недели",
+    "unit": "замена",
+    "shop": "Аренда ковров",
+    "url": "https://arendakovrov.com/gryazezashhitnye-kovry-dlya-biznes-czentrov/",
+    "price_vat": 650,
+    "date": "2026-11-02",
+    "note": "на странице указано: цены без НДС. Второй источник, в расчёт взята меньшая цена Клининг-Про",
+    "vat_included": false
+  },
+  {
+    "name": "Грязезащитный ковёр 115×200, замена 1 раз в 2 недели",
+    "unit": "замена",
+    "shop": "Аренда ковров",
+    "url": "https://arendakovrov.com/gryazezashhitnye-kovry-dlya-biznes-czentrov/",
+    "price_vat": 800,
+    "date": "2026-11-02",
+    "note": "цены без НДС. Второй источник",
+    "vat_included": false
+  },
+  {
+    "name": "ТО крупного ИТП",
+    "unit": "мес",
+    "shop": "Трубикон",
+    "url": "https://trubikon.ru/price/cena-na-montazh-individualnogo-teplovogo-punkta-pod-kljuch/",
+    "price_vat": 14500,
+    "date": "2026-09-01",
+    "note": "оценка, верх диапазона 2 500–14 500 ₽/мес, цены сентября 2026 с НДС 22%",
+    "vat_included": true
+  },
+  {
+    "name": "ТО УУТЭ",
+    "unit": "мес",
+    "shop": "Трубикон",
+    "url": "https://trubikon.ru/price/cena-na-montazh-individualnogo-teplovogo-punkta-pod-kljuch/",
+    "price_vat": 10800,
+    "date": "2026-09-01",
+    "note": "оценка, верх диапазона 2 400–10 800 ₽/мес с НДС 22%",
+    "vat_included": true
+  }
+]
