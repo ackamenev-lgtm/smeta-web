@@ -1,0 +1,552 @@
+[
+ {
+  "name": "Листвоуловитель Termoclip для воронки",
+  "unit": "шт",
+  "shop": "ТН shop.tn.ru",
+  "url": "https://shop.tn.ru/krovlja/komplektujuschie/listvoulovitel",
+  "price_vat": 523,
+  "date": "2026-11-09",
+  "note": "один источник, тип воронки уточнить",
+  "vat_included": true
+ },
+ {
+  "name": "Пароизоляция ROCKbarrier 200 мкм (рулон 100 м2)",
+  "unit": "м2",
+  "shop": "Rocktrade",
+  "url": "https://rocktrade.ru/teploizolyaciya/rockwool-stroitelnaya-izolyaciya",
+  "price_vat": 49.0,
+  "date": "2026-11-09",
+  "note": "2-й источник УСГ 46 р/м2; аналог ТН 200 мкм 46,05 (ГК МеталлПроект СПб)",
+  "vat_included": true
+ },
+ {
+  "name": "Rockwool Руф Баттс Н 70 мм",
+  "unit": "м3",
+  "shop": "ТПО и ЭПДМ СПб",
+  "url": "https://tpoepdm.ru/spb/shop/uteplitel/uteplitel-iz-kamennoj-vaty-rockwool/uteplitel-rockwool-dlya-kryshi/rokvul-ruf-batts-n-optima/",
+  "price_vat": 13491,
+  "date": "2026-11-09",
+  "note": "Н Оптима; 2-й источник alterteplo 1776 р/уп 0,084 м3 = 21 143 р/м3; в тройке не нашли",
+  "vat_included": true
+ },
+ {
+  "name": "Rockwool Руф Баттс В Экстра 40 мм",
+  "unit": "м3",
+  "shop": "Петрович (Н.Новгород)",
+  "url": "https://nizhniy-novgorod.petrovich.ru/product/921721/",
+  "price_vat": 35833,
+  "date": "2026-11-09",
+  "note": "3440 р/уп 0,096 м3; 2-й источник Уралбазис 32 594 р/м3; цена Петровича СПб не получена",
+  "vat_included": true
+ },
+ {
+  "name": "Крепёж телескопический ТН 120 мм + саморез 4,8 (5 шт/м2)",
+  "unit": "компл",
+  "shop": "ГК МеталлПроект СПб",
+  "url": "https://gkmp-spb.ru/krovlya/rulonnye-krovelnye-materialy/komplektuyuschie-dlya-ploskih-krovel/",
+  "price_vat": 20.02,
+  "date": "2026-11-09",
+  "note": "11,80 + 8,22 р",
+  "vat_included": true
+ },
+ {
+  "name": "ПВХ-мембрана ROCKmembrane Оптима 1,2 мм",
+  "unit": "м2",
+  "shop": "Аврора (Самара)",
+  "url": "https://avrora-sm.ru/catalog/gidroizolyatsiya/pvkh_membrana_rockmembrane/optima_1_2_mm/",
+  "price_vat": 437.56,
+  "date": "2026-11-09",
+  "note": "897 р/пм при ширине 2,05 м; 2-й источник УСГ Extra 15 100 р/рулон 42 м2 = 359,5 р/м2; в тройке нет; запросить КП дилера Rockwool",
+  "vat_included": true
+ },
+ {
+  "name": "Желоб Grand Line 150 мм 3 м RAL9003",
+  "unit": "мп",
+  "shop": "Сайдинг-Россия",
+  "url": "https://siding-russia.ru/vodostok/stal/grandline/150x100-ral-9003",
+  "price_vat": 588.33,
+  "date": "2026-11-09",
+  "note": "1765 р/3 м; 2-й источник ru-complect 1819 р/шт; сечение желоба в ТЗ не задано — принято 150/100",
+  "vat_included": true
+ },
+ {
+  "name": "Крюк длинный Grand Line 150 мм RAL9003 (шаг 0,6 м)",
+  "unit": "шт",
+  "shop": "Сайдинг-Россия",
+  "url": "https://siding-russia.ru/vodostok/stal/grandline/150x100-ral-9003",
+  "price_vat": 315,
+  "date": "2026-11-09",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Соединитель желоба Grand Line 150 мм RAL9003",
+  "unit": "шт",
+  "shop": "Сайдинг-Россия",
+  "url": "https://siding-russia.ru/vodostok/stal/grandline/150x100-ral-9003",
+  "price_vat": 348,
+  "date": "2026-11-09",
+  "note": "",
+  "vat_included": true
+ },
+ {
+  "name": "Воронка желоба Grand Line 150/100 RAL9003",
+  "unit": "шт",
+  "shop": "Сайдинг-Россия",
+  "url": "https://siding-russia.ru/vodostok/stal/grandline/150x100-ral-9003",
+  "price_vat": 662,
+  "date": "2026-11-09",
+  "note": "2-й источник Grand Line СПб 978 р",
+  "vat_included": true
+ },
+ {
+  "name": "Дорожка LOGICROOF Walkway Puzzle 600х600",
+  "unit": "шт",
+  "shop": "ТехноНИКОЛЬ дилер СПб",
+  "url": "https://spb.teh-russia.com/dorogka-peshehodnaya-tehnonikol-logicroof-walkway-puzzle-465572-pvh-600h600-mm-13/",
+  "price_vat": 1300,
+  "date": "2026-11-09",
+  "note": "2-й источник КСК Строй 1356,78; в тройке нет; запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "LOGICROOF NG противопожарный материал (рулон 30 м2)",
+  "unit": "м2",
+  "shop": "Еникс",
+  "url": "https://enix.ru/pvh-membrana-logicroof-ng",
+  "price_vat": 1700,
+  "date": "2026-11-09",
+  "note": "2-й источник ТН (проектная цена) 1664 р/м2; Grand Line 1866; запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Аэратор кровельный ТЕХНОНИКОЛЬ 160х460",
+  "unit": "шт",
+  "shop": "Grand Line СПб",
+  "url": "https://spb.grandline.ru/aerator-krovelnyy-tekhnonikol-160kh460mm-146519.html",
+  "price_vat": 1254.77,
+  "date": "2026-11-09",
+  "note": "2-й источник Петрович Н.Новгород 1008,17; ГССЕ 1265; запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Сэндвич-панель стеновая МВ 120 мм RAL9003 (легкосбрасываемая)",
+  "unit": "м2",
+  "shop": "РСП Сэндвич Панели",
+  "url": "https://rsp.spb.ru/price-list",
+  "price_vat": 2646,
+  "date": "2026-11-09",
+  "note": "прайс 2546 + 100 р при объёме до 250 м2; 2-й источник Холодкул 2758; легкосбрасываемое исполнение — уточнить в КП",
+  "vat_included": true
+ },
+ {
+  "name": "Сэндвич-панель кровельная МВ 150 мм RAL9003",
+  "unit": "м2",
+  "shop": "РСП Сэндвич Панели",
+  "url": "https://rsp.spb.ru/price-list",
+  "price_vat": 3083,
+  "date": "2026-11-09",
+  "note": "2983 + 100; 2-й источник Холодкул 3202",
+  "vat_included": true
+ },
+ {
+  "name": "Дверь стальная техническая двупольная 1800х2100 RAL5005",
+  "unit": "шт",
+  "shop": "ADK-сталь",
+  "url": "https://adk-steel.com/texnicheskie-dveri.html",
+  "price_vat": 20790,
+  "date": "2026-11-09",
+  "note": "5500 р/м2 × 3,78 м2; 2-й источник 68 900 р (тех. дверь 042-13) — разброс, запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Окно легкосбрасываемое ПВХ одинарное стекло RAL9003",
+  "unit": "м2",
+  "shop": "Окна Титан СПб",
+  "url": "https://oknatitan.ru/legkosbrasyvaemye-okonnye-konstrukcii.html",
+  "price_vat": 5500,
+  "date": "2026-11-09",
+  "note": "«от»; 2-й источник Фабрикант-С ПВХ 7350 р/м2; запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "Решётка фасадная жалюзийная 1700х1700 RAL9003",
+  "unit": "м2",
+  "shop": "Апогей-Мет СПб",
+  "url": "https://apogey-met.ru/zhaliuziinye-reshetki/",
+  "price_vat": 6500,
+  "date": "2026-11-09",
+  "note": "один источник, окраска RAL — уточнить",
+  "vat_included": true
+ },
+ {
+  "name": "Фасонный элемент окрытия парапета, сталь 0,5 полиэстер RAL9003 (развёртка ~0,6 м)",
+  "unit": "мп",
+  "shop": "Профзавод",
+  "url": "http://www.profzavod.ru/prices/dobornye-elementy/",
+  "price_vat": 390,
+  "date": "2026-11-09",
+  "note": "650 р/м2 развёртки × 0,6 — развёртка оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Угловой фасонный элемент, сталь 0,5 полиэстер RAL9003 (развёртка ~0,4 м)",
+  "unit": "мп",
+  "shop": "Профзавод",
+  "url": "http://www.profzavod.ru/prices/dobornye-elementy/",
+  "price_vat": 260,
+  "date": "2026-11-09",
+  "note": "650 р/м2 × 0,4 — развёртка оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Желоб Grand Line 150 мм RAL9003 (котельная) с крюками",
+  "unit": "мп",
+  "shop": "Сайдинг-Россия",
+  "url": "https://siding-russia.ru/vodostok/stal/grandline/150x100-ral-9003",
+  "price_vat": 1113,
+  "date": "2026-11-09",
+  "note": "588,33 р/мп + крюк 315 р каждые 0,6 м",
+  "vat_included": true
+ },
+ {
+  "name": "Труба водосточная Grand Line 100 мм RAL9003 с кронштейнами",
+  "unit": "мп",
+  "shop": "Сайдинг-Россия",
+  "url": "https://siding-russia.ru/vodostok/stal/grandline/150x100-ral-9003",
+  "price_vat": 975,
+  "date": "2026-11-09",
+  "note": "1980 р/3 м + кронштейн 315 р/м",
+  "vat_included": true
+ },
+ {
+  "name": "Шнур гернитовый ПРП-40К.40.600",
+  "unit": "мп",
+  "shop": "Гидрошпонки СПб",
+  "url": "https://gidroshponki.spb.ru/category/gernitovyj-shnur/",
+  "price_vat": 293.8,
+  "date": "2026-11-09",
+  "note": "2-й источник Citiplast 340 р/мп",
+  "vat_included": true
+ },
+ {
+  "name": "Герметик полиуретановый ТЕХНОНИКОЛЬ ПУ 600 мл (аналог Гермотекс)",
+  "unit": "шт",
+  "shop": "Петрович СПб",
+  "url": "https://petrovich.ru/product/1095348/",
+  "price_vat": 793,
+  "date": "2026-11-09",
+  "note": "Гермотекс 2-комп. в картриджах не нашли — «или аналог» по форме; 2-й GFLEX 495",
+  "vat_included": true
+ },
+ {
+  "name": "Дверь стальная техническая 1200х2100 RAL5005",
+  "unit": "шт",
+  "shop": "ADK-сталь",
+  "url": "https://adk-steel.com/texnicheskie-dveri.html",
+  "price_vat": 13860,
+  "date": "2026-11-09",
+  "note": "5500 р/м2 × 2,52; 2-й источник ДверьМеталл 17 800; цвет RAL5005 не в стандарте — доплата",
+  "vat_included": true
+ },
+ {
+  "name": "Дверь стальная техническая 1100х2100 RAL5005",
+  "unit": "шт",
+  "shop": "ADK-сталь",
+  "url": "https://adk-steel.com/texnicheskie-dveri.html",
+  "price_vat": 13283,
+  "date": "2026-11-09",
+  "note": "5750 р/м2 × 2,31",
+  "vat_included": true
+ },
+ {
+  "name": "Дверь стальная техническая 900х2100 RAL5005",
+  "unit": "шт",
+  "shop": "ADK-сталь",
+  "url": "https://adk-steel.com/texnicheskie-dveri.html",
+  "price_vat": 10868,
+  "date": "2026-11-09",
+  "note": "5750 р/м2 × 1,89",
+  "vat_included": true
+ },
+ {
+  "name": "Сэндвич-панель МВ 100 мм (перекрытие с/у)",
+  "unit": "м2",
+  "shop": "РСП Сэндвич Панели",
+  "url": "https://rsp.spb.ru/price-list",
+  "price_vat": 2514,
+  "date": "2026-11-09",
+  "note": "2414 + 100; 2-й Холодкул 2612",
+  "vat_included": true
+ },
+ {
+  "name": "Сантехнические перегородки HPL 12 мм с фурнитурой",
+  "unit": "м2",
+  "shop": "ДиАлСтрой СПб",
+  "url": "https://spb.dialstroigroup.ru/product/santehnicheskie-peregorodki/santehnicheskie-peregorodki-premium-hpl-plastic/santekhnicheskie-peregorodki-hpl-plastik-metal-karkas-truba/",
+  "price_vat": 14000,
+  "date": "2026-11-09",
+  "note": "2-й источник Luxal 16 352; запросить КП",
+  "vat_included": true
+ },
+ {
+  "name": "ГКЛВ Knauf 12,5 мм 2500х1200 (4 м2/м2)",
+  "unit": "м2",
+  "shop": "Петрович СПб",
+  "url": "https://petrovich.ru/catalog/1028/knauf/",
+  "price_vat": 218.33,
+  "date": "2026-11-09",
+  "note": "655 р/лист 3 м2",
+  "vat_included": true
+ },
+ {
+  "name": "Профиль стоечный Knauf ПС 50х50 0,6 (2,0 мп/м2)",
+  "unit": "мп",
+  "shop": "Петрович СПб",
+  "url": "https://petrovich.ru/product/106667/",
+  "price_vat": 164.33,
+  "date": "2026-11-09",
+  "note": "493 р/3 м",
+  "vat_included": true
+ },
+ {
+  "name": "Профиль направляющий Knauf ПН 50х40 0,6 (0,7 мп/м2)",
+  "unit": "мп",
+  "shop": "Петрович СПб",
+  "url": "https://petrovich.ru/catalog/12082/profili-dlya-peregorodki-iz-gipsokartona/",
+  "price_vat": 145,
+  "date": "2026-11-09",
+  "note": "435 р/3 м",
+  "vat_included": true
+ },
+ {
+  "name": "Сэндвич-панель стеновая МВ 100 мм (перегородки)",
+  "unit": "м2",
+  "shop": "РСП Сэндвич Панели",
+  "url": "https://rsp.spb.ru/price-list",
+  "price_vat": 2514,
+  "date": "2026-11-09",
+  "note": "2414 + 100; 2-й Холодкул 2612",
+  "vat_included": true
+ },
+ {
+  "name": "Дверь противопожарная ДПС 01 2100х800 левая",
+  "unit": "шт",
+  "shop": "Левин (Bizorg) СПб",
+  "url": "https://bizorg.su/konstruktsii-protivopozharnye-r/p1693094-dvery-metallicheskaya-protivopozharnaya-odnostvorchataya-osteklennaya-eis60-2100h800",
+  "price_vat": 16000,
+  "date": "2026-11-09",
+  "note": "EI60 вместо EI15 (EI15 стальных в продаже не нашли); один источник",
+  "vat_included": true
+ },
+ {
+  "name": "Дверь противопожарная ДПС 01 2100х800 правая",
+  "unit": "шт",
+  "shop": "Левин (Bizorg) СПб",
+  "url": "https://bizorg.su/konstruktsii-protivopozharnye-r/p1693094-dvery-metallicheskaya-protivopozharnaya-odnostvorchataya-osteklennaya-eis60-2100h800",
+  "price_vat": 16000,
+  "date": "2026-11-09",
+  "note": "как выше",
+  "vat_included": true
+ },
+ {
+  "name": "Дверь противопожарная ДПС 01 2100х900 правая",
+  "unit": "шт",
+  "shop": "Левин (Bizorg) СПб",
+  "url": "https://bizorg.su/konstruktsii-protivopozharnye-r/p1693094-dvery-metallicheskaya-protivopozharnaya-odnostvorchataya-osteklennaya-eis60-2100h800",
+  "price_vat": 16000,
+  "date": "2026-11-09",
+  "note": "цена 800 мм, оценка",
+  "vat_included": true
+ },
+ {
+  "name": "Геотекстиль Typar SF44",
+  "unit": "м2",
+  "shop": "Геоматериалы",
+  "url": "https://geotekstil.ru/catalog/geotekstil/geotekstil-typar-sf/geotekstil-typar-sf-44",
+  "price_vat": 84,
+  "date": "2026-11-09",
+  "note": "2-й МиК СПб SF40 155,5 (опт)",
+  "vat_included": true
+ },
+ {
+  "name": "XPS ТЕХНОНИКОЛЬ CARBON ECO 50 мм",
+  "unit": "м3",
+  "shop": "Петрович СПб",
+  "url": "https://petrovich.ru/product/147312/",
+  "price_vat": 9382.35,
+  "date": "2026-11-09",
+  "note": "319 р/лист 0,034 м3; 2-й КСК Строй 8573 р/м3",
+  "vat_included": true
+ },
+ {
+  "name": "Клей-пена ТЕХНОНИКОЛЬ 500 для XPS (1 баллон на 10 м2)",
+  "unit": "шт",
+  "shop": "Арт ТН",
+  "url": "https://spb.arttn.ru/catalog/kley-pena-tekhnonikol-500-professional-universalnyy/",
+  "price_vat": 600,
+  "date": "2026-11-09",
+  "note": "один источник",
+  "vat_included": true
+ },
+ {
+  "name": "Фасонный элемент ФЭ-12 RAL9003, развёртка 385 мм",
+  "unit": "мп",
+  "shop": "Стилпрофф (metalobaza.su)",
+  "url": "https://metalobaza.su/dobor_krovli/otliv-dlja-cokolja",
+  "price_vat": 256,
+  "date": "2026-11-09",
+  "note": "2-й Профзавод 650 р/м2 × 0,385 = 250 р/мп",
+  "vat_included": true
+ },
+ {
+  "name": "Герметик полиуретановый ТЕХНОНИКОЛЬ ПУ 600 мл",
+  "unit": "шт",
+  "shop": "Петрович СПб",
+  "url": "https://petrovich.ru/product/1095348/",
+  "price_vat": 793,
+  "date": "2026-11-09",
+  "note": "2-й GFLEX 495",
+  "vat_included": true
+ },
+ {
+  "name": "Мастика битумно-полимерная эмульсионная ТН №31 (1,0 кг/м2)",
+  "unit": "кг",
+  "shop": "Мастер Кровли",
+  "url": "https://www.masterkrowli.ru/bitumno-polimernaya-emulsionnaya-mastika-no-31",
+  "price_vat": 143.5,
+  "date": "2026-11-09",
+  "note": "2870 р/20 кг; 2-й Петрович AquaMast 15 кг 2695 = 179,7 р/кг",
+  "vat_included": true
+ },
+ {
+  "name": "Штукатурка декоративная Ceresit CT 137 камешковая 2,5 мм (3,5 кг/м2)",
+  "unit": "кг",
+  "shop": "Петрович СПб",
+  "url": "https://sankt-peterburg.stroyportal.ru/profile/std-petrovich-sankt-peterburg-175328/pricelist/section-kladochnye-i-montazhnye-smesi-2745/",
+  "price_vat": 66.32,
+  "date": "2026-11-09",
+  "note": "1658 р/25 кг; 2-й ПХС 1000,25; дилер 1700",
+  "vat_included": true
+ },
+ {
+  "name": "Грунт Ceresit CT 16 (0,25 л/м2)",
+  "unit": "л",
+  "shop": "kupi-ceresit (дилер)",
+  "url": "https://kupi-ceresit.ru/prays-list/",
+  "price_vat": 225,
+  "date": "2026-11-09",
+  "note": "2250 р/10 л; один источник",
+  "vat_included": true
+ },
+ {
+  "name": "Плита минераловатная ПЖ-120 НГ 20 мм",
+  "unit": "м3",
+  "shop": "РусьСтрой СПб",
+  "url": "https://russtroypiter.ru/catalog/teploizoliacia/kti-saransk/plita-bazis-pzh-1000kh500kh50-150mm-pl-126-150kg-m3-id155/",
+  "price_vat": 7500,
+  "date": "2026-11-09",
+  "note": "2-й Балтек 8400 р/м3; толщина 20 мм под заказ",
+  "vat_included": true
+ },
+ {
+  "name": "XPS 80 мм (Пеноплэкс Основа/Фундамент)",
+  "unit": "м3",
+  "shop": "Мастер Кровли",
+  "url": "https://masterkrowli.ru/penopleks",
+  "price_vat": 7700,
+  "date": "2026-11-09",
+  "note": "в Петровиче 80 мм нет; 2-й Аверс СПб Фундамент 80 4899 р/м3; Петрович Фундамент 50 = 10 257 р/м3",
+  "vat_included": true
+ },
+ {
+  "name": "Клей-пена ТЕХНОНИКОЛЬ 500 для XPS 80 (1 баллон на 10 м2)",
+  "unit": "шт",
+  "shop": "Арт ТН",
+  "url": "https://spb.arttn.ru/catalog/kley-pena-tekhnonikol-500-professional-universalnyy/",
+  "price_vat": 600,
+  "date": "2026-11-09",
+  "note": "один источник",
+  "vat_included": true
+ },
+ {
+  "name": "Штукатурно-клеевая смесь Ceresit CT 85 25 кг (1,5 т/м3 слоя)",
+  "unit": "кг",
+  "shop": "Петрович СПб",
+  "url": "https://petrovich.ru/product/109241/",
+  "price_vat": 49.64,
+  "date": "2026-11-09",
+  "note": "1241 р/25 кг по карте, 1285 без; 2-й ТД Вася 994",
+  "vat_included": true
+ },
+ {
+  "name": "Стеклосетка фасадная ТЕХНОНИКОЛЬ 2000 5х5 (1,1 м2/м2)",
+  "unit": "м2",
+  "shop": "ТС Кровизол СПб",
+  "url": "https://spb.ts-krovizol.ru/catalog/materialy-dlya-fasadov/shtukaturnye-fasady/fasadnye-steklosetki/",
+  "price_vat": 51.38,
+  "date": "2026-11-09",
+  "note": "2-й FasadPro 49,20",
+  "vat_included": true
+ },
+ {
+  "name": "Краска фасадная силиконовая Ceresit CT 48 (0,3 л/м2 на 2 слоя)",
+  "unit": "л",
+  "shop": "kupi-ceresit (дилер)",
+  "url": "https://kupi-ceresit.ru/prays-list/",
+  "price_vat": 682.67,
+  "date": "2026-11-09",
+  "note": "10 240 р/15 л; 2-й Петрович Marshall Akrikor силикон-акрил 7080/9 л = 786,7",
+  "vat_included": true
+ },
+ {
+  "name": "Асфальтобетонная смесь горячая мелкозернистая Б II (2,37 т/м3)",
+  "unit": "т",
+  "shop": "МосБетон СПб",
+  "url": "https://spb.moscow-beton.ru/price/asfalt/",
+  "price_vat": 4550,
+  "date": "2026-11-09",
+  "note": "2-й Асфальт-Проф 4290 р/т; доставка отдельно",
+  "vat_included": true
+ },
+ {
+  "name": "Щебень гранитный 20-40 (Ку 1,25)",
+  "unit": "м3",
+  "shop": "REAL СПб (с доставкой)",
+  "url": "https://realcompanyspb.ru/czeny",
+  "price_vat": 1500,
+  "date": "2026-11-09",
+  "note": "2-й ПалладаСтройНеруд городская площадка 1800",
+  "vat_included": true
+ },
+ {
+  "name": "Песок намывной (Ку 1,2)",
+  "unit": "м3",
+  "shop": "REAL СПб (с доставкой)",
+  "url": "https://realcompanyspb.ru/czeny",
+  "price_vat": 600,
+  "date": "2026-11-09",
+  "note": "2-й ТрансИнерт 570 без доставки",
+  "vat_included": true
+ },
+ {
+  "name": "Полоса оцинкованная 40х4 на костыли (0,327 кг/шт)",
+  "unit": "кг",
+  "shop": "РегионСталь СПб",
+  "url": "https://regionstal.ru/katalog/otsinkovannyy-metall/polosa-goryachekatanaya-z/",
+  "price_vat": 138.94,
+  "date": "2026-11-09",
+  "note": "2-й Профсталькомплект 104,36 р/кг (от 3 т)",
+  "vat_included": true
+ },
+ {
+  "name": "Краска фасадная акриловая по бетону Текс Профи (0,3 л/м2)",
+  "unit": "л",
+  "shop": "Петрович",
+  "url": "https://rf.petrovich.ru/catalog/6627/kraska-dly-fasadov/",
+  "price_vat": 458.22,
+  "date": "2026-11-09",
+  "note": "4124 р/9 л",
+  "vat_included": true
+ }
+]
